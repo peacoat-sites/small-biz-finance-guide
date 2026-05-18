@@ -1,0 +1,42 @@
+baseURL = "https://smallbizfinanceguide.com/"
+languageCode = "en-us"
+title = "Small Biz Finance Guide"
+[pagination]
+  pagerSize = 12
+enableRobotsTXT = true
+enableEmoji = true
+
+[params]
+  description = "Clear guides to small business loans, bookkeeping, taxes, and financial planning for entrepreneurs and small business owners."
+  niche = "Small Business Finance"
+  adsense_id = "ca-pub-3466203197759215"
+  adsense_slot_header = "SLOT_SBF_HEADER"
+  adsense_slot_incontent = "SLOT_SBF_INCONTENT"
+  adsense_slot_sidebar = "SLOT_SBF_SIDEBAR"
+  image_query = "small business finance entrepreneur accounting office"
+  author = "Small Biz Finance Guide Editorial Team"
+  logo_text = "Small Biz Finance Guide"
+  tagline = "Small business finance made simple — funding, taxes, and growth strategies"
+  primary_color = "#2c3e50"
+  cloudflare_analytics = ""
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[permalinks]
+  posts = "/:slug/"
