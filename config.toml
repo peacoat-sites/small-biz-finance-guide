@@ -10,9 +10,9 @@ enableEmoji = true
   description = "Clear guides to small business loans, bookkeeping, taxes, and financial planning for entrepreneurs and small business owners."
   niche = "Small Business Finance"
   adsense_id = "ca-pub-3466203197759215"
-  adsense_slot_header = "SLOT_SBF_HEADER"
-  adsense_slot_incontent = "SLOT_SBF_INCONTENT"
-  adsense_slot_sidebar = "SLOT_SBF_SIDEBAR"
+  adsense_slot_header = "auto"
+  adsense_slot_incontent = "auto"
+  adsense_slot_sidebar = "auto"
   image_query = "small business finance entrepreneur accounting office"
   author = "Small Biz Finance Guide Editorial Team"
   logo_text = "Small Biz Finance Guide"
@@ -20,12 +20,24 @@ enableEmoji = true
   primary_color = "#2c3e50"
   cloudflare_analytics = ""
 
+  # Authority theme
+  hero_color_1 = "#042f2e"
+  hero_color_2 = "#134e4a"
+  hero_color_3 = "#0f766e"
+  hero_color_4 = "#0f172a"
+  monthly_readers = 47000
+  research_hours  = 520
+  satisfaction    = 97
+  trust_extra     = "Finance professionals consulted"
+  impact_verification = ""
+  impact_tracking_id  = "" 
+
 [taxonomies]
   category = "categories"
   tag = "tags"
 
 [outputs]
-  home = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "JSON"]
   section = ["HTML", "RSS"]
 
 [sitemap]
@@ -37,6 +49,10 @@ enableEmoji = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel   = 3
+    ordered    = false
 
 [permalinks]
   posts = "/:slug/"
