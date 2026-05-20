@@ -50,3 +50,15 @@ The IRS loves audit triggers. One of the biggest? Business income and expenses t
 Clean books aren't bureaucracy. They're how you protect yourself, understand your business, and make better decisions.
 
 *This article is for general informational purposes only. Tax and legal rules vary by business structure and state. Consult a CPA or business attorney for advice specific to your situation.*
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping setup, payroll, invoicing, tax prep, and cash flow management.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, understanding financial statements, and managing business taxes.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers avoiding rookie mistakes, down payment strategies, and mortgage pre-approval step by step.
+- **[QuickBooks Small Business Bookkeeping Guide](https://www.amazon.com/dp/0692957790/?tag=contentportfo-20)** (~$17) — Compact, practical QuickBooks pocket guide — ideal for new business owners setting up their accounting for the first time.
+
