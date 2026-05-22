@@ -3,7 +3,7 @@ title: "How To Separate Business Personal Finances"
 date: 2026-05-18T22:04:06.270445+00:00
 draft: false
 description: "Learn how to separate business and personal finances with simple steps. Open a business account, track expenses, and protect your financial health today."
-image: "https://images.pexels.com/photos/6693667/pexels-photo-6693667.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/4968631/pexels-photo-4968631.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Accounting"]
 tags: ["separate", "business", "personal", "finances"]
 author: "Angela Torres"
