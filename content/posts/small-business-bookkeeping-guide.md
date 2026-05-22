@@ -3,7 +3,7 @@ title: "Small Business Bookkeeping Guide"
 date: 2026-05-20T00:31:23.860256+00:00
 draft: false
 description: "Track your small business finances with confidence. This beginner-friendly bookkeeping guide covers records, expenses, taxes, and tools to keep your business on"
-image: "https://images.pexels.com/photos/8962446/pexels-photo-8962446.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/1170412/pexels-photo-1170412.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Accounting"]
 tags: ["small", "business", "bookkeeping", "guide"]
 author: "Frank Medina"
