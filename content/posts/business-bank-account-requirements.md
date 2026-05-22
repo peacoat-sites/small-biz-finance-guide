@@ -3,7 +3,7 @@ title: "Business Bank Account Requirements"
 date: 2026-05-18T22:10:52.788741+00:00
 draft: false
 description: "Open a business bank account with confidence. Learn the exact documents and requirements you need to get approved quickly and avoid common delays."
-image: "https://images.pexels.com/photos/8962441/pexels-photo-8962441.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7698796/pexels-photo-7698796.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Banking"]
 tags: ["business", "bank", "account", "requirements"]
 author: "James O'Brien"
