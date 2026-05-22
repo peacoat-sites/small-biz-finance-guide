@@ -3,7 +3,7 @@ title: "Llc Vs Sole Proprietorship Taxes"
 date: 2026-05-18T22:06:19.380314+00:00
 draft: false
 description: "Compare LLC vs sole proprietorship taxes to find the best structure for your business. Learn how each impacts self-employment tax, deductions, and your bottom l"
-image: "https://images.pexels.com/photos/8962451/pexels-photo-8962451.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5583972/pexels-photo-5583972.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Business Structure"]
 tags: ["sole", "proprietorship", "taxes"]
 author: "Priya Nair"
