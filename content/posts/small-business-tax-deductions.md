@@ -3,7 +3,7 @@ title: "Small Business Tax Deductions"
 date: 2026-05-21T12:33:19.974817+00:00
 draft: false
 description: "Discover the top small business tax deductions you could be claiming to reduce your tax bill and keep more money in your pocket. Start saving today."
-image: "https://images.pexels.com/photos/8962441/pexels-photo-8962441.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/23496867/pexels-photo-23496867.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Taxes"]
 tags: ["small", "business", "deductions"]
 author: "Frank Medina"
