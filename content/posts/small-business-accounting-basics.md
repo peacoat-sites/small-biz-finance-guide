@@ -3,7 +3,7 @@ title: "Small Business Accounting Basics"
 date: 2026-05-18T18:34:44.951751+00:00
 draft: false
 description: "Learn the essential small business accounting basics, from tracking expenses and managing cash flow to understanding financial statements and staying tax ready."
-image: "https://images.pexels.com/photos/8962441/pexels-photo-8962441.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5583965/pexels-photo-5583965.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Accounting"]
 tags: ["small", "business", "accounting", "basics"]
 author: "Priya Nair"
