@@ -3,6 +3,7 @@ title: "How to Separate Business and Personal Finances (And Why It Matters)"
 date: 2026-05-18
 slug: "separate-business-personal-finances"
 description: "Mixing personal and business money is one of the most common small business mistakes. Here's how to separate them and why it protects you legally and financially."
+image: "https://images.pexels.com/photos/7691664/pexels-photo-7691664.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Accounting"]
 tags: ["business banking", "LLC protection", "bookkeeping", "small business finance"]
 author: "Frank Medina"
