@@ -9,6 +9,7 @@ enableRobotsTXT = true
 enableEmoji = true
 
 [params]
+author = "Stephen Brenish"
   description = "Clear guides to small business loans, bookkeeping, taxes, and financial planning for entrepreneurs and small business owners."
   niche = "Small Business Finance"
   adsense_id = "ca-pub-3466203197759215"
