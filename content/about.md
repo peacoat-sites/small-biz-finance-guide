@@ -1,43 +1,35 @@
 ---
-title: "About Small Biz Finance Guide"
-description: "Learn about Small Biz Finance Guide — our mission, editorial standards, and the topics we cover."
-layout: "page"
+title: "About James Okafor"
+description: "Learn about James Okafor, the Small Business Finance Editor behind smallbizfinanceguide.com."
 ---
 
-## Our Mission
+# About James Okafor
 
-Small Biz Finance Guide cuts through the noise for small business owners who need real answers about money — grants, loans, credit, cash flow, and taxes. We translate complex financial topics into actionable guidance you can use this week.
+I've run small businesses. Not hypothetically — I've signed leases, made payroll, dealt with slow months, and figured out which loans were worth taking and which weren't. That hands-on experience across two different industries taught me more about small business finance than any book could, and it's the foundation of everything I write here.
 
-## What We Cover
+I started Small Biz Finance Guide because I kept running into the same problem: when I needed clear answers about SBA loans, business credit, cash flow management, or quarterly taxes, I found either overly simplified blog posts or jargon-heavy content written for accountants. I wanted a resource that treated small business owners as intelligent adults who needed real, practical information — not sales pitches dressed up as advice.
 
-Small Biz Finance Guide publishes in-depth, reader-first guides on small business grants, SBA loans, business credit, cash flow management, bookkeeping, business banking, payroll, and small business tax basics.
+Every article I publish here is written with the question in mind: what would have helped me when I was in the middle of this situation?
 
-Every article is researched and written with one goal: give you the clearest, most accurate overview of the topic possible — without burying the answer or pushing you toward a product.
+## Why I Started Small Biz Finance Guide
 
-## Editorial Standards
+When I was launching my second business, I spent weeks trying to understand the difference between SBA 7(a) and SBA 504 loans, what my debt-service coverage ratio needed to look like to qualify, and how to structure my business credit profile before applying. The information was scattered across dozens of sites, most of it incomplete or outdated.
 
-We follow a straightforward editorial process:
+I built Small Biz Finance Guide to be the resource I needed back then — a place where you can get a complete, honest picture of a financial topic without having to cross-reference five different sources or talk to a salesperson first.
 
-- **Research-first:** Every article is grounded in publicly available data, government sources, and established industry guidance.
-- **Plain English:** We don't write for search engines — we write for real people who need real answers.
-- **Regular updates:** We review and update articles when rules, rates, or guidance change.
-- **No paid editorial:** Our editorial content is never written or influenced by advertisers or sponsors. Ads and content are strictly separated.
+## What You'll Find Here
 
-## Important Disclaimer
+- **Business funding:** SBA loans, microloans, business lines of credit, and alternative financing
+- **Business credit:** How to build it, protect it, and use it strategically
+- **Cash flow management:** Forecasting, managing gaps, and avoiding common mistakes
+- **Small business taxes:** Quarterly payments, deductions, entity structure basics
+- **Bookkeeping basics:** Setting up your books, tools, and when to hire a bookkeeper
+- **Banking and accounts:** Business checking, merchant services, and payment processing
 
-<div class="disclaimer-box">
+## A Note on Our Content
 
-The content on this site is for **general educational purposes only** and does not constitute financial, accounting, or legal advice. Business financing options, tax rules, and regulations vary by business type, location, and individual circumstances. Always consult a **qualified accountant, financial advisor, or business attorney** before making significant financial decisions for your business.
+All content on Small Biz Finance Guide is researched using publicly available data, government resources (SBA.gov, IRS.gov), and my own experience as a business operator. I link to authoritative sources wherever possible. This site does not provide financial, legal, or accounting advice — every situation is different, and major financial decisions should involve a qualified professional.
 
-</div>
+## Get in Touch
 
-## About This Site
-
-Small Biz Finance Guide is an independent informational resource. We are not affiliated with any government agency, insurance company, law firm, financial institution, or healthcare provider.
-
-This site may display advertisements through Google AdSense and may contain affiliate links. Clicking an affiliate link and making a purchase may earn us a small commission at no additional cost to you. These relationships never influence our editorial content.
-
-## Contact
-
-Have a question, correction, or feedback? We'd love to hear from you.
-Reach us at: [hello@smallbizfinanceguide.com](mailto:hello@smallbizfinanceguide.com)
+Have a question, a topic you'd like covered, or a correction to flag? I want to hear from you. Visit the [contact page](/contact/) and send me a note.
