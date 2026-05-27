@@ -43,7 +43,21 @@
       {{ partial "related-articles.html" . }}
     </div>
 
-    <!-- In-article Ad (after content intro — highest RPM position) -->
+    {{ with .Site.Params.disclaimer }}
+    <div class="article-disclaimer"><strong>Note:</strong> {{ . }}</div>
+    {{ end }}
+    {{ with .Site.Params.persona_name }}
+    <div class="author-bio">
+      <div class="author-avatar">{{ $.Site.Params.persona_initials }}</div>
+      <div class="author-info">
+        <strong class="author-name">{{ . }}</strong>
+        <span class="author-title">{{ $.Site.Params.persona_title }}</span>
+        <p class="author-blurb">{{ $.Site.Params.persona_bio }}</p>
+      </div>
+    </div>
+    {{ end }}
+
+    <!-- In-article Ad -->
     <div class="ad-container ad-incontent" style="margin:24px 0">
       <ins class="adsbygoogle"
         style="display:block;text-align:center"
@@ -95,7 +109,7 @@
       {{ if .Params.image }}<a class="share-btn share-pinterest" href="https://pinterest.com/pin/create/button/?url={{ .Permalink | absURL | urlquery }}&media={{ .Params.image | absURL | urlquery }}&description={{ .Title | urlquery }}" target="_blank" rel="noopener" aria-label="Pin on Pinterest">P</a>{{ end }}
     </div>
 
-    <!-- YouTube Video Embed (standard 16:9, autoplay muted, most recent video) -->
+    <!-- YouTube Video Embed -->
     {{ if .Site.Data.youtube }}
     {{ $latest := index .Site.Data.youtube 0 }}
     {{ $vid := or $latest.standard_id $latest.shorts_id $latest.video_id }}
@@ -118,8 +132,6 @@
 
   <!-- Sidebar -->
   <aside class="sidebar">
-
-    <!-- Table of Contents (auto-generated, sticky) -->
     {{ partial "toc.html" . }}
 
     <div class="widget">
