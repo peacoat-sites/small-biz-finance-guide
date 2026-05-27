@@ -4,135 +4,87 @@ description: "Privacy Policy for Small Biz Finance Guide — how we collect, use
 layout: "page"
 ---
 
-*Last updated: 2026-05-18*
+**Effective Date: January 1, 2025**
 
-Small Biz Finance Guide ("we," "us," or "our") operates the website at [https://smallbizfinanceguide.com](https://smallbizfinanceguide.com) (the "Site"). This Privacy Policy explains how we collect, use, disclose, and protect your information when you visit the Site.
-
-Please read this policy carefully. By using the Site, you agree to the terms described below.
+Small Biz Finance Guide ("we," "us," or "our") operates smallbizfinanceguide.com (the "Site"). This Privacy Policy explains what information we collect, how we use it, and your rights regarding that information.
 
 ---
 
 ## 1. Information We Collect
 
-### Information You Provide
-We collect information you voluntarily provide when contacting us (e.g., your name and email address).
+**Information you provide:** We collect information you voluntarily submit, such as your name and email address when you contact us.
 
-### Automatically Collected Information
-When you visit the Site, third-party services we use may automatically collect:
-
-- Browser type and version
-- Pages visited and time on page
-- Referring URL
-- Device type and operating system
-- General geographic location (country/region)
-
-We do not directly store this data — it is processed by the third-party services described below.
+**Automatically collected data:** When you visit the Site, third-party services automatically collect usage data including pages visited, time on page, browser type, device type, referring URL, and general geographic region. We do not store this data directly.
 
 ---
 
-## 2. Cookies and Tracking Technologies
+## 2. Cookies
 
-Our Site uses cookies and similar tracking technologies. A cookie is a small data file stored on your device.
+We use cookies and similar tracking technologies. A cookie is a small file stored on your device.
 
-### Types of Cookies We Use
+| Cookie Name | Provider | Purpose | Duration |
+|---|---|---|---|
+| _ga | Google Analytics | Analytics — distinguishes users | 2 years |
+| _gid | Google Analytics | Analytics — distinguishes users | 24 hours |
+| IDE | Google DoubleClick | Ad targeting and measurement | 1 year |
+| NID | Google | Ad personalization | 6 months |
 
-| Type | Purpose | Examples |
-|------|---------|---------|
-| **Necessary** | Site functionality | Session, preference cookies |
-| **Analytics** | Understand traffic patterns | Cloudflare Analytics |
-| **Advertising** | Serve relevant ads | Google AdSense, DoubleClick |
-
-### Your Cookie Choices
-You can control cookies through your browser settings or by declining consent via the banner displayed on your first visit. Note that declining advertising cookies will result in less relevant ads (not no ads).
+You can control or delete cookies through your browser settings at any time.
 
 ---
 
-## 3. Advertising Partners & Third-Party Services
+## 3. Google Analytics
 
-### Google AdSense & DoubleClick
-We use **Google AdSense** to display advertisements. Google and its partners use cookies — including the **DoubleClick cookie** — to serve ads based on your prior visits to this Site and other sites across the internet. This is known as interest-based advertising.
+We use Google Analytics to understand site traffic. IP anonymization is enabled. You can opt out using the [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout).
 
-**To opt out of personalized advertising:**
+---
+
+## 4. Google AdSense and DoubleClick
+
+We use Google AdSense to display advertisements. Google and its partners use cookies — including the DoubleClick (IDE) cookie — to serve ads based on your visits to this Site and other sites (interest-based advertising).
+
+To opt out of personalized advertising:
 - Visit [Google Ad Settings](https://www.google.com/settings/ads)
-- Visit [www.aboutads.info/choices](http://www.aboutads.info/choices/) (DAA opt-out tool)
-- Visit [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices/) (NAI opt-out tool)
-
-Google's use of advertising cookies enables it and its partners to serve ads based on your visit here and on other sites. For more information, see [Google's Privacy & Terms](https://policies.google.com/technologies/ads).
-
-### Cloudflare Analytics
-We use **Cloudflare Web Analytics** to understand site traffic. Cloudflare Analytics does not use cookies and does not track individual users across sites. See [Cloudflare's Privacy Policy](https://www.cloudflare.com/privacypolicy/).
-
-### Affiliate Programs
-This Site participates in the **Amazon Services LLC Associates Program** and may include other affiliate links. If you click an affiliate link and make a purchase, we may earn a small commission at no additional cost to you. This does not influence our editorial content or recommendations.
+- Visit [www.aboutads.info/choices](http://www.aboutads.info/choices/) (DAA opt-out)
+- Visit [www.networkadvertising.org/choices](http://www.networkadvertising.org/choices/) (NAI opt-out)
 
 ---
 
-## 4. How We Use Your Information
+## 5. Amazon Associates
 
-We use the information we collect to:
-
-- Operate and improve the Site
-- Respond to inquiries and emails
-- Analyze usage trends and site performance
-- Display relevant advertising
-
-We do **not** sell, trade, or rent your personal information to third parties.
+This Site participates in the Amazon Services LLC Associates Program. When you click Amazon affiliate links and make purchases, Amazon sets cookies to track referrals. We earn a small commission at no additional cost to you. See [Amazon's Privacy Notice](https://www.amazon.com/privacy/) for details.
 
 ---
 
-## 5. Third-Party Links
+## 6. How We Use Your Information
 
-Our Site may contain links to third-party websites. We have no control over and assume no responsibility for the privacy practices or content of third-party sites. We encourage you to review their privacy policies before providing any personal information.
-
----
-
-## 6. Children's Privacy
-
-Our Site is not directed to children under the age of 13. We do not knowingly collect personal information from children under 13. If you believe we have inadvertently collected such information, please contact us immediately.
+We use collected information to operate and improve the Site, respond to inquiries, analyze usage trends, and display relevant advertising. We do **not** sell your personal information to third parties.
 
 ---
 
-## 7. Your Privacy Rights
+## 7. Data Retention
 
-### California Residents (CCPA)
-If you are a California resident, you have the right to:
-- Know what personal information we collect
-- Request deletion of your personal information
-- Opt out of the sale of personal information (we do not sell personal information)
-
-To exercise your rights, contact us at the email below.
-
-### European Residents (GDPR)
-If you are located in the European Economic Area, you have rights including the right to access, rectify, or erase your personal data, and the right to object to or restrict processing. To exercise these rights, contact us at [hello@smallbizfinanceguide.com](mailto:hello@smallbizfinanceguide.com).
+We retain any personal information you provide only as long as necessary to fulfill the purpose for which it was provided, unless a longer retention period is required by law.
 
 ---
 
-## 8. Data Retention
+## 8. Your Rights
 
-We retain personal information (such as emails you send us) only as long as necessary to fulfill the purpose for which it was collected, unless a longer retention period is required by law.
+**GDPR (European residents):** You have the right to access, rectify, erase, or restrict processing of your personal data. Contact us at privacy@smallbizfinanceguide.com to exercise these rights.
 
----
-
-## 9. Security
-
-We implement reasonable technical and organizational measures to protect your information. However, no method of internet transmission or electronic storage is 100% secure.
+**CCPA (California residents):** You have the right to know what personal information we collect, request deletion, and opt out of sale (we do not sell personal information).
 
 ---
 
-## 10. Changes to This Policy
+## 9. Changes to This Policy
 
-We may update this Privacy Policy periodically. The date of the most recent revision appears at the top of this page. Your continued use of the Site after changes are posted constitutes acceptance of the updated policy.
-
----
-
-## 11. Contact Us
-
-If you have questions about this Privacy Policy or wish to exercise your privacy rights, contact us at:
-
-**Small Biz Finance Guide**
-Email: [hello@smallbizfinanceguide.com](mailto:hello@smallbizfinanceguide.com)
-Website: [https://smallbizfinanceguide.com](https://smallbizfinanceguide.com)
+We may update this Privacy Policy periodically. The effective date at the top of this page will reflect the most recent revision. Continued use of the Site constitutes acceptance of any updated policy.
 
 ---
 
-*This site provides general business finance information only. Consult a licensed financial advisor, accountant, or attorney before making business financial decisions.*
+## 10. Contact
+
+Questions about this Privacy Policy? Contact us at:
+
+**Email:** privacy@smallbizfinanceguide.com  
+**Website:** [https://smallbizfinanceguide.com](https://smallbizfinanceguide.com)
