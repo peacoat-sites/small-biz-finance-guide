@@ -3,7 +3,7 @@ title: "Payroll Basics Small Business"
 date: 2026-05-23T10:49:08.954948+00:00
 draft: false
 description: "Manage payroll confidently with our guide to payroll basics for small business. Learn tax withholding, payroll software, and compliance requirements to grow."
-image: "https://pixabay.com/get/ga133d9d6a85eaa5c666146f8d626730639fd3cc6ff2011cea12f72034a331aa478a0336b91af6b67e4bf49d52496276eca087074c603b21debbc91bf6fe48185_1280.jpg"
+image: "https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Payroll"]
 tags: ["payroll", "basics", "small", "business"]
 author: "James O'Brien"
