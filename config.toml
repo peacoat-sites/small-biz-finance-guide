@@ -1,4 +1,3 @@
-googleAnalytics = "G-5GT7DCBXDK"
 baseURL = "https://smallbizfinanceguide.com/"
 enableGitInfo = true
 languageCode = "en-us"
@@ -80,3 +79,7 @@ hero_color_4 = "#070600"
   [[related.indices]]
     name   = "categories"
     weight = 50
+
+[services]
+  [services.googleAnalytics]
+    id = "G-5GT7DCBXDK"
