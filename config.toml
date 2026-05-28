@@ -8,6 +8,8 @@ enableRobotsTXT = true
 enableEmoji = true
 
 [params]
+  page_bg = "#f6faf9"
+  nav_style = "dark"
 logo_text_2 = "Finance Guide"
 logo_text_1 = "SmallBiz"
 author = "Stephen Brenish"
