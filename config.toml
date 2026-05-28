@@ -9,11 +9,6 @@ enableRobotsTXT = true
 enableEmoji = true
 
 [params]
-hero_color_4 = "#070600"
-hero_color_3 = "#e8b84b"
-hero_color_2 = "#1a1300"
-hero_color_1 = "#0b0900"
-primary_color = "#e8b84b"
 logo_text_2 = "Finance Guide"
 logo_text_1 = "SmallBiz"
 author = "Stephen Brenish"
