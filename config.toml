@@ -21,14 +21,9 @@ author = "Stephen Brenish"
   image_query = "small business finance entrepreneur accounting office"
   logo_text = "Small Biz Finance Guide"
   tagline = "Small business finance made simple — funding, taxes, and growth strategies"
-  primary_color = "#2c3e50"
   cloudflare_analytics = ""
 
   # Authority theme
-  hero_color_1 = "#042f2e"
-  hero_color_2 = "#134e4a"
-  hero_color_3 = "#0f766e"
-  hero_color_4 = "#0f172a"
   monthly_readers = 47000
   research_hours  = 520
   satisfaction    = 97
@@ -41,6 +36,11 @@ author = "Stephen Brenish"
   persona_bio        = "Entrepreneur and small business finance writer who has founded and operated small businesses across two industries."
   persona_initials   = "JO"
   disclaimer         = "This content is for informational purposes only and does not constitute financial or legal advice. Consult a qualified professional before making business or financial decisions."
+primary_color = "#e8b84b"
+hero_color_1 = "#0b0900"
+hero_color_2 = "#1a1300"
+hero_color_3 = "#e8b84b"
+hero_color_4 = "#070600"
 
 [taxonomies]
   category = "categories"
