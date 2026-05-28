@@ -3,7 +3,7 @@ title: "Small Business Insurance Requirements"
 date: 2026-05-25T12:49:39.693183+00:00
 draft: false
 description: "Small business insurance requirements vary by industry and location. Learn about liability, workers comp, property insurance and legal obligations for your busi"
-image: "https://pixabay.com/get/g117ae8aea4aa851e16896fd69fc9bf0c4f1615c2b2512edbfdecde8951eedad38e7a55ba8c933e64072d6f26d84ea5e64b5b924723b39c198df631006e789e41_1280.jpg"
+image: "https://images.pexels.com/photos/3760067/pexels-photo-3760067.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Insurance"]
 tags: ["small", "business", "insurance", "requirements"]
 author: "Angela Torres"
