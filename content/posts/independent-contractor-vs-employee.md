@@ -3,7 +3,7 @@ title: "Independent Contractor Vs Employee"
 date: 2026-05-24T10:54:09.106517+00:00
 draft: false
 description: "Independent contractors and employees have different legal classifications, tax obligations, and benefits. Learn the key differences to determine your employmen"
-image: "https://pixabay.com/get/gee5469930d6d821d74baa8a16b606da457135941eeaa26fcbd8e209e52a6f3aaa1316c18e5bd516ae84bdfceb0bd946a29971f68470cd68549e7286f9deaeda3_1280.jpg"
+image: "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["HR"]
 tags: ["independent", "contractor", "employee"]
 author: "James O'Brien"
