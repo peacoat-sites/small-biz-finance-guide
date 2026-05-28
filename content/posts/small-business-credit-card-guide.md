@@ -12,7 +12,7 @@ slug: "small-business-credit-card-guide"
 affiliate_disclosure: true
 ---
 
-You opened your business checking account, you're tracking expenses in a spreadsheet, and someone ,  maybe your accountant, maybe a mentor, maybe a podcast you half-listened to while doing inventory ,  told you that you need a business credit card. But nobody really explained *why*, or what happens if you pick the wrong one, or whether your personal credit score is about to take a hit just for applying. If that sounds familiar, you're in the right place.
+You opened your business checking account, you're tracking expenses in a spreadsheet, and someone,  maybe your accountant, maybe a mentor, maybe a podcast you half-listened to while doing inventory,  told you that you need a business credit card. But nobody really explained *why*, or what happens if you pick the wrong one, or whether your personal credit score is about to take a hit just for applying. If that sounds familiar, you're in the right place.
 
 ## Why a Business Credit Card Is Not Just a "Nice to Have"
 
@@ -141,6 +141,6 @@ A business credit card is one of the simplest tools available to you, but only w
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) ,  The most comprehensive QuickBooks 2025 guide ,  covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) ,  Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32),  The most comprehensive QuickBooks 2025 guide,  covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14),  Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

@@ -24,7 +24,7 @@ All content on this Site is provided for informational and educational purposes 
 
 ## 3. Intellectual Property
 
-All content on this Site ,  including articles, images, graphics, and design ,  is the property of Small Biz Finance Guide or its content suppliers and is protected by applicable copyright laws. You may share individual articles with proper attribution and a link back to the original URL. Reproduction of content in bulk or for commercial purposes without written permission is prohibited.
+All content on this Site,  including articles, images, graphics, and design,  is the property of Small Biz Finance Guide or its content suppliers and is protected by applicable copyright laws. You may share individual articles with proper attribution and a link back to the original URL. Reproduction of content in bulk or for commercial purposes without written permission is prohibited.
 
 ---
 

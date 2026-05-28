@@ -12,7 +12,7 @@ slug: "invoice-factoring-explained"
 affiliate_disclosure: true
 ---
 
-You sent the invoice on March 3rd. It's now April 18th. Your client ,  a legitimate company, not a deadbeat ,  has a 60-day payment term. That means you might see the money around May 3rd. Meanwhile, your supplier wants payment in 15 days, your part-time contractor is expecting a check Friday, and your business checking account looks like it's on a diet. This is the cash flow gap that kills otherwise healthy businesses. Invoice factoring exists specifically to solve this problem, and it's more accessible than most small business owners realize.
+You sent the invoice on March 3rd. It's now April 18th. Your client,  a legitimate company, not a deadbeat,  has a 60-day payment term. That means you might see the money around May 3rd. Meanwhile, your supplier wants payment in 15 days, your part-time contractor is expecting a check Friday, and your business checking account looks like it's on a diet. This is the cash flow gap that kills otherwise healthy businesses. Invoice factoring exists specifically to solve this problem, and it's more accessible than most small business owners realize.
 
 ## What Invoice Factoring Actually Is
 
@@ -165,6 +165,6 @@ Invoice factoring is not glamorous, and it's not cheap. But for the right busine
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) ,  The most comprehensive QuickBooks 2025 guide ,  covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) ,  Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32),  The most comprehensive QuickBooks 2025 guide,  covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14),  Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 
