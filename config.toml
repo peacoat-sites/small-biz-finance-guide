@@ -8,7 +8,7 @@ enableRobotsTXT = true
 enableEmoji = true
 
 [params]
-  page_bg = "#f6faf9"
+  page_bg = "#f0fdf4"
   nav_style = "dark"
 logo_text_2 = "Finance Guide"
 logo_text_1 = "SmallBiz"
@@ -37,7 +37,7 @@ author = "Stephen Brenish"
   persona_bio        = "Entrepreneur and small business finance writer who has founded and operated small businesses across two industries."
   persona_initials   = "JO"
   disclaimer         = "This content is for informational purposes only and does not constitute financial or legal advice. Consult a qualified professional before making business or financial decisions."
-primary_color = "#0f766e"
+primary_color = "#14532d"
 hero_color_1 = "#0b0900"
 hero_color_2 = "#1a1300"
 hero_color_3 = "#e8b84b"
