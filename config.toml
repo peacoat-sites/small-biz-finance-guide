@@ -9,8 +9,11 @@ title = "Small Biz Finance Guide"
 
 
 
+
 enableRobotsTXT = true
 enableEmoji = true
+
+disableHugoGeneratorInject = true
 
 [pagination]
   pagerSize = 12
