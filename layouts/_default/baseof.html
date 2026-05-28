@@ -29,12 +29,7 @@
       --hero-c3: {{ .Site.Params.hero_color_3 | default "#e8b84b" }};
       --hero-c4: {{ .Site.Params.hero_color_4 | default "#080810" }};
     }
-  </style>
-
-  <!-- AdSense -->
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ .Site.Params.adsense_id }}" crossorigin="anonymous"></script>
-
-  <!-- Cloudflare Analytics -->
+  </style>  <!-- Cloudflare Analytics -->
   {{ if .Site.Params.cloudflare_analytics }}
   <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "{{ .Site.Params.cloudflare_analytics }}"}'></script>
   {{ end }}
