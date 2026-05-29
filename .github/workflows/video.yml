@@ -55,7 +55,7 @@ jobs:
           GOOGLE_REFRESH_TOKEN:   ${{ secrets.GOOGLE_REFRESH_TOKEN }}
           YOUTUBE_CHANNEL_ID:     ${{ vars.YOUTUBE_CHANNEL_ID }}
           # ── Site identity ─────────────────────────────────────────────
-          SITEWNAME:              ${{ vars.SITE_NAME }}
+          SITE_NAME:              ${{ vars.SITE_NAME }}
           SITE_DOMAIN:            ${{ vars.SITE_DOMAIN }}
           SITE_NICHE:             ${{ vars.SITE_NICHE }}
           # ── Git auth ────────────────────────────────────────────────
