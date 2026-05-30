@@ -1,6 +1,6 @@
 ---
 title: "How To Separate Business Personal Finances"
-date: 2026-05-18T22:04:06.270445+00:00
+date: 2026-05-27T20:05:37.937967+00:00
 draft: false
 description: "Learn how to separate business and personal finances with simple steps. Open a business account, track expenses, and protect your financial health today."
 image: "https://images.pexels.com/photos/4968631/pexels-photo-4968631.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

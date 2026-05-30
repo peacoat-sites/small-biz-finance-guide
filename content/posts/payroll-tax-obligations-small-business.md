@@ -1,6 +1,6 @@
 ---
 title: "Payroll Tax Obligations Small Business"
-date: 2026-05-29T21:51:20.386021+00:00
+date: 2026-05-26T07:03:11.616242+00:00
 draft: false
 description: "Learn how to manage payroll tax obligations as a small business owner. Discover key deadlines, filing requirements, and tips to stay compliant and avoid costly "
 image: "https://images.pexels.com/photos/8970292/pexels-photo-8970292.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"

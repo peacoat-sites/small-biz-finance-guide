@@ -1,6 +1,6 @@
 ---
 title: "Small Business Exit Strategy Planning"
-date: 2026-05-29T12:32:32.580528+00:00
+date: 2026-05-25T09:17:09.916303+00:00
 draft: false
 description: "Plan your small business exit strategy with confidence. Explore key options like selling, merging, or succession planning to maximize value and secure your futu"
 image: "https://images.pexels.com/photos/8297051/pexels-photo-8297051.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

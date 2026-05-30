@@ -1,6 +1,6 @@
 ---
 title: "Cash Flow Management Guide"
-date: 2026-05-21T12:29:54.468007+00:00
+date: 2026-05-19T07:05:45.201235+00:00
 draft: false
 description: "Master cash flow management with expert tips on forecasting, budgeting, and optimizing income and expenses to keep your business financially healthy and growing"
 image: "https://images.pexels.com/photos/7698834/pexels-photo-7698834.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

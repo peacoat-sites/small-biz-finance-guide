@@ -1,6 +1,6 @@
 ---
 title: "Business Expense Categories Guide"
-date: 2026-05-23T10:46:47.575321+00:00
+date: 2026-05-24T07:22:48.129344+00:00
 draft: false
 description: "Track and organize all your business expenses with our comprehensive guide to expense categories. Learn tax deductions, accounting best practices, and more."
 image: "https://images.pexels.com/photos/7111519/pexels-photo-7111519.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

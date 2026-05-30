@@ -1,6 +1,6 @@
 ---
 title: "Quarterly Estimated Taxes Small Business"
-date: 2026-05-18T22:08:19.685855+00:00
+date: 2026-05-28T06:58:35.434952+00:00
 draft: false
 description: "Pay quarterly estimated taxes on time and avoid IRS penalties. Learn how small business owners calculate, schedule, and submit payments to stay compliant year-r"
 image: "https://images.pexels.com/photos/36631703/pexels-photo-36631703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

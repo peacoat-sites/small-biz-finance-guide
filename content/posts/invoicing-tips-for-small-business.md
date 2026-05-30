@@ -1,6 +1,6 @@
 ---
 title: "Invoicing Tips For Small Business"
-date: 2026-05-19T12:25:38.544990+00:00
+date: 2026-05-26T22:40:03.354516+00:00
 draft: false
 description: "Learn practical invoicing tips for small business owners to get paid faster, reduce late payments, and keep cash flow healthy with simple, proven strategies."
 image: "https://images.pexels.com/photos/7644016/pexels-photo-7644016.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

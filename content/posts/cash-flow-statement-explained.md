@@ -1,6 +1,6 @@
 ---
 title: "Cash Flow Statement Explained"
-date: 2026-05-29T12:29:57.591822+00:00
+date: 2026-05-29T11:07:25.052211+00:00
 draft: false
 description: "Learn what a cash flow statement is, how it works, and why it matters for your business finances. Understand operating, investing, and financing activities easi"
 image: "https://images.pexels.com/photos/5915230/pexels-photo-5915230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

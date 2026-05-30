@@ -1,6 +1,6 @@
 ---
 title: "Independent Contractor Vs Employee"
-date: 2026-05-24T10:54:09.106517+00:00
+date: 2026-05-18T18:24:36.645302+00:00
 draft: false
 description: "Independent contractors and employees have different legal classifications, tax obligations, and benefits. Learn the key differences to determine your employmen"
 image: "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"

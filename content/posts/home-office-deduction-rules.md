@@ -1,6 +1,6 @@
 ---
 title: "Home Office Deduction Rules"
-date: 2026-05-22T12:03:10.016660+00:00
+date: 2026-05-29T16:31:01.975961+00:00
 draft: false
 description: "Home office deduction rules: Learn how to qualify, calculate expenses, and maximize tax savings with the IRS simplified and regular methods."
 image: "https://images.pexels.com/photos/28715052/pexels-photo-28715052.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

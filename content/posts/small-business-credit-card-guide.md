@@ -1,6 +1,6 @@
 ---
 title: "Small Business Credit Card Guide"
-date: 2026-05-28T12:47:26.000719+00:00
+date: 2026-05-27T13:47:36.808518+00:00
 draft: false
 description: "Discover the best small business credit cards to manage expenses, earn rewards, and build credit. Compare top options and find the right card for your business "
 image: "https://images.pexels.com/photos/210990/pexels-photo-210990.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

@@ -1,6 +1,6 @@
 ---
 title: "Vehicle Deduction Small Business"
-date: 2026-05-22T12:05:46.933046+00:00
+date: 2026-05-26T03:12:22.683704+00:00
 draft: false
 description: "Maximize your small business taxes with vehicle deductions. Learn IRS rules, calculate mileage, and claim depreciation to reduce your tax liability today."
 image: "https://images.pexels.com/photos/5058118/pexels-photo-5058118.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"

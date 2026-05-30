@@ -1,6 +1,6 @@
 ---
 title: "Sba 7A Loan Explained"
-date: 2026-05-29T21:47:04.528304+00:00
+date: 2026-05-18T02:45:12.299619+00:00
 draft: false
 description: "Learn how the SBA 7a loan works, who qualifies, how much you can borrow, and how to apply. Find out if this popular small business loan is right for you."
 image: "https://images.pexels.com/photos/7841821/pexels-photo-7841821.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"

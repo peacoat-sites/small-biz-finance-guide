@@ -1,6 +1,6 @@
 ---
 title: "Reading A Balance Sheet Basics"
-date: 2026-05-28T22:26:06.762257+00:00
+date: 2026-05-23T19:58:16.613740+00:00
 draft: false
 description: "Learn how to read a balance sheet with this beginner-friendly guide covering assets, liabilities, and equity to help you understand any companys financial healt"
 image: "https://images.pexels.com/photos/6693661/pexels-photo-6693661.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
