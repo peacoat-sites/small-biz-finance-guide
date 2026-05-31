@@ -1,0 +1,24 @@
+name: Refresh Interest Rates
+on:
+  schedule:
+    - cron: '0 12 * * 5'   # weekly, Friday (FRED mortgage data posts Thursdays)
+  workflow_dispatch:
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PIPELINE_TOKEN }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Fetch FRED rates
+        run: python pipeline/fetch_fred.py data/rates.json
+      - name: Commit refreshed rates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/rates.json || true
+          git diff --staged --quiet || git commit -m "chore: refresh interest rates from FRED"
+          git push || true
