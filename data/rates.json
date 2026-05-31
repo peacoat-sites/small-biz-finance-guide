@@ -1,6 +1,6 @@
 {
-  "title": "Current Rates",
-  "source": "FRED",
+  "title": "Current Business Lending Rates",
+  "source": "Federal Reserve Economic Data (FRED), St. Louis Fed",
   "updated": null,
   "rates": []
 }
