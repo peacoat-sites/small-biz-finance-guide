@@ -1,0 +1,8 @@
+{
+  "title": "Current Business Lending Rates",
+  "series": [
+    {"id": "DPRIME", "label": "Prime Rate", "unit": "%"},
+    {"id": "FEDFUNDS", "label": "Federal Funds Rate", "unit": "%"},
+    {"id": "DGS10", "label": "10-Year Treasury", "unit": "%"}
+  ]
+}
