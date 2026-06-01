@@ -1,0 +1,149 @@
+{
+  "title": "Are You Ready to Start a Business?",
+  "intro": "Answer 7 quick questions to see how well your current habits, goals, and mindset line up with starting a business. This is a self-reflection tool for general education and fun, not financial or legal advice.",
+  "questions": [
+    {
+      "q": "How specific is the business idea you have in mind right now?",
+      "options": [
+        {
+          "t": "I know the product, who it's for, and how I'd earn from it",
+          "s": 3
+        },
+        {
+          "t": "I have a general direction but the details are fuzzy",
+          "s": 1
+        },
+        {
+          "t": "I just like the idea of working for myself someday",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "If your income dropped to zero tomorrow, how long could you cover your basic living costs?",
+      "options": [
+        {
+          "t": "Several months or more of cushion set aside",
+          "s": 3
+        },
+        {
+          "t": "A few weeks, with some belt-tightening",
+          "s": 1
+        },
+        {
+          "t": "I'd be in trouble almost right away",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How do you tend to handle a project with no boss, no deadline, and no one checking on you?",
+      "options": [
+        {
+          "t": "I set my own goals and reliably follow through",
+          "s": 3
+        },
+        {
+          "t": "I get going eventually but need a nudge sometimes",
+          "s": 1
+        },
+        {
+          "t": "Without structure, things usually stall out",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How do you feel about not knowing exactly what you'll earn from one month to the next?",
+      "options": [
+        {
+          "t": "I'm comfortable with ups and downs if the upside is mine",
+          "s": 3
+        },
+        {
+          "t": "It makes me nervous but I think I could adjust",
+          "s": 0
+        },
+        {
+          "t": "A predictable paycheck matters a lot to my peace of mind",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "Have you talked to anyone who might actually pay for what you'd offer?",
+      "options": [
+        {
+          "t": "Yes, and a few have said they would buy it",
+          "s": 3
+        },
+        {
+          "t": "I've floated the idea casually to friends or family",
+          "s": 1
+        },
+        {
+          "t": "Not yet, it's still just in my head",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "How do you usually respond when an early attempt at something flops?",
+      "options": [
+        {
+          "t": "I treat it as data and adjust my next try",
+          "s": 3
+        },
+        {
+          "t": "It stings, but I bounce back after a bit",
+          "s": 1
+        },
+        {
+          "t": "A setback like that tends to make me want to quit",
+          "s": 0
+        }
+      ]
+    },
+    {
+      "q": "What does your support system look like for a venture like this?",
+      "options": [
+        {
+          "t": "People around me are on board and ready to cheer me on",
+          "s": 3
+        },
+        {
+          "t": "Some support, though a few folks have doubts",
+          "s": 1
+        },
+        {
+          "t": "I'd mostly be going it alone right now",
+          "s": 0
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "min": 0,
+      "max": 7,
+      "title": "Starting a business might not be your easiest path right now",
+      "body": "Your answers suggest a few foundations are still being built, and that's completely okay. Rather than leaping in, this is a great moment to firm up an idea, grow a small savings cushion, or test interest in a low-stakes way on the side. Treat the next few months as preparation, not a closed door.",
+      "cta": "Read our 'first steps' beginner guides"
+    },
+    {
+      "min": 8,
+      "max": 14,
+      "title": "You could be ready to start a business, with a plan",
+      "body": "You already have several traits that serve founders well, and a couple of gaps worth closing before you go all in. A simple written plan, a longer runway, or a handful of real conversations with potential customers could move you from 'maybe' to 'go.' You're closer than you might think.",
+      "cta": "Use our startup planning checklist"
+    },
+    {
+      "min": 15,
+      "max": 21,
+      "title": "You look like a strong candidate to start a business",
+      "body": "Your habits, mindset, and groundwork all point in the same direction. You have an idea with legs, a tolerance for uncertainty, and the follow-through to keep going when things get bumpy. The biggest risk now is waiting too long, so dig into the practical mechanics and start taking deliberate steps.",
+      "cta": "Browse our launch and financing guides"
+    }
+  ],
+  "disclaimer": "This quiz is for general education and self-reflection, not financial or legal advice. It does not assess your specific situation. Consult a qualified professional before making major business or financial decisions."
+}
