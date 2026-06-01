@@ -10,6 +10,17 @@ author: "James O'Brien"
 author_bio: "Enrolled agent and small business tax specialist. Focuses on tax planning and bookkeeping for self-employed and small businesses."
 slug: "payroll-basics-small-business"
 affiliate_disclosure: true
+faqs:
+  - q: "When do I have to start withholding payroll taxes?"
+    a: "The moment you pay a W-2 employee, you're required to withhold. There's no grace period. Before you issue the first paycheck, you need an EIN, a completed W-4 from the employee, and your EFTPS account set up. Waiting until you 'get organized' isn't an option the IRS recognizes."
+  - q: "Can I pay employees in cash and still do payroll correctly?"
+    a: "Yes, paying employees in cash is legal, but you're still required to calculate, withhold, and deposit all payroll taxes exactly as you would with a check or direct deposit. You also need to provide a pay stub showing gross pay, deductions, and net pay. Paying cash under the table is illegal and carries serious consequences."
+  - q: "What's the difference between a W-2 and a W-4?"
+    a: "The W-4 is the form your employee fills out when they're hired. It tells you how much federal income tax to withhold from their paychecks. The W-2 is the annual wage and tax statement you issue to employees by January 31, summarizing what they were paid and what was withheld over the year. You also send copies of W-2s to the Social Security Administration."
+  - q: "How does payroll affect my business taxes at year end?"
+    a: "Wages paid to employees are a deductible business expense, which reduces your taxable income. The employer portion of FICA taxes is also deductible. However, your own salary if you're an S-corp owner draws different rules, and how you pay yourself matters a lot at tax time. This is one area where working with a CPA pays for itself. For more context on how your business structure affects taxes, this comparison of LLC vs. sole proprietorship taxes is a useful starting point."
+  - q: "What happens if I can't make a payroll tax deposit on time?"
+    a: "The IRS imposes a failure-to-deposit penalty that starts at 2% for deposits 1-5 days late and escalates to 15% for amounts still unpaid more than 10 days after the IRS issues a notice. These aren't theoretical penalties. They show up, they add up, and they affect businesses that simply forgot or had a cash crunch. If you know you're going to miss a deposit, contact the IRS proactively or work with a tax professional. Ignoring it always makes it worse."
 ---
 
 You hired your first employee last Tuesday. By Friday, you realized you have absolutely no idea how payroll works. What do you withhold? When do you send the money to the government? What happens if you get it wrong? If that scenario sounds familiar, you're not alone. Payroll is one of the most common places small business owners get tripped up, not because it's impossibly complex, but because nobody ever sat down and explained it clearly. Let's fix that.

@@ -10,6 +10,17 @@ author: "Maria Vasquez"
 author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "small-business-credit-card-guide"
 affiliate_disclosure: true
+faqs:
+  - q: "Can I use a personal credit card for business expenses instead?"
+    a: "You can, but you probably shouldn't. Mixing personal and business expenses creates accounting confusion, complicates your taxes, and weakens the legal separation between you and your business if you operate as an LLC or corporation. More practically: personal cards don't offer the expense management tools, employee card features, or business credit-building benefits that make a business card worth having."
+  - q: "Will applying for a business credit card affect my personal credit score?"
+    a: "It depends on the issuer. Applying will typically result in a hard inquiry on your personal credit report, which can lower your score slightly for a short period. Some issuers also report ongoing account activity to personal credit bureaus. Others report only to business credit bureaus like Dun & Bradstreet or Experian Business. Ask the issuer directly before you apply if this is a concern."
+  - q: "What if my business is brand new with no revenue?"
+    a: "New businesses apply for credit cards all the time. Issuers will lean heavily on your personal credit score in this situation, and they may ask for an estimated revenue figure. You don't need to have been in business for years. A strong personal credit score and a clear business structure (even as a sole proprietor) are often enough to qualify for entry-level business cards."
+  - q: "How many business credit cards should I have?"
+    a: "Most small businesses do fine with one or two. One primary card for most spending and potentially one with a different reward structure (say, a travel card for flights and a cash back card for vendor payments) can make sense. More than that and you're adding complexity, multiple payment deadlines, and higher temptation to overspend. Simple usually wins."
+  - q: "Is a charge card different from a credit card, and should I consider one?"
+    a: "Yes, they're different. A charge card (American Express has offered these for businesses historically) requires you to pay the full balance each month. There's no revolving credit. The upside is you can't carry a balance, which enforces spending discipline. The downside is there's no flexibility if a month gets tight. For business owners with strong cash flow who tend to overspend given a revolving line, a charge card can be a smart structural constraint."
 ---
 
 You opened your business checking account, you're tracking expenses in a spreadsheet, and someone,  maybe your accountant, maybe a mentor, maybe a podcast you half-listened to while doing inventory,  told you that you need a business credit card. But nobody really explained *why*, or what happens if you pick the wrong one, or whether your personal credit score is about to take a hit just for applying. If that sounds familiar, you're in the right place.

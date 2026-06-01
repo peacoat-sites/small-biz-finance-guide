@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "sba-7a-loan-explained"
 affiliate_disclosure: true
+faqs:
+  - q: "Can a startup get an SBA 7(a) loan?"
+    a: "Technically yes, but practically it's difficult. The SBA doesn't require a minimum time in business, but lenders do, and most want two years of operating history with tax returns to back it up. If you're a startup, you'll need a very strong business plan, significant collateral, and excellent personal credit. The SBA Microloan program or nonprofit CDFI lenders are often a more realistic path for businesses under two years old."
+  - q: "Does applying for an SBA 7(a) loan hurt my credit score?"
+    a: "Yes, the hard credit inquiry that comes with a loan application will have a minor, temporary effect on your personal credit score. If you apply with multiple lenders simultaneously, multiple inquiries in a short window are generally treated as a single inquiry for scoring purposes. Don't let that concern stop you from shopping lenders."
+  - q: "What can I not use an SBA 7(a) loan for?"
+    a: "You can't use the funds for passive investment income (like buying a rental property you won't operate), to repay delinquent taxes, for investments in securities, or for lending to others. There are also restrictions on using 7(a) funds to buy out a partial ownership interest under certain conditions. Your lender will walk you through allowable uses before closing."
+  - q: "What happens if my SBA loan application gets denied?"
+    a: "First, ask the lender specifically why. Lenders are required to provide reasons. Common causes: credit score, insufficient collateral, inadequate cash flow, or incomplete documentation. Some of those are fixable with time. If the issue is your credit score or DSCR, a structured six to twelve month improvement plan can change that outcome. You can also seek free guidance through SCORE to review your application before resubmitting."
+  - q: "Is an SBA 7(a) loan personally guaranteed?"
+    a: "In almost every case, yes. Any individual who owns 20% or more of the business must sign a personal guarantee, meaning your personal assets are on the line if the business defaults. Spouses of majority owners may also be required to sign in community property states. This is standard and not negotiable in most circumstances. Understand it before you sign, and make sure your CPA has reviewed the full terms."
 ---
 
 You walk into a bank asking about a small business loan. The banker smiles, nods, and eventually mentions something called an "SBA 7(a) loan" as if you should already know what that means. Maybe you nod back. Most people do. Then they go home, search the internet, and find articles full of bureaucratic language that explain the program without ever explaining what it actually means for *your* business, *your* bank account, and the decision in front of you right now. That's the gap this article closes.

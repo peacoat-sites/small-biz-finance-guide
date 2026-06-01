@@ -10,6 +10,17 @@ author: "James O'Brien"
 author_bio: "Enrolled agent and small business tax specialist. Focuses on tax planning and bookkeeping for self-employed and small businesses."
 slug: "1099-vs-w2-explained"
 affiliate_disclosure: true
+faqs:
+  - q: "Can I just let the worker decide whether they want to be a 1099 or W-2?"
+    a: "No. The classification is based on the actual working relationship, not worker preference. Both parties can agree to call someone a contractor, but if the facts of the relationship point to employment, the IRS and state agencies will override that agreement. A worker asking to be paid as a contractor so they can handle their own taxes doesn't protect you from liability if the relationship really looks like employment."
+  - q: "What happens if I've been misclassifying workers?"
+    a: "If you catch it yourself, you can potentially use the IRS Voluntary Classification Settlement Program (VCSP), which lets you reclassify workers and pay a reduced amount of back taxes. If the IRS finds it first, you're facing full back taxes, interest, and penalties. Either way, talk to a tax professional immediately. Don't try to quietly fix it without understanding the implications."
+  - q: "Do I need to issue a 1099 to every contractor I pay?"
+    a: "The $600 threshold applies to 1099-NEC. If you paid a contractor less than $600 in the tax year, you're generally not required to issue a 1099, though the contractor still owes taxes on that income. Also note that payments to corporations (C corps and S corps) are typically exempt from 1099 requirements, with some exceptions for attorneys and medical providers."
+  - q: "How does this affect my ability to get a small business loan?"
+    a: "Lenders look at your payroll records and total labor costs when assessing your business. Having legitimate contractor relationships properly documented is fine. Messy records, unresolved misclassification issues, or a pattern of 1099s that should have been W-2s can create complications during underwriting. If you're preparing to apply for financing, cleaning up your classification practices in advance is worth the effort. The guide on how to get a small business loan covers what lenders actually look at."
+  - q: "Are there any situations where a worker can be both a contractor and an employee?"
+    a: "Generally not with the same employer at the same time. The IRS looks at the totality of the relationship, so you can't classify the same work as both employment and contracting to split your obligations. However, someone could genuinely be an employee for one business and an independent contractor for a separate, unrelated business they run on the side. That's their situation to manage, not yours, as long as your portion of the relationship is properly classified."
 ---
 
 You hired a web developer last spring. She worked 30 hours a week for four months, used your equipment, followed your schedule, and you paid her a flat rate every two weeks. Come January, you sent her a 1099. Now she's saying you should have been withholding taxes the whole time, and your accountant is giving you a look you don't like. This situation plays out thousands of times every year, and the stakes are real: misclassifying a worker can result in back taxes, penalties, and interest that add up fast.

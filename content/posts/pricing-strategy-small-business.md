@@ -10,6 +10,17 @@ author: "Alex Reeves"
 author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "pricing-strategy-small-business"
 affiliate_disclosure: true
+faqs:
+  - q: "How do I know if my prices are too low?"
+    a: "A few reliable signs: you're consistently slammed with work but cash flow is still tight, you get almost no resistance when quoting, you're attracting clients who are demanding and hard to please, or you feel resentment about the work itself. That last one is real. Undercharging breeds resentment. If you find yourself feeling bitter about client requests you agreed to handle, the price was probably part of the problem."
+  - q: "Should I publish my prices or keep them private?"
+    a: "It depends on your business model. Published pricing works well when your service is fairly standardized and you want to pre-qualify buyers or reduce back-and-forth. Private pricing works better when engagements vary significantly by scope or client. For most project-based service businesses, a visible 'starting at' range plus a clear intake process tends to work better than either extreme."
+  - q: "What if competitors are charging much less than I want to charge?"
+    a: "First, verify that they're actually profitable. Many small businesses are competing on price because they don't know their numbers. Second, ask yourself honestly whether you're offering something different enough to justify the gap. If yes, the answer is better positioning and clearer communication of that difference, not lower prices. If no, you have a differentiation problem that a pricing decision can't fix."
+  - q: "How often should I review my pricing?"
+    a: "At minimum, once a year. Ideally, also after any significant shift in your costs, after you complete a particularly high-value engagement, and any time you notice demand consistently outpacing your capacity. Many businesses tie their annual price review to the start of their fiscal year. Make it a calendar event so it actually happens. I'd also strongly recommend consulting a CPA as part of that review to make sure your pricing reflects your actual tax obligations and cost structure."
+  - q: "Is discounting ever a good idea?"
+    a: "Strategically, rarely. Tactically, sometimes. Discounting to fill capacity in a genuinely slow period is different from discounting as a default sales move. The problem with habitual discounting is that it trains buyers to wait for deals and undermines your anchor price. If you want to offer incentives, structure them differently: early payment discounts, bundled packages at a better per-unit rate, or loyalty pricing for long-term clients. These reward the right behavior without signaling that your standard rate is negotiable."
 ---
 
 Most small business owners set their prices once, early on, usually in a panic, and then leave them alone for years. I've watched this play out more times than I can count. A new owner looks up what competitors charge, cuts their price by 10% to "win business," and locks that number in place like it's carved in stone. Then two years later they're working 60-hour weeks, their costs have risen, and they genuinely can't figure out why the business feels like a treadmill they can't get off. The price was the problem from day one. They just didn't know it.

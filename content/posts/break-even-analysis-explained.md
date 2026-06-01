@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "break-even-analysis-explained"
 affiliate_disclosure: true
+faqs:
+  - q: "What's the difference between break-even point and break-even analysis?"
+    a: "The break-even point is the specific number: the unit volume or revenue figure where you cover all costs. Break-even analysis is the broader process of calculating that number and using it to make decisions. You can't do useful analysis without the point, and a point without analysis is just a number sitting there doing nothing."
+  - q: "Can I do a break-even analysis for a service business with no physical product?"
+    a: "Yes, and it's often simpler. Your variable cost per unit is typically labor time, and your 'unit' might be an hour of service, a project, or a client engagement. Fixed costs are the same categories: rent, salaries, software, insurance. The math works the same way. Service businesses sometimes have lower variable costs, which means a high contribution margin per engagement and a potentially more achievable break-even."
+  - q: "What if I sell multiple products with different margins?"
+    a: "Use a weighted average contribution margin. Estimate the sales mix (what percentage of your revenue comes from each product), apply the contribution margin for each, and weight them by their share of sales. The result is a blended contribution margin you can plug into the standard formula. It's imprecise if your mix shifts a lot, so rerun it seasonally if your sales are uneven across products."
+  - q: "How does break-even analysis relate to cash flow?"
+    a: "They're related but not the same thing. Break-even tells you when revenue covers costs on paper. Cash flow tells you when money actually arrives and leaves your account. You can be above break-even on an accrual basis and still have a cash flow problem if customers pay 60 days late and your rent is due now. Don't use break-even as a substitute for a cash flow forecast. Use both."
+  - q: "Is break-even analysis useful for a business that's pre-revenue?"
+    a: "It's arguably most useful pre-revenue. Before you've committed to a lease, hired staff, or set prices, the break-even formula tells you what you'd need to sell to survive. Run it with multiple pricing scenarios. If the break-even unit volume looks unrealistic given your market, that's information you want before you sign a lease, not after. I'd rather a client walk away from a bad idea at the spreadsheet stage than at month 14."
 ---
 
 Most business owners I've worked with can tell me their revenue number almost to the dollar. Ask them their break-even point, and you get a pause, a guess, or a number they clearly just made up. That gap is expensive. You can run a profitable-looking business straight into a cash crisis if you don't know the exact threshold where your revenue stops losing money and starts making it. Break-even analysis is how you find that threshold, and it's one of the few financial tools that pays for itself the first time you use it.

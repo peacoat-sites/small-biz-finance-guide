@@ -10,6 +10,17 @@ author: "Alex Reeves"
 author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "sba-504-loan-commercial-property"
 affiliate_disclosure: true
+faqs:
+  - q: "Can a startup use an SBA 504 loan to buy commercial property?"
+    a: "Technically yes, but it's harder. Startups typically face a higher down payment requirement (closer to 15-20%) and must demonstrate repayment ability through projections, personal financial strength, and sometimes industry experience. SCORE offers free mentoring that can help you stress-test your business plan before you walk into a lender conversation."
+  - q: "What kinds of properties are eligible?"
+    a: "Owner-occupied commercial real estate is the core use case: office buildings, warehouses, manufacturing facilities, retail storefronts, medical offices. The 51% owner-occupancy rule is the key test. Hotels and certain other properties have additional rules, and some property types, like golf courses, are excluded entirely."
+  - q: "Can I use the 504 to renovate or expand a building I already own?"
+    a: "Yes. Construction, renovation, and expansion of existing facilities are all eligible uses. The project must meet the same owner-occupancy thresholds, and the improvements need to be to real property or fixed long-term assets."
+  - q: "What happens if my business defaults on a 504 loan?"
+    a: "The SBA guarantees the CDC's 40% portion. If the borrower defaults, the SBA ultimately backs that piece, which is why they're careful about underwriting. The bank's 50% is in a senior lien position, so they get first claim on the property in a foreclosure. Personal guarantees are required for owners with 20% or more stake in the business, meaning your personal assets can be at risk."
+  - q: "Are there prepayment penalties on a 504 loan?"
+    a: "Yes, and this catches people off guard. The SBA 504 carries a prepayment penalty for the first ten years of the loan, structured as a declining percentage. It's front-loaded: the penalty is highest in early years and phases out. If you're considering selling the property or refinancing within the first decade, understand this cost before you commit."
 ---
 
 Most small business owners assume that buying commercial property is something you do *after* you've made it. Save up a big down payment, prove you're already successful, then maybe a bank will look at you. What I found when I went deep on SBA 504 loans is that this assumption is exactly backward. The 504 program was specifically designed to get businesses into owned real estate *earlier*, with less cash out of pocket, and at fixed rates that make long-term planning actually possible. After watching clients struggle for years with landlords raising rents and lease uncertainty, I'll be honest: I wish I'd pushed more of them toward this option sooner.

@@ -10,6 +10,17 @@ author: "Angela Torres"
 author_bio: "Small business development advisor and former SBDC counselor. Has helped 300+ businesses with financial planning."
 slug: "vehicle-deduction-small-business"
 affiliate_disclosure: true
+faqs:
+  - q: "Can I deduct a vehicle I use for both personal and business driving?"
+    a: "Yes, but only the business-use portion. You'll need to track your miles carefully and calculate the percentage of total driving that was for legitimate business purposes. If 60% of your miles were business-related, you can only deduct 60% of your expenses or 60% of your eligible mileage under either method."
+  - q: "Do I need a separate vehicle titled in the business name to take a deduction?"
+    a: "No. A personally owned vehicle can qualify for business vehicle deductions as long as you can document the business use. However, if the business owns the vehicle, it should be titled in the business's name, and the business should carry appropriate commercial auto insurance."
+  - q: "What happens if I'm audited and I don't have a mileage log?"
+    a: "The IRS can disallow the entire vehicle deduction. Courts have occasionally allowed reconstructed logs built from calendars, GPS records, and appointment books, but that's a stressful position to be in and the outcome isn't guaranteed. Keep contemporaneous records. It takes less time than you think if you use an app."
+  - q: "Is there a limit on how expensive a vehicle can be for the deduction?"
+    a: "There are 'luxury auto' caps that limit annual depreciation deductions for passenger vehicles above a certain cost threshold. Heavier vehicles (GVWR over 6,000 pounds) face different and generally more favorable rules. The caps change, so verify current limits with your CPA or the IRS website before making a vehicle purchase decision based primarily on tax benefits."
+  - q: "Can I take a mileage deduction and also deduct my auto insurance?"
+    a: "Not under the standard mileage method. That rate is designed to cover all your operating costs including insurance, maintenance, and depreciation. Under the actual expense method, yes, your business-use percentage of insurance premiums is deductible. This is one reason why the actual expense method can produce a larger deduction for expensive-to-insure vehicles."
 ---
 
 You bought a truck for your business last year, drove it 14,000 miles for client visits and supply runs, and then left the entire deduction on the table because you weren't sure how to claim it. That scenario plays out thousands of times every tax season. Vehicle deductions are one of the most valuable and most misunderstood write-offs available to small business owners, and getting them wrong costs real money in both directions: either you underclaim and overpay, or you overclaim and invite an audit.

@@ -10,6 +10,17 @@ author: "Frank Medina"
 author_bio: "Small business CFO and financial consultant with 18 years helping entrepreneurs set up clean financial systems. Former CPA."
 slug: "sba-loan-requirements-guide"
 affiliate_disclosure: true
+faqs:
+  - q: "How long does it take to get an SBA loan approved?"
+    a: "It depends on the program and the lender. A standard 7(a) loan can take 60 to 90 days from application to funding when everything goes smoothly. The SBA Express program is designed to get an SBA decision within 36 hours, though the lender's own underwriting process still takes time. Working with a Preferred Lender Program (PLP) lender speeds things up significantly because those lenders have delegated authority to approve loans without waiting for SBA review on every file."
+  - q: "Can a startup get an SBA loan?"
+    a: "Yes, but it's harder. Startups can't show historical cash flow, so lenders lean harder on the business plan, owner credit, collateral, and industry experience. The SBA Microloan program is often the most accessible route for true startups. The SBA also works with Small Business Development Centers (SBDCs), which offer free advising and can help you build a fundable application. The Consumer Financial Protection Bureau also offers small business resources that can help you understand your rights and options when working with lenders."
+  - q: "What credit score do I need for an SBA loan?"
+    a: "There's no single official minimum, but in practice most SBA lenders want to see a personal FICO score of at least 650, with 680 or higher preferred. Some lenders use the SBA's SBSS (Small Business Scoring Service) score, which factors in both personal and business credit. Your score is one input, not the whole picture, but a score below 620 makes approval very difficult at most institutions."
+  - q: "What happens if I default on an SBA loan?"
+    a: "This is serious. Because you sign a personal guarantee on most SBA loans, the lender and the SBA can pursue your personal assets, not just business assets. The SBA's guarantee protects the lender, not you. Defaulting on an SBA loan can result in wage garnishment, liens on property, and a government delinquency that bars you from future federal assistance. If you're struggling with payments, contact your lender immediately. The SBA does have an Offer in Compromise program that allows settlement in certain hardship situations, but it's a lengthy and uncertain process."
+  - q: "Do I need a business bank account to apply?"
+    a: "You should have one, and most lenders will require at least 12 months of business bank statements. Beyond the application, operating your business through a dedicated business account is fundamental to keeping clean financial records. Mixing personal and business finances is one of the most common accounting mistakes I see, and it creates serious problems at tax time and during any loan underwriting process."
 ---
 
 You've found a lender who says they do SBA loans. You've got a business idea, maybe even a few years of revenue behind you. So you fill out the pre-qualification form, wait two weeks, and then get a vague email saying you "don't quite meet the requirements." No explanation. No roadmap. Just a polite rejection and a suggestion to try again later.

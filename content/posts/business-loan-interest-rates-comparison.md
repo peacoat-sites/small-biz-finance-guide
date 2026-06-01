@@ -10,6 +10,17 @@ author: "Maria Vasquez"
 author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "business-loan-interest-rates-comparison"
 affiliate_disclosure: true
+faqs:
+  - q: "What is a good interest rate for a small business loan?"
+    a: "That genuinely depends on the loan type and your business profile. For an SBA 7(a) loan, a rate in the low-to-mid teens is competitive right now. For a conventional bank loan, something close to prime plus 2 to 4 points is reasonable for a well-qualified borrower. For online lenders, rates under 20% APR are generally on the better end of what's available for shorter-term products. The best rate is the one you can service comfortably with your current cash flow, not just the lowest headline number. A CPA or financial advisor can help you evaluate this in the context of your actual numbers."
+  - q: "Is it better to get a fixed or variable rate business loan?"
+    a: "Fixed rates give you predictability. Your payment stays the same regardless of what happens to benchmark rates. Variable rates, which often track the prime rate or SOFR, may start lower but can move up over time. For longer loan terms, fixed rates are usually the safer choice. For short-term loans, the difference matters less because rate movements over 12 to 24 months tend to be modest."
+  - q: "Can I negotiate a lower interest rate with a lender?"
+    a: "Yes, and more people should try. Bringing competing offers to the table is one of the most effective ways to negotiate. Lenders, especially community banks, have some discretion in pricing. If you have a strong relationship with a bank, a clean credit history, or collateral to offer, those are all legitimate grounds for asking for better terms."
+  - q: "How does my personal credit score affect my business loan rate?"
+    a: "For most small businesses, especially those under five years old, personal credit is a primary underwriting factor. Lenders don't have enough business history to rely solely on the business's profile, so they look at the owner as a proxy for financial behavior. A score above 700 generally opens up better products and better rates. Below 650, many traditional lenders will pass, and you'll be looking at higher-cost alternatives."
+  - q: "Are online lenders ever worth the higher rates?"
+    a: "Sometimes, yes. If you have a specific, short-term need like buying inventory ahead of a seasonal rush, and the math shows the profit from that inventory more than covers the higher borrowing cost, an online loan can make sense. Speed and accessibility have real value in certain situations. What I'd caution against is using high-rate debt to cover operating shortfalls or ongoing expenses. That's a cycle that's hard to break out of."
 ---
 
 You just got off a call with your bank. They quoted you an interest rate of 9.5% on a business term loan. Then a friend mentions her online lender offered her 24%. Another business owner in your Facebook group is bragging about his SBA loan at 6.8%. You're staring at three completely different numbers, and you have no idea if any of them are good, bad, or somewhere in between. That confusion is completely normal, and it's exactly where I want to start.

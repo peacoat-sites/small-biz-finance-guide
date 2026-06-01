@@ -10,6 +10,17 @@ author: "Frank Medina"
 author_bio: "Small business CFO and financial consultant with 18 years helping entrepreneurs set up clean financial systems. Former CPA."
 slug: "small-business-bookkeeping-guide"
 affiliate_disclosure: true
+faqs:
+  - q: "Do I need to hire a bookkeeper or can I do it myself?"
+    a: "That depends on volume and complexity. If you have fewer than 100 transactions a month and no employees, you can likely manage it yourself with decent software and a monthly routine. Once you add payroll, inventory, multiple revenue streams, or serious growth, hiring a part-time bookkeeper (typically 5 to 10 hours a month for a small operation) usually pays for itself in time saved and errors caught. A bookkeeper is not a CPA. You'll likely still want a CPA for year-end taxes and strategic decisions."
+  - q: "How often should I reconcile my bank accounts?"
+    a: "Monthly is the minimum. If your transaction volume is high, weekly reconciliation catches errors before they compound. The longer you wait, the harder it is to track down discrepancies and the harder it is to have an accurate sense of your cash position."
+  - q: "What records do I actually need to keep, and for how long?"
+    a: "The IRS generally recommends keeping records that support your tax return for at least three years, which is the standard audit window. Situations involving fraud, unreported income, or certain deductions can extend that window to six or seven years. Keep employment tax records for at least four years. Source documents like receipts, invoices, and bank statements should be stored securely, either physically or digitally."
+  - q: "What's the difference between a bookkeeper and a CPA, and do I need both?"
+    a: "A bookkeeper records and organizes financial transactions. A CPA (Certified Public Accountant) is a licensed professional who can prepare tax returns, provide financial advice, represent you in front of the IRS, and offer strategic planning. Many small businesses benefit from both: a bookkeeper keeps the day-to-day records clean, and a CPA handles year-end taxes and bigger financial decisions. Always consult a CPA for tax-specific questions. Tax law is complex and the consequences of getting it wrong are real."
+  - q: "Can I deduct my bookkeeping software and bookkeeper costs as a business expense?"
+    a: "Generally yes, bookkeeping software subscriptions and fees paid to a bookkeeper are ordinary and necessary business expenses and are typically deductible. However, tax rules have nuances and your specific situation matters. Please consult a CPA to confirm what's deductible in your case and to make sure you're claiming deductions correctly."
 ---
 
 Most small business owners don't realize they have a bookkeeping problem until tax season hits and their accountant sends back a panicked email asking why there are eighteen months of unreconciled bank transactions. I've seen it happen to restaurant owners, freelance designers, contractors, even a dentist with a six-figure practice. The books were a mess, the CPA bill doubled because of cleanup work, and the owner had no real idea whether the business had been profitable for the past year. That's not a tax problem. It's a bookkeeping problem, and it starts long before April.

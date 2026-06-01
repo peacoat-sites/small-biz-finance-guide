@@ -10,6 +10,17 @@ author: "James O'Brien"
 author_bio: "Enrolled agent and small business tax specialist. Focuses on tax planning and bookkeeping for self-employed and small businesses."
 slug: "workers-comp-insurance-small-business"
 affiliate_disclosure: true
+faqs:
+  - q: "Do I need workers' comp if I only have one employee?"
+    a: "In many states, yes. Several states require coverage as soon as you have a single employee. A few states have thresholds of three or more employees, but you cannot assume you're exempt without checking your state's specific rules. One employee is still one person who can get hurt."
+  - q: "Can I cover myself as a business owner under workers' comp?"
+    a: "It depends on your business structure and your state. Sole proprietors and partners are often excluded from mandatory coverage but can opt in. Corporate officers may be automatically included or may have the option to exclude themselves. If you're doing physical work in your own business, opting in is worth considering. Consult a licensed insurance broker in your state to understand your options."
+  - q: "What happens if I don't carry workers' comp when I'm required to?"
+    a: "The consequences range from significant fines and penalties to being personally liable for any employee injuries that occur. Some states stop-order businesses that operate without required coverage. Beyond the legal penalties, you lose the protection the system provides. One serious injury without coverage could create financial liability that takes years to resolve."
+  - q: "Are independent contractors covered under my workers' comp policy?"
+    a: "Generally, no. Workers' comp applies to employees, not contractors. But here's the risk: if a contractor is misclassified and a state agency or court determines they were actually functioning as an employee, you may be liable for their injury costs. This is exactly why proper worker classification matters. See the details on 1099 vs W2 classification to understand how that distinction is drawn."
+  - q: "Does workers' comp cover remote employees?"
+    a: "Yes. If an employee is injured while performing work-related duties at home, that injury can be a compensable workers' comp claim. The challenge is that remote injuries are harder to verify and investigate. Having a clear remote work policy that defines work hours and a designated work area is useful documentation if a claim ever arises."
 ---
 
 You hire a part-time delivery driver. Three weeks in, he slips on a wet floor at a client's office, breaks his wrist, and can't work for six weeks. The medical bills hit $14,000. If you don't have workers' comp insurance, you may be paying that out of pocket, plus lost wages, plus potential legal fees if he decides to sue. That scenario plays out thousands of times a year across the country, and most of the business owners it happens to thought they were too small to worry about it.

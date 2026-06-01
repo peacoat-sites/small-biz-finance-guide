@@ -10,6 +10,17 @@ author: "Claire Novak"
 author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "sba-microloan-program"
 affiliate_disclosure: true
+faqs:
+  - q: "Can I get a Microloan if my business is brand new?"
+    a: "Yes. The SBA Microloan program explicitly supports startups. You won't need years of tax returns or revenue history, but you will need a credible business plan and some explanation of how you'll generate enough revenue to repay the loan."
+  - q: "Will applying hurt my credit score?"
+    a: "Most intermediaries will run a credit check, which is a hard inquiry and can cause a small, temporary dip in your score. The impact is usually minimal, and getting approved and repaying on time can help your credit profile over the longer term."
+  - q: "How long does the approval process take?"
+    a: "It varies by intermediary and how complete your application is, but expect anywhere from two to eight weeks from initial contact to funding. It's slower than a fintech lender, but the rates and terms are meaningfully better."
+  - q: "Can I apply to more than one intermediary?"
+    a: "Technically, yes, but it's not a great strategy. Multiple hard inquiries in a short period look unfavorable, and intermediaries often serve exclusive territories anyway. Focus on the best-fit lender for your region and situation."
+  - q: "What if I get turned down?"
+    a: "Ask for specific feedback. Many intermediaries will tell you exactly what was missing. Common gaps are an incomplete business plan, no clear repayment story, or credit issues that need addressing first. A free consultation through SCORE (score.org) can help you shore up a weak application before you try again."
 ---
 
 You've got a business idea, a solid plan, and maybe $8,000 in the bank. The bank says no. The credit card limit won't cover what you need. And every SBA loan guide you find online talks about $250,000 minimums and two years of tax returns like you're already a mid-size operation. If that's where you are right now, the SBA Microloan program is probably the most relevant funding option you haven't looked at closely enough.

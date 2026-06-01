@@ -10,6 +10,17 @@ author: "James O'Brien"
 author_bio: "Enrolled agent and small business tax specialist. Focuses on tax planning and bookkeeping for self-employed and small businesses."
 slug: "small-business-grants-available"
 affiliate_disclosure: true
+faqs:
+  - q: "Are small business grants really free money?"
+    a: "Yes and no. The funds don't need to be repaid, which makes them different from loans. But they're not truly 'free' in the sense that they require significant time to find and apply for, and they usually come with reporting requirements and restrictions on how the money can be used. Think of it less as free money and more as competitively earned funding."
+  - q: "Will a grant affect my taxes?"
+    a: "Generally, yes. Most business grants are considered taxable income at the federal level and often at the state level as well. There are some exceptions, particularly for grants from government programs tied to specific disaster relief or agricultural purposes. The rules can get complicated quickly. Talk to a CPA before you spend grant funds, especially if you're receiving a large amount."
+  - q: "Can I apply for multiple grants at the same time?"
+    a: "Absolutely, and you should. There's no rule against applying to multiple grants simultaneously. In fact, layering multiple smaller grants is a common strategy. Just make sure you're tracking the terms of each one carefully so your use-of-funds plans don't conflict with any grant's restrictions."
+  - q: "What are my chances of actually getting a grant?"
+    a: "It varies enormously depending on the grant, the applicant pool, and how well your application aligns with the funder's priorities. Some local grants have acceptance rates above 20%. National competitions with thousands of applicants might award 0.5% of the pool. There's no universal answer. What I can tell you is that owners who apply to 10 well-matched grants have a meaningfully better outcome than those who apply to one and wait."
+  - q: "I don't have a formal business plan. Can I still apply?"
+    a: "For many smaller grants and local programs, a full formal business plan isn't required. A clear, well-written executive summary describing your business, your market, your financials, and your goals will often suffice. That said, if you're targeting larger or more competitive grants, a professional business plan strengthens your application considerably. Resources like The Lean Startup by Eric Ries or Business Plan Pro software can help you build one efficiently. (Disclosure: this site may earn a commission on Amazon purchases.)"
 ---
 
 Imagine you find out a competitor down the street just received $25,000 to expand their storefront, and they didn't take out a single loan to do it. No debt. No interest payments. No equity given up. They applied for a small business grant, got approved, and used the money to grow. Your first reaction might be skepticism. Your second should be: why haven't I looked into this?

@@ -10,6 +10,17 @@ author: "James O'Brien"
 author_bio: "Enrolled agent and small business tax specialist. Focuses on tax planning and bookkeeping for self-employed and small businesses."
 slug: "independent-contractor-vs-employee"
 affiliate_disclosure: true
+faqs:
+  - q: "Can I call someone a contractor just because we both agree to it?"
+    a: "No. The label you put on a relationship doesn't determine its legal classification. The IRS, Department of Labor, and state agencies look at the actual nature of the working relationship, not what it says on a contract or an invoice. Mutual agreement to classify someone as a contractor offers you very little legal protection if the facts point to an employment relationship."
+  - q: "What's the difference between a 1099 worker and an independent contractor?"
+    a: "They're the same thing in common usage. '1099 worker' just refers to the tax form (1099-NEC) used to report payments to independent contractors. It's not a legal category in itself. The underlying classification rules still apply regardless of what form is used."
+  - q: "If I use a staffing agency, am I off the hook for misclassification?"
+    a: "Usually, but not entirely. If a staffing agency places a worker at your business, the agency is typically the employer of record. But if the day-to-day reality is that you control the worker's schedule, methods, and tasks like you would an employee, some agencies have joint employer relationships with clients. Review your staffing agreement and understand where employer liability sits."
+  - q: "Does it matter what state I'm in?"
+    a: "It matters a lot. Some states, California being the clearest example, have adopted very strict ABC tests that make it significantly harder to classify workers as independent contractors. Other states follow federal guidelines more closely. Always check your specific state's rules. A CPA or employment attorney in your state is the right person to ask."
+  - q: "What if I've already been misclassifying workers? Is there a way to fix it?"
+    a: "The IRS has a voluntary program called the Voluntary Classification Settlement Program (VCSP) that lets eligible businesses reclassify workers as employees and pay a reduced penalty for past misclassification, rather than waiting to get caught. It's not a free pass, but it's significantly less painful than a full audit. Consult a CPA before applying, because there are eligibility requirements and the decision has lasting implications for your payroll structure going forward."
 ---
 
 You hire a talented web designer to rebuild your site. She works from home, sets her own hours, uses her own software, and you pay her a flat project fee. Six months later, you get a letter from the IRS saying you misclassified her as an independent contractor when she should have been an employee. Now you owe back payroll taxes, penalties, and interest. This scenario plays out thousands of times every year, and most business owners who get caught had no idea they were doing anything wrong.

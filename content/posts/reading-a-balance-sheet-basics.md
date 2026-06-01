@@ -10,6 +10,17 @@ author: "Dana Hargrove"
 author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "reading-a-balance-sheet-basics"
 affiliate_disclosure: true
+faqs:
+  - q: "Do I need an accountant to understand my balance sheet?"
+    a: "You don't need one to read it, but you should have one preparing it. A CPA or bookkeeper builds the balance sheet correctly and ensures it follows proper accounting standards. Understanding what you're looking at is your job. Making sure it was built accurately is theirs. For anything involving tax implications or a financing decision, always consult a CPA before acting on what you see."
+  - q: "How often should I be looking at my balance sheet?"
+    a: "At minimum, monthly. I'd argue it should be part of a simple monthly financial review alongside your P&L and a cash flow statement. Looking only at year-end means you're getting bad news long after you could have done something about it."
+  - q: "What's the difference between book value and market value on a balance sheet?"
+    a: "Book value is what an asset is recorded as on the balance sheet, usually original cost minus any depreciation. Market value is what that asset would actually sell for today. Real estate, equipment, and inventory can diverge significantly between book and market value. A building bought in 2005 for $300,000 might be worth $700,000 today, but it'll show at book value on the balance sheet, less depreciation. Keep that in mind when using balance sheets to assess actual business worth."
+  - q: "My balance sheet shows negative equity. Is my business failing?"
+    a: "Not necessarily, though it warrants serious attention. Negative equity means accumulated losses exceed invested capital. Some businesses operate in negative equity intentionally, particularly when they're early-stage and pre-profit, or when they've borrowed heavily to fund growth. The question is whether cash flow can service the debt and whether the trajectory is improving. A CPA can help you understand whether the situation is structural or a short-term pattern."
+  - q: "Can a balance sheet be manipulated?"
+    a: "Yes, and understanding that is part of financial literacy. Companies can time asset purchases or delay recording liabilities to make a snapshot look better than reality. Aggressive depreciation schedules, inflated inventory valuations, and premature revenue recognition are all things that can distort the picture. That's why audited financial statements matter for any serious transaction, and why asking questions when numbers don't feel right is always the right move."
 ---
 
 You're sitting across from a banker, a potential investor, or maybe just your own accountant, and someone slides a page of numbers in front of you. Three columns, a bunch of line items, totals at the bottom. Everyone in the room assumes you understand it. You nod. You don't fully understand it. I've watched this exact moment happen to smart, capable business owners more times than I can count, and it never has to go that way.

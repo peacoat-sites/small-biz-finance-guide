@@ -10,6 +10,17 @@ author: "Angela Torres"
 author_bio: "Small business development advisor and former SBDC counselor. Has helped 300+ businesses with financial planning."
 slug: "how-to-separate-business-personal-finances"
 affiliate_disclosure: true
+faqs:
+  - q: "Do I need an LLC to separate my business and personal finances?"
+    a: "No. Even if you operate as a sole proprietor with no formal business entity, you should still have a separate business checking account and credit card. You won't have the liability protection that an LLC provides, but you'll still have cleaner books, easier tax prep, and better financial visibility. The separation is good practice regardless of legal structure."
+  - q: "Can I reimburse myself for personal money I already spent on business expenses?"
+    a: "Yes, and you should. Document the purchase with a receipt, note the business purpose, and write yourself a reimbursement check from the business account. Keep a record of it in your accounting software just like any other expense. Going forward, try to pay for business expenses directly from the business account to avoid this extra step."
+  - q: "What happens if I accidentally pay a personal bill from my business account?"
+    a: "It happens. Fix it by recording it in your accounting software as an 'owner's draw' rather than a business expense. That way it doesn't distort your profit and loss statements, and it's still documented. Don't just delete the transaction or pretend it didn't happen."
+  - q: "How many business bank accounts do I actually need?"
+    a: "At minimum, one business checking account. Once your cash flow is more predictable, a second account for taxes (set aside 25 to 30 percent of net income there each month) and a third for operating reserves is a solid structure. Some business owners follow the Profit First model with even more accounts, but two to three handles most small business situations cleanly."
+  - q: "Is business credit card interest tax deductible?"
+    a: "Interest on credit cards used exclusively for business is generally deductible as a business expense. However, if you use a card for both personal and business spending, only the business portion is deductible, and you'll need documentation to support that split. This is another reason a dedicated business card, used only for business, makes your life easier. Consult your CPA to confirm what applies to your specific situation."
 ---
 
 You opened your personal checking account statement last month and spent twenty minutes trying to figure out which Amazon charge was a business supply order and which one was the birthday gift you bought your nephew. If that sounds familiar, you're not alone, and the problem is costing you more than just time.
