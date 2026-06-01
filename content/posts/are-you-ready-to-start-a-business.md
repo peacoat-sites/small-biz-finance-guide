@@ -1,4 +1,5 @@
 ---
+quiz_page: true
 title: "Are You Ready to Start a Business? Take the 7-Question Quiz"
 description: "A quick 7-question quiz to gauge whether your habits, savings cushion, and mindset point to business readiness. For self-reflection, not financial advice."
 slug: "are-you-ready-to-start-a-business"
