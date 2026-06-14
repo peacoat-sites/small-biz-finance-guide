@@ -6,8 +6,6 @@ description: "Discover the top small business tax deductions you could be claimi
 image: "https://images.pexels.com/photos/23496867/pexels-photo-23496867.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Taxes"]
 tags: ["small", "business", "deductions"]
-author: "Frank Medina"
-author_bio: "Small business CFO and financial consultant with 18 years helping entrepreneurs set up clean financial systems. Former CPA."
 slug: "small-business-tax-deductions"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It depends on how your LLC is structured. A single-member LLC is treated as a 'disregarded entity' by default, which means its income and expenses flow to your personal return on Schedule C. A multi-member LLC files a partnership return (Form 1065). An LLC taxed as an S-corp files Form 1120-S. The structure matters for both tax treatment and self-employment tax, and it's worth reviewing with a CPA if you haven't already."
   - q: "How long should I keep tax records?"
     a: "The IRS generally has three years from your filing date to audit your return, assuming you've reported your income fully. That window extends to six years if the IRS believes you've underreported income by more than 25%, and there's no time limit in cases of fraud. A practical rule: keep all business tax records and supporting documentation for at least seven years. Digital storage makes this easy. There's no reason to throw anything away."
+author: "Sarah Johnson"
+author_slug: "sarah-johnson"
+author_title: "CPA & Lead Editor"
+author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
+
 ---
 
 Let's say you paid $4,800 last year for a business phone plan, office supplies, accounting software, and a work-related online course. If you didn't track those expenses or claim them as deductions, you handed that money to the IRS without a fight. That's not a tax strategy. That's a donation.

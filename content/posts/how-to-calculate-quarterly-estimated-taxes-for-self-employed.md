@@ -6,8 +6,6 @@ description: "Learn how to calculate quarterly estimated taxes if you're self-em
 image: "https://images.pexels.com/photos/5196829/pexels-photo-5196829.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Taxes"]
 tags: ["calculate", "quarterly", "estimated", "taxes", "self"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-to-calculate-quarterly-estimated-taxes-for-self-employed"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This is common for freelancers and seasonal businesses. The safest approach is to use the prior-year safe harbor method (100% of last year's tax, divided by four) so your payment amount doesn't depend on predicting an unpredictable income stream. Alternatively, you can use the 'annualized income installment method' on Form 2210, which allows you to calculate each quarter's payment based on what you actually earned through that point in the year. It's more paperwork, but it can reduce penalties if your income is back-loaded."
   - q: "Does a side hustle count if I have a W-2 job too?"
     a: "Yes, and this is a common situation. If you have a regular job with withholding and you also have freelance or side business income, you need to estimate whether your W-2 withholding plus any side income taxes will fall short of the $1,000 threshold. One option is to increase your W-2 withholding (by filing a new W-4 with your employer) to cover your side income taxes, which eliminates the need for separate quarterly payments. It's a clean solution if the side income is relatively predictable."
+author: "David Kim"
+author_slug: "david-kim"
+author_title: "Tax Strategist"
+author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
+
 ---
 
 Most advice about quarterly estimated taxes starts in the wrong place. It leads with the IRS payment schedule, or maybe a vague warning about penalties, and skips the thing you actually need first: a clear picture of what you're estimating and why the math works the way it does. So let's fix that.

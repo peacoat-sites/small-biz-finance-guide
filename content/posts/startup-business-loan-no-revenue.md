@@ -6,8 +6,6 @@ description: "Get a startup business loan with no revenue. Explore top lenders, 
 image: "https://images.pexels.com/photos/5912592/pexels-photo-5912592.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Financing"]
 tags: ["startup", "business", "loan", "revenue"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "startup-business-loan-no-revenue"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Almost universally, yes. If you're borrowing as a startup with no revenue, expect to personally guarantee the debt. This means the lender can come after your personal assets if the business defaults. Understand what you're signing before you sign it, and consult a CPA or business attorney about the implications."
   - q: "What's the difference between a startup loan and startup investment?"
     a: "A loan has to be repaid on a fixed schedule with interest, regardless of whether your business succeeds. An investment (equity financing) means someone gives you capital in exchange for ownership, and their return depends on the business performing. Loans make more sense when you can model a clear repayment path. Equity might make more sense when your capital needs are large and your path to profitability is longer or less certain."
+author: "Rachel Green"
+author_slug: "rachel-green"
+author_title: "CFO Consultant"
+author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
+
 ---
 
 Most people assume you need revenue to get a business loan. I used to tell clients the same thing, more or less. Then I started digging into what lenders are actually approving right now, and what surprised me was how much the landscape has shifted, especially for pre-revenue startups who show up prepared. You're not locked out. But you do need to understand what you're actually selling to a lender when you have no sales history to show them.

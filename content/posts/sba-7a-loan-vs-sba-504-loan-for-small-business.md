@@ -6,8 +6,6 @@ description: "Compare SBA 7a and SBA 504 loans to find the best fit for your sma
 image: "https://images.pexels.com/photos/6693667/pexels-photo-6693667.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Financing"]
 tags: ["loan", "loan", "small", "business"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "sba-7a-loan-vs-sba-504-loan-for-small-business"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "For established businesses buying a standard-use property, yes, 10% is the standard down payment. It goes to 15% if your business is under two years old, and 20% for special-use properties like gas stations, hotels, or car washes. That's still considerably less than the 25-30% most conventional commercial lenders require, which is a meaningful advantage."
   - q: "Can I apply for both a 7(a) and a 504 at the same time?"
     a: "Generally no. You can't use both programs to finance the same project. In theory, a business could have one loan of each type for different purposes at different times, but you can't stack them on the same transaction. If you're unsure which fits your situation, a conversation with an SBA lender and a CDC simultaneously will get you an honest read faster than researching it alone."
+author: "Sarah Johnson"
+author_slug: "sarah-johnson"
+author_title: "CPA & Lead Editor"
+author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
+
 ---
 
 Most business owners walk into an SBA loan conversation knowing two things: the loans exist, and they're supposedly hard to get. That's about where the useful public knowledge ends. The 7(a) and the 504 get lumped together constantly, treated like two flavors of the same thing, and that framing costs people real money.

@@ -6,8 +6,11 @@ description: "Mixing personal and business money is one of the most common small
 image: "https://images.pexels.com/photos/7691664/pexels-photo-7691664.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Accounting"]
 tags: ["business banking", "LLC protection", "bookkeeping", "small business finance"]
-author: "Frank Medina"
-author_bio: "Small business CFO and financial consultant with 18 years helping entrepreneurs set up clean financial systems. Former CPA with a regional accounting firm."
+author: "Sarah Johnson"
+author_slug: "sarah-johnson"
+author_title: "CPA & Lead Editor"
+author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
+
 ---
 
 If you're running a business and your business income lands in your personal checking account, you're working with a time bomb. It's one of the most common mistakes small business owners make -- and one of the most fixable.

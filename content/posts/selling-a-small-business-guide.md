@@ -6,8 +6,6 @@ description: "Learn how to sell your small business successfully with our step-b
 image: "https://images.pexels.com/photos/27917098/pexels-photo-27917098.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Strategy"]
 tags: ["selling", "small", "business", "guide"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "selling-a-small-business-guide"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This is genuinely one of the hardest judgment calls in the process, and the honest answer is: it depends. Telling key employees too early can trigger departures that hurt the business value and complicate the sale. Not telling them at all and having them find out secondhand destroys trust. Many sellers bring in one or two key people confidentially once a deal is close to signed, with non-disclosure agreements in place. Your broker or attorney can help you think through the timing."
   - q: "What are the tax implications of selling my business?"
     a: "This varies significantly based on deal structure (asset vs. stock sale), what types of assets are being sold, how long you've owned them, and your overall tax situation. Capital gains rates apply to some proceeds; ordinary income rates apply to others, particularly proceeds allocated to inventory, non-compete agreements, or certain other categories. I can't tell you what your tax bill will be, and neither can any article. Consult a CPA well before closing. The tax planning done in the 12 to 24 months before a sale can make a real difference in what you keep."
+author: "David Kim"
+author_slug: "david-kim"
+author_title: "Tax Strategist"
+author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
+
 ---
 
 Most business owners spend years building something valuable, then give away a significant chunk of that value in the final six months before the sale. I've watched it happen more times than I'd like to admit. A seller gets an offer, gets excited, skips the preparation phase, and ends up leaving real money on the table, not because they were careless people, but because they didn't know what buyers actually look for when they open the hood. Selling a business is a completely different skill set than running one. And most people only do it once.

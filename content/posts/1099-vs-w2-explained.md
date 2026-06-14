@@ -6,8 +6,6 @@ description: "1099 vs W2 explained: Compare independent contractor and employee 
 image: "https://images.pexels.com/photos/7821702/pexels-photo-7821702.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["HR"]
 tags: ["1099", "explained"]
-author: "James O'Brien"
-author_bio: "Enrolled agent and small business tax specialist. Focuses on tax planning and bookkeeping for self-employed and small businesses."
 slug: "1099-vs-w2-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Lenders look at your payroll records and total labor costs when assessing your business. Having legitimate contractor relationships properly documented is fine. Messy records, unresolved misclassification issues, or a pattern of 1099s that should have been W-2s can create complications during underwriting. If you're preparing to apply for financing, cleaning up your classification practices in advance is worth the effort. The guide on how to get a small business loan covers what lenders actually look at."
   - q: "Are there any situations where a worker can be both a contractor and an employee?"
     a: "Generally not with the same employer at the same time. The IRS looks at the totality of the relationship, so you can't classify the same work as both employment and contracting to split your obligations. However, someone could genuinely be an employee for one business and an independent contractor for a separate, unrelated business they run on the side. That's their situation to manage, not yours, as long as your portion of the relationship is properly classified."
+author: "Sarah Johnson"
+author_slug: "sarah-johnson"
+author_title: "CPA & Lead Editor"
+author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
+
 ---
 
 You hired a web developer last spring. She worked 30 hours a week for four months, used your equipment, followed your schedule, and you paid her a flat rate every two weeks. Come January, you sent her a 1099. Now she's saying you should have been withholding taxes the whole time, and your accountant is giving you a look you don't like. This situation plays out thousands of times every year, and the stakes are real: misclassifying a worker can result in back taxes, penalties, and interest that add up fast.

@@ -6,8 +6,6 @@ description: "Invoice factoring explained: Learn how businesses sell unpaid invo
 image: "https://images.pexels.com/photos/1181406/pexels-photo-1181406.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Financing"]
 tags: ["invoice", "factoring", "explained"]
-author: "Angela Torres"
-author_bio: "Small business development advisor and former SBDC counselor. Has helped 300+ businesses with financial planning."
 slug: "invoice-factoring-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Invoice financing (also called accounts receivable financing) is a loan against your receivables. You retain ownership of the invoices and collect payments yourself. The receivables serve as collateral. With factoring, you actually sell the invoices. Invoice financing tends to be quieter since your clients don't know about it, but it is debt on your books. The cost structures are different, and which one is better depends on your situation. Consult a CPA or financial advisor before choosing."
   - q: "Are there long-term contracts with factoring companies?"
     a: "Some factors require you to sign 12 to 24 month contracts with monthly minimum volumes. Others offer spot factoring or month-to-month terms. The longer the contract and the higher the minimum, the more locked in you are. If flexibility matters to you, negotiate hard on these terms or look specifically for spot factoring providers. Read the termination clause carefully; some have steep early exit fees."
+author: "Amanda Pierce"
+author_slug: "amanda-pierce"
+author_title: "Operations Finance Writer"
+author_bio: "Amanda Pierce has run her own small business and knows the difference between profitability on paper and actually having money in the bank. She specializes in the operational side of business finances: invoicing systems, cash flow forecasting, dealing with slow-paying clients, and managing the day-to-day money reality of running a small business. At Small Biz Finance Guide, she covers cash flow tools, payment systems, and operational finance."
+
 ---
 
 You sent the invoice on March 3rd. It's now April 18th. Your client,  a legitimate company, not a deadbeat,  has a 60-day payment term. That means you might see the money around May 3rd. Meanwhile, your supplier wants payment in 15 days, your part-time contractor is expecting a check Friday, and your business checking account looks like it's on a diet. This is the cash flow gap that kills otherwise healthy businesses. Invoice factoring exists specifically to solve this problem, and it's more accessible than most small business owners realize.

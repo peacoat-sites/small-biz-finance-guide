@@ -6,8 +6,6 @@ description: "Discover how SBA 504 loans can help you finance commercial propert
 image: "https://images.pexels.com/photos/8293638/pexels-photo-8293638.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Financing"]
 tags: ["loan", "commercial", "property"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "sba-504-loan-commercial-property"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The SBA guarantees the CDC's 40% portion. If the borrower defaults, the SBA ultimately backs that piece, which is why they're careful about underwriting. The bank's 50% is in a senior lien position, so they get first claim on the property in a foreclosure. Personal guarantees are required for owners with 20% or more stake in the business, meaning your personal assets can be at risk."
   - q: "Are there prepayment penalties on a 504 loan?"
     a: "Yes, and this catches people off guard. The SBA 504 carries a prepayment penalty for the first ten years of the loan, structured as a declining percentage. It's front-loaded: the penalty is highest in early years and phases out. If you're considering selling the property or refinancing within the first decade, understand this cost before you commit."
+author: "David Kim"
+author_slug: "david-kim"
+author_title: "Tax Strategist"
+author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
+
 ---
 
 Most small business owners assume that buying commercial property is something you do *after* you've made it. Save up a big down payment, prove you're already successful, then maybe a bank will look at you. What I found when I went deep on SBA 504 loans is that this assumption is exactly backward. The 504 program was specifically designed to get businesses into owned real estate *earlier*, with less cash out of pocket, and at fixed rates that make long-term planning actually possible. After watching clients struggle for years with landlords raising rents and lease uncertainty, I'll be honest: I wish I'd pushed more of them toward this option sooner.

@@ -6,8 +6,6 @@ description: "Protect your small business from costly data breaches and cyberatt
 image: "https://images.pexels.com/photos/8962452/pexels-photo-8962452.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Insurance"]
 tags: ["cyber", "liability", "insurance", "small", "business"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "cyber-liability-insurance-small-business"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "They'll look at your industry, revenue, how many customer records you hold, what security controls you have in place, and your claims history. Healthcare and financial services businesses pay more. A company with documented security training programs and MFA in place may get better rates than one with neither."
   - q: "What should I do immediately after a breach if I have cyber insurance?"
     a: "Call your insurer or the breach response hotline on your policy before you do almost anything else. Seriously, before you call a random IT vendor, before you notify customers, before you post anything publicly. Many policies require prompt notification to the insurer as a condition of coverage, and your insurer may have pre-approved vendors who cost you nothing out of pocket. Acting on your own first can complicate the claim."
+author: "Rachel Green"
+author_slug: "rachel-green"
+author_title: "CFO Consultant"
+author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
+
 ---
 
 Most small business owners I talk to don't think about cyber liability insurance until after something goes wrong. A client's credit card data gets lifted. A ransomware attack freezes the booking system for a week. An employee clicks a phishing email and suddenly the payroll account is drained. By then, of course, it's too late to buy the policy you wish you'd had.

@@ -6,8 +6,6 @@ description: "Learn practical invoicing tips for small business owners to get pa
 image: "https://images.pexels.com/photos/7644016/pexels-photo-7644016.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cash Flow"]
 tags: ["invoicing", "tips", "small", "business"]
-author: "Frank Medina"
-author_bio: "Small business CFO and financial consultant with 18 years helping entrepreneurs set up clean financial systems. Former CPA."
 slug: "invoicing-tips-for-small-business"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. Almost always. A deposit, typically 25 to 50 percent upfront, does three things: it filters out clients who aren't serious, it covers your initial costs and time, and it creates a psychological commitment that makes the client more engaged in the project. I've rarely seen a client who refused a reasonable deposit become a great long-term customer."
   - q: "What's the best free invoicing tool for a solo freelancer?"
     a: "Wave is consistently solid. It's free, it handles invoicing and basic accounting, it sends automatic reminders, and it connects to a payment processor if you want to accept credit cards (fees apply for card processing). For most solo freelancers billing under six figures, Wave handles everything you need."
+author: "Sarah Johnson"
+author_slug: "sarah-johnson"
+author_title: "CPA & Lead Editor"
+author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
+
 ---
 
 You send the invoice. Then you wait. A week goes by. Then two. You follow up, feeling awkward about it, and the client responds with "Oh, I didn't get that" or "We'll process it next cycle." Meanwhile, your rent is due and your cash flow looks like a heart monitor after a sprint. If you've been in business more than six months, you know this feeling. And the frustrating part is that most of the pain is preventable.

@@ -6,8 +6,6 @@ description: "Learn how to write a startup financial plan that attracts investor
 image: "https://images.pexels.com/photos/8962451/pexels-photo-8962451.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Financial Planning"]
 tags: ["write", "startup", "financial", "plan", "investors"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "how-to-write-a-startup-financial-plan-for-investors"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "If you genuinely don't have the spreadsheet skills, yes, bring in a fractional CFO or a CPA with startup experience to help you build it. But you need to understand it deeply before you walk into any investor meeting. An investor will ask you to explain your gross margin assumption or justify your headcount growth, and 'my consultant built this' is a credibility killer. Use outside help to build the structure; own the logic yourself."
   - q: "How is a startup financial plan different from a small business plan?"
     a: "Mostly in what the audience is expecting. A lender reviewing a small business loan wants to see conservative projections, existing cash flow, and repayment capacity. An investor in a startup is often underwriting future potential and expects some level of ambition in the numbers. You're also typically building around a funding-and-growth model rather than a steady-state profitability model. The components are similar; the framing, the assumptions, and the risk tolerance are quite different."
+author: "Michael Torres"
+author_slug: "michael-torres"
+author_title: "Business Loan Writer"
+author_bio: "Michael Torres spent years as a small business banker before moving to the borrower side as a loan consultant. He knows the SBA loan process inside and out, including the parts of the application that most business owners get wrong. At Small Biz Finance Guide, he covers SBA loans, lines of credit, equipment financing, and how to present your business to a lender in the best possible light."
+
 ---
 
 Most founders I've worked with get this backwards. They spend weeks building a beautiful financial model, then hand it to an investor and wonder why the conversation stalls. The problem usually isn't the numbers. It's that the plan reads like a spreadsheet looking for validation instead of a business case looking for a partner.

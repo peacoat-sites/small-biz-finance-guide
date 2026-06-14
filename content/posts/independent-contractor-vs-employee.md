@@ -6,8 +6,6 @@ description: "Independent contractors and employees have different legal classif
 image: "https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["HR"]
 tags: ["independent", "contractor", "employee"]
-author: "James O'Brien"
-author_bio: "Enrolled agent and small business tax specialist. Focuses on tax planning and bookkeeping for self-employed and small businesses."
 slug: "independent-contractor-vs-employee"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It matters a lot. Some states, California being the clearest example, have adopted very strict ABC tests that make it significantly harder to classify workers as independent contractors. Other states follow federal guidelines more closely. Always check your specific state's rules. A CPA or employment attorney in your state is the right person to ask."
   - q: "What if I've already been misclassifying workers? Is there a way to fix it?"
     a: "The IRS has a voluntary program called the Voluntary Classification Settlement Program (VCSP) that lets eligible businesses reclassify workers as employees and pay a reduced penalty for past misclassification, rather than waiting to get caught. It's not a free pass, but it's significantly less painful than a full audit. Consult a CPA before applying, because there are eligibility requirements and the decision has lasting implications for your payroll structure going forward."
+author: "David Kim"
+author_slug: "david-kim"
+author_title: "Tax Strategist"
+author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
+
 ---
 
 You hire a talented web designer to rebuild your site. She works from home, sets her own hours, uses her own software, and you pay her a flat project fee. Six months later, you get a letter from the IRS saying you misclassified her as an independent contractor when she should have been an employee. Now you owe back payroll taxes, penalties, and interest. This scenario plays out thousands of times every year, and most business owners who get caught had no idea they were doing anything wrong.

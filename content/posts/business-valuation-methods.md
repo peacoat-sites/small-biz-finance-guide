@@ -6,8 +6,6 @@ description: "Discover the top business valuation methods used by experts. Learn
 image: "https://images.pexels.com/photos/5942520/pexels-photo-5942520.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Strategy"]
 tags: ["business", "valuation", "methods"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "business-valuation-methods"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "If your business owns real property or significant equipment, it complicates the picture. Some buyers want to purchase the real estate along with the business. Others prefer a lease arrangement. The income approach typically values the business operations separately from the real estate, since a buyer might finance them differently. Get the real property appraised independently. Make sure you're not conflating the two, or you'll struggle to communicate the value clearly."
   - q: "When should I get a valuation if I'm not planning to sell?"
     a: "Honestly? Now. I've had clients come to me saying they just need a quick valuation because they're about to take on a partner, apply for an SBA loan, or draft a buy-sell agreement, and they had no idea what their business was worth. A buy-sell agreement without an agreed valuation method is a lawsuit waiting to happen. A partnership deal without knowing your starting value is a recipe for resentment. Getting a baseline valuation, even a rough one, while there's no pressure is far better than scrambling when there is. If you want to go deeper on the subject, Shannon Pratt's Valuing a Business i"
+author: "David Kim"
+author_slug: "david-kim"
+author_title: "Tax Strategist"
+author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
+
 ---
 
 You just got an offer to buy your business. The number on the table is either going to make you feel like you've been robbed or like you've been handed the lottery. The problem is, you have no idea which one it is. I've seen owners accept offers 40% below what their business was actually worth because they never took the time to understand valuation. I've also seen owners walk away from genuinely fair deals because they were anchored to a number they pulled from thin air. Both outcomes are avoidable, and that's exactly what this article is for.

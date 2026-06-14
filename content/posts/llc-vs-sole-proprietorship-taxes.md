@@ -6,8 +6,6 @@ description: "Compare LLC vs sole proprietorship taxes to find the best structur
 image: "https://images.pexels.com/photos/5583972/pexels-photo-5583972.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Business Structure"]
 tags: ["sole", "proprietorship", "taxes"]
-author: "Priya Nair"
-author_bio: "Business finance educator and startup CFO. Specializes in cash flow management and small business funding strategy."
 slug: "llc-vs-sole-proprietorship-taxes"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "You file Articles of Organization (sometimes called a Certificate of Formation) with your state's business filing office and pay the applicable fee. Most states let you do this online in under an hour. You should also create an operating agreement even if your state doesn't require one, open a separate business bank account, and get an EIN from the IRS (it's free at IRS.gov). Requirements vary by state, so check your state's Secretary of State website or the SBA's business formation resources."
   - q: "If I'm already a sole proprietor mid-year, can I switch structures this year?"
     a: "Yes, but timing matters for taxes. If you form an LLC and elect S-corp status mid-year, the election typically applies to a full tax year unless you're newly forming the entity. There are specific rules about when elections take effect, and getting this wrong can mean your election doesn't apply when you expect it to. This is exactly the kind of detail that warrants a conversation with a CPA before you file Form 2553."
+author: "David Kim"
+author_slug: "david-kim"
+author_title: "Tax Strategist"
+author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
+
 ---
 
 You filed your taxes last April as a sole proprietor, saw that self-employment tax line hit 15.3% on top of your income tax, and thought: wait, would an LLC have saved me money? Maybe a friend told you to "just form an LLC." Maybe you read something online that made it sound like a silver bullet. The truth is more nuanced, and getting it wrong can cost you real money in either direction.

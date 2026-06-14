@@ -6,8 +6,6 @@ description: "Learn how to read and understand small business financial statemen
 image: "https://images.pexels.com/photos/8962441/pexels-photo-8962441.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Accounting"]
 tags: ["small", "business", "financial", "statements"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "small-business-financial-statements"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This is a classic cash flow gap problem. Common causes include customers paying late, rapid growth that requires you to spend ahead of collecting revenue, or holding too much inventory. Your cash flow statement is where to start diagnosing this. Look at your accounts receivable aging report as well, which shows how long invoices have been outstanding. Tightening payment terms or offering early payment incentives can help close the gap."
   - q: "What do lenders actually look at when I apply for a business loan?"
     a: "Most lenders want to see at least two years of financial statements, sometimes three. They'll focus on revenue trends, your debt-to-income ratio, your net profit margin, and your cash flow from operations. A profitable income statement with a weak balance sheet (too much debt) or inconsistent cash flow can still result in a loan denial. This is exactly why maintaining clean, accurate financials year-round matters so much, not just at application time."
+author: "Sarah Johnson"
+author_slug: "sarah-johnson"
+author_title: "CPA & Lead Editor"
+author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
+
 ---
 
 You got the business running. Customers are coming in, sales are happening, money is moving. But somewhere between the excitement of early momentum and the reality of actually *running* a company, you hit a wall. Your bookkeeper hands you three reports at the end of the month, or your accountant emails a PDF before tax season, and you stare at the numbers feeling like you're reading a foreign language. If that's where you are right now, you're not behind. You're exactly where most small business owners are when they first start taking their finances seriously. The goal here is simple: by the time you finish reading this, those documents won't feel intimidating anymore.

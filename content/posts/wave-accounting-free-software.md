@@ -6,8 +6,6 @@ description: "Discover how Wave accounting free software helps small businesses 
 image: "https://images.pexels.com/photos/6694570/pexels-photo-6694570.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Accounting"]
 tags: ["Wave", "accounting", "free", "software"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "wave-accounting-free-software"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "QuickBooks Simple Start runs about $35 per month. For that, you get slightly better bank rules automation, more robust customer support, and a cleaner mobile app. If your books are simple, Wave does 90% of what Simple Start does for free. If you're growing past the freelancer/sole proprietor stage or need to share books with a bookkeeper regularly, the QuickBooks ecosystem is worth the money."
   - q: "Can my accountant access my Wave books?"
     a: "Yes. You can add an accountant as a 'collaborator' under Settings, and they'll get their own login with access to your books. Most accountants who work with small businesses are familiar with Wave, though some strongly prefer QuickBooks because that's what their own workflows are built around. Worth asking before you commit."
+author: "Michael Torres"
+author_slug: "michael-torres"
+author_title: "Business Loan Writer"
+author_bio: "Michael Torres spent years as a small business banker before moving to the borrower side as a loan consultant. He knows the SBA loan process inside and out, including the parts of the application that most business owners get wrong. At Small Biz Finance Guide, he covers SBA loans, lines of credit, equipment financing, and how to present your business to a lender in the best possible light."
+
 ---
 
 Most free software for small business accounting is either crippled on purpose or is just a trial masquerading as "free forever." Wave is the exception I keep recommending to clients, and honestly I was skeptical for years before I really dug into what it actually does.

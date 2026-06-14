@@ -6,8 +6,6 @@ description: "Discover how trade credit can boost your business cash flow, build
 image: "https://images.pexels.com/photos/8872614/pexels-photo-8872614.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Credit"]
 tags: ["trade", "credit", "business"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "trade-credit-for-business"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Trade credit is a direct arrangement with a specific supplier, typically with no interest if paid on time. A business credit card is a revolving credit product with interest accruing on unpaid balances, accepted anywhere. They serve different purposes, and most businesses should have both once they're established."
   - q: "What if a supplier won't extend terms?"
     a: "Start by paying on time for three to six months, then ask again. You can also offer to pay via ACH or check (some suppliers charge fees for credit cards that make net terms more attractive to them). If a supplier flat-out won't offer terms no matter what, that's fine. Build your profile with others and revisit."
+author: "David Kim"
+author_slug: "david-kim"
+author_title: "Tax Strategist"
+author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
+
 ---
 
 Most business owners discover trade credit by accident. A supplier mentions "net-30 terms" on an invoice, you nod like you know what that means, and then you go home and quietly google it. No shame in that. I've had that conversation with clients more times than I can count.

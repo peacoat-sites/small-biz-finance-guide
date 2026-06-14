@@ -6,10 +6,13 @@ description: "Compare SEP IRA vs SIMPLE IRA to find the best retirement plan for
 image: "https://images.pexels.com/photos/6694492/pexels-photo-6694492.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Benefits"]
 tags: ["SIMPLE"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "sep-ira-vs-simple-ira"
 affiliate_disclosure: true
+author: "Amanda Pierce"
+author_slug: "amanda-pierce"
+author_title: "Operations Finance Writer"
+author_bio: "Amanda Pierce has run her own small business and knows the difference between profitability on paper and actually having money in the bank. She specializes in the operational side of business finances: invoicing systems, cash flow forecasting, dealing with slow-paying clients, and managing the day-to-day money reality of running a small business. At Small Biz Finance Guide, she covers cash flow tools, payment systems, and operational finance."
+
 ---
 
 Most articles comparing SEP IRAs and SIMPLE IRAs spend three paragraphs explaining what an IRA is before telling you anything useful. You already know what an IRA is. Let's skip straight to the part that actually matters for your business.

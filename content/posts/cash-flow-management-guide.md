@@ -6,8 +6,6 @@ description: "Master cash flow management with expert tips on forecasting, budge
 image: "https://images.pexels.com/photos/7698834/pexels-photo-7698834.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cash Flow"]
 tags: ["cash", "flow", "management", "guide"]
-author: "James O'Brien"
-author_bio: "Enrolled agent and small business tax specialist. Focuses on tax planning and bookkeeping for self-employed and small businesses."
 slug: "cash-flow-management-guide"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Start by making the consequences of late payment explicit in your contract and on your invoices. A late fee of 1.5% per month is standard and legally enforceable in most states. Call before invoices are due as a gentle reminder, not after they're already late. For chronic offenders, consider requiring a deposit upfront or moving them to shorter payment terms. You can also move forward with invoice factoring for specific clients if you need cash quickly and can absorb the fee. Consult a CPA or business attorney if you're considering structural changes to your payment policies."
   - q: "Should I use accounting software to track cash flow?"
     a: "Yes, absolutely. QuickBooks, FreshBooks, and Wave all generate cash flow statements and can give you real-time visibility into your position. That said, software is only as good as the data you put into it. Reconcile your accounts regularly, categorize transactions consistently, and don't let months pile up without review. A good bookkeeper, even part-time, can keep your books clean enough for the software to be genuinely useful. For tax-related decisions tied to cash flow management, always loop in a CPA."
+author: "Amanda Pierce"
+author_slug: "amanda-pierce"
+author_title: "Operations Finance Writer"
+author_bio: "Amanda Pierce has run her own small business and knows the difference between profitability on paper and actually having money in the bank. She specializes in the operational side of business finances: invoicing systems, cash flow forecasting, dealing with slow-paying clients, and managing the day-to-day money reality of running a small business. At Small Biz Finance Guide, she covers cash flow tools, payment systems, and operational finance."
+
 ---
 
 You built a profitable business and still can't make payroll. That sentence sounds like a contradiction, but it's one of the most common disasters I watch small business owners walk into. Profit is an accounting concept. Cash is what keeps the lights on. When those two things fall out of sync, even a growing business can collapse. According to the [U.S. Small Business Administration (SBA)](https://www.sba.gov/), cash flow problems are consistently cited among the top reasons small businesses fail, not bad products, not weak demand, not poor management in the traditional sense. Just cash, running out at the wrong moment.

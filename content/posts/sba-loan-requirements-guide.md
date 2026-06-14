@@ -6,8 +6,6 @@ description: "Learn the key SBA loan requirements including credit scores, busin
 image: "https://images.pexels.com/photos/36765988/pexels-photo-36765988.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Financing"]
 tags: ["loan", "requirements", "guide"]
-author: "Frank Medina"
-author_bio: "Small business CFO and financial consultant with 18 years helping entrepreneurs set up clean financial systems. Former CPA."
 slug: "sba-loan-requirements-guide"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This is serious. Because you sign a personal guarantee on most SBA loans, the lender and the SBA can pursue your personal assets, not just business assets. The SBA's guarantee protects the lender, not you. Defaulting on an SBA loan can result in wage garnishment, liens on property, and a government delinquency that bars you from future federal assistance. If you're struggling with payments, contact your lender immediately. The SBA does have an Offer in Compromise program that allows settlement in certain hardship situations, but it's a lengthy and uncertain process."
   - q: "Do I need a business bank account to apply?"
     a: "You should have one, and most lenders will require at least 12 months of business bank statements. Beyond the application, operating your business through a dedicated business account is fundamental to keeping clean financial records. Mixing personal and business finances is one of the most common accounting mistakes I see, and it creates serious problems at tax time and during any loan underwriting process."
+author: "Michael Torres"
+author_slug: "michael-torres"
+author_title: "Business Loan Writer"
+author_bio: "Michael Torres spent years as a small business banker before moving to the borrower side as a loan consultant. He knows the SBA loan process inside and out, including the parts of the application that most business owners get wrong. At Small Biz Finance Guide, he covers SBA loans, lines of credit, equipment financing, and how to present your business to a lender in the best possible light."
+
 ---
 
 You've found a lender who says they do SBA loans. You've got a business idea, maybe even a few years of revenue behind you. So you fill out the pre-qualification form, wait two weeks, and then get a vague email saying you "don't quite meet the requirements." No explanation. No roadmap. Just a polite rejection and a suggestion to try again later.

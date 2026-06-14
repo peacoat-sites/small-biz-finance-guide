@@ -6,8 +6,6 @@ description: "Learn how to separate business and personal finances with simple s
 image: "https://images.pexels.com/photos/4968631/pexels-photo-4968631.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Accounting"]
 tags: ["separate", "business", "personal", "finances"]
-author: "Angela Torres"
-author_bio: "Small business development advisor and former SBDC counselor. Has helped 300+ businesses with financial planning."
 slug: "how-to-separate-business-personal-finances"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "At minimum, one business checking account. Once your cash flow is more predictable, a second account for taxes (set aside 25 to 30 percent of net income there each month) and a third for operating reserves is a solid structure. Some business owners follow the Profit First model with even more accounts, but two to three handles most small business situations cleanly."
   - q: "Is business credit card interest tax deductible?"
     a: "Interest on credit cards used exclusively for business is generally deductible as a business expense. However, if you use a card for both personal and business spending, only the business portion is deductible, and you'll need documentation to support that split. This is another reason a dedicated business card, used only for business, makes your life easier. Consult your CPA to confirm what applies to your specific situation."
+author: "Amanda Pierce"
+author_slug: "amanda-pierce"
+author_title: "Operations Finance Writer"
+author_bio: "Amanda Pierce has run her own small business and knows the difference between profitability on paper and actually having money in the bank. She specializes in the operational side of business finances: invoicing systems, cash flow forecasting, dealing with slow-paying clients, and managing the day-to-day money reality of running a small business. At Small Biz Finance Guide, she covers cash flow tools, payment systems, and operational finance."
+
 ---
 
 You opened your personal checking account statement last month and spent twenty minutes trying to figure out which Amazon charge was a business supply order and which one was the birthday gift you bought your nephew. If that sounds familiar, you're not alone, and the problem is costing you more than just time.

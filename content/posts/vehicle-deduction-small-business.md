@@ -6,8 +6,6 @@ description: "Maximize your small business taxes with vehicle deductions. Learn 
 image: "https://images.pexels.com/photos/5058118/pexels-photo-5058118.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Taxes"]
 tags: ["vehicle", "deduction", "small", "business"]
-author: "Angela Torres"
-author_bio: "Small business development advisor and former SBDC counselor. Has helped 300+ businesses with financial planning."
 slug: "vehicle-deduction-small-business"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "There are 'luxury auto' caps that limit annual depreciation deductions for passenger vehicles above a certain cost threshold. Heavier vehicles (GVWR over 6,000 pounds) face different and generally more favorable rules. The caps change, so verify current limits with your CPA or the IRS website before making a vehicle purchase decision based primarily on tax benefits."
   - q: "Can I take a mileage deduction and also deduct my auto insurance?"
     a: "Not under the standard mileage method. That rate is designed to cover all your operating costs including insurance, maintenance, and depreciation. Under the actual expense method, yes, your business-use percentage of insurance premiums is deductible. This is one reason why the actual expense method can produce a larger deduction for expensive-to-insure vehicles."
+author: "Sarah Johnson"
+author_slug: "sarah-johnson"
+author_title: "CPA & Lead Editor"
+author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
+
 ---
 
 You bought a truck for your business last year, drove it 14,000 miles for client visits and supply runs, and then left the entire deduction on the table because you weren't sure how to claim it. That scenario plays out thousands of times every tax season. Vehicle deductions are one of the most valuable and most misunderstood write-offs available to small business owners, and getting them wrong costs real money in both directions: either you underclaim and overpay, or you overclaim and invite an audit.

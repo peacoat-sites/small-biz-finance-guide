@@ -6,10 +6,13 @@ description: "Discover how bonus depreciation works in 2024, including the 60% d
 image: "https://images.pexels.com/photos/5466814/pexels-photo-5466814.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Taxes"]
 tags: ["bonus", "depreciation", "2024"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "bonus-depreciation-2024"
 affiliate_disclosure: true
+author: "Amanda Pierce"
+author_slug: "amanda-pierce"
+author_title: "Operations Finance Writer"
+author_bio: "Amanda Pierce has run her own small business and knows the difference between profitability on paper and actually having money in the bank. She specializes in the operational side of business finances: invoicing systems, cash flow forecasting, dealing with slow-paying clients, and managing the day-to-day money reality of running a small business. At Small Biz Finance Guide, she covers cash flow tools, payment systems, and operational finance."
+
 ---
 
 Bonus depreciation dropped to 60% in 2024. That single number is causing a lot of confusion right now, and I've seen business owners make costly planning mistakes because they either didn't know the phase-down was happening or assumed it was still 100%. Let's get you caught up.

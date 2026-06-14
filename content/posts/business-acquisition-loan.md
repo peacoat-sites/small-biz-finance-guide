@@ -6,8 +6,6 @@ description: "Secure funding to buy an existing business with a business acquisi
 image: "https://images.pexels.com/photos/7821710/pexels-photo-7821710.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Financing"]
 tags: ["business", "acquisition", "loan"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "business-acquisition-loan"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It can. In an asset purchase, you're buying specific assets (equipment, contracts, customer lists) rather than the legal entity. In a stock or entity purchase, you're buying the entire company including its liabilities. Lenders and legal counsel both care about this distinction. Some lenders actually prefer asset purchases because you're not inheriting hidden liabilities. Your attorney and CPA should both weigh in on this before you sign anything. This is genuinely one of those areas where professional advice is worth every dollar."
   - q: "Can seller financing replace the SBA down payment requirement?"
     a: "Partially. The SBA allows seller financing to count toward the equity injection if it meets specific conditions, including a standby period with no payments for at least 24 months. The rules here have nuances and have been updated in recent years, so confirm the current requirements with your SBA lender directly — and talk to a CPA before structuring anything, because the tax implications for both buyer and seller are real."
+author: "Michael Torres"
+author_slug: "michael-torres"
+author_title: "Business Loan Writer"
+author_bio: "Michael Torres spent years as a small business banker before moving to the borrower side as a loan consultant. He knows the SBA loan process inside and out, including the parts of the application that most business owners get wrong. At Small Biz Finance Guide, he covers SBA loans, lines of credit, equipment financing, and how to present your business to a lender in the best possible light."
+
 ---
 
 Most people who want to buy a business think the hard part is finding the right one. I thought that too, until I spent six months watching a client lose a deal he'd been chasing for two years because he didn't understand how acquisition financing actually works before he needed it. The business was solid, the seller was motivated, and my client had decent credit. None of that mattered when the bank came back with a term sheet that required 30% down and a personal guarantee on his house. He walked. The seller sold to someone else.

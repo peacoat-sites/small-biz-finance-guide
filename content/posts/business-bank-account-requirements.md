@@ -6,8 +6,6 @@ description: "Open a business bank account with confidence. Learn the exact docu
 image: "https://images.pexels.com/photos/7698796/pexels-photo-7698796.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Banking"]
 tags: ["business", "bank", "account", "requirements"]
-author: "James O'Brien"
-author_bio: "Enrolled agent and small business tax specialist. Focuses on tax planning and bookkeeping for self-employed and small businesses."
 slug: "business-bank-account-requirements"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes. Each legally separate business entity should have its own account. If you have an LLC and an S-corp, commingling those funds creates the same liability problems as mixing business and personal money. Clean separation between entities also matters if one business is audited or sued."
   - q: "Can I open a business bank account with bad personal credit?"
     a: "Business bank accounts are generally not credit decisions, so your credit score matters less than you might think. However, banks do run identity verification and ChexSystems checks. If you have a history of unpaid bank fees or overdrafts, a traditional bank may decline you. Credit unions and newer online banks like Relay tend to be more accessible in those situations."
+author: "Rachel Green"
+author_slug: "rachel-green"
+author_title: "CFO Consultant"
+author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
+
 ---
 
 A surprising number of small business owners run their company finances through a personal checking account for months, sometimes years, before realizing the problems that creates. I've seen it cost people thousands in accounting fees to untangle the mess before tax season, and in a few cases, it's caused them to lose legal liability protection entirely. Mixing personal and business money isn't just sloppy, it can pierce the corporate veil for LLCs and corporations, meaning your personal assets are suddenly fair game if your business gets sued. Opening a dedicated business bank account isn't optional. It's foundational.

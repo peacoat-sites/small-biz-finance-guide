@@ -6,8 +6,6 @@ description: "Track your small business finances with confidence. This beginner-
 image: "https://images.pexels.com/photos/1170412/pexels-photo-1170412.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Accounting"]
 tags: ["small", "business", "bookkeeping", "guide"]
-author: "Frank Medina"
-author_bio: "Small business CFO and financial consultant with 18 years helping entrepreneurs set up clean financial systems. Former CPA."
 slug: "small-business-bookkeeping-guide"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A bookkeeper records and organizes financial transactions. A CPA (Certified Public Accountant) is a licensed professional who can prepare tax returns, provide financial advice, represent you in front of the IRS, and offer strategic planning. Many small businesses benefit from both: a bookkeeper keeps the day-to-day records clean, and a CPA handles year-end taxes and bigger financial decisions. Always consult a CPA for tax-specific questions. Tax law is complex and the consequences of getting it wrong are real."
   - q: "Can I deduct my bookkeeping software and bookkeeper costs as a business expense?"
     a: "Generally yes, bookkeeping software subscriptions and fees paid to a bookkeeper are ordinary and necessary business expenses and are typically deductible. However, tax rules have nuances and your specific situation matters. Please consult a CPA to confirm what's deductible in your case and to make sure you're claiming deductions correctly."
+author: "Rachel Green"
+author_slug: "rachel-green"
+author_title: "CFO Consultant"
+author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
+
 ---
 
 Most small business owners don't realize they have a bookkeeping problem until tax season hits and their accountant sends back a panicked email asking why there are eighteen months of unreconciled bank transactions. I've seen it happen to restaurant owners, freelance designers, contractors, even a dentist with a six-figure practice. The books were a mess, the CPA bill doubled because of cleanup work, and the owner had no real idea whether the business had been profitable for the past year. That's not a tax problem. It's a bookkeeping problem, and it starts long before April.

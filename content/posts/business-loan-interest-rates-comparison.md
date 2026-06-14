@@ -6,8 +6,6 @@ description: "Compare business loan interest rates from top lenders to find the 
 image: "https://images.pexels.com/photos/8292883/pexels-photo-8292883.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Financing"]
 tags: ["business", "loan", "interest", "rates", "comparison"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "business-loan-interest-rates-comparison"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "For most small businesses, especially those under five years old, personal credit is a primary underwriting factor. Lenders don't have enough business history to rely solely on the business's profile, so they look at the owner as a proxy for financial behavior. A score above 700 generally opens up better products and better rates. Below 650, many traditional lenders will pass, and you'll be looking at higher-cost alternatives."
   - q: "Are online lenders ever worth the higher rates?"
     a: "Sometimes, yes. If you have a specific, short-term need like buying inventory ahead of a seasonal rush, and the math shows the profit from that inventory more than covers the higher borrowing cost, an online loan can make sense. Speed and accessibility have real value in certain situations. What I'd caution against is using high-rate debt to cover operating shortfalls or ongoing expenses. That's a cycle that's hard to break out of."
+author: "Michael Torres"
+author_slug: "michael-torres"
+author_title: "Business Loan Writer"
+author_bio: "Michael Torres spent years as a small business banker before moving to the borrower side as a loan consultant. He knows the SBA loan process inside and out, including the parts of the application that most business owners get wrong. At Small Biz Finance Guide, he covers SBA loans, lines of credit, equipment financing, and how to present your business to a lender in the best possible light."
+
 ---
 
 You just got off a call with your bank. They quoted you an interest rate of 9.5% on a business term loan. Then a friend mentions her online lender offered her 24%. Another business owner in your Facebook group is bragging about his SBA loan at 6.8%. You're staring at three completely different numbers, and you have no idea if any of them are good, bad, or somewhere in between. That confusion is completely normal, and it's exactly where I want to start.

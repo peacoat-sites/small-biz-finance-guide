@@ -6,8 +6,6 @@ description: "Build business credit fast with proven strategies. Learn how to es
 image: "https://images.pexels.com/photos/210990/pexels-photo-210990.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Credit"]
 tags: ["build", "business", "credit", "score", "fast"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "how-to-build-business-credit-score-fast"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Not the way applying for multiple personal credit cards can hurt your personal score. Business credit inquiries are treated differently depending on the bureau and the type of account. That said, I wouldn't recommend opening ten accounts at once just to accelerate things. Start with 3 to 5, build history, then expand."
   - q: "What's the difference between business credit and personal credit for small business loans?"
     a: "Personal credit determines whether you personally can be held responsible for the debt if your business can't pay. Business credit reflects your business's own repayment history and financial credibility. Many small business lenders look at both. The better your business credit, the more you can rely on it instead of your personal score, which protects your personal finances if something goes wrong with the business."
+author: "Rachel Green"
+author_slug: "rachel-green"
+author_title: "CFO Consultant"
+author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
+
 ---
 
 Most business owners don't even know their business credit score exists until they get turned down for something. A loan, a net-30 account, a lease on commercial space. That's the moment the phone call comes into my office, and I can hear the frustration before they even finish their first sentence.

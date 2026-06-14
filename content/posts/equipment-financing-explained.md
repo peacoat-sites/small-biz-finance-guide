@@ -6,8 +6,6 @@ description: "Discover how equipment financing works, explore loan and lease opt
 image: "https://images.pexels.com/photos/8872355/pexels-photo-8872355.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Financing"]
 tags: ["equipment", "financing", "explained"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "equipment-financing-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The lender can repossess the equipment since it's collateral for the loan. If the resale value doesn't cover the remaining balance, you could still owe the difference, and your credit takes the hit. If you see trouble coming, call your lender before you miss a payment. Many will work out a modified payment schedule if you get ahead of it."
   - q: "Do I need a down payment for equipment financing?"
     a: "Not always, but often yes. Many lenders ask for 10% to 20% down, especially for larger purchases. Some lenders offer 100% financing, but those deals frequently carry higher rates or require very strong credit. A down payment also reduces your total interest cost over the life of the loan, so if you have the cash available, putting some down usually makes financial sense."
+author: "David Kim"
+author_slug: "david-kim"
+author_title: "Tax Strategist"
+author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
+
 ---
 
 A restaurant owner I worked with a few years back almost signed a $94,000 equipment lease for commercial kitchen appliances because the monthly payment "felt manageable." She hadn't read the buyout clause. At the end of a 60-month term, she'd have paid nearly $112,000 total and still wouldn't own the equipment without writing another check. That's the kind of thing nobody warns you about until it's too late.

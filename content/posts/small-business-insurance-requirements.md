@@ -6,8 +6,6 @@ description: "Small business insurance requirements vary by industry and locatio
 image: "https://images.pexels.com/photos/3760067/pexels-photo-3760067.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Insurance"]
 tags: ["small", "business", "insurance", "requirements"]
-author: "Angela Torres"
-author_bio: "Small business development advisor and former SBDC counselor. Has helped 300+ businesses with financial planning."
 slug: "small-business-insurance-requirements"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Be very careful here. Worker classification is heavily scrutinized by state labor agencies and the IRS. If someone you've labeled an 'independent contractor' is actually functioning as an employee by legal standards, you could be held liable for workers' comp coverage and penalties even if you never intended to have an employee. Misclassification has real consequences. Review the actual legal criteria before assuming your workforce structure protects you from workers' comp requirements."
   - q: "Does my business need insurance before I officially launch?"
     a: "Yes. The moment you start operating, even informally, you have exposure. If you're meeting with potential clients before you've 'officially opened,' taking on a first project while still setting things up, or storing inventory in your garage, you can already face a claim. Don't wait until the business feels 'real enough' to get covered. Talk to a broker early, even if your initial coverage is minimal and you build it out as you grow."
+author: "Rachel Green"
+author_slug: "rachel-green"
+author_title: "CFO Consultant"
+author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
+
 ---
 
 A plumber in Ohio gets sued after a pipe repair floods a client's basement. A freelance graphic designer's laptop is stolen from a coffee shop. A retail shop owner's employee slips on a wet floor and breaks a wrist. In each case, the business owner who had the right insurance coverage walked away intact. The one who didn't? They're still paying off the damage years later. Insurance isn't glamorous, but skipping it or getting the wrong kind is one of the fastest ways to destroy a business you've spent years building.

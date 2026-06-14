@@ -6,8 +6,6 @@ description: "Small business line of credit offers flexible financing for operat
 image: "https://images.pexels.com/photos/3907161/pexels-photo-3907161.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Financing"]
 tags: ["small", "business", "line", "credit"]
-author: "Priya Nair"
-author_bio: "Business finance educator and startup CFO. Specializes in cash flow management and small business funding strategy."
 slug: "small-business-line-of-credit"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, both structures can qualify. Your personal creditworthiness will carry more weight when your business is newer or hasn't built its own credit profile yet. If you're still deciding between operating structures, understanding the tax differences between an LLC and sole proprietorship is worth doing before you apply, since your entity type affects how lenders and the IRS view your business."
   - q: "Do I need a business bank account to apply?"
     a: "Yes. Every legitimate lender will require an active business bank account to verify your revenue and disburse funds. If you don't have one set up yet, review what's typically required to open a business bank account so you're not scrambling at the application stage. Operating through a personal account, even if you're a sole proprietor, will disqualify you from most commercial credit products. A business line of credit won't solve every cash flow problem, and it's not free money. But used correctly, it's one of the most practical financial tools you can have in place. Apply when your business"
+author: "David Kim"
+author_slug: "david-kim"
+author_title: "Tax Strategist"
+author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
+
 ---
 
 You're sitting on a $40,000 contract, you have the talent to deliver it, and you're stalling because you can't cover payroll and materials for the next six weeks until the client pays. That scenario plays out thousands of times every day in small businesses across the country. A business line of credit exists precisely for that gap. Not a loan, not a credit card, not a favor from a family member. A structured, repeatable financial tool that lets you borrow what you need, pay it back, and borrow again without reapplying every time.

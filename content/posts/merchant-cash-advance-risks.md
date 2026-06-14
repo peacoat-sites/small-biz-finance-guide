@@ -6,8 +6,6 @@ description: "Discover the hidden dangers of merchant cash advances, including h
 image: "https://images.pexels.com/photos/7654190/pexels-photo-7654190.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Financing"]
 tags: ["merchant", "cash", "advance", "risks"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "merchant-cash-advance-risks"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The funder will likely try to negotiate a modified repayment schedule, but they're not required to. If your contract includes a confession of judgment, they may move to freeze your accounts quickly. Your options narrow fast in default, which is why getting ahead of it with a financial advisor or attorney matters."
   - q: "Are there regulations protecting small businesses from predatory MCA terms?"
     a: "Some states have begun requiring more disclosure, and California's SB 1235 (passed in 2018) now mandates APR-equivalent disclosures on commercial financing products over certain thresholds. Federal protections are still limited compared to consumer lending. It's a patchwork, and it's worth checking your state's current rules before signing."
+author: "Amanda Pierce"
+author_slug: "amanda-pierce"
+author_title: "Operations Finance Writer"
+author_bio: "Amanda Pierce has run her own small business and knows the difference between profitability on paper and actually having money in the bank. She specializes in the operational side of business finances: invoicing systems, cash flow forecasting, dealing with slow-paying clients, and managing the day-to-day money reality of running a small business. At Small Biz Finance Guide, she covers cash flow tools, payment systems, and operational finance."
+
 ---
 
 If you're reading this, there's a decent chance someone already pitched you a merchant cash advance. Maybe it was an email, a phone call, or a pop-up ad that promised "$50,000 in 24 hours, no credit check required." And part of you was tempted, because you needed the money and the bank said no, or the bank said yes but wanted six weeks and a stack of paperwork you didn't have time to gather.

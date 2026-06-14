@@ -6,8 +6,6 @@ description: "Learn how the qualified business income deduction lets eligible se
 image: "https://images.pexels.com/photos/6694950/pexels-photo-6694950.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Taxes"]
 tags: ["qualified", "business", "income", "deduction"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "qualified-business-income-deduction"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A net loss from a qualified business reduces your QBI. If the loss brings your total QBI negative, you don't get a deduction that year, and the negative QBI carries forward to reduce your deduction in future years. It's called a carryforward, and it matters for businesses with cyclical income."
   - q: "Should I restructure my business to maximize the QBI deduction?"
     a: "Possibly, but not without running the full math first. Converting to an S corp solely to capture W-2 wage benefits for the QBI calculation can backfire if the payroll tax costs outweigh the income tax savings. The break-even point varies depending on your income, your state, your health insurance situation, and a dozen other factors. This one genuinely requires a CPA who knows your numbers, not a general rule of thumb."
+author: "Amanda Pierce"
+author_slug: "amanda-pierce"
+author_title: "Operations Finance Writer"
+author_bio: "Amanda Pierce has run her own small business and knows the difference between profitability on paper and actually having money in the bank. She specializes in the operational side of business finances: invoicing systems, cash flow forecasting, dealing with slow-paying clients, and managing the day-to-day money reality of running a small business. At Small Biz Finance Guide, she covers cash flow tools, payment systems, and operational finance."
+
 ---
 
 Most tax advice about the qualified business income deduction starts in the middle. It assumes you already know what it is, skips the part where 20% of your income might just disappear from your taxable base, and then spends three paragraphs hedging about whether you qualify. Let me back up and do this right.

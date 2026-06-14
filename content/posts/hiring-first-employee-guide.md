@@ -6,8 +6,6 @@ description: "Hiring your first employee is a major milestone. Learn essential s
 image: "https://images.pexels.com/photos/5439153/pexels-photo-5439153.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["HR"]
 tags: ["hiring", "first", "employee", "guide"]
-author: "Angela Torres"
-author_bio: "Small business development advisor and former SBDC counselor. Has helped 300+ businesses with financial planning."
 slug: "hiring-first-employee-guide"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Document performance issues as they happen. Keep records of conversations, warnings, and any written feedback. If termination becomes necessary, follow a consistent, documented process. Consult an employment attorney before firing someone if there's any complexity involved, especially if the employee has raised a complaint or belongs to a protected class. The cost of a 30-minute legal consult is a fraction of what an employment dispute costs."
   - q: "Can I just pay someone cash to avoid the paperwork?"
     a: "No. Paying employees in cash without proper tax withholding and reporting is illegal, regardless of whether they agree to it. You're still required to withhold payroll taxes, file employer returns, and issue W-2s at year end. 'Cash' is a payment method, not a classification. Employers who skip these obligations face back taxes, penalties, and in serious cases, criminal liability. It's not worth the risk."
+author: "Amanda Pierce"
+author_slug: "amanda-pierce"
+author_title: "Operations Finance Writer"
+author_bio: "Amanda Pierce has run her own small business and knows the difference between profitability on paper and actually having money in the bank. She specializes in the operational side of business finances: invoicing systems, cash flow forecasting, dealing with slow-paying clients, and managing the day-to-day money reality of running a small business. At Small Biz Finance Guide, she covers cash flow tools, payment systems, and operational finance."
+
 ---
 
 You've been doing everything yourself for two years. The late nights, the client calls, the bookkeeping, the deliveries. Business is finally growing, and you're turning down work because there aren't enough hours in the day. Hiring your first employee feels like the obvious next step. It also feels terrifying. And honestly? That's the right reaction. Because hiring someone for the first time isn't just a people decision. It's a legal, financial, and operational transformation that most business owners are completely unprepared for.

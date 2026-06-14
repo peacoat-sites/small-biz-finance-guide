@@ -6,8 +6,6 @@ description: "Avoid costly IRS audits by learning the top small business red fla
 image: "https://images.pexels.com/photos/7821541/pexels-photo-7821541.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Taxes"]
 tags: ["audit", "triggers", "small", "business"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "irs-audit-triggers-small-business"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, if the space is used regularly and exclusively for business. Having a separate business location doesn't disqualify you, but the IRS does scrutinize home office claims, and the 'exclusive use' requirement is strict. A spare room that also has a guest bed doesn't qualify."
   - q: "How many years of records should I keep?"
     a: "The general rule is three years from the date you filed, which covers the standard audit window. But if the IRS suspects you've underreported income by more than 25 percent, that window extends to six years. Keep anything related to asset purchases (equipment, property) for as long as you own the asset, plus three years after you dispose of it."
+author: "Michael Torres"
+author_slug: "michael-torres"
+author_title: "Business Loan Writer"
+author_bio: "Michael Torres spent years as a small business banker before moving to the borrower side as a loan consultant. He knows the SBA loan process inside and out, including the parts of the application that most business owners get wrong. At Small Biz Finance Guide, he covers SBA loans, lines of credit, equipment financing, and how to present your business to a lender in the best possible light."
+
 ---
 
 Most small business owners who get audited didn't do anything wrong. That's the part nobody tells you. They just looked wrong on paper, and that distinction matters enormously.

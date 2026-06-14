@@ -6,8 +6,6 @@ description: "Learn how to get a startup business loan with no revenue. Explore 
 image: "https://images.pexels.com/photos/32045967/pexels-photo-32045967.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Financing"]
 tags: ["startup", "business", "loan", "with", "revenue"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "how-to-get-a-startup-business-loan-with-no-revenue"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Most lenders do a hard credit inquiry during the formal application process, which can temporarily lower your score by a few points. To minimize the impact, research lenders carefully before applying and try to submit serious applications within a short window. Multiple hard inquiries within 14 to 45 days are often treated as a single inquiry by scoring models when they're for the same type of credit."
   - q: "Should I use my personal savings instead of taking out a loan?"
     a: "Using personal savings is often called bootstrapping, and it has real advantages: no debt, no interest, no lender to answer to. Many successful businesses started exactly that way. But it's not always realistic, especially if startup costs are significant. A blend is often the right answer: put in what you can personally, and borrow only what you need to fill the gap. And whatever you borrow, make sure the repayment fits into a realistic cash flow model, not a best-case scenario."
+author: "Sarah Johnson"
+author_slug: "sarah-johnson"
+author_title: "CPA & Lead Editor"
+author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
+
 ---
 
 You've got a business idea you believe in, maybe a solid plan written out, possibly even a few customers lined up. But your bank account doesn't show a single dollar of business revenue yet, and every loan application seems to ask for the one thing you don't have. It's a frustrating loop: you need money to make money, but lenders want proof you're already making money. Here's the thing, though. Getting a startup business loan with no revenue is genuinely possible. It's just a different game than borrowing as an established business, and you need to know the rules before you sit down at the table.

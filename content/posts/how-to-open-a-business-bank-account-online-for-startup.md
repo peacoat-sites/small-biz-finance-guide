@@ -6,8 +6,6 @@ description: "Learn how to open a business bank account online for your startup 
 image: "https://images.pexels.com/photos/8297072/pexels-photo-8297072.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Banking"]
 tags: ["open", "business", "bank", "account", "online"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-to-open-a-business-bank-account-online-for-startup"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "No. Opening a business deposit account doesn't trigger a hard pull on your personal credit. Business credit cards and loans are a different story, but a checking account application is not."
   - q: "How long does it take to get a business bank account open and usable online?"
     a: "With a fully formed LLC and all documents ready, Mercury and Novo typically approve accounts within one to three business days. Some applicants get same-day approval. The account number and routing number are usually available immediately after approval, even before your debit card arrives."
+author: "Rachel Green"
+author_slug: "rachel-green"
+author_title: "CFO Consultant"
+author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
+
 ---
 
 Most articles about opening a business bank account spend 800 words telling you to "gather your documents" and then stop. That's not advice. That's a checklist you could've written yourself. So let me cover what actually matters, including the part where most startups make an expensive mistake in the first 90 days.

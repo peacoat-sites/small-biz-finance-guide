@@ -6,8 +6,6 @@ description: "Explore USDA business loans for rural areas. Learn about eligibili
 image: "https://images.pexels.com/photos/36984944/pexels-photo-36984944.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Financing"]
 tags: ["USDA", "business", "loans", "rural"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "usda-business-loans-rural"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Realistically, plan for four to six months from initial lender conversation to closing. USDA review alone can take 60 to 90 days once your lender submits the guarantee request. If your documentation is complete and clean going in, you're less likely to face delays. Incomplete packages are the most common cause of slow timelines in my experience."
   - q: "What collateral is required?"
     a: "The USDA requires that loans be 'adequately secured,' but unlike some programs, there's no hard minimum collateral ratio written in stone. Real estate and equipment are common forms of collateral. The lender and USDA will assess what's available and what the loan is being used for. Undercollateralized deals don't automatically fail, but they require a stronger case elsewhere, typically in cash flow and management strength."
+author: "Amanda Pierce"
+author_slug: "amanda-pierce"
+author_title: "Operations Finance Writer"
+author_bio: "Amanda Pierce has run her own small business and knows the difference between profitability on paper and actually having money in the bank. She specializes in the operational side of business finances: invoicing systems, cash flow forecasting, dealing with slow-paying clients, and managing the day-to-day money reality of running a small business. At Small Biz Finance Guide, she covers cash flow tools, payment systems, and operational finance."
+
 ---
 
 If you're running a business in a small town or rural community, you've probably hit a wall that urban entrepreneurs rarely think about. The bank is 45 minutes away. The SBA lender you called doesn't work in your area. And every time you search for funding, the results either don't apply to you or feel impossibly complicated. Here's something that might change that picture: the USDA runs a suite of business loan and grant programs specifically designed for rural areas, and most small business owners have never heard of them.

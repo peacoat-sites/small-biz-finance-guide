@@ -6,8 +6,6 @@ description: "Manage payroll confidently with our guide to payroll basics for sm
 image: "https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
 categories: ["Payroll"]
 tags: ["payroll", "basics", "small", "business"]
-author: "James O'Brien"
-author_bio: "Enrolled agent and small business tax specialist. Focuses on tax planning and bookkeeping for self-employed and small businesses."
 slug: "payroll-basics-small-business"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Wages paid to employees are a deductible business expense, which reduces your taxable income. The employer portion of FICA taxes is also deductible. However, your own salary if you're an S-corp owner draws different rules, and how you pay yourself matters a lot at tax time. This is one area where working with a CPA pays for itself. For more context on how your business structure affects taxes, this comparison of LLC vs. sole proprietorship taxes is a useful starting point."
   - q: "What happens if I can't make a payroll tax deposit on time?"
     a: "The IRS imposes a failure-to-deposit penalty that starts at 2% for deposits 1-5 days late and escalates to 15% for amounts still unpaid more than 10 days after the IRS issues a notice. These aren't theoretical penalties. They show up, they add up, and they affect businesses that simply forgot or had a cash crunch. If you know you're going to miss a deposit, contact the IRS proactively or work with a tax professional. Ignoring it always makes it worse."
+author: "Sarah Johnson"
+author_slug: "sarah-johnson"
+author_title: "CPA & Lead Editor"
+author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
+
 ---
 
 You hired your first employee last Tuesday. By Friday, you realized you have absolutely no idea how payroll works. What do you withhold? When do you send the money to the government? What happens if you get it wrong? If that scenario sounds familiar, you're not alone. Payroll is one of the most common places small business owners get tripped up, not because it's impossibly complex, but because nobody ever sat down and explained it clearly. Let's fix that.

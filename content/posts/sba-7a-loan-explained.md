@@ -6,8 +6,6 @@ description: "Learn how the SBA 7a loan works, who qualifies, how much you can b
 image: "https://images.pexels.com/photos/7841821/pexels-photo-7841821.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Financing"]
 tags: ["loan", "explained"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "sba-7a-loan-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "First, ask the lender specifically why. Lenders are required to provide reasons. Common causes: credit score, insufficient collateral, inadequate cash flow, or incomplete documentation. Some of those are fixable with time. If the issue is your credit score or DSCR, a structured six to twelve month improvement plan can change that outcome. You can also seek free guidance through SCORE to review your application before resubmitting."
   - q: "Is an SBA 7(a) loan personally guaranteed?"
     a: "In almost every case, yes. Any individual who owns 20% or more of the business must sign a personal guarantee, meaning your personal assets are on the line if the business defaults. Spouses of majority owners may also be required to sign in community property states. This is standard and not negotiable in most circumstances. Understand it before you sign, and make sure your CPA has reviewed the full terms."
+author: "Amanda Pierce"
+author_slug: "amanda-pierce"
+author_title: "Operations Finance Writer"
+author_bio: "Amanda Pierce has run her own small business and knows the difference between profitability on paper and actually having money in the bank. She specializes in the operational side of business finances: invoicing systems, cash flow forecasting, dealing with slow-paying clients, and managing the day-to-day money reality of running a small business. At Small Biz Finance Guide, she covers cash flow tools, payment systems, and operational finance."
+
 ---
 
 You walk into a bank asking about a small business loan. The banker smiles, nods, and eventually mentions something called an "SBA 7(a) loan" as if you should already know what that means. Maybe you nod back. Most people do. Then they go home, search the internet, and find articles full of bureaucratic language that explain the program without ever explaining what it actually means for *your* business, *your* bank account, and the decision in front of you right now. That's the gap this article closes.

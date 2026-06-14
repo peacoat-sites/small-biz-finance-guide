@@ -6,8 +6,6 @@ description: "Discover the powerful tax advantages and high contribution limits 
 image: "https://images.pexels.com/photos/7654604/pexels-photo-7654604.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Benefits"]
 tags: ["Solo", "401k", "benefits", "guide"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "solo-401k-benefits-guide"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Some plans allow it, some don't. Fidelity's Solo 401(k), for instance, does not currently offer a loan provision. If loan access matters to you, confirm this with the provider before opening the account. Self-directed providers are more likely to offer it."
   - q: "What's the deadline to make contributions for 2024?"
     a: "If you're a sole proprietor filing a Schedule C, you have until your tax filing deadline, including extensions (so October 15, 2025 if you file an extension). But again: the plan itself must have been established by December 31, 2024. Contributions and plan establishment have different deadlines, and mixing them up is a costly mistake."
+author: "Michael Torres"
+author_slug: "michael-torres"
+author_title: "Business Loan Writer"
+author_bio: "Michael Torres spent years as a small business banker before moving to the borrower side as a loan consultant. He knows the SBA loan process inside and out, including the parts of the application that most business owners get wrong. At Small Biz Finance Guide, he covers SBA loans, lines of credit, equipment financing, and how to present your business to a lender in the best possible light."
+
 ---
 
 Most small business owners I work with are leaving somewhere between $5,000 and $30,000 a year in tax deductions on the table. Not because they're doing anything wrong. Because nobody told them the Solo 401(k) existed.

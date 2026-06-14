@@ -6,8 +6,6 @@ description: "Home office deduction rules: Learn how to qualify, calculate expen
 image: "https://images.pexels.com/photos/28715052/pexels-photo-28715052.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Taxes"]
 tags: ["home", "office", "deduction", "rules"]
-author: "Angela Torres"
-author_bio: "Small business development advisor and former SBDC counselor. Has helped 300+ businesses with financial planning."
 slug: "home-office-deduction-rules"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "If you used the simplified method, there's no depreciation recapture and the standard home sale exclusion rules apply normally. If you used the regular method and took depreciation deductions, a portion of your home sale gain may be taxable, even if the gain is otherwise under the exclusion limit. This is one of the more complex areas of the deduction, and it's exactly the kind of situation where you want a CPA's input before you list the house."
   - q: "What records should I keep to support this deduction?"
     a: "Keep a floor plan or sketch with measurements showing the dedicated office space and total home square footage. Keep all utility bills, insurance statements, rent or mortgage records, and repair invoices for the year. A few photos of the dedicated space are a smart idea too. The Consumer Financial Protection Bureau's small business resources reinforce the importance of consistent recordkeeping as a general financial health practice, and nowhere is that more true than here."
+author: "Sarah Johnson"
+author_slug: "sarah-johnson"
+author_title: "CPA & Lead Editor"
+author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
+
 ---
 
 You set up a dedicated room in your house for your business two years ago. You've been paying rent, utilities, and internet every single month. But at tax time, your accountant tells you that you've never claimed the home office deduction, and you've been leaving real money on the table. That scenario plays out thousands of times every year. The home office deduction is one of the most misunderstood, most feared, and most underutilized deductions available to self-employed people and small business owners. People either skip it entirely because they're afraid of an audit, or they claim it wrong and create a mess. Let's clear that up.

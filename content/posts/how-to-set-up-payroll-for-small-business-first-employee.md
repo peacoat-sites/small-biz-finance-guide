@@ -6,8 +6,6 @@ description: "Learn how to set up payroll for your small business first employee
 image: "https://images.pexels.com/photos/6919704/pexels-photo-6919704.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Payroll"]
 tags: ["payroll", "small", "business", "first", "employee"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "how-to-set-up-payroll-for-small-business-first-employee"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The same way you handle a salaried employee: withhold the same taxes, file the same forms, follow the same deposit schedule. The only difference is that their gross pay varies by week, so your withholding calculations will vary too. Good payroll software handles this automatically."
   - q: "When do I need to give my employee a pay stub?"
     a: "It depends on your state. Some states require pay stubs every pay period; others allow electronic delivery; a few have no requirement but it's still best practice. Check your state's wage payment laws specifically. Gusto and most payroll platforms generate and deliver them automatically regardless."
+author: "Sarah Johnson"
+author_slug: "sarah-johnson"
+author_title: "CPA & Lead Editor"
+author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
+
 ---
 
 Hiring your first employee is one of the most exciting things you'll do as a business owner. It's also the moment a lot of people quietly panic and open seventeen browser tabs at once.

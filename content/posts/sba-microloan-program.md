@@ -6,8 +6,6 @@ description: "Discover how the SBA microloan program helps small businesses and 
 image: "https://images.pexels.com/photos/37694202/pexels-photo-37694202.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Financing"]
 tags: ["microloan", "program"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "sba-microloan-program"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Technically, yes, but it's not a great strategy. Multiple hard inquiries in a short period look unfavorable, and intermediaries often serve exclusive territories anyway. Focus on the best-fit lender for your region and situation."
   - q: "What if I get turned down?"
     a: "Ask for specific feedback. Many intermediaries will tell you exactly what was missing. Common gaps are an incomplete business plan, no clear repayment story, or credit issues that need addressing first. A free consultation through SCORE (score.org) can help you shore up a weak application before you try again."
+author: "Rachel Green"
+author_slug: "rachel-green"
+author_title: "CFO Consultant"
+author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
+
 ---
 
 You've got a business idea, a solid plan, and maybe $8,000 in the bank. The bank says no. The credit card limit won't cover what you need. And every SBA loan guide you find online talks about $250,000 minimums and two years of tax returns like you're already a mid-size operation. If that's where you are right now, the SBA Microloan program is probably the most relevant funding option you haven't looked at closely enough.

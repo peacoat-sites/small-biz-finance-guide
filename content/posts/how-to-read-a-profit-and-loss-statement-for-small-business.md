@@ -6,8 +6,6 @@ description: "Learn how to read a profit and loss statement for your small busin
 image: "https://images.pexels.com/photos/8292880/pexels-photo-8292880.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Accounting"]
 tags: ["read", "profit", "loss", "statement", "small"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "how-to-read-a-profit-and-loss-statement-for-small-business"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "The research here is genuinely mixed and industry-specific. A 10% net margin is often cited as a healthy target for service businesses, but retail might run 2-5% and software companies can exceed 20%. The more useful question is whether your margin is improving over time and whether it's in line with your industry peers."
   - q: "Do I need accounting software to generate a P&L?"
     a: "You don't strictly need it, but trying to build one manually in a spreadsheet is error-prone and time-consuming. QuickBooks Online starts around $35/month for the Simple Start plan. Wave is free. FreshBooks runs $19-$55/month depending on the tier. Any of these will generate a P&L in a few clicks once your transactions are categorized correctly -- and correct categorization is where a bookkeeper earns their fee."
+author: "David Kim"
+author_slug: "david-kim"
+author_title: "Tax Strategist"
+author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
+
 ---
 
 Most small business owners I've worked with can tell you their bank balance down to the dollar. Ask them to explain their profit and loss statement, though, and they go quiet. That gap is costing them money. Not in some abstract, theoretical way. In real, preventable ways: overestimating profit margins, missing slow bleeds in overhead, taking distributions they can't actually afford.

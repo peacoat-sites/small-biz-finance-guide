@@ -6,8 +6,6 @@ description: "Learn what a cash flow statement is, how it works, and why it matt
 image: "https://images.pexels.com/photos/5915230/pexels-photo-5915230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Accounting"]
 tags: ["cash", "flow", "statement", "explained"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "cash-flow-statement-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Technically, very small sole proprietors can operate without a formal cash flow statement. Practically, the underlying concept still applies. Tracking when money actually moves in and out versus when you invoice or get billed is essential financial awareness at any business size. Basic spreadsheet-based cash tracking tools are widely available and inexpensive. Even a simple template covers the core."
   - q: "What software can automatically generate a cash flow statement for my business?"
     a: "QuickBooks Online, Xero, and FreshBooks all generate cash flow statements automatically from your bookkeeping data. The accuracy of those statements depends entirely on how cleanly your books are maintained. Garbage in, garbage out. If your chart of accounts is messy or transactions aren't categorized correctly, the statement won't reflect reality, regardless of which software produced it."
+author: "Sarah Johnson"
+author_slug: "sarah-johnson"
+author_title: "CPA & Lead Editor"
+author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
+
 ---
 
 You can run a profitable business and still bounce a payroll check. I've seen it happen more than once, and it's always the same story: the P&L looks fine, the owner feels fine, and then one Thursday morning the bank account says otherwise. The culprit, almost every time, is that the owner was watching the wrong number. They were watching profit. They should have been watching cash flow.

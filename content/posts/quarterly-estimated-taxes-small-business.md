@@ -6,8 +6,6 @@ description: "Pay quarterly estimated taxes on time and avoid IRS penalties. Lea
 image: "https://images.pexels.com/photos/36631703/pexels-photo-36631703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Taxes"]
 tags: ["quarterly", "estimated", "taxes", "small", "business"]
-author: "Priya Nair"
-author_bio: "Business finance educator and startup CFO. Specializes in cash flow management and small business funding strategy."
 slug: "quarterly-estimated-taxes-small-business"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "If you had a slow first half and a strong second half, the annualized income installment method (IRS Form 2210, Schedule AI) allows you to calculate each quarter's payment based on actual income earned in that specific period. It's more paperwork, but it means you're not overpaying early quarters to cover income you haven't earned yet. This approach is worth discussing with your tax preparer if your income varies significantly by season."
   - q: "What if I'm an S-corp or have employees?"
     a: "The rules shift meaningfully if you've elected S-corp status. As an S-corp owner-employee, you're taking a reasonable salary through payroll, which means payroll withholding handles some of your tax obligation. But you may still owe estimated taxes on distributions and other income not covered by payroll. If you have W-2 employees, your payroll tax obligations are separate and on a different schedule entirely. This is a situation where having a CPA and a payroll service is not optional, it's the cost of operating that structure correctly."
+author: "Sarah Johnson"
+author_slug: "sarah-johnson"
+author_title: "CPA & Lead Editor"
+author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
+
 ---
 
 You get to the end of your first real year running your own business, feeling pretty good about what you've built, and then tax season arrives and hands you a bill you weren't expecting. Not just the tax itself, but a penalty on top of it, because you were supposed to be paying as you went. Nobody told you that. Or maybe somebody mentioned it once and it didn't stick. I've seen this exact scenario knock the confidence out of otherwise sharp business owners who had simply never been employees of themselves before. Quarterly estimated taxes are one of those things the system assumes you already know, and that assumption costs people real money every year.

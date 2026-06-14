@@ -6,8 +6,6 @@ description: "Discover practical strategies to improve cash flow in your small b
 image: "https://images.pexels.com/photos/8296970/pexels-photo-8296970.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cash Flow"]
 tags: ["improve", "cash", "flow", "small", "business"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "how-to-improve-cash-flow-in-a-small-business"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Contact every client with an invoice over 30 days old and ask for payment directly, not via automated reminder. A phone call or personal email recovers receivables faster than any dunning system. Then look at whether you have any assets or inventory you can liquidate, any upcoming expenses you can defer by a few weeks, and any client who'd prepay for future work in exchange for a modest discount."
   - q: "Do I really need a separate business bank account?"
     a: "Completely non-negotiable. Mixing personal and business finances makes it nearly impossible to track cash flow accurately, creates a tax mess, and can expose you to personal liability if you operate an LLC or corporation. Open one today if you haven't. Most business checking accounts are free or under $15 a month. There's no trade-off to weigh here."
+author: "Michael Torres"
+author_slug: "michael-torres"
+author_title: "Business Loan Writer"
+author_bio: "Michael Torres spent years as a small business banker before moving to the borrower side as a loan consultant. He knows the SBA loan process inside and out, including the parts of the application that most business owners get wrong. At Small Biz Finance Guide, he covers SBA loans, lines of credit, equipment financing, and how to present your business to a lender in the best possible light."
+
 ---
 
 Most cash flow advice stops at "invoice faster and cut costs." That's not wrong, but it's roughly as useful as telling someone with a broken arm to "move it less." True, technically. Misses the point entirely.

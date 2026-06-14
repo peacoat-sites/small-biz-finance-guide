@@ -6,8 +6,6 @@ description: "Track and organize all your business expenses with our comprehensi
 image: "https://images.pexels.com/photos/7111519/pexels-photo-7111519.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Accounting"]
 tags: ["business", "expense", "categories", "guide"]
-author: "James O'Brien"
-author_bio: "Enrolled agent and small business tax specialist. Focuses on tax planning and bookkeeping for self-employed and small businesses."
 slug: "business-expense-categories-guide"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Your deductible expenses reduce your net business income, which is what you pay self-employment and income tax on. This means getting your categories right can meaningfully reduce your estimated tax payments. For a full breakdown of how the quarterly payment system works and how to calculate what you owe, the quarterly estimated taxes for small business guide walks you through it step by step."
   - q: "Should I hire a bookkeeper or do it myself?"
     a: "In the early stages, doing it yourself gives you an understanding of your numbers that you simply can't buy. But once you're past roughly $200,000 in annual revenue or adding employees, your time is worth more than the cost of a part-time bookkeeper, and the risk of DIY errors grows. The small business bookkeeping guide can help you decide what level of help makes sense for where you are right now."
+author: "Amanda Pierce"
+author_slug: "amanda-pierce"
+author_title: "Operations Finance Writer"
+author_bio: "Amanda Pierce has run her own small business and knows the difference between profitability on paper and actually having money in the bank. She specializes in the operational side of business finances: invoicing systems, cash flow forecasting, dealing with slow-paying clients, and managing the day-to-day money reality of running a small business. At Small Biz Finance Guide, she covers cash flow tools, payment systems, and operational finance."
+
 ---
 
 You sit down in early April, shoebox of receipts next to your laptop, and you realize you have no idea whether that client lunch goes under "meals," "marketing," or "entertainment." The printer ink you bought at Target: is that "office supplies" or "equipment"? And what about the portion of your phone bill that's business use? Most small business owners don't fail because they're bad at their craft. They fail, or at least leave serious money on the table, because nobody ever handed them a clear, logical map of how business expenses actually work.

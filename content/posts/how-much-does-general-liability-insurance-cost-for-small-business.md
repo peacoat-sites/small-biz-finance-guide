@@ -6,8 +6,6 @@ description: "Find out how much general liability insurance costs for small busi
 image: "https://images.pexels.com/photos/7680742/pexels-photo-7680742.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Insurance"]
 tags: ["much", "does", "general", "liability", "insurance"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "how-much-does-general-liability-insurance-cost-for-small-business"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Generally yes, business insurance premiums are deductible as an ordinary business expense. But deductibility depends on how your business is structured and how the premium is allocated, so confirm with your CPA rather than treating any article (including this one) as tax advice."
   - q: "How much general liability insurance do I actually need?"
     a: "The standard $1M per occurrence / $2M aggregate is the starting point and sufficient for most small businesses. But if you work with larger corporate clients, they may require $2M per occurrence in your contract. Check your client contracts and commercial lease before settling on limits, not after."
+author: "Michael Torres"
+author_slug: "michael-torres"
+author_title: "Business Loan Writer"
+author_bio: "Michael Torres spent years as a small business banker before moving to the borrower side as a loan consultant. He knows the SBA loan process inside and out, including the parts of the application that most business owners get wrong. At Small Biz Finance Guide, he covers SBA loans, lines of credit, equipment financing, and how to present your business to a lender in the best possible light."
+
 ---
 
 Most small business owners I talk to have a number in their head before they even start shopping: "I've heard it's like $500 a year, maybe $1,000 tops." I'll be honest -- that assumption gets people into trouble, not because it's always wrong, but because it's wrong often enough to matter, and the gap between expectation and reality tends to show up at the worst possible time.

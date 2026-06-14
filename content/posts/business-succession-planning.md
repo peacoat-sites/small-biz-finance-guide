@@ -6,8 +6,6 @@ description: "Ensure your business thrives beyond you with expert succession pla
 image: "https://images.pexels.com/photos/7680745/pexels-photo-7680745.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Strategy"]
 tags: ["business", "succession", "planning"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "business-succession-planning"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "A buy-sell agreement is a legally binding contract between business co-owners that outlines what happens to an owner's share if they die, become disabled, want to retire, or have some other triggering event. If you have a business partner, yes, you genuinely need one. Skipping it is one of the most expensive mistakes I see small business owners make."
   - q: "Should I tell my employees about my succession plans?"
     a: "This one's legitimately nuanced. Telling key employees early can help you retain them through a transition and gives you allies in the process. Telling the broader team too early can create anxiety and turnover. Most advisors suggest bringing in key managers once the plan is solidified but before any deal is actively in motion. Use your judgment based on your team's culture."
+author: "Rachel Green"
+author_slug: "rachel-green"
+author_title: "CFO Consultant"
+author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
+
 ---
 
 Most business owners will spend twenty years building something and about twenty minutes thinking about what happens to it when they're gone. I'll be honest: I was guilty of the same blind spot early in my career. I helped a lot of entrepreneurs get their books clean, their cash flow tight, their tax exposure minimal. Succession? That was a conversation for later. Then I watched a client of mine, a 61-year-old who ran a $4.2 million-a-year HVAC company outside of Columbus, drop dead of a heart attack on a Tuesday. His wife had no idea what the business was worth, who the key accounts were, or where the operating accounts were held. The company sold for about 40 cents on the dollar nine months later because buyers could smell the desperation.

@@ -6,8 +6,6 @@ description: "Learn how to build a strong business credit score from scratch. Di
 image: "https://images.pexels.com/photos/36766672/pexels-photo-36766672.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Credit"]
 tags: ["business", "credit", "score", "build"]
-author: "Frank Medina"
-author_bio: "Small business CFO and financial consultant with 18 years helping entrepreneurs set up clean financial systems. Former CPA."
 slug: "business-credit-score-how-to-build"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Dispute them directly with the bureau that has the incorrect information. For D&B, there's a process through their website to correct file errors. For Experian Business and Equifax Business, each has a dispute process as well. Errors are more common on business files than most people realize, including duplicate files, wrong address data, or accounts that belong to a similarly named company. Check your reports at all three bureaus at least once or twice a year."
   - q: "Will a business credit card hurt my personal credit score?"
     a: "It depends on the card issuer. Some business card issuers, like American Express for most of their business products, report only to commercial bureaus and don't appear on your personal credit report unless you default. Others do report to personal bureaus. Check the issuer's policy before applying. Applying for any new card does typically generate a hard inquiry on your personal credit, which can cause a small, temporary score dip."
+author: "David Kim"
+author_slug: "david-kim"
+author_title: "Tax Strategist"
+author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
+
 ---
 
 You applied for a small business loan last month. The bank came back and said your business credit score was too low, or worse, they couldn't find one at all. You assumed your solid personal credit would carry you through. It didn't. That's one of the most common gut-punch moments I see entrepreneurs face, and it's entirely preventable if you know how business credit actually works.

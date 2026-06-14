@@ -5,6 +5,11 @@ description: "A quick 7-question quiz to gauge whether your habits, savings cush
 slug: "are-you-ready-to-start-a-business"
 date: 2026-05-27T10:00:00+00:00
 tags: ["starting a business", "entrepreneurship", "business readiness", "small business", "self-assessment"]
+author: "Rachel Green"
+author_slug: "rachel-green"
+author_title: "CFO Consultant"
+author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
+
 ---
 
 Thinking about trading your steady paycheck for a business idea you can't stop daydreaming about? Before you register an LLC or quit your job, it helps to get honest with yourself about where you actually stand today.

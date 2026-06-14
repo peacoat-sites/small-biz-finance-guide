@@ -6,8 +6,6 @@ description: "Maximize your 2026 tax savings with our complete small business de
 image: "https://images.pexels.com/photos/6863512/pexels-photo-6863512.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Taxes"]
 tags: ["small", "business", "deductions", "checklist", "2026"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "small-business-tax-deductions-checklist-2026"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, but only up to $25 per recipient per year. This limit has been the same since 1954 and has never been adjusted for inflation, which tells you something about how Congress thinks about small business owners. Incidental costs like gift wrapping don't count toward the $25 limit."
   - q: "What's the difference between a deduction and a tax credit?"
     a: "A deduction reduces your taxable income. A credit reduces your actual tax bill dollar for dollar. A $1,000 deduction saves you $220 if you're in the 22% bracket. A $1,000 credit saves you $1,000 regardless of bracket. Credits are more valuable, but there are far fewer of them. The Small Business Health Care Tax Credit is one worth knowing about if you have employees and provide health coverage."
+author: "Amanda Pierce"
+author_slug: "amanda-pierce"
+author_title: "Operations Finance Writer"
+author_bio: "Amanda Pierce has run her own small business and knows the difference between profitability on paper and actually having money in the bank. She specializes in the operational side of business finances: invoicing systems, cash flow forecasting, dealing with slow-paying clients, and managing the day-to-day money reality of running a small business. At Small Biz Finance Guide, she covers cash flow tools, payment systems, and operational finance."
+
 ---
 
 Most small business owners I work with are leaving real money on the table every single year. Not because they're careless. Because nobody ever handed them a complete picture of what's actually deductible, and the IRS certainly isn't going to volunteer that information.

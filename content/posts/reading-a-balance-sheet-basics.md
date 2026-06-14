@@ -6,8 +6,6 @@ description: "Learn how to read a balance sheet with this beginner-friendly guid
 image: "https://images.pexels.com/photos/6693661/pexels-photo-6693661.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Accounting"]
 tags: ["reading", "balance", "sheet", "basics"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "reading-a-balance-sheet-basics"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Not necessarily, though it warrants serious attention. Negative equity means accumulated losses exceed invested capital. Some businesses operate in negative equity intentionally, particularly when they're early-stage and pre-profit, or when they've borrowed heavily to fund growth. The question is whether cash flow can service the debt and whether the trajectory is improving. A CPA can help you understand whether the situation is structural or a short-term pattern."
   - q: "Can a balance sheet be manipulated?"
     a: "Yes, and understanding that is part of financial literacy. Companies can time asset purchases or delay recording liabilities to make a snapshot look better than reality. Aggressive depreciation schedules, inflated inventory valuations, and premature revenue recognition are all things that can distort the picture. That's why audited financial statements matter for any serious transaction, and why asking questions when numbers don't feel right is always the right move."
+author: "Rachel Green"
+author_slug: "rachel-green"
+author_title: "CFO Consultant"
+author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
+
 ---
 
 You're sitting across from a banker, a potential investor, or maybe just your own accountant, and someone slides a page of numbers in front of you. Three columns, a bunch of line items, totals at the bottom. Everyone in the room assumes you understand it. You nod. You don't fully understand it. I've watched this exact moment happen to smart, capable business owners more times than I can count, and it never has to go that way.

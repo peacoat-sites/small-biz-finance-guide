@@ -6,8 +6,6 @@ description: "Learn what break even analysis is, how to calculate your break eve
 image: "https://images.pexels.com/photos/6774148/pexels-photo-6774148.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Financial Planning"]
 tags: ["break", "even", "analysis", "explained"]
-author: "Claire Novak"
-author_bio: "Former financial advisor and certified paralegal who left the industry tired of jargon and upsells. Now writes plain-English breakdowns of the things professionals tend to overcomplicate. No padding, no hedging, no hand-holding."
 slug: "break-even-analysis-explained"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "They're related but not the same thing. Break-even tells you when revenue covers costs on paper. Cash flow tells you when money actually arrives and leaves your account. You can be above break-even on an accrual basis and still have a cash flow problem if customers pay 60 days late and your rent is due now. Don't use break-even as a substitute for a cash flow forecast. Use both."
   - q: "Is break-even analysis useful for a business that's pre-revenue?"
     a: "It's arguably most useful pre-revenue. Before you've committed to a lease, hired staff, or set prices, the break-even formula tells you what you'd need to sell to survive. Run it with multiple pricing scenarios. If the break-even unit volume looks unrealistic given your market, that's information you want before you sign a lease, not after. I'd rather a client walk away from a bad idea at the spreadsheet stage than at month 14."
+author: "Sarah Johnson"
+author_slug: "sarah-johnson"
+author_title: "CPA & Lead Editor"
+author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
+
 ---
 
 Most business owners I've worked with can tell me their revenue number almost to the dollar. Ask them their break-even point, and you get a pause, a guess, or a number they clearly just made up. That gap is expensive. You can run a profitable-looking business straight into a cash crisis if you don't know the exact threshold where your revenue stops losing money and starts making it. Break-even analysis is how you find that threshold, and it's one of the few financial tools that pays for itself the first time you use it.

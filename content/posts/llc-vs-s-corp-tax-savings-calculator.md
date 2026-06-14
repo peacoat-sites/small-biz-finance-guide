@@ -6,8 +6,6 @@ description: "Compare LLC vs S Corp tax savings with our free calculator. See ex
 image: "https://images.pexels.com/photos/6693656/pexels-photo-6693656.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Business Structure"]
 tags: ["corp", "savings", "calculator"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "llc-vs-s-corp-tax-savings-calculator"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Mostly self-employment tax. Your total taxable income stays roughly the same either way. The S corp election restructures how that income is characterized, which affects SE tax but doesn't create a new income tax deduction. There's a secondary benefit in that you can deduct the employer half of your payroll taxes, which slightly reduces your adjusted gross income, but the primary savings mechanism is the SE tax reduction on distributions."
   - q: "Is an LLC taxed as a partnership different from a single-member LLC for this purpose?"
     a: "Yes, and the math changes. In a multi-member LLC taxed as a partnership, each partner pays self-employment tax on their share of active business income. The S corp comparison still applies, but now you're coordinating reasonable salaries for multiple owners, which adds complexity. The break-even analysis is similar in concept but needs to be run for each owner individually."
+author: "Rachel Green"
+author_slug: "rachel-green"
+author_title: "CFO Consultant"
+author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
+
 ---
 
 Every year, I watch otherwise sharp business owners lose anywhere from $3,000 to $12,000 in unnecessary self-employment taxes because they never ran the numbers on their entity structure. Not because they're careless. Because nobody sat down with them and showed them how the math actually works.

@@ -6,8 +6,6 @@ description: "Learn how to manage payroll tax obligations as a small business ow
 image: "https://images.pexels.com/photos/8970292/pexels-photo-8970292.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Taxes"]
 tags: ["payroll", "obligations", "small", "business"]
-author: "Dana Hargrove"
-author_bio: "Writer with a background in nursing and consumer advocacy. Has personally navigated insurance claims, Medicare enrollment, home repairs, and dozens of other real-life challenges. Writes to share hard-won knowledge so others don't have to figure it out alone."
 slug: "payroll-tax-obligations-small-business"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Form 941 is the standard quarterly payroll tax return most employers file. Form 944 is an annual alternative for very small employers whose annual payroll tax liability is $1,000 or less. The IRS has to designate you as a 944 filer; you can't just choose it. If you're eligible, they'll notify you. When in doubt, file 941."
   - q: "Where can I get help setting this up without paying a fortune?"
     a: "Two places I send people first: SCORE offers free mentorship from retired business professionals, and many of their mentors have deep accounting and operations backgrounds. The Consumer Financial Protection Bureau's small business resources also offer clear, unbiased guidance on financial obligations for business owners. Neither is a substitute for a CPA for your specific situation, but both can help you get oriented before you pay for professional time."
+author: "Michael Torres"
+author_slug: "michael-torres"
+author_title: "Business Loan Writer"
+author_bio: "Michael Torres spent years as a small business banker before moving to the borrower side as a loan consultant. He knows the SBA loan process inside and out, including the parts of the application that most business owners get wrong. At Small Biz Finance Guide, he covers SBA loans, lines of credit, equipment financing, and how to present your business to a lender in the best possible light."
+
 ---
 
 You hired your first employee on a Tuesday. By Friday, you realized you had no idea what you were supposed to withhold from their paycheck, where to send it, or when. And nobody warned you that missing a payroll tax deposit by even a few days can trigger a penalty from the IRS. I've seen this exact situation derail otherwise healthy small businesses, not because the owner was careless, but because payroll taxes are genuinely complicated and the learning curve arrives at the worst possible moment: right when you're excited about growing your team.

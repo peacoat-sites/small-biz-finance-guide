@@ -6,8 +6,6 @@ description: "Workers compensation insurance protects your small business employ
 image: "https://images.pexels.com/photos/7736036/pexels-photo-7736036.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Insurance"]
 tags: ["workers", "comp", "insurance", "small", "business"]
-author: "James O'Brien"
-author_bio: "Enrolled agent and small business tax specialist. Focuses on tax planning and bookkeeping for self-employed and small businesses."
 slug: "workers-comp-insurance-small-business"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Generally, no. Workers' comp applies to employees, not contractors. But here's the risk: if a contractor is misclassified and a state agency or court determines they were actually functioning as an employee, you may be liable for their injury costs. This is exactly why proper worker classification matters. See the details on 1099 vs W2 classification to understand how that distinction is drawn."
   - q: "Does workers' comp cover remote employees?"
     a: "Yes. If an employee is injured while performing work-related duties at home, that injury can be a compensable workers' comp claim. The challenge is that remote injuries are harder to verify and investigate. Having a clear remote work policy that defines work hours and a designated work area is useful documentation if a claim ever arises."
+author: "Rachel Green"
+author_slug: "rachel-green"
+author_title: "CFO Consultant"
+author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
+
 ---
 
 You hire a part-time delivery driver. Three weeks in, he slips on a wet floor at a client's office, breaks his wrist, and can't work for six weeks. The medical bills hit $14,000. If you don't have workers' comp insurance, you may be paying that out of pocket, plus lost wages, plus potential legal fees if he decides to sue. That scenario plays out thousands of times a year across the country, and most of the business owners it happens to thought they were too small to worry about it.

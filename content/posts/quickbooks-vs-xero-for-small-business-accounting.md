@@ -6,8 +6,6 @@ description: "Compare QuickBooks vs Xero for small business accounting. Discover
 image: "https://images.pexels.com/photos/8962446/pexels-photo-8962446.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Accounting"]
 tags: ["quickbooks", "xero", "small", "business", "accounting"]
-author: "Maria Vasquez"
-author_bio: "Community educator and adult learning specialist with a background running workshops on health, finance, and consumer topics. Has helped hundreds of people navigate systems that weren't designed to be easy. Writes the way she teaches: starting from where the reader actually is."
 slug: "quickbooks-vs-xero-for-small-business-accounting"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Wave is free and fine for very early-stage businesses with simple needs, but it lacks the depth you'll want once you're past your first $100K in revenue. FreshBooks is strong for invoicing and client billing but isn't a full double-entry accounting system, which matters for clean financials and loan applications. QuickBooks and Xero are genuinely in a different tier of capability."
   - q: "Do I need to hire a bookkeeper if I use either of these?"
     a: "Not necessarily, but the honest answer is: most business owners underestimate how much time DIY bookkeeping takes. If your books are behind, your categorization is inconsistent, or you don't actually know what your margins are, that's not a software problem. A part-time bookkeeper running $300 to $600/month is usually worth it once your revenue makes the time cost meaningful. Good software helps. Discipline and consistency are the harder part."
+author: "Michael Torres"
+author_slug: "michael-torres"
+author_title: "Business Loan Writer"
+author_bio: "Michael Torres spent years as a small business banker before moving to the borrower side as a loan consultant. He knows the SBA loan process inside and out, including the parts of the application that most business owners get wrong. At Small Biz Finance Guide, he covers SBA loans, lines of credit, equipment financing, and how to present your business to a lender in the best possible light."
+
 ---
 
 Most small business owners don't pick accounting software. They panic-install whatever their accountant mentioned once, or whatever came up first when they Googled "how to track my business income," and then they spend the next three years either mildly annoyed or deeply confused. I've watched this play out in client after client. So let's do this properly.

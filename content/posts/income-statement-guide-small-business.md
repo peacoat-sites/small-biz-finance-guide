@@ -6,8 +6,6 @@ description: "Learn how to read and create an income statement for your small bu
 image: "https://images.pexels.com/photos/8962448/pexels-photo-8962448.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Accounting"]
 tags: ["income", "statement", "guide", "small", "business"]
-author: "Alex Reeves"
-author_bio: "Independent researcher and former investigative journalist covering consumer, health, finance, and lifestyle topics. Goes deeper than most. If there's a study, a pattern, or an expert contradicting conventional wisdom, that's where the article starts."
 slug: "income-statement-guide-small-business"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "This is one of the most common and stressful situations in small business ownership. It usually comes down to timing differences, accounts receivable (you've earned revenue but haven't been paid), or significant asset purchases or loan repayments that appear on the balance sheet but not the income statement. This is exactly why you need all three financial statements working together: the P&L, the cash flow statement, and the balance sheet. The income statement alone is never the full story."
   - q: "Is net income the same as the money I can take out of my business?"
     a: "Not necessarily. Net income is an accounting figure. What you can actually distribute depends on your cash position, upcoming obligations, reinvestment needs, and your business structure. An S-corp owner, for instance, has separate rules around distributions versus salary. Always talk to your CPA before making large owner distributions, particularly around tax time."
+author: "Rachel Green"
+author_slug: "rachel-green"
+author_title: "CFO Consultant"
+author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
+
 ---
 
 Most small business owners I've worked with over the years can tell me their bank balance to the dollar. Ask them what their net profit margin was last quarter, though, and you get a long pause. That gap, right there, is exactly why the income statement exists, and exactly why so many business owners are flying blind without realizing it.

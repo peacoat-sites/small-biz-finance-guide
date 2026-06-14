@@ -6,8 +6,6 @@ description: "Discover effective accounts receivable management strategies to im
 image: "https://images.pexels.com/photos/8463151/pexels-photo-8463151.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cash Flow"]
 tags: ["accounts", "receivable", "management"]
-author: "Frank Medina"
-author_bio: "Small business CFO and financial consultant with 18 years helping entrepreneurs set up clean financial systems. Former CPA."
 slug: "accounts-receivable-management"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Generally, if an invoice is 90 or more days past due, you've exhausted your internal follow-up process, and the client is unresponsive or disputing in bad faith, a collections agency is worth considering. The math is straightforward: recovering 50-60 cents on the dollar through a collections agency beats recovering zero. Make sure to check your contract for any dispute resolution clauses before escalating, and consult a business attorney for larger amounts or complex disputes."
   - q: "Can I require a credit card on file to reduce collection risk?"
     a: "Absolutely, and more businesses should do it. Requiring a credit card on file at the start of an engagement, charged automatically on invoice due dates, is completely standard in many industries. Clients who object strongly to this arrangement are sometimes a signal worth heeding. For recurring service relationships in particular, automatic payment via ACH or credit card is one of the most effective ways to eliminate late payment almost entirely. Make sure your payment processor agreement permits this practice and that your client agreement clearly authorizes the charges."
+author: "Michael Torres"
+author_slug: "michael-torres"
+author_title: "Business Loan Writer"
+author_bio: "Michael Torres spent years as a small business banker before moving to the borrower side as a loan consultant. He knows the SBA loan process inside and out, including the parts of the application that most business owners get wrong. At Small Biz Finance Guide, he covers SBA loans, lines of credit, equipment financing, and how to present your business to a lender in the best possible light."
+
 ---
 
 You did everything right. You landed the client, delivered the work, sent the invoice, and then... nothing. Two weeks pass. You follow up. Silence. Week five, you're staring at $14,000 sitting in your accounts receivable column that might as well be Monopoly money. Meanwhile, your rent is due, your supplier wants payment, and your bank account balance tells a completely different story than your profit and loss statement. This is the accounts receivable trap, and it catches good businesses every single day.

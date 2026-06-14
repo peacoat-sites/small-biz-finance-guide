@@ -6,8 +6,6 @@ description: "Discover small business grants available to help fund your venture
 image: "https://images.pexels.com/photos/12585842/pexels-photo-12585842.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Financing"]
 tags: ["small", "business", "grants", "available"]
-author: "James O'Brien"
-author_bio: "Enrolled agent and small business tax specialist. Focuses on tax planning and bookkeeping for self-employed and small businesses."
 slug: "small-business-grants-available"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "It varies enormously depending on the grant, the applicant pool, and how well your application aligns with the funder's priorities. Some local grants have acceptance rates above 20%. National competitions with thousands of applicants might award 0.5% of the pool. There's no universal answer. What I can tell you is that owners who apply to 10 well-matched grants have a meaningfully better outcome than those who apply to one and wait."
   - q: "I don't have a formal business plan. Can I still apply?"
     a: "For many smaller grants and local programs, a full formal business plan isn't required. A clear, well-written executive summary describing your business, your market, your financials, and your goals will often suffice. That said, if you're targeting larger or more competitive grants, a professional business plan strengthens your application considerably. Resources like The Lean Startup by Eric Ries or Business Plan Pro software can help you build one efficiently. (Disclosure: this site may earn a commission on Amazon purchases.)"
+author: "Michael Torres"
+author_slug: "michael-torres"
+author_title: "Business Loan Writer"
+author_bio: "Michael Torres spent years as a small business banker before moving to the borrower side as a loan consultant. He knows the SBA loan process inside and out, including the parts of the application that most business owners get wrong. At Small Biz Finance Guide, he covers SBA loans, lines of credit, equipment financing, and how to present your business to a lender in the best possible light."
+
 ---
 
 Imagine you find out a competitor down the street just received $25,000 to expand their storefront, and they didn't take out a single loan to do it. No debt. No interest payments. No equity given up. They applied for a small business grant, got approved, and used the money to grow. Your first reaction might be skepticism. Your second should be: why haven't I looked into this?

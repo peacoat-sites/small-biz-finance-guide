@@ -6,8 +6,6 @@ description: "Comprehensive guide to business liability insurance. Learn coverag
 image: "https://images.pexels.com/photos/7821578/pexels-photo-7821578.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Insurance"]
 tags: ["business", "liability", "insurance", "guide"]
-author: "Frank Medina"
-author_bio: "Small business CFO and financial consultant with 18 years helping entrepreneurs set up clean financial systems. Former CPA."
 slug: "business-liability-insurance-guide"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "An occurrence-based policy covers incidents that happened during the policy period, even if the claim is filed years later. A claims-made policy only covers claims filed while the policy is active. Claims-made policies are often used for professional liability and are generally cheaper, but they require careful management. If you cancel a claims-made policy, you may need 'tail coverage' to protect against future claims for past work."
   - q: "How do I know if I need professional liability in addition to general liability?"
     a: "If you provide advice, services, or expertise that clients rely on to make business or financial decisions, you probably need professional liability (E&O). General liability doesn't cover economic losses caused by professional errors or omissions. Ask yourself: if a client said 'your work cost us money,' would GL cover that? Almost certainly not. That's exactly what E&O is for."
+author: "Sarah Johnson"
+author_slug: "sarah-johnson"
+author_title: "CPA & Lead Editor"
+author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
+
 ---
 
 You're three months into running your catering business when a guest slips on a wet floor at an event you managed. They break their wrist. The medical bills hit $18,000. Then comes the lawsuit. If you don't have general liability insurance, that $18,000 plus legal fees comes straight out of your pocket, and potentially out of your personal savings if you haven't properly separated your finances. This is not a hypothetical. It's the kind of thing I've watched destroy businesses that were otherwise doing well.

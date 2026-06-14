@@ -6,8 +6,6 @@ description: "Learn how to get a small business loan with our step-by-step guide
 image: "https://images.pexels.com/photos/9068367/pexels-photo-9068367.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Financing"]
 tags: ["small", "business", "loan"]
-author: "James O'Brien"
-author_bio: "Enrolled agent and small business tax specialist. Focuses on tax planning and bookkeeping for self-employed and small businesses."
 slug: "how-to-get-a-small-business-loan"
 affiliate_disclosure: true
 faqs:
@@ -21,6 +19,11 @@ faqs:
     a: "Yes, but your options are narrower. Most traditional lenders want to see at least two years of operating history. Startups often do better with SBA microloans, CDFI financing, equipment financing (if buying specific assets), or business credit cards to start building credit history. Having a strong personal credit score and putting up collateral improves your odds considerably."
   - q: "Should I use a loan broker to find financing?"
     a: "A broker can save time by shopping your application across multiple lenders, which is genuinely useful if you're not sure where to start. The downside is that brokers are paid by lenders (or charge you a fee), which creates an incentive to place you with whoever pays best, not necessarily whoever's right for you. If you use one, ask upfront how they're compensated and get competing quotes on your own as a check."
+author: "Amanda Pierce"
+author_slug: "amanda-pierce"
+author_title: "Operations Finance Writer"
+author_bio: "Amanda Pierce has run her own small business and knows the difference between profitability on paper and actually having money in the bank. She specializes in the operational side of business finances: invoicing systems, cash flow forecasting, dealing with slow-paying clients, and managing the day-to-day money reality of running a small business. At Small Biz Finance Guide, she covers cash flow tools, payment systems, and operational finance."
+
 ---
 
 You walk into a bank, ask about a small business loan, and leave two hours later with a stack of paperwork, no clear answers, and a vague sense that you probably won't qualify. Sound familiar? Most small business owners don't get turned down because their business is bad. They get turned down because they showed up unprepared, applied to the wrong lender, or didn't understand what the bank was actually looking for. The good news: this is entirely fixable.
