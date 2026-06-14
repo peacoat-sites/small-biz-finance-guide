@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "sarah-johnson",
+    "name": "Sarah Johnson",
+    "title": "CPA & Lead Editor",
+    "specialty": "Small Business Accounting & Tax Strategy",
+    "bio": "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
+  },
+  {
+    "slug": "michael-torres",
+    "name": "Michael Torres",
+    "title": "Business Loan Writer",
+    "specialty": "SBA Loans & Small Business Financing",
+    "bio": "Michael Torres spent years as a small business banker before moving to the borrower side as a loan consultant. He knows the SBA loan process inside and out, including the parts of the application that most business owners get wrong. At Small Biz Finance Guide, he covers SBA loans, lines of credit, equipment financing, and how to present your business to a lender in the best possible light."
+  },
+  {
+    "slug": "rachel-green",
+    "name": "Rachel Green",
+    "title": "CFO Consultant",
+    "specialty": "Financial Systems & Business Scaling",
+    "bio": "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
+  },
+  {
+    "slug": "david-kim",
+    "name": "David Kim",
+    "title": "Tax Strategist",
+    "specialty": "Business Tax Planning & Deduction Optimization",
+    "bio": "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
+  },
+  {
+    "slug": "amanda-pierce",
+    "name": "Amanda Pierce",
+    "title": "Operations Finance Writer",
+    "specialty": "Cash Flow, Invoicing & Operational Finance",
+    "bio": "Amanda Pierce has run her own small business and knows the difference between profitability on paper and actually having money in the bank. She specializes in the operational side of business finances: invoicing systems, cash flow forecasting, dealing with slow-paying clients, and managing the day-to-day money reality of running a small business. At Small Biz Finance Guide, she covers cash flow tools, payment systems, and operational finance."
+  }
+]
