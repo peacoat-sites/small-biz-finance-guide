@@ -1,5 +1,5 @@
 ---
-title: "Sba Microloan Program"
+title: "SBA Microloan Program"
 date: 2026-05-24T18:04:51.911586+00:00
 draft: false
 description: "Discover how the SBA microloan program helps small businesses and startups access up to $50,000 in funding. Learn eligibility requirements, how to apply, and wh"

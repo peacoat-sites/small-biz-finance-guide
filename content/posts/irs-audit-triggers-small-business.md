@@ -1,5 +1,5 @@
 ---
-title: "Irs Audit Triggers Small Business"
+title: "IRS Audit Triggers Small Business"
 date: 2026-06-11T23:12:40.842659+00:00
 draft: false
 description: "Avoid costly IRS audits by learning the top small business red flags that trigger scrutiny, from excessive deductions to unreported income and filing errors."

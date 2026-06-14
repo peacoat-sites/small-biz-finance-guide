@@ -1,5 +1,5 @@
 ---
-title: "Llc Vs Sole Proprietorship Taxes"
+title: "LLC Vs Sole Proprietorship Taxes"
 date: 2026-05-20T16:41:21.898894+00:00
 draft: false
 description: "Compare LLC vs sole proprietorship taxes to find the best structure for your business. Learn how each impacts self-employment tax, deductions, and your bottom l"
