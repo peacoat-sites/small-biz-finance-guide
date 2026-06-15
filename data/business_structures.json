@@ -1,0 +1,41 @@
+{
+  "title": "Business Structure Comparison: Liability, Taxes & Setup",
+  "source": "General educational comparison, not tax or legal advice. Rules vary by state and situation; consult a CPA or attorney before choosing.",
+  "rows": [
+    {
+      "type": "Sole Proprietorship",
+      "liability": "None (personal assets at risk)",
+      "tax": "Pass-through (Schedule C on personal return)",
+      "setup": "Minimal, no state filing",
+      "best": "Solo, low-risk side businesses"
+    },
+    {
+      "type": "General Partnership",
+      "liability": "None (partners personally liable)",
+      "tax": "Pass-through to each partner",
+      "setup": "Low, partnership agreement advised",
+      "best": "Two or more owners testing an idea"
+    },
+    {
+      "type": "LLC",
+      "liability": "Yes (limited liability)",
+      "tax": "Pass-through by default; can elect S- or C-corp",
+      "setup": "Moderate, file with state + annual fees",
+      "best": "Most small businesses wanting protection + flexibility"
+    },
+    {
+      "type": "S-Corporation",
+      "liability": "Yes",
+      "tax": "Pass-through; salary + distributions can cut self-employment tax",
+      "setup": "Higher, IRS election + payroll + formalities",
+      "best": "Profitable businesses paying owners a reasonable salary"
+    },
+    {
+      "type": "C-Corporation",
+      "liability": "Yes",
+      "tax": "Separate entity at corporate rate (possible double taxation)",
+      "setup": "Highest, formal governance + filings",
+      "best": "Startups raising venture capital or reinvesting profits"
+    }
+  ]
+}
