@@ -705,3 +705,9 @@ a     { color: inherit; text-decoration: none; }
   /* Hamburger on the LEFT */
   .nav-toggle { order: -1; margin-right: 2px; }
 }
+
+
+/* ── Dark-nav header: brand-mark contrast (accent icon was invisible on the accent header) ── */
+[data-nav="dark"] .site-header .brand-mark [fill]:not([fill="none"]) { fill: #fff !important; }
+[data-nav="dark"] .site-header .brand-mark [stroke]:not([stroke="none"]) { stroke: #fff !important; }
+[data-nav="dark"] .site-header .brand-mark [fill="#fff"] { fill: var(--accent) !important; }
