@@ -1,0 +1,26 @@
+{{ $d := site.Data.business_structures }}
+{{ if and $d $d.rows }}
+<div style="margin:32px 0;border:1px solid var(--border,#e7e5e4);border-radius:12px;overflow:hidden">
+  <div style="padding:14px 18px;background:var(--surface2,#f5f2ec);font-weight:700;font-size:1rem">{{ $d.title }}</div>
+  <div style="overflow-x:auto">
+  <table style="width:100%;border-collapse:collapse;font-size:.9rem;min-width:720px">
+    <thead><tr style="background:var(--surface2,#f5f2ec);text-align:left">
+      <th style="padding:11px 14px;font-weight:700">Structure</th>
+      <th style="padding:11px 14px;font-weight:700">Liability Protection</th>
+      <th style="padding:11px 14px;font-weight:700">How It's Taxed</th>
+      <th style="padding:11px 14px;font-weight:700">Setup &amp; Paperwork</th>
+      <th style="padding:11px 14px;font-weight:700">Best For</th></tr></thead>
+    <tbody>
+      {{ range $d.rows }}<tr style="border-top:1px solid var(--border,#e7e5e4)">
+        <td style="padding:10px 14px;font-weight:600">{{ .type }}</td>
+        <td style="padding:10px 14px">{{ .liability }}</td>
+        <td style="padding:10px 14px">{{ .tax }}</td>
+        <td style="padding:10px 14px">{{ .setup }}</td>
+        <td style="padding:10px 14px">{{ .best }}</td></tr>
+      {{ end }}
+    </tbody>
+  </table>
+  </div>
+  {{ with $d.source }}<div style="padding:10px 18px;font-size:.78rem;color:var(--muted,#6b7280);border-top:1px solid var(--border,#e7e5e4)">{{ . | safeHTML }}</div>{{ end }}
+</div>
+{{ end }}
