@@ -3,7 +3,7 @@ title: "Sep Ira Vs Simple Ira"
 date: 2026-06-10T23:17:07.931802+00:00
 draft: false
 description: "Compare SEP IRA vs SIMPLE IRA to find the best retirement plan for your business. Learn contribution limits, eligibility rules, and key differences to maximize "
-image: "https://images.pexels.com/photos/6694492/pexels-photo-6694492.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7821474/pexels-photo-7821474.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Benefits"]
 tags: ["SIMPLE"]
 slug: "sep-ira-vs-simple-ira"
@@ -108,7 +108,7 @@ Each individual account holder selects their own investments from whatever optio
 - **[Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20)**
 
 
-*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
 

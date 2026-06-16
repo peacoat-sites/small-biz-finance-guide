@@ -3,7 +3,7 @@ title: "Small Business Credit Card Guide"
 date: 2026-05-27T13:47:36.808518+00:00
 draft: false
 description: "Discover the best small business credit cards to manage expenses, earn rewards, and build credit. Compare top options and find the right card for your business "
-image: "https://images.pexels.com/photos/7620626/pexels-photo-7620626.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/23496937/pexels-photo-23496937.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Credit"]
 tags: ["small", "business", "credit", "card", "guide"]
 slug: "small-business-credit-card-guide"
@@ -122,7 +122,7 @@ A business credit card is one of the simplest tools available to you, but only w
 - **[Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20)**
 
 
-*Photo: [Kuncheek](https://www.pexels.com/@kunitsky) via Pexels*
+*Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 
 ---
 

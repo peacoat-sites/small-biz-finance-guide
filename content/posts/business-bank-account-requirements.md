@@ -3,7 +3,7 @@ title: "Business Bank Account Requirements"
 date: 2026-05-29T19:59:39.707496+00:00
 draft: false
 description: "Open a business bank account with confidence. Learn the exact documents and requirements you need to get approved quickly and avoid common delays."
-image: "https://images.pexels.com/photos/7698796/pexels-photo-7698796.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7821914/pexels-photo-7821914.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Banking"]
 tags: ["business", "bank", "account", "requirements"]
 slug: "business-bank-account-requirements"
@@ -160,7 +160,7 @@ Getting this right early is one of the highest-leverage things you can do for yo
 - **[The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20)**
 
 
-*Photo: [Leeloo The First](https://www.pexels.com/@leeloothefirst) via Pexels*
+*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
 

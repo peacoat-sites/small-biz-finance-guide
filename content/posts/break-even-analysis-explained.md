@@ -3,7 +3,7 @@ title: "Break Even Analysis Explained"
 date: 2026-05-25T03:53:49.530690+00:00
 draft: false
 description: "Learn what break even analysis is, how to calculate your break even point, and why it matters for making smarter business and pricing decisions."
-image: "https://images.pexels.com/photos/6774148/pexels-photo-6774148.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/669614/pexels-photo-669614.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Financial Planning"]
 tags: ["break", "even", "analysis", "explained"]
 slug: "break-even-analysis-explained"
@@ -147,7 +147,7 @@ Knowing your break-even number won't save a bad business model, but not knowing 
 - **[AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)**
 
 
-*Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
+*Photo: [Lukas Blazek](https://www.pexels.com/@goumbik) via Pexels*
 
 ---
 

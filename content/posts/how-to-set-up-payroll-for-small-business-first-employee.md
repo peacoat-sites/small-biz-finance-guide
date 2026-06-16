@@ -3,7 +3,7 @@ title: "How To Set Up Payroll For Small Business First Employee"
 date: 2026-06-04T12:23:19.269828+00:00
 draft: false
 description: "Learn how to set up payroll for your small business first employee with our step-by-step guide covering taxes, forms, and compliance requirements."
-image: "https://images.pexels.com/photos/6919704/pexels-photo-6919704.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/36731170/pexels-photo-36731170.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Payroll"]
 tags: ["payroll", "small", "business", "first", "employee"]
 slug: "how-to-set-up-payroll-for-small-business-first-employee"
@@ -146,7 +146,7 @@ You don't have to get this perfect from day one. But you do have to get the foun
 - **[Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20)**
 
 
-*Photo: [Nataliya Vaitkevich](https://www.pexels.com/@n-voitkevich) via Pexels*
+*Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 
 ---
 

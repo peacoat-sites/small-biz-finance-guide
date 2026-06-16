@@ -3,7 +3,7 @@ title: "Small Business Bookkeeping Guide"
 date: 2026-05-27T02:11:21.562241+00:00
 draft: false
 description: "Track your small business finances with confidence. This beginner-friendly bookkeeping guide covers records, expenses, taxes, and tools to keep your business on"
-image: "https://images.pexels.com/photos/1170412/pexels-photo-1170412.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8927682/pexels-photo-8927682.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Accounting"]
 tags: ["small", "business", "bookkeeping", "guide"]
 slug: "small-business-bookkeeping-guide"
@@ -167,7 +167,7 @@ Clean books don't make your business successful on their own, but they give you 
 - **[Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20)**
 
 
-*Photo: [Leeloo The First](https://www.pexels.com/@leeloothefirst) via Pexels*
+*Photo: [Nataliya Vaitkevich](https://www.pexels.com/@n-voitkevich) via Pexels*
 
 ---
 

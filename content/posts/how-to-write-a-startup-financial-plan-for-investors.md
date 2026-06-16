@@ -3,7 +3,7 @@ title: "How To Write A Startup Financial Plan For Investors"
 date: 2026-06-05T22:50:15.040143+00:00
 draft: false
 description: "Learn how to write a startup financial plan that attracts investors. Discover key components, projections, and tips to build a compelling, fundable financial st"
-image: "https://images.pexels.com/photos/8962451/pexels-photo-8962451.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7876664/pexels-photo-7876664.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Financial Planning"]
 tags: ["write", "startup", "financial", "plan", "investors"]
 slug: "how-to-write-a-startup-financial-plan-for-investors"
@@ -124,7 +124,7 @@ Get the assumptions right. Know every number well enough to defend it from three
 - **[Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20)**
 
 
-*Photo: [Leeloo The First](https://www.pexels.com/@leeloothefirst) via Pexels*
+*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
 
 ---
 

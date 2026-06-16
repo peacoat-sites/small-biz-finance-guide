@@ -3,7 +3,7 @@ title: "Small Business Exit Strategy Planning"
 date: 2026-05-25T09:17:09.916303+00:00
 draft: false
 description: "Plan your small business exit strategy with confidence. Explore key options like selling, merging, or succession planning to maximize value and secure your futu"
-image: "https://images.pexels.com/photos/5934221/pexels-photo-5934221.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/31561439/pexels-photo-31561439.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Strategy"]
 tags: ["small", "business", "exit", "strategy", "planning"]
 slug: "small-business-exit-strategy-planning"
@@ -129,7 +129,7 @@ The honest truth about exit planning is that it asks you to hold two things at o
 - **[The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20)**
 
 
-*Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
+*Photo: [James Thomas](https://www.pexels.com/@digitaljames) via Pexels*
 
 ---
 

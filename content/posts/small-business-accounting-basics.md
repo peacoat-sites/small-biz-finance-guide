@@ -3,7 +3,7 @@ title: "Small Business Accounting Basics"
 date: 2026-05-26T13:32:00.329247+00:00
 draft: false
 description: "Learn the essential small business accounting basics, from tracking expenses and managing cash flow to understanding financial statements and staying tax ready."
-image: "https://images.pexels.com/photos/5583965/pexels-photo-5583965.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/15121231/pexels-photo-15121231.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Accounting"]
 tags: ["small", "business", "accounting", "basics"]
 slug: "small-business-accounting-basics"
@@ -139,7 +139,7 @@ The businesses that survive long-term aren't always the ones with the best produ
 - **[Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20)**
 
 
-*Photo: [Leeloo The First](https://www.pexels.com/@leeloothefirst) via Pexels*
+*Photo: [Engin Akyurt](https://www.pexels.com/@enginakyurt) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "USDA Business Loans Rural"
 date: 2026-05-19T13:21:06.746051+00:00
 draft: false
 description: "Explore USDA business loans for rural areas. Learn about eligibility, loan amounts, interest rates, and how to apply for funding to grow your rural business tod"
-image: "https://images.pexels.com/photos/36984944/pexels-photo-36984944.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/11802281/pexels-photo-11802281.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Financing"]
 tags: ["USDA", "business", "loans", "rural"]
 slug: "usda-business-loans-rural"

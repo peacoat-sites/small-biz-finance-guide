@@ -3,7 +3,7 @@ title: "Quickbooks Vs Xero For Small Business Accounting"
 date: 2026-06-05T22:47:35.385009+00:00
 draft: false
 description: "Compare QuickBooks vs Xero for small business accounting. Discover features, pricing, and pros and cons to help you choose the best accounting software for your"
-image: "https://images.pexels.com/photos/8962446/pexels-photo-8962446.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6862458/pexels-photo-6862458.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Accounting"]
 tags: ["quickbooks", "xero", "small", "business", "accounting"]
 slug: "quickbooks-vs-xero-for-small-business-accounting"
@@ -122,7 +122,7 @@ Pick the one your accountant knows, unless you have a specific reason not to. If
 - **[Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20)**
 
 
-*Photo: [Leeloo The First](https://www.pexels.com/@leeloothefirst) via Pexels*
+*Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
 
 ---
 

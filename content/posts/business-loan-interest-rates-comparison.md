@@ -3,7 +3,7 @@ title: "Business Loan Interest Rates Comparison"
 date: 2026-05-26T12:34:17.847045+00:00
 draft: false
 description: "Compare business loan interest rates from top lenders to find the best deal for your company. Discover rates, terms, and tips to secure affordable financing tod"
-image: "https://images.pexels.com/photos/8292883/pexels-photo-8292883.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/29457610/pexels-photo-29457610.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Financing"]
 tags: ["business", "loan", "interest", "rates", "comparison"]
 slug: "business-loan-interest-rates-comparison"

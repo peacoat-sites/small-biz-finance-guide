@@ -3,7 +3,7 @@ title: "Health Insurance Self-Employed Deduction"
 date: 2026-06-15T23:26:15.140122+00:00
 draft: false
 description: "Learn how self-employed individuals can deduct health insurance premiums to reduce taxable income and save money on their annual tax return."
-image: "https://images.pexels.com/photos/7681325/pexels-photo-7681325.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7859258/pexels-photo-7859258.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Taxes"]
 tags: ["health", "insurance", "self-employed", "deduction"]
 author: "David Kim"
@@ -81,7 +81,7 @@ The deduction exists specifically because Congress recognized that self-employed
 - **[AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)**
 
 
-*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
+*Photo: [Greta Hoffman](https://www.pexels.com/@greta-hoffman) via Pexels*
 
 ---
 

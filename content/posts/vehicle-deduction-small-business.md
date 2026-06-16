@@ -3,7 +3,7 @@ title: "Vehicle Deduction Small Business"
 date: 2026-05-26T03:12:22.683704+00:00
 draft: false
 description: "Maximize your small business taxes with vehicle deductions. Learn IRS rules, calculate mileage, and claim depreciation to reduce your tax liability today."
-image: "https://images.pexels.com/photos/5058118/pexels-photo-5058118.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/13673160/pexels-photo-13673160.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Taxes"]
 tags: ["vehicle", "deduction", "small", "business"]
 slug: "vehicle-deduction-small-business"
@@ -153,7 +153,7 @@ Vehicle deductions reward the business owners who track their numbers and penali
 - **[Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)**
 
 
-*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
+*Photo: [Deane Bayas](https://www.pexels.com/@dbaler) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "Profit Margin Calculation Guide"
 date: 2026-05-25T14:59:11.705956+00:00
 draft: false
 description: "Learn how to calculate profit margins with our step-by-step guide. Includes formulas, examples, and tips to improve gross, operating, and net profit margins."
-image: "https://images.pexels.com/photos/6801682/pexels-photo-6801682.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6779570/pexels-photo-6779570.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Financial Planning"]
 tags: ["profit", "margin", "calculation", "guide"]
 slug: "profit-margin-calculation-guide"
@@ -159,7 +159,7 @@ Profit margin isn't a vanity metric for big companies with finance departments. 
 - **[Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20)**
 
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [Artem Podrez](https://www.pexels.com/@artempodrez) via Pexels*
 
 ---
 

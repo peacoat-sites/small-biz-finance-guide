@@ -3,7 +3,7 @@ title: "IRS Audit Triggers Small Business"
 date: 2026-06-11T23:12:40.842659+00:00
 draft: false
 description: "Avoid costly IRS audits by learning the top small business red flags that trigger scrutiny, from excessive deductions to unreported income and filing errors."
-image: "https://images.pexels.com/photos/7821541/pexels-photo-7821541.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6929010/pexels-photo-6929010.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Taxes"]
 tags: ["audit", "triggers", "small", "business"]
 slug: "irs-audit-triggers-small-business"
@@ -91,7 +91,7 @@ If you want a deeper framework for thinking about all of this, Frederick Dailey'
 - **[AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)**
 
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [Leeloo The First](https://www.pexels.com/@leeloothefirst) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "SBA Microloan Program"
 date: 2026-05-24T18:04:51.911586+00:00
 draft: false
 description: "Discover how the SBA microloan program helps small businesses and startups access up to $50,000 in funding. Learn eligibility requirements, how to apply, and wh"
-image: "https://images.pexels.com/photos/37694202/pexels-photo-37694202.jpeg?auto=compress&cs=tinysrgb&h=650&w=940?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/3943728/pexels-photo-3943728.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Financing"]
 tags: ["microloan", "program"]
 slug: "sba-microloan-program"

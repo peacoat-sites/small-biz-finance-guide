@@ -3,7 +3,7 @@ title: "Bonus Depreciation 2024"
 date: 2026-06-13T22:47:52.236016+00:00
 draft: false
 description: "Discover how bonus depreciation works in 2024, including the 60% deduction rate, eligible assets, and strategies to maximize your business tax savings this year"
-image: "https://images.pexels.com/photos/5466814/pexels-photo-5466814.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6958513/pexels-photo-6958513.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Taxes"]
 tags: ["bonus", "depreciation", "2024"]
 slug: "bonus-depreciation-2024"
@@ -107,7 +107,7 @@ You can opt out. The election to not claim bonus depreciation is made on a class
 - **[AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)**
 
 
-*Photo: [olia danilevich](https://www.pexels.com/@olia-danilevich) via Pexels*
+*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
 
 ---
 

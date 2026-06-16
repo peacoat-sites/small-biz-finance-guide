@@ -3,7 +3,7 @@ title: "Reading A Balance Sheet Basics"
 date: 2026-05-23T19:58:16.613740+00:00
 draft: false
 description: "Learn how to read a balance sheet with this beginner-friendly guide covering assets, liabilities, and equity to help you understand any companys financial healt"
-image: "https://images.pexels.com/photos/6693661/pexels-photo-6693661.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7111590/pexels-photo-7111590.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Accounting"]
 tags: ["reading", "balance", "sheet", "basics"]
 slug: "reading-a-balance-sheet-basics"
@@ -167,7 +167,7 @@ The balance sheet isn't something to hand off entirely to your accountant and ne
 - **[AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)**
 
 
-*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
+*Photo: [Tara Winstead](https://www.pexels.com/@tara-winstead) via Pexels*
 
 ---
 

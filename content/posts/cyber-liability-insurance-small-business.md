@@ -3,7 +3,7 @@ title: "Cyber Liability Insurance Small Business"
 date: 2026-06-09T23:04:54.658166+00:00
 draft: false
 description: "Protect your small business from costly data breaches and cyberattacks with cyber liability insurance. Compare coverage options, costs, and find the best policy"
-image: "https://images.pexels.com/photos/8962452/pexels-photo-8962452.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/3949101/pexels-photo-3949101.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Insurance"]
 tags: ["cyber", "liability", "insurance", "small", "business"]
 slug: "cyber-liability-insurance-small-business"
@@ -86,7 +86,7 @@ Insurers are paying attention to this now. Some policies require MFA as a condit
 - **[Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20)**
 
 
-*Photo: [Leeloo The First](https://www.pexels.com/@leeloothefirst) via Pexels*
+*Photo: [Dan  Nelson](https://www.pexels.com/@dan-nelson-1667453) via Pexels*
 
 ---
 

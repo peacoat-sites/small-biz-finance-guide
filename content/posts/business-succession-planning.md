@@ -3,7 +3,7 @@ title: "Business Succession Planning"
 date: 2026-06-12T23:04:16.572716+00:00
 draft: false
 description: "Ensure your business thrives beyond you with expert succession planning strategies. Learn how to protect assets, retain key talent, and secure a smooth leadersh"
-image: "https://images.pexels.com/photos/7680745/pexels-photo-7680745.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5668523/pexels-photo-5668523.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Strategy"]
 tags: ["business", "succession", "planning"]
 slug: "business-succession-planning"
@@ -88,7 +88,7 @@ The research here is somewhat mixed on whether family successions outperform out
 - **[AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)**
 
 
-*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
+*Photo: [Sora Shimazaki](https://www.pexels.com/@sora-shimazaki) via Pexels*
 
 ---
 

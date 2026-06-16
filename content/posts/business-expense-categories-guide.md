@@ -3,7 +3,7 @@ title: "Business Expense Categories Guide"
 date: 2026-05-24T07:22:48.129344+00:00
 draft: false
 description: "Track and organize all your business expenses with our comprehensive guide to expense categories. Learn tax deductions, accounting best practices, and more."
-image: "https://images.pexels.com/photos/7111519/pexels-photo-7111519.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7545333/pexels-photo-7545333.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Accounting"]
 tags: ["business", "expense", "categories", "guide"]
 slug: "business-expense-categories-guide"
@@ -158,7 +158,7 @@ Getting your expense categories right isn't glamorous work. But it's foundationa
 - **[AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)**
 
 
-*Photo: [Tara Winstead](https://www.pexels.com/@tara-winstead) via Pexels*
+*Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
 
 ---
 

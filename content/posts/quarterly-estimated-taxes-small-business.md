@@ -3,7 +3,7 @@ title: "Quarterly Estimated Taxes Small Business"
 date: 2026-05-28T06:58:35.434952+00:00
 draft: false
 description: "Pay quarterly estimated taxes on time and avoid IRS penalties. Learn how small business owners calculate, schedule, and submit payments to stay compliant year-r"
-image: "https://images.pexels.com/photos/36631703/pexels-photo-36631703.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/15116664/pexels-photo-15116664.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Taxes"]
 tags: ["quarterly", "estimated", "taxes", "small", "business"]
 slug: "quarterly-estimated-taxes-small-business"
@@ -138,7 +138,7 @@ The quarterly estimated tax system isn't complicated once you've done it a year 
 - **[Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)**
 
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [Mark Youso](https://www.pexels.com/@mark-youso-420893752) via Pexels*
 
 ---
 

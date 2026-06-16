@@ -3,7 +3,7 @@ title: "Workers Comp Insurance Small Business"
 date: 2026-05-21T20:57:01.356773+00:00
 draft: false
 description: "Workers compensation insurance protects your small business employees and finances. Learn coverage requirements, costs, and how to choose the best policy today."
-image: "https://images.pexels.com/photos/7736036/pexels-photo-7736036.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8961556/pexels-photo-8961556.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Insurance"]
 tags: ["workers", "comp", "insurance", "small", "business"]
 slug: "workers-comp-insurance-small-business"

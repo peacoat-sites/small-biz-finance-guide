@@ -3,7 +3,7 @@ title: "Business Acquisition Loan"
 date: 2026-06-08T23:04:08.386104+00:00
 draft: false
 description: "Secure funding to buy an existing business with a business acquisition loan. Explore loan types, eligibility requirements, and tips to get approved fast."
-image: "https://images.pexels.com/photos/7821710/pexels-photo-7821710.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/33175672/pexels-photo-33175672.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Financing"]
 tags: ["business", "acquisition", "loan"]
 slug: "business-acquisition-loan"
@@ -98,7 +98,7 @@ Plan for that reality early. Showing up to underwriting with exactly the minimum
 - **[Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20)**
 
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [Bia Limova](https://www.pexels.com/@bia-limova-1908542654) via Pexels*
 
 ---
 

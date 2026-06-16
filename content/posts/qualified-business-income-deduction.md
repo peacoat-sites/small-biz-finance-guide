@@ -3,7 +3,7 @@ title: "Qualified Business Income Deduction"
 date: 2026-06-12T23:06:02.378135+00:00
 draft: false
 description: "Learn how the qualified business income deduction lets eligible self-employed and small business owners deduct up to 20% of QBI to reduce their federal tax bill"
-image: "https://images.pexels.com/photos/6694950/pexels-photo-6694950.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/11069121/pexels-photo-11069121.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Taxes"]
 tags: ["qualified", "business", "income", "deduction"]
 slug: "qualified-business-income-deduction"
@@ -98,7 +98,7 @@ The expiration question is real. If the deduction sunsets at the end of 2025 as 
 - **[AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)**
 
 
-*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
+*Photo: [Towfiqu barbhuiya](https://www.pexels.com/@towfiqu-barbhuiya-3440682) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "Small Business Tax Deductions Checklist 2026"
 date: 2026-06-03T14:10:02.282513+00:00
 draft: false
 description: "Maximize your 2026 tax savings with our complete small business deductions checklist. Discover every eligible write-off to reduce your taxable income and keep m"
-image: "https://images.pexels.com/photos/6863512/pexels-photo-6863512.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6863329/pexels-photo-6863329.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Taxes"]
 tags: ["small", "business", "deductions", "checklist", "2026"]
 slug: "small-business-tax-deductions-checklist-2026"

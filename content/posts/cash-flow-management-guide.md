@@ -3,7 +3,7 @@ title: "Cash Flow Management Guide"
 date: 2026-05-19T07:05:45.201235+00:00
 draft: false
 description: "Master cash flow management with expert tips on forecasting, budgeting, and optimizing income and expenses to keep your business financially healthy and growing"
-image: "https://images.pexels.com/photos/7698834/pexels-photo-7698834.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/5902919/pexels-photo-5902919.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Cash Flow"]
 tags: ["cash", "flow", "management", "guide"]
 slug: "cash-flow-management-guide"
@@ -159,7 +159,7 @@ Cash flow management isn't a complex skill reserved for finance professionals. I
 - **[The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20)**
 
 
-*Photo: [Leeloo The First](https://www.pexels.com/@leeloothefirst) via Pexels*
+*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
 
 ---
 

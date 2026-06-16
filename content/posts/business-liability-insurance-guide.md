@@ -3,7 +3,7 @@ title: "Business Liability Insurance Guide"
 date: 2026-05-19T04:11:32.869647+00:00
 draft: false
 description: "Comprehensive guide to business liability insurance. Learn coverage types, costs, requirements, and how to choose the right policy for your business needs."
-image: "https://images.pexels.com/photos/7821578/pexels-photo-7821578.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7821566/pexels-photo-7821566.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Insurance"]
 tags: ["business", "liability", "insurance", "guide"]
 slug: "business-liability-insurance-guide"

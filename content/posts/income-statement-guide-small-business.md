@@ -3,7 +3,7 @@ title: "Income Statement Guide Small Business"
 date: 2026-05-29T05:53:21.727812+00:00
 draft: false
 description: "Learn how to read and create an income statement for your small business. Track revenue, expenses, and profit to make smarter financial decisions today."
-image: "https://images.pexels.com/photos/8962448/pexels-photo-8962448.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7821672/pexels-photo-7821672.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Accounting"]
 tags: ["income", "statement", "guide", "small", "business"]
 slug: "income-statement-guide-small-business"

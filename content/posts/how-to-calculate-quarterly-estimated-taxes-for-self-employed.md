@@ -3,7 +3,7 @@ title: "How To Calculate Quarterly Estimated Taxes For Self Employed"
 date: 2026-06-06T22:46:05.020814+00:00
 draft: false
 description: "Learn how to calculate quarterly estimated taxes if you're self-employed. Avoid IRS penalties with our step-by-step guide to deadlines, deductions, and payment "
-image: "https://images.pexels.com/photos/5196829/pexels-photo-5196829.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/8962520/pexels-photo-8962520.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Taxes"]
 tags: ["calculate", "quarterly", "estimated", "taxes", "self"]
 slug: "how-to-calculate-quarterly-estimated-taxes-for-self-employed"
@@ -110,7 +110,7 @@ The honest truth is that calculated quarterly payments feel complicated until yo
 - **[The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20)**
 
 
-*Photo: [Anna Tarazevich](https://www.pexels.com/@anntarazevich) via Pexels*
+*Photo: [Leeloo The First](https://www.pexels.com/@leeloothefirst) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "Cash Flow Statement Explained"
 date: 2026-05-29T11:07:25.052211+00:00
 draft: false
 description: "Learn what a cash flow statement is, how it works, and why it matters for your business finances. Understand operating, investing, and financing activities easi"
-image: "https://images.pexels.com/photos/5915230/pexels-photo-5915230.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/33175671/pexels-photo-33175671.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Accounting"]
 tags: ["cash", "flow", "statement", "explained"]
 slug: "cash-flow-statement-explained"
@@ -144,7 +144,7 @@ The cash flow statement isn't the most glamorous part of running a business. Nob
 - **[Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)**
 
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [Bia Limova](https://www.pexels.com/@bia-limova-1908542654) via Pexels*
 
 ---
 

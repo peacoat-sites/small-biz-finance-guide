@@ -3,7 +3,7 @@ title: "SBA Loan Requirements Guide"
 date: 2026-05-21T19:24:20.961064+00:00
 draft: false
 description: "Learn the key SBA loan requirements including credit scores, business eligibility, financials, and documentation needed to secure funding for your small busines"
-image: "https://images.pexels.com/photos/36765988/pexels-photo-36765988.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/4386475/pexels-photo-4386475.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Financing"]
 tags: ["loan", "requirements", "guide"]
 slug: "sba-loan-requirements-guide"
@@ -136,7 +136,7 @@ Getting an SBA loan isn't about gaming the system. It's about understanding what
 - **[Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)**
 
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
 
 ---
 

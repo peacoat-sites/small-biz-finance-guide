@@ -3,7 +3,7 @@ title: "The QBI Deduction May Rise to 23%: What to Do Now"
 date: 2026-06-14T22:52:54.972957+00:00
 draft: false
 description: "Plan ahead for potential QBI deduction changes. Learn how a rise to 23% could impact your taxes and what steps you can take now to maximize your savings."
-image: "https://images.pexels.com/photos/7309483/pexels-photo-7309483.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6963053/pexels-photo-6963053.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["trending"]
 tags: ["deduction", "rise", "23%:", "what"]
 author: "Amanda Pierce"
@@ -77,7 +77,7 @@ The QBI landscape in mid-2026 is genuinely better than it was three years ago, a
 - **[QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20)**
 
 
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
+*Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
 
 ---
 

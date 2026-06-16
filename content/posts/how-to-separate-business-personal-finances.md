@@ -3,7 +3,7 @@ title: "How To Separate Business Personal Finances"
 date: 2026-05-27T20:05:37.937967+00:00
 draft: false
 description: "Learn how to separate business and personal finances with simple steps. Open a business account, track expenses, and protect your financial health today."
-image: "https://images.pexels.com/photos/4968631/pexels-photo-4968631.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/35230300/pexels-photo-35230300.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Accounting"]
 tags: ["separate", "business", "personal", "finances"]
 slug: "how-to-separate-business-personal-finances"
@@ -147,7 +147,7 @@ Getting your finances separated isn't a one-afternoon project you do and forget.
 - **[Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20)**
 
 
-*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
+*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
 
 ---
 

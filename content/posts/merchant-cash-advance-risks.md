@@ -3,7 +3,7 @@ title: "Merchant Cash Advance Risks"
 date: 2026-06-13T22:45:55.256911+00:00
 draft: false
 description: "Discover the hidden dangers of merchant cash advances, including high factor rates, daily repayments, and debt cycles that could seriously damage your business "
-image: "https://images.pexels.com/photos/7654190/pexels-photo-7654190.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/31916807/pexels-photo-31916807.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Financing"]
 tags: ["merchant", "cash", "advance", "risks"]
 slug: "merchant-cash-advance-risks"
@@ -90,7 +90,7 @@ If you're already in an MCA and feeling the pressure, you're not alone and you'r
 - **[QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20)**
 
 
-*Photo: [Pavel Danilyuk](https://www.pexels.com/@pavel-danilyuk) via Pexels*
+*Photo: [Berna](https://www.pexels.com/@mibernaa) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "Overtime Rules Small Business"
 date: 2026-06-14T22:50:32.557231+00:00
 draft: false
 description: "Learn how overtime rules affect small businesses, including FLSA requirements, exempt vs nonexempt employees, and how to stay compliant and manage labor costs."
-image: "https://images.pexels.com/photos/7857567/pexels-photo-7857567.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/1537268/pexels-photo-1537268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["HR"]
 tags: ["overtime", "rules", "small", "business"]
 author: "David Kim"
@@ -87,7 +87,7 @@ The overtime rules aren't especially complicated once you sit with them, but the
 - **[Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)**
 
 
-*Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
+*Photo: [Stas Knop](https://www.pexels.com/@stasknop) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "Wave Accounting Free Software"
 date: 2026-06-10T23:15:31.528308+00:00
 draft: false
 description: "Discover how Wave accounting free software helps small businesses manage invoices, expenses, and finances effortlessly. Try this powerful, completely free tool "
-image: "https://images.pexels.com/photos/6694570/pexels-photo-6694570.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/16695382/pexels-photo-16695382.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Accounting"]
 tags: ["Wave", "accounting", "free", "software"]
 slug: "wave-accounting-free-software"
@@ -98,7 +98,7 @@ One honest caveat: no accounting software substitutes for a CPA review. I'd stro
 - **[The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20)**
 
 
-*Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
+*Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
 
 ---
 

@@ -3,7 +3,7 @@ title: "Small Business Financial Statements"
 date: 2026-05-24T10:42:58.615109+00:00
 draft: false
 description: "Learn how to read and understand small business financial statements, including balance sheets, income statements, and cash flow reports to track your business "
-image: "https://images.pexels.com/photos/8962441/pexels-photo-8962441.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/33175651/pexels-photo-33175651.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Accounting"]
 tags: ["small", "business", "financial", "statements"]
 slug: "small-business-financial-statements"
@@ -151,7 +151,7 @@ The hardest part of all of this isn't the math. It's building the habit of looki
 - **[Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20)**
 
 
-*Photo: [Leeloo The First](https://www.pexels.com/@leeloothefirst) via Pexels*
+*Photo: [Bia Limova](https://www.pexels.com/@bia-limova-1908542654) via Pexels*
 
 ---
 
