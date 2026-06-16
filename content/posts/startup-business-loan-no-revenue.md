@@ -108,27 +108,6 @@ Always compare APR, not the monthly payment. A lower monthly payment stretched o
 
 ---
 
-## Frequently Asked Questions
-
-### Can I get a startup business loan with no revenue and bad credit?
-
-It's very difficult, but not categorically impossible. Some CDFI lenders and nonprofit microloan programs consider applicants with credit scores below 600 if other factors are strong, particularly collateral or community ties. That said, I'd recommend spending three to six months improving your credit score before applying. The difference between a 580 and a 650 can change your loan options significantly.
-
-### How much can I realistically borrow as a pre-revenue startup?
-
-Expect smaller amounts. SBA microloans go up to $50,000. Many first-time startup borrowers without revenue are realistically looking at $5,000 to $25,000 through legitimate channels. Large loans in the six-figure range typically require either significant collateral, an established credit history, or some evidence of traction.
-
-### Do I need a business plan to apply for a startup loan?
-
-Yes, for any serious lender. Not a 40-page document, but a clear written plan with financial projections, use-of-funds detail, and market context. Lenders see hundreds of applications. Showing up without one communicates you haven't done the work.
-
-### Is a personal guarantee standard for startup loans?
-
-Almost universally, yes. If you're borrowing as a startup with no revenue, expect to personally guarantee the debt. This means the lender can come after your personal assets if the business defaults. Understand what you're signing before you sign it, and consult a CPA or business attorney about the implications.
-
-### What's the difference between a startup loan and startup investment?
-
-A loan has to be repaid on a fixed schedule with interest, regardless of whether your business succeeds. An investment (equity financing) means someone gives you capital in exchange for ownership, and their return depends on the business performing. Loans make more sense when you can model a clear repayment path. Equity might make more sense when your capital needs are large and your path to profitability is longer or less certain.
 
 ---
 

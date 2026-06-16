@@ -86,27 +86,6 @@ The intermediary will ask how you plan to use the funds, and they'll hold you to
 
 ---
 
-## FAQ
-
-### Can I get a Microloan if my business is brand new?
-
-Yes. The SBA Microloan program explicitly supports startups. You won't need years of tax returns or revenue history, but you will need a credible business plan and some explanation of how you'll generate enough revenue to repay the loan.
-
-### Will applying hurt my credit score?
-
-Most intermediaries will run a credit check, which is a hard inquiry and can cause a small, temporary dip in your score. The impact is usually minimal, and getting approved and repaying on time can help your credit profile over the longer term.
-
-### How long does the approval process take?
-
-It varies by intermediary and how complete your application is, but expect anywhere from two to eight weeks from initial contact to funding. It's slower than a fintech lender, but the rates and terms are meaningfully better.
-
-### Can I apply to more than one intermediary?
-
-Technically, yes, but it's not a great strategy. Multiple hard inquiries in a short period look unfavorable, and intermediaries often serve exclusive territories anyway. Focus on the best-fit lender for your region and situation.
-
-### What if I get turned down?
-
-Ask for specific feedback. Many intermediaries will tell you exactly what was missing. Common gaps are an incomplete business plan, no clear repayment story, or credit issues that need addressing first. A free consultation through SCORE (score.org) can help you shore up a weak application before you try again.
 
 ---
 

@@ -78,27 +78,6 @@ The research here is somewhat mixed on whether family successions outperform out
 
 ---
 
-## Frequently Asked Questions
-
-### How early should I start succession planning?
-
-Five years is the honest answer for most owners, though the earlier the better. You need time to build business value, document systems, structure the legal framework, and potentially groom a successor. Trying to compress that into 12 months usually costs money.
-
-### What if I don't have a family member or partner to take over?
-
-That's common and completely workable. Your options include selling to a key employee (often with seller financing), selling to a competitor or strategic buyer, working with a business broker to find an outside buyer, or in some cases selling to a private equity firm if your size and margins qualify. A business broker who specializes in your industry is worth talking to early.
-
-### Does my business need to be profitable to sell?
-
-Not necessarily, but profitability matters enormously to how it's valued and who will buy it. A business with revenue but thin or negative margins is a much harder sell and will command a low multiple. Cleaning up margins before you go to market is almost always worth the effort.
-
-### What's a buy-sell agreement and do I really need one?
-
-A buy-sell agreement is a legally binding contract between business co-owners that outlines what happens to an owner's share if they die, become disabled, want to retire, or have some other triggering event. If you have a business partner, yes, you genuinely need one. Skipping it is one of the most expensive mistakes I see small business owners make.
-
-### Should I tell my employees about my succession plans?
-
-This one's legitimately nuanced. Telling key employees early can help you retain them through a transition and gives you allies in the process. Telling the broader team too early can create anxiety and turnover. Most advisors suggest bringing in key managers once the plan is solidified but before any deal is actively in motion. Use your judgment based on your team's culture.
 
 ## Helpful Resources
 

@@ -113,27 +113,6 @@ One more thing on cost: insurance premiums are a deductible business expense. Ma
 
 ---
 
-## Frequently Asked Questions
-
-### Do I need business insurance if I'm a sole proprietor with no employees?
-
-Yes, and this is one of the most common gaps I see. Being a sole proprietor doesn't limit your liability. If a client is injured or claims your work caused them a financial loss, they can sue you personally. Your personal assets, including your savings and home, are at risk because there's no corporate structure separating you. At minimum, a sole proprietor who works with clients or handles customer property should carry General Liability and, if they provide a professional service, an E&O policy. If you're comparing structures, understanding [LLC vs. sole proprietorship taxes](/llc-vs-sole-proprietorship-taxes/) can also help you see the broader picture of how legal structure affects your exposure.
-
-### Is a home-based business covered under my homeowner's insurance?
-
-Almost certainly not, or only in a very limited way. Most homeowner's policies explicitly exclude or severely limit coverage for business activities. If a client comes to your home and gets hurt, your homeowner's liability may not apply. If your business equipment is stolen, the business-related loss might not be covered, or might be capped at a small dollar amount. You need either a home-based business endorsement added to your homeowner's policy or a separate BOP designed for home-based operations.
-
-### What is a Certificate of Insurance and when do I need one?
-
-A Certificate of Insurance (COI) is a document your insurance carrier issues that summarizes your coverage: policy type, coverage limits, effective dates, and the insurance carrier. Clients, landlords, event venues, and general contractors commonly require you to provide one before they'll work with you or let you into a space. It doesn't change your coverage. It just proves you have it. You can typically request a COI from your insurance broker within a day or two.
-
-### Can I skip workers' comp if I use independent contractors instead of employees?
-
-Be very careful here. Worker classification is heavily scrutinized by state labor agencies and the IRS. If someone you've labeled an "independent contractor" is actually functioning as an employee by legal standards, you could be held liable for workers' comp coverage and penalties even if you never intended to have an employee. Misclassification has real consequences. Review the actual legal criteria before assuming your workforce structure protects you from workers' comp requirements.
-
-### Does my business need insurance before I officially launch?
-
-Yes. The moment you start operating, even informally, you have exposure. If you're meeting with potential clients before you've "officially opened," taking on a first project while still setting things up, or storing inventory in your garage, you can already face a claim. Don't wait until the business feels "real enough" to get covered. Talk to a broker early, even if your initial coverage is minimal and you build it out as you grow.
 
 ---
 

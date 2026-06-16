@@ -95,27 +95,6 @@ For deeper reading on the financial structure side of these decisions, Mike Mich
 
 ---
 
-## FAQ
-
-### What credit score do I need to get equipment financing?
-
-Most traditional lenders want a personal credit score of 650 or above, though some online lenders will work with scores in the 600 to 620 range at higher rates. Below 600, your options narrow considerably and you're often looking at specialized bad-credit equipment lenders with rates that can make the financing hard to justify.
-
-### Is it better to lease or buy equipment for a small business?
-
-It depends heavily on the equipment type, your cash flow, and how long the equipment stays useful. Buying usually costs less over the long run and builds an asset. Leasing can make sense when equipment goes obsolete quickly or you want to preserve cash and don't want ownership responsibilities. Talk to your CPA before deciding, because the tax treatment differs.
-
-### Can a startup get equipment financing?
-
-Yes, though it's harder. Startups with little or no business history will rely almost entirely on the owner's personal credit and sometimes a personal guarantee. Some lenders specialize in startup equipment financing, and SBA microloans can be an option. Expect higher rates and smaller loan amounts until you build a track record.
-
-### What happens if I can't make my equipment loan payments?
-
-The lender can repossess the equipment since it's collateral for the loan. If the resale value doesn't cover the remaining balance, you could still owe the difference, and your credit takes the hit. If you see trouble coming, call your lender before you miss a payment. Many will work out a modified payment schedule if you get ahead of it.
-
-### Do I need a down payment for equipment financing?
-
-Not always, but often yes. Many lenders ask for 10% to 20% down, especially for larger purchases. Some lenders offer 100% financing, but those deals frequently carry higher rates or require very strong credit. A down payment also reduces your total interest cost over the life of the loan, so if you have the cash available, putting some down usually makes financial sense.
 
 ## Helpful Resources
 

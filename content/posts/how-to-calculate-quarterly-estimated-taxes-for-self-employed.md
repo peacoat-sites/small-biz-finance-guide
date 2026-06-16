@@ -96,27 +96,6 @@ For anything complex, including S-corp elections, retirement contribution deduct
 
 ---
 
-## Frequently Asked Questions
-
-### What happens if I miss a quarterly estimated tax payment?
-
-The IRS charges an underpayment penalty, which is calculated as interest on the amount you should have paid. It's not a massive flat fine, but it adds up. As of 2024, the underpayment rate is the federal short-term rate plus 3 percentage points. Missing one quarter by a small amount is rarely catastrophic, but consistently skipping payments can result in a meaningful penalty by April.
-
-### Can I just pay all my estimated taxes at once in January?
-
-Technically, you can make a lump-sum payment in January and avoid most penalties if it covers 100% of what's owed. But the IRS calculates underpayment on a quarter-by-quarter basis, so if you skipped the April, June, and September payments, you may still owe penalties for those specific periods even if January's big payment covers the annual total. Paying quarterly actually matters for penalty avoidance.
-
-### Do I need to file a form with each quarterly payment?
-
-No. You don't send a return or a form with each payment. You just pay. Form 1040-ES includes vouchers you can mail with a check, but if you pay online via Direct Pay or EFTPS, no physical voucher is required. The IRS matches your quarterly payments to your annual return when you file in April.
-
-### What if my income varies a lot month to month?
-
-This is common for freelancers and seasonal businesses. The safest approach is to use the prior-year safe harbor method (100% of last year's tax, divided by four) so your payment amount doesn't depend on predicting an unpredictable income stream. Alternatively, you can use the "annualized income installment method" on Form 2210, which allows you to calculate each quarter's payment based on what you actually earned through that point in the year. It's more paperwork, but it can reduce penalties if your income is back-loaded.
-
-### Does a side hustle count if I have a W-2 job too?
-
-Yes, and this is a common situation. If you have a regular job with withholding and you also have freelance or side business income, you need to estimate whether your W-2 withholding plus any side income taxes will fall short of the $1,000 threshold. One option is to increase your W-2 withholding (by filing a new W-4 with your employer) to cover your side income taxes, which eliminates the need for separate quarterly payments. It's a clean solution if the side income is relatively predictable.
 
 ---
 

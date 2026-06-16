@@ -108,27 +108,6 @@ And please, for anything touching taxes -- how to categorize expenses, how to tr
 
 ---
 
-## FAQ
-
-### What's the difference between a P&L and a balance sheet?
-
-The P&L shows your income and expenses over a period of time and tells you whether the business made money. The balance sheet is a snapshot of what you own, what you owe, and what's left over (equity) at a single point in time. Both matter, but they answer completely different questions.
-
-### How often should I review my P&L?
-
-Monthly is the right cadence for most small businesses. Quarterly is the minimum. Reviewing it only at tax time is like checking your blood pressure once a year and thinking that tells you your health story.
-
-### My P&L shows a profit but I have no cash. What's going on?
-
-This is almost always a timing issue (revenue recognized before cash is collected), a debt repayment issue (loan principal payments reduce cash but not net income), or a capital expenditure issue (you bought equipment that doesn't fully hit the P&L at once due to depreciation). Your cash flow statement will show you exactly where the money went.
-
-### What's a good net profit margin for a small business?
-
-The research here is genuinely mixed and industry-specific. A 10% net margin is often cited as a healthy target for service businesses, but retail might run 2-5% and software companies can exceed 20%. The more useful question is whether *your* margin is improving over time and whether it's in line with your industry peers.
-
-### Do I need accounting software to generate a P&L?
-
-You don't strictly need it, but trying to build one manually in a spreadsheet is error-prone and time-consuming. QuickBooks Online starts around $35/month for the Simple Start plan. Wave is free. FreshBooks runs $19-$55/month depending on the tier. Any of these will generate a P&L in a few clicks once your transactions are categorized correctly -- and correct categorization is where a bookkeeper earns their fee.
 
 ---
 

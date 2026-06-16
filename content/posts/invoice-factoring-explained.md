@@ -134,27 +134,6 @@ Keeping a tight handle on your broader cash flow picture matters here. The [cash
 
 ---
 
-## Frequently Asked Questions
-
-### Does invoice factoring hurt my credit score?
-
-No. Because factoring is the sale of an asset rather than taking on debt, it typically doesn't show up as a liability on your balance sheet and doesn't require a hard credit inquiry on your personal or business credit. Factors care about your clients' creditworthiness, not yours. That said, always confirm how a specific factor handles credit checks before applying.
-
-### Can a startup use invoice factoring?
-
-Yes, and this is one of the reasons factoring appeals to newer businesses. Since approval is based on the credit quality of your clients rather than your business history, startups with contracts from established companies can often qualify. You'll still need to demonstrate that the work is complete and the invoice is legitimate.
-
-### What industries use invoice factoring most commonly?
-
-Trucking and freight, staffing, construction, government contractors, and wholesale distribution are the most common. These industries all share long payment cycles and significant upfront labor or material costs. Healthcare also uses a specialized version called medical factoring, though it comes with additional compliance considerations.
-
-### What's the difference between invoice factoring and invoice financing?
-
-Invoice financing (also called accounts receivable financing) is a loan against your receivables. You retain ownership of the invoices and collect payments yourself. The receivables serve as collateral. With factoring, you actually sell the invoices. Invoice financing tends to be quieter since your clients don't know about it, but it is debt on your books. The cost structures are different, and which one is better depends on your situation. Consult a CPA or financial advisor before choosing.
-
-### Are there long-term contracts with factoring companies?
-
-Some factors require you to sign 12 to 24 month contracts with monthly minimum volumes. Others offer spot factoring or month-to-month terms. The longer the contract and the higher the minimum, the more locked in you are. If flexibility matters to you, negotiate hard on these terms or look specifically for spot factoring providers. Read the termination clause carefully; some have steep early exit fees.
 
 ---
 

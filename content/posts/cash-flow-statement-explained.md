@@ -130,27 +130,6 @@ Consulting a CPA before making major financial decisions based on your statement
 
 ---
 
-## Frequently Asked Questions
-
-### What's the difference between a cash flow statement and a cash flow forecast?
-
-A cash flow statement is historical. It shows what happened to cash during a completed period, usually a month, quarter, or year. A cash flow forecast is forward-looking. It projects what you expect to happen over the coming weeks or months based on known obligations and expected income. Both are useful. The statement tells you what happened; the forecast helps you prepare for what's coming.
-
-### Can a business be profitable and have negative cash flow?
-
-Yes, and this is more common than most people expect. If your revenue recognition outpaces your actual collections, if you're investing heavily in inventory or equipment, or if your business is growing fast and consuming working capital, your P&L can look healthy while cash is tight. This is why lenders and investors look at cash flow, not just profit.
-
-### How often should a small business review its cash flow statement?
-
-Monthly at minimum. If your business has tight margins, seasonal swings, or significant outstanding receivables, reviewing it weekly makes sense. The more frequently you look at it, the earlier you catch problems. A cash flow issue spotted in month one is usually fixable. The same issue spotted in month four is a crisis.
-
-### Do sole proprietors and freelancers need a cash flow statement?
-
-Technically, very small sole proprietors can operate without a formal cash flow statement. Practically, the underlying concept still applies. Tracking when money actually moves in and out versus when you invoice or get billed is essential financial awareness at any business size. Basic spreadsheet-based cash tracking tools are widely available and inexpensive. Even a simple template covers the core.
-
-### What software can automatically generate a cash flow statement for my business?
-
-QuickBooks Online, Xero, and FreshBooks all generate cash flow statements automatically from your bookkeeping data. The accuracy of those statements depends entirely on how cleanly your books are maintained. Garbage in, garbage out. If your chart of accounts is messy or transactions aren't categorized correctly, the statement won't reflect reality, regardless of which software produced it.
 
 ---
 

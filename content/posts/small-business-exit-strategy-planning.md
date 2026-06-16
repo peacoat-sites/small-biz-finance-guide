@@ -115,27 +115,6 @@ Personal readiness matters too. I've watched clients negotiate themselves out of
 
 ---
 
-## Frequently Asked Questions
-
-### How early should I start planning my exit?
-
-Most advisors will tell you three to five years. I'd push for earlier if possible. The businesses that sell well and sell quickly are usually the ones where the owner spent years building toward that outcome without being in any rush. If you're ten years from even thinking about an exit, the work you do now on systems, financials, and team will improve the business in the meantime and preserve your options when the time comes.
-
-### Do I need a business broker to sell my business?
-
-Not always, but often yes. A good business broker who specializes in your size and industry can access a wider buyer pool, help you price correctly, manage confidentiality (critical if your employees or customers don't know you're considering a sale), and keep the process moving. Brokers typically take a commission, often in the 8 to 12 percent range for smaller businesses. For larger transactions, an M&A advisor is more common. The cost is real, but so is the value of having someone who does this every day.
-
-### What happens to my employees when I sell?
-
-It depends heavily on the type of buyer and deal structure. Many buyers want to retain key staff and will make that part of the acquisition conversation. Some buyers have their own teams and may consolidate roles. If protecting your employees is a priority, you can negotiate employment guarantees or transition terms as part of the sale agreement. Be realistic, though: you can negotiate protections, but you can't control everything after the sale closes.
-
-### What's the difference between an asset sale and a stock sale?
-
-In an asset sale, the buyer purchases specific assets and liabilities of the business, not the legal entity itself. In a stock sale, they purchase ownership of the entity (shares of the corporation or membership interests in an LLC). Buyers often prefer asset sales because they get a stepped-up tax basis and avoid inheriting unknown liabilities. Sellers often prefer stock sales because the proceeds may be taxed at lower capital gains rates. This is an area where you absolutely need a CPA involved before you agree to anything. The difference can be substantial.
-
-### Can I sell a business that isn't profitable?
-
-It's harder, but not impossible. Some buyers purchase businesses for strategic reasons, like a customer list, a technology, a geographic footprint, or a team, even if the business isn't generating profit. Pre-revenue or money-losing businesses typically sell at much lower multiples, and the pool of interested buyers is smaller. If profitability is the challenge, it's worth asking whether a year or two of focused improvement before listing would significantly change what you could receive.
 
 ---
 

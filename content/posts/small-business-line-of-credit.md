@@ -113,29 +113,6 @@ Letting the balance creep up and only paying minimums is another trap. Unlike a 
 
 Applying when you're already in trouble is the third big mistake. Lenders smell desperation in your financials. A cash flow crisis, a run of overdrafts, three months of declining revenue: these things show up in your bank statements and kill applications. The right time to apply is when your business looks healthy. If you want to understand how to build toward that stronger financial position, the [cash flow management guide](/cash-flow-management-guide/) on this site is one of the better places to start.
 
-## FAQ
-
-### What's the difference between a business line of credit and a business credit card?
-
-Both are revolving credit, but the mechanics are different. A business credit card is issued per transaction and typically carries higher interest rates, often 20% to 28%. A line of credit usually offers lower rates and lets you draw cash directly into your business bank account. Cards are useful for everyday purchases and rewards. Lines of credit are better for larger, planned draws where you need actual cash, not plastic.
-
-### How much can I realistically get as a first-time applicant?
-
-This depends heavily on your revenue and time in business. A solid business with two years of operating history and $300,000 in annual revenue might qualify for $50,000 to $75,000. A newer business at six months might get $10,000 to $25,000 from an online lender. There are no guarantees, and every lender has different criteria. I'd recommend speaking with a banker or financial advisor before setting expectations.
-
-### Will applying hurt my credit score?
-
-Yes, most lenders do a hard credit inquiry, which can temporarily lower your personal credit score by a few points. The effect is usually small and short-lived if your overall credit profile is healthy. To minimize impact, avoid applying to multiple lenders in a short window without a strategy. Some lenders offer pre-qualification with only a soft pull, so you can check your likelihood of approval before committing.
-
-### Can a sole proprietor or LLC get a business line of credit?
-
-Yes, both structures can qualify. Your personal creditworthiness will carry more weight when your business is newer or hasn't built its own credit profile yet. If you're still deciding between operating structures, understanding the [tax differences between an LLC and sole proprietorship](/llc-vs-sole-proprietorship-taxes/) is worth doing before you apply, since your entity type affects how lenders and the IRS view your business.
-
-### Do I need a business bank account to apply?
-
-Yes. Every legitimate lender will require an active business bank account to verify your revenue and disburse funds. If you don't have one set up yet, review [what's typically required to open a business bank account](/business-bank-account-requirements/) so you're not scrambling at the application stage. Operating through a personal account, even if you're a sole proprietor, will disqualify you from most commercial credit products.
-
-A business line of credit won't solve every cash flow problem, and it's not free money. But used correctly, it's one of the most practical financial tools you can have in place. Apply when your business is healthy, understand what you're signing, use it for the right purposes, and pay it down consistently. That's really it. The businesses I've seen use credit well aren't the ones with the most revenue. They're the ones who understood the tool before they picked it up.
 
 ## Helpful Resources
 

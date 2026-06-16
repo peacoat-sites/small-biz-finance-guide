@@ -132,27 +132,6 @@ The other packaging move worth considering: retainers over one-time projects. Re
 
 ---
 
-## Frequently Asked Questions
-
-### How do I know if my prices are too low?
-
-A few reliable signs: you're consistently slammed with work but cash flow is still tight, you get almost no resistance when quoting, you're attracting clients who are demanding and hard to please, or you feel resentment about the work itself. That last one is real. Undercharging breeds resentment. If you find yourself feeling bitter about client requests you agreed to handle, the price was probably part of the problem.
-
-### Should I publish my prices or keep them private?
-
-It depends on your business model. Published pricing works well when your service is fairly standardized and you want to pre-qualify buyers or reduce back-and-forth. Private pricing works better when engagements vary significantly by scope or client. For most project-based service businesses, a visible "starting at" range plus a clear intake process tends to work better than either extreme.
-
-### What if competitors are charging much less than I want to charge?
-
-First, verify that they're actually profitable. Many small businesses are competing on price because they don't know their numbers. Second, ask yourself honestly whether you're offering something different enough to justify the gap. If yes, the answer is better positioning and clearer communication of that difference, not lower prices. If no, you have a differentiation problem that a pricing decision can't fix.
-
-### How often should I review my pricing?
-
-At minimum, once a year. Ideally, also after any significant shift in your costs, after you complete a particularly high-value engagement, and any time you notice demand consistently outpacing your capacity. Many businesses tie their annual price review to the start of their fiscal year. Make it a calendar event so it actually happens. I'd also strongly recommend consulting a CPA as part of that review to make sure your pricing reflects your actual tax obligations and cost structure.
-
-### Is discounting ever a good idea?
-
-Strategically, rarely. Tactically, sometimes. Discounting to fill capacity in a genuinely slow period is different from discounting as a default sales move. The problem with habitual discounting is that it trains buyers to wait for deals and undermines your anchor price. If you want to offer incentives, structure them differently: early payment discounts, bundled packages at a better per-unit rate, or loyalty pricing for long-term clients. These reward the right behavior without signaling that your standard rate is negotiable.
 
 ---
 

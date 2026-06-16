@@ -127,27 +127,6 @@ SCORE, the nonprofit mentorship organization for small business owners, also off
 
 ---
 
-## Frequently Asked Questions
-
-### Can I use a personal checking account for my LLC?
-
-Technically you can, but you really shouldn't. Mixing personal and business funds weakens the liability protection your LLC is supposed to provide and makes tax preparation significantly more complicated. Your CPA will likely charge you more to sort through mixed records, and you'll have no clean paper trail if your business finances are ever reviewed or questioned.
-
-### Do I need an EIN to open a business checking account?
-
-Most banks require an EIN for a business account, even for single-member LLCs. You can get one for free directly from the IRS at irs.gov and typically receive it immediately through the online application. If a bank says you can open with just your Social Security number, verify that it's a true business account and not just a personal account with a business label.
-
-### Is my money safe in a fintech business account?
-
-Generally yes, provided the fintech uses an FDIC-insured partner bank and your deposits fall within the $250,000 insurance limit. Verify this before opening. The account opening disclosures should clearly name the partner bank and confirm FDIC insurance. If they don't, ask.
-
-### Can a single-member LLC open a business checking account?
-
-Yes. Single-member LLCs are eligible for business checking accounts. You'll still need your EIN, Articles of Organization, and typically a form of personal identification. Some banks also ask for an operating agreement even though single-member LLCs aren't always required to have one. It's worth drafting a simple one regardless.
-
-### What if I don't have any revenue yet? Should I still open a business account?
-
-Yes, open it before you make your first business transaction, not after. The cost of opening a no-fee account is zero, and the habit of keeping everything separate starts from day one. Waiting until you have revenue to open a business account means you'll have a period of mixed transactions to clean up later, which is avoidable.
 
 ---
 

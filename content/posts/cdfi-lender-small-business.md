@@ -109,27 +109,6 @@ If you want to go deeper on financial literacy before or during the loan process
 
 ---
 
-## Frequently Asked Questions
-
-### Are CDFI loans only for startups or struggling businesses?
-
-No. CDFIs do work with startups and businesses that have faced financial challenges, but they also lend to established businesses that simply don't fit the profile banks prefer. Some established businesses in rural areas or underserved markets use CDFIs because conventional credit just isn't accessible in their geography, not because their business is weak.
-
-### How long does CDFI loan approval typically take?
-
-It varies by institution, but expect anywhere from two to eight weeks from application to funding. This is slower than a fintech lender but often faster than a traditional SBA 7(a) loan. The process includes underwriting, sometimes a site visit, and occasionally a loan committee review.
-
-### Do CDFIs report to business credit bureaus?
-
-Many do, which means timely repayment can help you build your business credit history. Before you sign, ask the lender directly whether they report to Dun & Bradstreet, Experian Business, or Equifax Business. If building credit is part of your goal, this matters.
-
-### Can I apply to multiple CDFIs at once?
-
-Yes, and in most cases it's reasonable to do so. Unlike mortgage applications, CDFI inquiries don't typically create the same kind of "hard pull" clustering that damages your personal credit score. That said, be transparent with each lender about other applications in progress. Honesty is particularly valued in the CDFI relationship.
-
-### What happens if I can't repay a CDFI loan?
-
-CDFIs are still lenders, and defaulting has real consequences including damage to your credit, potential collection actions, and loss of any collateral you pledged. Many CDFIs, however, will work with borrowers facing temporary hardship before escalating to collections. Their mission includes your success, not just your debt recovery. Communicate early if you're in trouble. Don't wait until you've missed three payments.
 
 ---
 

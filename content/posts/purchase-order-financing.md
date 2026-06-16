@@ -73,27 +73,6 @@ If you want to build a stronger foundation for understanding trade finance and c
 
 ---
 
-## FAQ
-
-### Is purchase order financing the same as invoice factoring?
-
-No. Invoice factoring involves selling an invoice that already exists, usually at 70-90 cents on the dollar, to get cash faster. PO financing happens earlier in the process, before the invoice exists, to pay your supplier so you can fulfill the order in the first place. Some lenders offer both, and occasionally a deal uses both in sequence.
-
-### Can a startup use purchase order financing?
-
-It's harder but not impossible. Lenders care most about your customer's creditworthiness and your supplier's reliability, so a newer business with a strong end buyer and a trackable supply chain can sometimes qualify. Your CPA can help you prepare the documentation to make the strongest case.
-
-### Do I need good personal credit to get PO financing?
-
-Your personal credit is less central here than it would be for a traditional loan. Lenders are primarily evaluating the strength of the purchase order and the buyer behind it. That said, serious red flags on your personal credit, like recent bankruptcies, will still matter to most lenders.
-
-### What happens if my customer doesn't pay?
-
-This is the risk that keeps PO financing lenders up at night, and it's something you need to understand clearly before signing anything. If your customer doesn't pay, you still owe the lender. The repayment obligation doesn't disappear. Read every agreement with your CPA or a contracts attorney before you move forward.
-
-### Are there PO financing companies that specialize in specific industries?
-
-Yes, and it's worth finding one that does. Lenders who specialize in apparel, food and beverage, or electronics, for example, will have faster underwriting and more realistic expectations about your supplier timelines and margins. A generic working capital lender may technically offer PO financing but won't understand your industry's nuances the way a specialist does.
 
 ## Helpful Resources
 

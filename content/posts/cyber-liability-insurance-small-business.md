@@ -76,27 +76,6 @@ Insurers are paying attention to this now. Some policies require MFA as a condit
 
 ---
 
-## FAQ
-
-### Do I need cyber liability insurance if I don't store customer payment information?
-
-You might still need it. Breaches can involve employee records, email accounts, or proprietary business data, none of which requires payment info to cause serious harm. If a hacker gains access to your email and uses it to defraud your clients, that's a cyber incident with real liability attached.
-
-### Is cyber insurance the same as data breach insurance?
-
-They overlap significantly, but they're not always identical. Data breach insurance tends to focus specifically on notification costs and regulatory fines after a breach. Cyber liability is typically broader, covering ransomware, business interruption, and third-party claims. Some policies use the terms interchangeably, so read the actual coverage page rather than the product name.
-
-### Will my business owner's policy (BOP) cover a cyberattack?
-
-Almost certainly not without a specific cyber endorsement added on. Standard BOPs cover things like property damage and general liability. A cyberattack doesn't fit neatly into those categories. Confirm with your broker in writing what your BOP covers and where the gap is.
-
-### How do insurers decide how much to charge me?
-
-They'll look at your industry, revenue, how many customer records you hold, what security controls you have in place, and your claims history. Healthcare and financial services businesses pay more. A company with documented security training programs and MFA in place may get better rates than one with neither.
-
-### What should I do immediately after a breach if I have cyber insurance?
-
-Call your insurer or the breach response hotline on your policy before you do almost anything else. Seriously, before you call a random IT vendor, before you notify customers, before you post anything publicly. Many policies require prompt notification to the insurer as a condition of coverage, and your insurer may have pre-approved vendors who cost you nothing out of pocket. Acting on your own first can complicate the claim.
 
 ## Helpful Resources
 

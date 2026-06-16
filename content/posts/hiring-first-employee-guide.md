@@ -143,27 +143,6 @@ For a deeper dive on the financial side of employment law and small business HR 
 
 ---
 
-## Frequently Asked Questions
-
-### How much does it actually cost to hire a first employee?
-
-There's no single number, but here's a realistic framework. Take the annual wage you plan to pay and multiply it by 1.25 to 1.4 to estimate total employer cost. That range accounts for payroll taxes (roughly 7.65% employer share), workers' compensation insurance, and any modest benefits. For a $40,000 salary, total annual cost might land between $50,000 and $56,000. Your specific number will vary based on your state's unemployment tax rate, your industry, and what benefits you offer. A CPA can help you model this accurately for your situation.
-
-### Do I need an HR department or HR software?
-
-Not at first. When you have one or two employees, a simple employee file (physical or digital), a payroll platform like Gusto or QuickBooks Payroll, and a basic employee handbook are enough. As you grow past five employees, dedicated HR software starts earning its cost. What you do need from day one is documentation: offer letters, signed I-9s, W-4s, and written policies for things like time off and conduct.
-
-### What's the difference between at-will employment and a contract?
-
-At-will employment means either party can end the employment relationship at any time, for any legal reason or no reason at all. Most U.S. employees are at-will by default. An employment contract specifies a term of employment, conditions for termination, or other binding commitments. Be careful with contracts: they limit your flexibility. If you offer one, have an employment attorney review it before signing.
-
-### What if I hire someone and it doesn't work out?
-
-Document performance issues as they happen. Keep records of conversations, warnings, and any written feedback. If termination becomes necessary, follow a consistent, documented process. Consult an employment attorney before firing someone if there's any complexity involved, especially if the employee has raised a complaint or belongs to a protected class. The cost of a 30-minute legal consult is a fraction of what an employment dispute costs.
-
-### Can I just pay someone cash to avoid the paperwork?
-
-No. Paying employees in cash without proper tax withholding and reporting is illegal, regardless of whether they agree to it. You're still required to withhold payroll taxes, file employer returns, and issue W-2s at year end. "Cash" is a payment method, not a classification. Employers who skip these obligations face back taxes, penalties, and in serious cases, criminal liability. It's not worth the risk.
 
 ---
 

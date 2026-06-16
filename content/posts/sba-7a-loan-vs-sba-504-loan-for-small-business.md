@@ -108,27 +108,6 @@ If you're trying to build more fluency around business financing decisions gener
 
 ---
 
-## FAQ
-
-### Can I use an SBA 7(a) loan to buy commercial real estate?
-
-Yes. The 7(a) can be used for real estate, with terms up to 25 years for that purpose. That said, if the primary use is a real estate purchase and you meet 504 eligibility, the 504 will almost always carry a better rate and a longer fixed term. Use the 7(a) for real estate when you need to bundle in other costs like working capital or a business acquisition.
-
-### What credit score do I need for an SBA loan?
-
-Neither program publishes a hard minimum, but realistically you want a personal credit score of at least 680 to have a reasonable conversation with most SBA lenders. Some 7(a) products like SBA Express will consider scores in the 650 range. Business credit history, cash flow, and debt service coverage ratio matter as much or more than the score itself.
-
-### How long does it take to close an SBA 7(a) vs a 504 loan?
-
-A 7(a) through a Preferred Lender can close in 30-60 days if your documents are in order. A 504 typically takes 60-90 days, sometimes longer, because you're coordinating a conventional lender and a CDC simultaneously. Plan for the longer timeline and don't schedule a property closing before your financing is confirmed.
-
-### Is the SBA 504 down payment really only 10%?
-
-For established businesses buying a standard-use property, yes, 10% is the standard down payment. It goes to 15% if your business is under two years old, and 20% for special-use properties like gas stations, hotels, or car washes. That's still considerably less than the 25-30% most conventional commercial lenders require, which is a meaningful advantage.
-
-### Can I apply for both a 7(a) and a 504 at the same time?
-
-Generally no. You can't use both programs to finance the same project. In theory, a business could have one loan of each type for different purposes at different times, but you can't stack them on the same transaction. If you're unsure which fits your situation, a conversation with an SBA lender and a CDC simultaneously will get you an honest read faster than researching it alone.
 
 ## Helpful Resources
 

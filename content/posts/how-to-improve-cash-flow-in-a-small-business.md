@@ -102,27 +102,6 @@ Keep a cash reserve. The rule of thumb is two to three months of operating expen
 
 ---
 
-## FAQ
-
-### How do I know if my cash flow problem is actually a profitability problem?
-
-Look at your net profit margin over 12 months, not one or two. If you're consistently profitable but cash-thin, you have a timing or working capital problem. If the profit isn't there on paper either, the cash flow issue is downstream of a pricing or cost problem, and no amount of invoice timing will fix it. A CPA can help you separate the two.
-
-### Is it worth switching to accounting software just for better cash flow visibility?
-
-Yes, especially if you're still on spreadsheets or mixing personal and business accounts. QuickBooks Online (around $35 to $90 a month depending on tier) and Wave (free for the basics) both generate cash flow reports that are far harder to build manually. The visibility alone tends to change how owners make decisions.
-
-### Should I pay myself less to improve business cash flow?
-
-Short-term, maybe. Long-term, no. Consistently underpaying yourself creates a hidden liability: eventually you'll pull cash in a lump sum, or burn out and make poor decisions because you're financially stressed. Better to right-size the business model so it supports a reasonable owner salary. If the math doesn't work with you paid fairly, that's the real problem to fix.
-
-### What's the fastest legitimate way to improve cash flow this month?
-
-Contact every client with an invoice over 30 days old and ask for payment directly, not via automated reminder. A phone call or personal email recovers receivables faster than any dunning system. Then look at whether you have any assets or inventory you can liquidate, any upcoming expenses you can defer by a few weeks, and any client who'd prepay for future work in exchange for a modest discount.
-
-### Do I really need a separate business bank account?
-
-Completely non-negotiable. Mixing personal and business finances makes it nearly impossible to track cash flow accurately, creates a tax mess, and can expose you to personal liability if you operate an LLC or corporation. Open one today if you haven't. Most business checking accounts are free or under $15 a month. There's no trade-off to weigh here.
 
 ---
 

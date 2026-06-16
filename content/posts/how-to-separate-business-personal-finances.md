@@ -133,27 +133,6 @@ And seriously: get a CPA. Not just a tax preparer who fills in boxes on a form. 
 
 ---
 
-## Frequently Asked Questions
-
-### Do I need an LLC to separate my business and personal finances?
-
-No. Even if you operate as a sole proprietor with no formal business entity, you should still have a separate business checking account and credit card. You won't have the liability protection that an LLC provides, but you'll still have cleaner books, easier tax prep, and better financial visibility. The separation is good practice regardless of legal structure.
-
-### Can I reimburse myself for personal money I already spent on business expenses?
-
-Yes, and you should. Document the purchase with a receipt, note the business purpose, and write yourself a reimbursement check from the business account. Keep a record of it in your accounting software just like any other expense. Going forward, try to pay for business expenses directly from the business account to avoid this extra step.
-
-### What happens if I accidentally pay a personal bill from my business account?
-
-It happens. Fix it by recording it in your accounting software as an "owner's draw" rather than a business expense. That way it doesn't distort your profit and loss statements, and it's still documented. Don't just delete the transaction or pretend it didn't happen.
-
-### How many business bank accounts do I actually need?
-
-At minimum, one business checking account. Once your cash flow is more predictable, a second account for taxes (set aside 25 to 30 percent of net income there each month) and a third for operating reserves is a solid structure. Some business owners follow the *Profit First* model with even more accounts, but two to three handles most small business situations cleanly.
-
-### Is business credit card interest tax deductible?
-
-Interest on credit cards used exclusively for business is generally deductible as a business expense. However, if you use a card for both personal and business spending, only the business portion is deductible, and you'll need documentation to support that split. This is another reason a dedicated business card, used only for business, makes your life easier. Consult your CPA to confirm what applies to your specific situation.
 
 ---
 

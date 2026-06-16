@@ -73,27 +73,6 @@ The moment you have even one nonexempt employee working irregular hours, manual 
 
 ---
 
-## FAQ
-
-### Does overtime apply to part-time employees?
-
-Yes, if a part-time nonexempt employee works more than 40 hours in a workweek, they're owed overtime for those excess hours at 1.5 times their regular rate. The FLSA doesn't carve out an exception for part-time status.
-
-### Can I give comp time instead of overtime pay?
-
-Private sector employers generally cannot substitute comp time for overtime pay under the FLSA. That option is available for state and local government employers, but not private businesses. Some states have additional rules, so confirm with an employment attorney if you're unsure.
-
-### What if my employee agrees to waive overtime?
-
-An employee cannot legally waive their right to overtime under the FLSA, even in writing, even voluntarily. If you owe overtime, you owe it, full stop. An agreement to the contrary is unenforceable.
-
-### How far back can an employee sue for unpaid overtime?
-
-Under federal law, the statute of limitations is two years for unintentional violations and three years for willful violations. Some states allow longer lookback periods. This is one reason clean records matter so much.
-
-### Are salaried managers automatically exempt from overtime?
-
-No. Salary alone doesn't create exemption. The employee's weekly salary must meet the current federal threshold (verify this currently, as it's been in flux), and their job duties must genuinely meet one of the FLSA's exemption categories. Consult a CPA or employment attorney before classifying any position as exempt.
 
 ---
 

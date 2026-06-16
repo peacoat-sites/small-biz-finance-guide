@@ -132,27 +132,6 @@ One more thing: please talk to a CPA before you hire, especially if you're unsur
 
 ---
 
-## Frequently Asked Questions
-
-### Can I pay my first employee as a 1099 contractor instead of a W-2 employee?
-
-Only if they genuinely qualify as an independent contractor under IRS rules, which look at things like behavioral control, financial control, and the nature of the relationship. Misclassifying a W-2 employee as a contractor is one of the IRS's audit targets, and the back taxes plus penalties can be significant. If the person works set hours, uses your equipment, and does work core to your business, they're almost certainly an employee.
-
-### Do I need to pay payroll taxes if I'm paying someone in cash?
-
-Yes. The method of payment doesn't change your obligations. Paying cash wages without withholding or remitting payroll taxes is illegal, and the IRS can hold you personally liable through what's called the Trust Fund Recovery Penalty, even if your business is an LLC or corporation.
-
-### What if I can't afford to make a payroll tax deposit on time?
-
-Call the IRS directly or contact a tax professional before the deadline, not after. In some situations, a payment plan can be arranged, and the penalty structure is less severe if you're proactive. Ignoring it and hoping it goes away is consistently the worst outcome I see.
-
-### How do I handle payroll for a part-time or hourly employee?
-
-The same way you handle a salaried employee: withhold the same taxes, file the same forms, follow the same deposit schedule. The only difference is that their gross pay varies by week, so your withholding calculations will vary too. Good payroll software handles this automatically.
-
-### When do I need to give my employee a pay stub?
-
-It depends on your state. Some states require pay stubs every pay period; others allow electronic delivery; a few have no requirement but it's still best practice. Check your state's wage payment laws specifically. Gusto and most payroll platforms generate and deliver them automatically regardless.
 
 ---
 

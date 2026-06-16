@@ -108,27 +108,6 @@ Before December 31st, think about what you might want to accelerate. Software su
 
 ---
 
-## FAQ
-
-### Can I deduct my startup costs if I'm in my first year of business?
-
-Yes, but with limits. The IRS allows you to deduct up to $5,000 in startup costs and $5,000 in organizational costs in your first year, with the remainder amortized over 15 years. This applies only if total startup costs are under $50,000 -- after that, the $5,000 first-year deduction phases out.
-
-### Is my business insurance premium deductible?
-
-Yes. Premiums for general liability insurance, professional liability (errors and omissions), business property insurance, and workers' compensation are all deductible as ordinary business expenses. This is one of the cleanest, most straightforward deductions on the list.
-
-### What records do I actually need to keep, and for how long?
-
-The IRS generally recommends keeping supporting documents (receipts, invoices, bank statements, mileage logs) for at least three years from the date you filed, since that's the standard audit window. For employment tax records, keep them four years. Some CPAs recommend keeping everything for seven years as a conservative buffer.
-
-### Can I deduct gifts I give to clients?
-
-Yes, but only up to $25 per recipient per year. This limit has been the same since 1954 and has never been adjusted for inflation, which tells you something about how Congress thinks about small business owners. Incidental costs like gift wrapping don't count toward the $25 limit.
-
-### What's the difference between a deduction and a tax credit?
-
-A deduction reduces your taxable income. A credit reduces your actual tax bill dollar for dollar. A $1,000 deduction saves you $220 if you're in the 22% bracket. A $1,000 credit saves you $1,000 regardless of bracket. Credits are more valuable, but there are far fewer of them. The Small Business Health Care Tax Credit is one worth knowing about if you have employees and provide health coverage.
 
 ---
 

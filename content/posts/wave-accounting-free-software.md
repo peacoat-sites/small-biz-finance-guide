@@ -88,27 +88,6 @@ One honest caveat: no accounting software substitutes for a CPA review. I'd stro
 
 ---
 
-## Frequently Asked Questions
-
-### Is Wave really free, or does it switch to paid after a while?
-
-The core accounting and invoicing features are permanently free with no trial period. You only pay if you use Wave's payment processing (per-transaction fees) or payroll (monthly subscription). There's no bait-and-switch on the basic accounting tools, at least as of 2024.
-
-### Can Wave handle sales tax?
-
-Yes, with limitations. You can apply sales tax rates to invoices and track sales tax collected, and Wave will show you your total liability. What it won't do is automatically determine which tax rates apply by jurisdiction or file your sales tax returns. For that, you'd want a tool like TaxJar or Avalara integrated alongside Wave.
-
-### Is Wave secure enough to trust with my bank login?
-
-Wave uses Plaid for bank connections, which is the same third-party service used by apps like Venmo and Robinhood. Your bank credentials aren't stored by Wave directly. It's a reasonable level of security for a small business, though if you're uncomfortable with any third-party bank connection, you can always opt to import transactions manually via CSV instead.
-
-### How does Wave compare to QuickBooks Simple Start?
-
-QuickBooks Simple Start runs about $35 per month. For that, you get slightly better bank rules automation, more robust customer support, and a cleaner mobile app. If your books are simple, Wave does 90% of what Simple Start does for free. If you're growing past the freelancer/sole proprietor stage or need to share books with a bookkeeper regularly, the QuickBooks ecosystem is worth the money.
-
-### Can my accountant access my Wave books?
-
-Yes. You can add an accountant as a "collaborator" under Settings, and they'll get their own login with access to your books. Most accountants who work with small businesses are familiar with Wave, though some strongly prefer QuickBooks because that's what their own workflows are built around. Worth asking before you commit.
 
 ## Helpful Resources
 

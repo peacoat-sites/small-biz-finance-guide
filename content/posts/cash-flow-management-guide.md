@@ -145,27 +145,6 @@ For a deeper read on working capital and funding structures, [The Small Business
 
 ---
 
-## FAQ
-
-### How much cash reserve should a small business keep on hand?
-
-The common benchmark is two to three months of operating expenses in liquid reserves. But the right number depends on your business model. If your revenue is highly seasonal or project-based, lean toward three to four months. If you have predictable recurring revenue, like a subscription service or steady retainer clients, two months may be sufficient. The goal is having enough runway that one bad month doesn't force you into a crisis decision.
-
-### What's the difference between cash flow and working capital?
-
-Working capital is the difference between your current assets (cash, receivables, inventory) and your current liabilities (accounts payable, short-term debt). Cash flow is the movement of money over time. Working capital tells you your financial position at a snapshot in time. Cash flow tells you whether that position is improving or deteriorating. Both matter, but cash flow is the movie and working capital is the still photograph.
-
-### Can a profitable business really run out of cash?
-
-Yes, and this happens more than most people realize. The scenario I described earlier, completing work and waiting 60 days to get paid, is just one example. Rapid growth, large inventory purchases, and seasonal swings can all create cash shortfalls in businesses with strong profit margins. Profitability is a necessary condition for long-term survival, but it doesn't guarantee you can meet your obligations this Friday.
-
-### How do I handle a client who consistently pays late?
-
-Start by making the consequences of late payment explicit in your contract and on your invoices. A late fee of 1.5% per month is standard and legally enforceable in most states. Call before invoices are due as a gentle reminder, not after they're already late. For chronic offenders, consider requiring a deposit upfront or moving them to shorter payment terms. You can also move forward with invoice factoring for specific clients if you need cash quickly and can absorb the fee. Consult a CPA or business attorney if you're considering structural changes to your payment policies.
-
-### Should I use accounting software to track cash flow?
-
-Yes, absolutely. QuickBooks, FreshBooks, and Wave all generate cash flow statements and can give you real-time visibility into your position. That said, software is only as good as the data you put into it. Reconcile your accounts regularly, categorize transactions consistently, and don't let months pile up without review. A good bookkeeper, even part-time, can keep your books clean enough for the software to be genuinely useful. For tax-related decisions tied to cash flow management, always loop in a CPA.
 
 ---
 

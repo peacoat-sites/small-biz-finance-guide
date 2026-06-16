@@ -81,27 +81,6 @@ If you want a deeper framework for thinking about all of this, Frederick Dailey'
 
 ---
 
-## FAQ
-
-### How common are small business audits, really?
-
-Audit rates for small businesses have fluctuated, but Schedule C filers have historically faced higher rates than W-2 earners, particularly at higher income levels. The IRS has publicly stated it's increasing audit activity for higher-income returns and businesses showing consistent losses.
-
-### Does using a professional tax preparer lower my audit risk?
-
-It can, because professionals tend to catch obvious errors and unusual ratios before they're filed. But a preparer doesn't eliminate risk, and if the underlying documentation is weak, the return is still vulnerable. Representation matters more than preparation if you're actually audited.
-
-### What should I do if I receive an IRS audit notice?
-
-Don't panic and don't ignore it. Read the notice carefully to understand what's being requested. Most small business audits are correspondence audits, meaning the IRS wants documentation for specific line items, not a full examination. Consult a CPA or tax attorney before responding, especially if the notice involves more than one year.
-
-### Can I deduct my home office if I also have a separate business location?
-
-Yes, if the space is used regularly and exclusively for business. Having a separate business location doesn't disqualify you, but the IRS does scrutinize home office claims, and the "exclusive use" requirement is strict. A spare room that also has a guest bed doesn't qualify.
-
-### How many years of records should I keep?
-
-The general rule is three years from the date you filed, which covers the standard audit window. But if the IRS suspects you've underreported income by more than 25 percent, that window extends to six years. Keep anything related to asset purchases (equipment, property) for as long as you own the asset, plus three years after you dispose of it.
 
 ## Helpful Resources
 

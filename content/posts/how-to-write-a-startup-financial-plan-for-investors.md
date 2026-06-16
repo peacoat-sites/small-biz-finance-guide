@@ -110,27 +110,6 @@ The 18-month runway number matters. Investors generally expect a funding round t
 
 ---
 
-## FAQ
-
-### How many years of projections should I include?
-
-Three years is the standard for most early-stage investor conversations. Year 1 should be monthly. Years 2 and 3 can be quarterly or annual. Beyond three years, projections for a startup are mostly fiction and experienced investors know it. Extending to five years doesn't make you look more thorough; it usually makes you look naive about uncertainty.
-
-### Do I need to be profitable in my projections to raise funding?
-
-No, and showing fake profitability by Year 2 when your business model clearly requires heavy early investment will actually hurt your credibility. Investors in growth-stage startups often expect losses in the early years. What they want to see is a credible path: when you reach contribution margin positive, when operating cash flow turns positive, and what the business looks like when it scales. A realistic loss trajectory with clear inflection points is far better than a suspiciously rosy P&L.
-
-### What if my numbers are just educated guesses?
-
-They always are to some degree. The goal isn't certainty; it's defensible reasoning. Document your assumptions, show your math, cite any benchmarks or data you used, and be transparent in your investor conversation about where you have confidence versus where you're estimating. Saying "this customer acquisition cost assumption is based on our 3-month pilot; we expect it to improve as we optimize our funnel" is honest and credible. Pretending you have precision you don't have is not.
-
-### Should I hire someone to build my financial model?
-
-If you genuinely don't have the spreadsheet skills, yes, bring in a fractional CFO or a CPA with startup experience to help you build it. But you need to understand it deeply before you walk into any investor meeting. An investor will ask you to explain your gross margin assumption or justify your headcount growth, and "my consultant built this" is a credibility killer. Use outside help to build the structure; own the logic yourself.
-
-### How is a startup financial plan different from a small business plan?
-
-Mostly in what the audience is expecting. A lender reviewing a small business loan wants to see conservative projections, existing cash flow, and repayment capacity. An investor in a startup is often underwriting future potential and expects some level of ambition in the numbers. You're also typically building around a funding-and-growth model rather than a steady-state profitability model. The components are similar; the framing, the assumptions, and the risk tolerance are quite different.
 
 ---
 

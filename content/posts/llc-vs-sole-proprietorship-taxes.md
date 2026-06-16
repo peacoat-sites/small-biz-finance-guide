@@ -108,27 +108,6 @@ If you want to go deeper on the underlying concepts, *Profit First* by Mike Mich
 
 ---
 
-## Frequently Asked Questions
-
-### Does forming an LLC automatically reduce my taxes?
-
-No. A single-member LLC taxed as a disregarded entity pays exactly the same federal taxes as a sole proprietorship. The only way an LLC changes your tax situation is if you elect S-corp or C-corp treatment, which requires separate IRS filings and comes with its own requirements and costs.
-
-### When does it make financial sense to elect S-corp status?
-
-There's no universal threshold, but many CPAs start the conversation around $80,000 to $100,000 in consistent annual net profit. Below that level, the added costs of payroll processing and a separate business tax return often cancel out the payroll tax savings. Above it, the savings can be meaningful. Your specific numbers and state tax situation matter a lot here, so run the analysis with a CPA rather than relying on a general rule.
-
-### Can a sole proprietor get liability protection without forming an LLC?
-
-Not in the same direct way. Some sole proprietors buy general liability insurance or professional liability (errors and omissions) insurance to manage risk, and that's smart regardless of your business structure. But insurance and LLC liability protection are different things. Insurance pays claims up to policy limits. An LLC theoretically shields your personal assets from business liabilities entirely, as long as you maintain the structure properly.
-
-### What's the process for forming an LLC?
-
-You file Articles of Organization (sometimes called a Certificate of Formation) with your state's business filing office and pay the applicable fee. Most states let you do this online in under an hour. You should also create an operating agreement even if your state doesn't require one, open a separate business bank account, and get an EIN from the IRS (it's free at IRS.gov). Requirements vary by state, so check your state's Secretary of State website or the SBA's business formation resources.
-
-### If I'm already a sole proprietor mid-year, can I switch structures this year?
-
-Yes, but timing matters for taxes. If you form an LLC and elect S-corp status mid-year, the election typically applies to a full tax year unless you're newly forming the entity. There are specific rules about when elections take effect, and getting this wrong can mean your election doesn't apply when you expect it to. This is exactly the kind of detail that warrants a conversation with a CPA before you file Form 2553.
 
 ---
 

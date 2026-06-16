@@ -108,27 +108,6 @@ For further reading, Mike Michalowicz's *Profit First* (available [on Amazon](ht
 
 ---
 
-## FAQ
-
-### Is QuickBooks or Xero better for freelancers and solo businesses?
-
-For a freelancer or solo operator with straightforward income and no employees, Xero's Growing plan at $47/month often covers everything you need at a lower cost than comparable QuickBooks tiers. The interface is also less overwhelming if you're managing your own books without an accounting background.
-
-### Can I switch from QuickBooks to Xero (or vice versa) without losing my data?
-
-Yes, and it's more manageable than most people expect. You'll export your chart of accounts, enter opening balances as of your switch date, and re-enter or import recent transactions. Most bookkeepers handle this migration in a few hours. The [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed) has guidance on record-keeping requirements you'll want to make sure your migration satisfies.
-
-### Does Xero work well with U.S. taxes?
-
-It does, with some caveats. Xero tracks income and expenses, produces the reports your CPA needs, and integrates with tax prep tools. But it doesn't have the same native U.S. tax workflow that QuickBooks has built up over decades. Most U.S.-based Xero users export reports and hand them to their CPA, who works in their own tax software. It's not a problem, just a handoff. Always confirm the process with your specific CPA.
-
-### What about Wave or FreshBooks -- why aren't they in this comparison?
-
-Wave is free and fine for very early-stage businesses with simple needs, but it lacks the depth you'll want once you're past your first $100K in revenue. FreshBooks is strong for invoicing and client billing but isn't a full double-entry accounting system, which matters for clean financials and loan applications. QuickBooks and Xero are genuinely in a different tier of capability.
-
-### Do I need to hire a bookkeeper if I use either of these?
-
-Not necessarily, but the honest answer is: most business owners underestimate how much time DIY bookkeeping takes. If your books are behind, your categorization is inconsistent, or you don't actually know what your margins are, that's not a software problem. A part-time bookkeeper running $300 to $600/month is usually worth it once your revenue makes the time cost meaningful. Good software helps. Discipline and consistency are the harder part.
 
 ---
 

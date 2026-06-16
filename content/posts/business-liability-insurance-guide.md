@@ -136,27 +136,6 @@ For further reading, [Business Insurance for Dummies](https://www.amazon.com/s?k
 
 ---
 
-## FAQ
-
-### Is business liability insurance required by law?
-
-In most states, general liability insurance is not legally required for all businesses. However, certain industries, including construction, healthcare, and childcare, may have licensing requirements that include proof of insurance. Beyond legal requirements, many landlords and clients contractually require it. Check your lease, your client contracts, and your state licensing board requirements before assuming you don't need it.
-
-### Does general liability insurance cover my employees if they get hurt on the job?
-
-No. General liability covers third parties, meaning customers, vendors, and members of the public. Injuries to your own employees are covered under **workers' compensation insurance**, which is legally required in most states once you have employees. These are two separate policies with different purposes.
-
-### Can I deduct liability insurance premiums as a business expense?
-
-Generally, yes. Business insurance premiums are typically deductible as an ordinary and necessary business expense. The specifics depend on your business structure and how the policy is used. Consult a CPA for advice on your particular situation. The IRS small business tax center has additional guidance on deductible business expenses.
-
-### What's the difference between occurrence-based and claims-made policies?
-
-An **occurrence-based policy** covers incidents that happened during the policy period, even if the claim is filed years later. A **claims-made policy** only covers claims filed while the policy is active. Claims-made policies are often used for professional liability and are generally cheaper, but they require careful management. If you cancel a claims-made policy, you may need "tail coverage" to protect against future claims for past work.
-
-### How do I know if I need professional liability in addition to general liability?
-
-If you provide advice, services, or expertise that clients rely on to make business or financial decisions, you probably need professional liability (E&O). General liability doesn't cover economic losses caused by professional errors or omissions. Ask yourself: if a client said "your work cost us money," would GL cover that? Almost certainly not. That's exactly what E&O is for.
 
 ---
 

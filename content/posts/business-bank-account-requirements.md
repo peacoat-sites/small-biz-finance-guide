@@ -146,27 +146,6 @@ Banks don't approve every application, and knowing the common friction points sa
 
 ---
 
-## FAQ
-
-### Do I need a business bank account if I'm a sole proprietor?
-
-Legally, no. Sole proprietors aren't required by law to maintain separate business accounts. But practically, yes. Without it, you'll struggle to accurately track deductible expenses, and you'll have a much harder time if you're ever audited. Any CPA worth their fee will tell you to open one before they agree to work with you. It also makes it dramatically easier to build a business credit profile over time.
-
-### Can I use a personal account as a business account temporarily?
-
-I understand why people do this, especially in the first 30 to 60 days of a new business when things feel uncertain. But the longer you wait, the messier it gets to unwind. If you've been mixing finances for more than a couple months, an accountant may need to reconstruct your books, which costs money. Open the business account early, even if you're still figuring out whether the business will survive.
-
-### What's the minimum opening deposit for a business bank account?
-
-It varies widely. Some online banks like Novo or Mercury have no minimum opening deposit. Traditional banks typically require $25 to $100 to open, and some premium or interest-bearing business accounts require $1,000 or more. Always confirm the ongoing minimum balance requirement separately, as that's usually where fees hide.
-
-### Do I need a separate account for each business I own?
-
-Yes. Each legally separate business entity should have its own account. If you have an LLC and an S-corp, commingling those funds creates the same liability problems as mixing business and personal money. Clean separation between entities also matters if one business is audited or sued.
-
-### Can I open a business bank account with bad personal credit?
-
-Business bank accounts are generally not credit decisions, so your credit score matters less than you might think. However, banks do run identity verification and ChexSystems checks. If you have a history of unpaid bank fees or overdrafts, a traditional bank may decline you. Credit unions and newer online banks like Relay tend to be more accessible in those situations.
 
 ---
 

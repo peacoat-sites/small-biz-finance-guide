@@ -88,27 +88,6 @@ The expiration question is real. If the deduction sunsets at the end of 2025 as 
 
 ---
 
-## FAQ
-
-### Does the QBI deduction apply to rental income?
-
-Sometimes. Rental income can qualify if the rental activity rises to the level of a trade or business under IRS standards, or if it meets the requirements of the IRS's safe harbor for rental real estate (Revenue Procedure 2019-38). Triple-net leases are generally excluded. It depends on the specific facts, so run it by your CPA.
-
-### Can I take the QBI deduction if I'm also a W-2 employee?
-
-Yes, if you have a separate qualifying business on the side. Your W-2 wages from the job don't count as QBI, but net income from your freelance work, consulting practice, or other pass-through business can. You'd just calculate QBI based on the business income portion.
-
-### Does an LLC automatically qualify for the deduction?
-
-An LLC by itself isn't a tax classification. A single-member LLC taxed as a sole proprietor can qualify. An LLC taxed as an S corp or partnership can qualify. What matters is how the LLC is taxed, not the entity label. Default LLC treatment (disregarded entity for singles, partnership for multimember) generally does qualify.
-
-### What if I have a loss? Does that affect the deduction?
-
-A net loss from a qualified business reduces your QBI. If the loss brings your total QBI negative, you don't get a deduction that year, and the negative QBI carries forward to reduce your deduction in future years. It's called a carryforward, and it matters for businesses with cyclical income.
-
-### Should I restructure my business to maximize the QBI deduction?
-
-Possibly, but not without running the full math first. Converting to an S corp solely to capture W-2 wage benefits for the QBI calculation can backfire if the payroll tax costs outweigh the income tax savings. The break-even point varies depending on your income, your state, your health insurance situation, and a dozen other factors. This one genuinely requires a CPA who knows your numbers, not a general rule of thumb.
 
 ## Helpful Resources
 

@@ -142,27 +142,6 @@ For practical reference, *Profit First* by Mike Michalowicz is a book I recommen
 
 ---
 
-## Frequently Asked Questions
-
-### Can I deduct an expense if I paid for it with personal money?
-
-Yes, but you need to document it carefully. If you paid out of pocket for a legitimate business expense, you can reimburse yourself through the business account and record it as a business expense. Keep the receipt and note the business purpose. However, making a habit of this creates accounting headaches. The better practice is to always pay business expenses from your business account or card.
-
-### What's the difference between an expense and an asset?
-
-An expense is something consumed in the normal course of business within a short period: supplies, rent, software subscriptions. An asset is something with a useful life beyond one year, like a vehicle, machinery, or a building. Assets typically get capitalized on your balance sheet and depreciated over time rather than fully deducted in year one, unless you elect Section 179 or bonus depreciation treatment. When in doubt, ask your CPA.
-
-### Do I need receipts for every expense?
-
-The IRS generally requires documentation for business expenses, and for amounts over $75, a receipt is the clearest proof. For smaller amounts, bank statements can serve as supporting evidence. For meals and travel, the IRS expects you to document the amount, time, place, business purpose, and who was present. A simple note in your phone attached to a photo of the receipt covers all of that.
-
-### How do I handle quarterly estimated taxes with all these expenses?
-
-Your deductible expenses reduce your net business income, which is what you pay self-employment and income tax on. This means getting your categories right can meaningfully reduce your estimated tax payments. For a full breakdown of how the quarterly payment system works and how to calculate what you owe, the [quarterly estimated taxes for small business](/quarterly-estimated-taxes-small-business/) guide walks you through it step by step.
-
-### Should I hire a bookkeeper or do it myself?
-
-In the early stages, doing it yourself gives you an understanding of your numbers that you simply can't buy. But once you're past roughly $200,000 in annual revenue or adding employees, your time is worth more than the cost of a part-time bookkeeper, and the risk of DIY errors grows. The [small business bookkeeping guide](/small-business-bookkeeping-guide/) can help you decide what level of help makes sense for where you are right now.
 
 ---
 

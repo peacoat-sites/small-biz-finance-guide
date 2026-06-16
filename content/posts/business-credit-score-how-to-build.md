@@ -130,27 +130,6 @@ Always consult a CPA or financial advisor before making decisions about business
 
 ---
 
-## Frequently Asked Questions
-
-### How long does it take to build business credit from scratch?
-
-A functional, scoreable business credit file can be established in six to twelve months if you're taking deliberate steps: getting your D-U-N-S number, opening vendor net accounts that report to the bureaus, and paying early. Getting to a strong score, say a PAYDEX of 80 or higher, typically takes at least a year of consistent, positive payment history across multiple accounts.
-
-### Can I build business credit without using my personal credit?
-
-Yes, eventually. But most lenders and some vendor applications will do a personal credit pull early on, especially when your business file is thin or new. The goal is to build the business file robust enough that lenders can evaluate it independently. That transition happens gradually, not overnight.
-
-### Does forming an LLC automatically create a business credit file?
-
-No. Forming an LLC creates a legal entity, but it doesn't automatically generate a credit file with D&B, Experian Business, or Equifax Business. You have to take active steps: getting a D-U-N-S number, opening accounts that report to those bureaus, and building payment history. The LLC is necessary infrastructure, not a credit score on its own.
-
-### What if I find errors on my business credit report?
-
-Dispute them directly with the bureau that has the incorrect information. For D&B, there's a process through their website to correct file errors. For Experian Business and Equifax Business, each has a dispute process as well. Errors are more common on business files than most people realize, including duplicate files, wrong address data, or accounts that belong to a similarly named company. Check your reports at all three bureaus at least once or twice a year.
-
-### Will a business credit card hurt my personal credit score?
-
-It depends on the card issuer. Some business card issuers, like American Express for most of their business products, report only to commercial bureaus and don't appear on your personal credit report unless you default. Others do report to personal bureaus. Check the issuer's policy before applying. Applying for any new card does typically generate a hard inquiry on your personal credit, which can cause a small, temporary score dip.
 
 ---
 

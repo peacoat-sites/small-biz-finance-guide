@@ -88,27 +88,6 @@ Plan for that reality early. Showing up to underwriting with exactly the minimum
 
 ---
 
-## FAQ
-
-### How long does it take to get a business acquisition loan approved?
-
-For an SBA 7(a) loan, a straightforward deal with clean financials typically takes 60 to 90 days from application to close. More complex deals with real estate, multiple entities, or incomplete seller documentation can push past 120 days. Conventional bank loans can sometimes move faster if the deal is asset-heavy and the relationship is established.
-
-### Can I get a business acquisition loan with no money down?
-
-Rarely, and I'd be skeptical of anyone who tells you otherwise. Most SBA lenders require a minimum 10% equity injection from the buyer. There are edge cases — seller financing structured as equity, or deals where the business itself has significant unencumbered assets — but assuming you can buy a business with zero out of pocket is a fast way to be disappointed when underwriting gets real.
-
-### Does the business I'm buying need to be profitable to qualify?
-
-Yes, almost always. Lenders are primarily underwriting the business's ability to service the new debt, which requires actual cash flow. A business with losses or inconsistent earnings is a very difficult acquisition financing situation. That doesn't mean a turnaround acquisition is impossible, but it typically requires a larger down payment, strong collateral, and sometimes a more creative structure.
-
-### What's the difference between buying assets versus buying the whole company, and does it affect the loan?
-
-It can. In an asset purchase, you're buying specific assets (equipment, contracts, customer lists) rather than the legal entity. In a stock or entity purchase, you're buying the entire company including its liabilities. Lenders and legal counsel both care about this distinction. Some lenders actually prefer asset purchases because you're not inheriting hidden liabilities. Your attorney and CPA should both weigh in on this before you sign anything. This is genuinely one of those areas where professional advice is worth every dollar.
-
-### Can seller financing replace the SBA down payment requirement?
-
-Partially. The SBA allows seller financing to count toward the equity injection if it meets specific conditions, including a standby period with no payments for at least 24 months. The rules here have nuances and have been updated in recent years, so confirm the current requirements with your SBA lender directly — and talk to a CPA before structuring anything, because the tax implications for both buyer and seller are real.
 
 ## Helpful Resources
 

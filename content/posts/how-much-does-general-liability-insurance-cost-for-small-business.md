@@ -112,27 +112,6 @@ I flag these not to talk you into buying four policies at once, but because I've
 
 ---
 
-## FAQ
-
-### Does general liability insurance cost the same for a sole proprietor as for an LLC?
-
-Not always, but the business structure isn't usually the primary pricing factor. Your industry, revenue, and location matter more than whether you're a sole prop or LLC. That said, some carriers do adjust slightly based on entity type, so it's worth being accurate on your application.
-
-### Can I get general liability insurance with no upfront cost or monthly billing?
-
-Most carriers offer monthly payment plans, though some add a small installment fee (often $5 to $15 per payment). Annual pay-in-full typically saves you the most over a year. A few carriers like Thimble also offer short-term or pay-per-project policies, which can make sense for very sporadic work.
-
-### Will my premium go up if I file a claim?
-
-Almost certainly yes, at least at renewal. A single claim can increase your premium meaningfully and, in some cases, trigger non-renewal from your carrier. It's one reason some business owners with small claims (under $3,000 or so) choose to handle them out of pocket rather than involve the insurer, though you should talk to a professional before making that call in your specific situation.
-
-### Is general liability insurance tax-deductible for small businesses?
-
-Generally yes, business insurance premiums are deductible as an ordinary business expense. But deductibility depends on how your business is structured and how the premium is allocated, so confirm with your CPA rather than treating any article (including this one) as tax advice.
-
-### How much general liability insurance do I actually need?
-
-The standard $1M per occurrence / $2M aggregate is the starting point and sufficient for most small businesses. But if you work with larger corporate clients, they may require $2M per occurrence in your contract. Check your client contracts and commercial lease before settling on limits, not after.
 
 ---
 

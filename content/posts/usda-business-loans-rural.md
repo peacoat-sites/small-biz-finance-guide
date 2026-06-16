@@ -103,27 +103,6 @@ The [IRS small business tax center](https://www.irs.gov/businesses/small-busines
 
 ---
 
-## Frequently Asked Questions
-
-### Do I have to be a farm to qualify for a USDA business loan?
-
-No. The USDA's Rural Development business programs are specifically for non-farm businesses. Agricultural production is handled by a separate USDA division (Farm Service Agency). A rural hardware store, manufacturing facility, medical clinic, or restaurant can all potentially qualify.
-
-### My town is small but close to a city. Am I still eligible?
-
-Maybe. The USDA looks at population and geographic designation, not just perception of "rural." Some suburban fringe communities near larger cities don't qualify, while others do. Use the USDA's official eligibility map to check your specific address rather than assuming either way.
-
-### Can a startup get a USDA B&I loan?
-
-It's harder, but not impossible. Lenders typically want to see at least two to three years of operating history and stable cash flow. Startups face more scrutiny on projections and often need stronger collateral to compensate for the lack of track record. If you're pre-revenue, the RMAP microloan program or Rural Business Development Grants may be more accessible starting points.
-
-### How long does the whole process take?
-
-Realistically, plan for four to six months from initial lender conversation to closing. USDA review alone can take 60 to 90 days once your lender submits the guarantee request. If your documentation is complete and clean going in, you're less likely to face delays. Incomplete packages are the most common cause of slow timelines in my experience.
-
-### What collateral is required?
-
-The USDA requires that loans be "adequately secured," but unlike some programs, there's no hard minimum collateral ratio written in stone. Real estate and equipment are common forms of collateral. The lender and USDA will assess what's available and what the loan is being used for. Undercollateralized deals don't automatically fail, but they require a stronger case elsewhere, typically in cash flow and management strength.
 
 ---
 

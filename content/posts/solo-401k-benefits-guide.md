@@ -86,27 +86,6 @@ For deeper reading on retirement planning strategy for the self-employed, Mike P
 
 ---
 
-## FAQ
-
-### Can I have a Solo 401(k) if I also have a day job with a 401(k)?
-
-Yes, but the employee deferral limit ($23,000 in 2024) is per person, not per plan. So if you're contributing $15,000 at your day job, you can only contribute $8,000 more in employee deferrals to your Solo 401(k). The employer profit-sharing portion is separate and not affected.
-
-### What happens to my Solo 401(k) if I hire an employee?
-
-Once you hire a non-spouse employee who meets the eligibility rules (generally 1,000+ hours per year and age 21+), the plan typically loses its one-participant status and you'd need to convert it to a regular 401(k) plan, which involves offering coverage to employees and additional compliance requirements. Talk to a plan administrator before hiring if this is on your radar.
-
-### Is a SEP-IRA better than a Solo 401(k)?
-
-For some people, yes. A SEP-IRA is easier to set up, has almost no paperwork, and allows large contributions (up to 25% of net compensation, same as the employer side of a Solo 401(k)). But it doesn't have an employee deferral component, so if your business income is lower, you can often contribute significantly more to a Solo 401(k). The SEP also doesn't allow Roth contributions. I generally lean toward the Solo 401(k) for anyone who wants flexibility, but the [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/) has a solid comparison if you want a second read.
-
-### Can I take a loan from my Solo 401(k)?
-
-Some plans allow it, some don't. Fidelity's Solo 401(k), for instance, does not currently offer a loan provision. If loan access matters to you, confirm this with the provider before opening the account. Self-directed providers are more likely to offer it.
-
-### What's the deadline to make contributions for 2024?
-
-If you're a sole proprietor filing a Schedule C, you have until your tax filing deadline, including extensions (so October 15, 2025 if you file an extension). But again: the plan itself must have been established by December 31, 2024. Contributions and plan establishment have different deadlines, and mixing them up is a costly mistake.
 
 ## Helpful Resources
 

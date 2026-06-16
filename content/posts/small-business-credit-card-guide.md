@@ -108,27 +108,6 @@ Here are the habits that matter:
 
 ---
 
-## Frequently Asked Questions
-
-### Can I use a personal credit card for business expenses instead?
-
-You can, but you probably shouldn't. Mixing personal and business expenses creates accounting confusion, complicates your taxes, and weakens the legal separation between you and your business if you operate as an LLC or corporation. More practically: personal cards don't offer the expense management tools, employee card features, or business credit-building benefits that make a business card worth having.
-
-### Will applying for a business credit card affect my personal credit score?
-
-It depends on the issuer. Applying will typically result in a hard inquiry on your personal credit report, which can lower your score slightly for a short period. Some issuers also report ongoing account activity to personal credit bureaus. Others report only to business credit bureaus like Dun & Bradstreet or Experian Business. Ask the issuer directly before you apply if this is a concern.
-
-### What if my business is brand new with no revenue?
-
-New businesses apply for credit cards all the time. Issuers will lean heavily on your personal credit score in this situation, and they may ask for an estimated revenue figure. You don't need to have been in business for years. A strong personal credit score and a clear business structure (even as a sole proprietor) are often enough to qualify for entry-level business cards.
-
-### How many business credit cards should I have?
-
-Most small businesses do fine with one or two. One primary card for most spending and potentially one with a different reward structure (say, a travel card for flights and a cash back card for vendor payments) can make sense. More than that and you're adding complexity, multiple payment deadlines, and higher temptation to overspend. Simple usually wins.
-
-### Is a charge card different from a credit card, and should I consider one?
-
-Yes, they're different. A charge card (American Express has offered these for businesses historically) requires you to pay the full balance each month. There's no revolving credit. The upside is you can't carry a balance, which enforces spending discipline. The downside is there's no flexibility if a month gets tight. For business owners with strong cash flow who tend to overspend given a revolving line, a charge card can be a smart structural constraint.
 
 ---
 
