@@ -30,6 +30,16 @@ A restaurant owner I worked with a few years back almost signed a $94,000 equipm
 
 Equipment financing sounds straightforward. You need a piece of equipment, you don't have the cash to buy it outright, someone lends you money or gives you the equipment to use. But the details inside that transaction can mean the difference between a smart capital decision and a five-year mistake.
 
+
+<div class="value-module">
+  <div class="vm-head">Lease vs Loan: Total Cost Comparison</div>
+  <div class="vm-body">
+    <p class="vm-intro">This example shows how identical monthly payments can produce dramatically different five-year outcomes depending on financing structure.</p>
+    <table><caption>$75,000 Commercial Kitchen Equipment — 60-Month Financing Comparison</caption><thead><tr><th>Factor</th><th>Equipment Loan (8% APR)</th><th>Fair Market Value Lease</th><th>$1 Buyout Lease</th></tr></thead><tbody><tr><td>Monthly payment</td><td>$1,520</td><td>$1,420</td><td>$1,680</td></tr><tr><td>Total payments (60 months)</td><td>$91,200</td><td>$85,200</td><td>$100,800</td></tr><tr><td>End-of-term buyout</td><td>$0 (you own it)</td><td>~$15,000–$22,500 (fair market value)</td><td>$1</td></tr><tr><td>Total cost to own</td><td>$91,200</td><td>$100,200–$107,700</td><td>$100,801</td></tr><tr><td>Ownership timing</td><td>Day one</td><td>Month 61 (if purchased)</td><td>Month 61</td></tr><tr><td>Early payoff option</td><td>Usually yes (check for prepayment penalty)</td><td>Rarely; locked to term</td><td>Rarely; locked to term</td></tr><tr><td>Balance sheet treatment</td><td>Asset + liability from start</td><td>Operating expense (with ASC 842 footnote)</td><td>Finance lease (capitalized)</td></tr><tr><td>Best for</td><td>Equipment with 7+ year useful life you plan to keep</td><td>Technology that becomes obsolete in 3–5 years</td><td>When you want lease tax treatment but eventual ownership</td></tr></tbody></table>
+    <p class="vm-note">Illustrative general information — confirm current figures for your situation.</p>
+  </div>
+</div>
+
 ## What Equipment Financing Actually Is (And Isn't)
 
 There are two completely different things that people call "equipment financing," and the confusion between them costs small business owners real money.

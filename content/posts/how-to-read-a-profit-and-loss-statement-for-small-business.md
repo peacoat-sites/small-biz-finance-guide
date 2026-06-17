@@ -34,6 +34,16 @@ So let's fix that right now.
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">P&L Line-by-Line Health Check</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use these threshold ranges to spot trouble before it drains cash.</p>
+    <table><caption>Key P&L Ratios &amp; Warning Signs for Small Businesses</caption><thead><tr><th>P&amp;L Line Item</th><th>What to Calculate</th><th>Healthy Range</th><th>Warning Sign</th></tr></thead><tbody><tr><td>Gross Profit</td><td>(Revenue − COGS) ÷ Revenue</td><td>50–70% for services; 30–50% for product businesses</td><td>Dropping 5+ points quarter-over-quarter without explanation</td></tr><tr><td>Labor Costs</td><td>Total payroll ÷ Revenue</td><td>25–35% for most small businesses</td><td>Exceeds 40% while gross margin stays flat</td></tr><tr><td>Rent &amp; Occupancy</td><td>Rent + utilities ÷ Revenue</td><td>5–10% of revenue</td><td>Creeping above 12% signals overextension</td></tr><tr><td>Owner Compensation</td><td>Owner pay ÷ Net Profit (before owner pay)</td><td>Varies, but track separately from profit</td><td>Owner draws exceed net profit for 3+ consecutive months</td></tr><tr><td>Net Profit Margin</td><td>Net Income ÷ Revenue</td><td>10–20% for healthy small businesses</td><td>Below 5% with no reinvestment plan</td></tr><tr><td>Revenue Trend</td><td>Compare same period prior year</td><td>Flat or growing</td><td>Declining 10%+ year-over-year without seasonal cause</td></tr></tbody></table>
+    <p class="vm-note">Illustrative general information — confirm current figures for your situation.</p>
+  </div>
+</div>
+
 ## What a P&L Actually Is (and What It Isn't)
 
 A profit and loss statement, also called an income statement, is a financial report that shows your revenue, your costs, and what's left over after you subtract one from the other. It covers a specific time period: a month, a quarter, a year. That time-bound nature is the first thing people miss. A P&L is a movie, not a photograph. It tells you what happened over a stretch of time, not what you have right now.

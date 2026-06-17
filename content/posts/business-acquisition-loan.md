@@ -30,6 +30,16 @@ Most people who want to buy a business think the hard part is finding the right 
 
 That story is why I want to give you a real, honest picture of business acquisition loans — not the version your banker hands you in a glossy brochure.
 
+
+<div class="value-module">
+  <div class="vm-head">Acquisition Loan Comparison by Source</div>
+  <div class="vm-body">
+    <p class="vm-intro">Different financing sources impose vastly different requirements; this matrix shows what to expect before you start negotiating.</p>
+    <table><thead><tr><th>Loan Source</th><th>Typical Down Payment</th><th>Interest Rate Range</th><th>Max Term</th><th>Personal Guarantee</th><th>Time to Funding</th><th>Best Fit Scenario</th></tr></thead><tbody><tr><td>SBA 7(a)</td><td>10–15%</td><td>Prime + 2.25–2.75%</td><td>10 years (goodwill) / 25 years (real estate)</td><td>Required for 20%+ owners</td><td>60–90 days</td><td>Acquiring profitable business under $5M with limited capital</td></tr><tr><td>Conventional Bank Loan</td><td>20–30%</td><td>Prime + 1–3%</td><td>5–7 years typical</td><td>Almost always required</td><td>30–60 days</td><td>Strong buyer financials, faster close needed than SBA allows</td></tr><tr><td>Seller Financing</td><td>10–50% (negotiable)</td><td>6–10% (negotiated)</td><td>3–7 years typical</td><td>Varies by negotiation</td><td>As fast as closing docs allow</td><td>Seller motivated, buyer short on bank-qualifying equity</td></tr><tr><td>Hybrid (SBA + Seller Note)</td><td>5–10% buyer equity</td><td>Blended rate</td><td>Mixed terms</td><td>Required on SBA portion</td><td>75–100 days</td><td>Maximizing leverage when seller will carry 10–15% on standby</td></tr><tr><td>Private Equity / Search Fund Capital</td><td>0% from buyer (but equity dilution)</td><td>Target 20–30% IRR to investors</td><td>3–7 year hold</td><td>Rarely personal; equity at risk</td><td>60–120 days</td><td>Larger deals ($2M+ EBITDA), buyer trades ownership for capital</td></tr></tbody></table>
+    <p class="vm-note">Illustrative general information — confirm current figures for your situation.</p>
+  </div>
+</div>
+
 ## What a Business Acquisition Loan Actually Is (and Isn't)
 
 A business acquisition loan is financing used specifically to purchase an existing business. That sounds obvious, but the structure is genuinely different from a startup loan or a working capital line of credit, and conflating them causes a lot of grief.

@@ -30,6 +30,16 @@ You set up a dedicated room in your house for your business two years ago. You'v
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Simplified vs. Regular Method Comparison</div>
+  <div class="vm-body">
+    <p class="vm-intro">Choosing the right calculation method can mean hundreds of dollars in tax savings—here's how they stack up.</p>
+    <table><caption>Home Office Deduction: Simplified vs. Regular Method</caption><thead><tr><th>Factor</th><th>Simplified Method</th><th>Regular Method</th></tr></thead><tbody><tr><td>Calculation</td><td>$5 per square foot of office space</td><td>Actual expenses × business-use percentage</td></tr><tr><td>Maximum space allowed</td><td>300 sq ft ($1,500 max deduction)</td><td>No limit on square footage</td></tr><tr><td>Expenses you can include</td><td>None separately—flat rate covers all</td><td>Mortgage interest/rent, utilities, insurance, repairs, depreciation</td></tr><tr><td>Recordkeeping burden</td><td>Minimal: measure space, keep floor plan</td><td>Substantial: save all bills, allocate by percentage, track depreciation schedule</td></tr><tr><td>Depreciation recapture risk</td><td>None</td><td>Yes—claimed depreciation may be taxed at sale</td></tr><tr><td>Best fit</td><td>Small dedicated space (&lt;300 sq ft); simple finances; renters</td><td>Larger office; high housing costs (&gt;$5/sq ft equivalent); homeowners wanting full write-offs</td></tr><tr><td>Illustrative example (150 sq ft office, $18,000 annual housing costs, 10% business use)</td><td>150 × $5 = <strong>$750</strong></td><td>$18,000 × 10% = <strong>$1,800</strong></td></tr></tbody></table>
+    <p class="vm-note">Illustrative general information — confirm current figures for your situation.</p>
+  </div>
+</div>
+
 ## Who Actually Qualifies (And Who Doesn't)
 
 The first thing to get straight: this deduction is for self-employed people, freelancers, and business owners. If you're a W-2 employee who started working from home after 2017, you cannot take this deduction on your federal return. The Tax Cuts and Jobs Act of 2017 eliminated the employee home office deduction through 2025, so if your employer sends you a W-2, this article isn't for you, at least not for federal purposes. Some states still allow it at the state level, so check with a CPA for your specific situation.

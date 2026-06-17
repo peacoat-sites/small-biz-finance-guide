@@ -32,6 +32,16 @@ So let's talk about this before you're in that chair.
 
 Cyber liability insurance covers your business when a data breach, cyberattack, or digital security failure causes financial damage. To you, to your customers, or both. It's not the same as your general liability policy, and it's not bundled into your BOP (business owner's policy) by default, even though a lot of people assume it is. That assumption has cost businesses I know real money.
 
+
+<div class="value-module">
+  <div class="vm-head">Cyber Policy Coverage Comparison Matrix</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this matrix to compare what different cyber liability policy tiers typically include before you request quotes.</p>
+    <table><thead><tr><th>Coverage Component</th><th>Basic Policy</th><th>Standard Policy</th><th>Comprehensive Policy</th><th>Why It Matters</th></tr></thead><tbody><tr><td>Breach notification costs</td><td>Included</td><td>Included</td><td>Included</td><td>Mandatory in most states; costs add up fast with large customer lists</td></tr><tr><td>Forensic investigation</td><td>Limited (often capped at $25K–$50K)</td><td>Included</td><td>Included</td><td>Finding the breach source typically requires outside specialists</td></tr><tr><td>Business interruption</td><td>Rarely included</td><td>Included with waiting period (often 8–12 hours)</td><td>Included with shorter waiting period</td><td>Covers lost revenue while systems are down</td></tr><tr><td>Ransomware payments</td><td>Excluded</td><td>Sub-limited (often 50% of policy limit)</td><td>Included up to full limit</td><td>Check for required pre-approval and negotiation services</td></tr><tr><td>Regulatory fines and penalties</td><td>Excluded</td><td>Limited coverage</td><td>Included where legally insurable</td><td>HIPAA, PCI-DSS, state privacy law violations can trigger fines</td></tr><tr><td>Third-party lawsuits</td><td>Excluded or minimal</td><td>Included</td><td>Included</td><td>Customer or partner claims for damages from your breach</td></tr><tr><td>Social engineering fraud</td><td>Excluded</td><td>Optional rider</td><td>Often included or optional</td><td>Covers losses when employees are tricked into transfers</td></tr><tr><td>Reputational harm/PR costs</td><td>Excluded</td><td>Optional rider</td><td>Included</td><td>Crisis communications to rebuild customer trust</td></tr><tr><td>Typical annual premium range (illustrative, for under $1M revenue)</td><td>$500–$1,500</td><td>$1,500–$3,500</td><td>$3,500–$7,500+</td><td>Varies significantly by industry, data volume, and security posture</td></tr></tbody></table>
+    <p class="vm-note">Illustrative general information — confirm current figures for your situation.</p>
+  </div>
+</div>
+
 ## What it actually covers (and what it doesn't)
 
 Here's what I tell people when they're first looking at these policies: the coverage typically splits into two buckets.

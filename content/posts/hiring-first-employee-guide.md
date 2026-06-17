@@ -34,6 +34,16 @@ This guide walks you through all of it, step by step.
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">True Cost Calculator: First Employee</div>
+  <div class="vm-body">
+    <p class="vm-intro">Before committing to hire, calculate the fully-loaded annual cost using this framework with realistic multipliers.</p>
+    <table><caption>First Employee Cost Breakdown (Illustrative: $40,000 Base Salary)</caption><thead><tr><th>Cost Category</th><th>Typical Range</th><th>Illustrative Amount</th><th>Notes</th></tr></thead><tbody><tr><td>Base Wages</td><td>—</td><td>$40,000</td><td>Gross annual salary or hourly equivalent</td></tr><tr><td>Employer FICA (Social Security + Medicare)</td><td>7.65% of wages</td><td>$3,060</td><td>Mandatory federal payroll tax</td></tr><tr><td>Federal Unemployment Tax (FUTA)</td><td>0.6% on first $7,000</td><td>$42</td><td>After state credit; annual cap applies</td></tr><tr><td>State Unemployment Tax (SUTA)</td><td>1%–6% on wage base</td><td>$400–$1,800</td><td>Varies significantly by state and employer history</td></tr><tr><td>Workers' Compensation Insurance</td><td>0.5%–3% of payroll</td><td>$200–$1,200</td><td>Required in most states; rate depends on job risk class</td></tr><tr><td>Health Insurance Contribution (if offered)</td><td>$3,000–$8,000/year</td><td>$5,000</td><td>Optional for employers under 50 employees</td></tr><tr><td>Paid Time Off (if offered)</td><td>5–10 days = 2%–4% of wages</td><td>$1,600</td><td>Cost of wages paid for non-working days</td></tr><tr><td>Payroll Service Fees</td><td>$30–$80/month</td><td>$500</td><td>Software or outsourced payroll processing</td></tr><tr><td>Onboarding and Training</td><td>Your time + materials</td><td>$500–$2,000</td><td>Often underestimated; includes productivity ramp-up</td></tr></tbody><tfoot><tr><td colspan="2"><strong>Estimated Fully-Loaded Cost</strong></td><td><strong>$51,000–$55,000</strong></td><td><strong>1.28×–1.38× base wage</strong></td></tr><tr><td colspan="2"><strong>Cash Reserve Target (3–6 months)</strong></td><td><strong>$12,750–$27,500</strong></td><td><strong>Have accessible before hiring</strong></td></tr></tfoot></table>
+    <p class="vm-note">Illustrative general information — confirm current figures for your situation.</p>
+  </div>
+</div>
+
 ## Are You Actually Ready to Hire?
 
 Before you post a job listing, you need to answer one honest question: can your business financially support an employee right now?

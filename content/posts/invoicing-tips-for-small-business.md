@@ -32,6 +32,16 @@ Invoicing isn't glamorous. Nobody starts a business dreaming about billing softw
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Invoice Payment Terms Comparison</div>
+  <div class="vm-body">
+    <p class="vm-intro">Different payment terms create different cash-flow outcomes and client expectations—here's how the common options compare for small businesses.</p>
+    <table><thead><tr><th>Payment Term</th><th>What It Means</th><th>Best For</th><th>Cash-Flow Impact</th><th>Client Perception</th></tr></thead><tbody><tr><td>Due on Receipt</td><td>Payment expected immediately upon invoice delivery</td><td>One-time projects, new clients, amounts under $500</td><td>Fastest cash; may require follow-up if ignored</td><td>Can feel aggressive; set expectation in contract first</td></tr><tr><td>Net 15</td><td>Payment due within 15 calendar days</td><td>Freelancers, ongoing retainers, small-to-mid invoices</td><td>Good balance of speed and client flexibility</td><td>Reasonable; increasingly common for small vendors</td></tr><tr><td>Net 30</td><td>Payment due within 30 calendar days</td><td>Established client relationships, invoices over $2,000</td><td>Standard but can strain thin margins</td><td>Expected by most corporate AP departments</td></tr><tr><td>Net 60</td><td>Payment due within 60 calendar days</td><td>Large enterprise contracts, wholesale/inventory businesses</td><td>Significant delay; requires cash reserves or credit line</td><td>Often requested by big companies; negotiate if possible</td></tr><tr><td>2/10 Net 30</td><td>2% discount if paid in 10 days; otherwise full amount in 30</td><td>Encouraging early payment on larger invoices ($1,000+)</td><td>Trades small margin for faster cash</td><td>Seen as professional; motivates prompt payers</td></tr><tr><td>50% Upfront / 50% on Completion</td><td>Split payment at project start and delivery</td><td>Custom projects, new clients, amounts over $1,500</td><td>De-risks large jobs; funds materials/labor upfront</td><td>Standard for contractors, designers, consultants</td></tr></tbody></table>
+    <p class="vm-note">Illustrative general information — confirm current figures for your situation.</p>
+  </div>
+</div>
+
 ## What Your Invoice Actually Needs to Include
 
 A lot of small business owners send invoices that are technically incomplete. They miss line items, forget to specify payment terms, or use a template they pulled from somewhere without really reading it. Then they wonder why clients are slow to pay or dispute charges.

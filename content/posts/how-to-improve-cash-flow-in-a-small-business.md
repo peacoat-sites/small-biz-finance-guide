@@ -32,6 +32,16 @@ Cash flow problems kill profitable businesses. That's the part people don't expe
 
 So let's talk about what actually moves the needle.
 
+
+<div class="value-module">
+  <div class="vm-head">Cash Flow Levers: Impact vs. Effort Matrix</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this matrix to prioritize which cash flow improvements to tackle first based on typical impact and implementation difficulty.</p>
+    <table><caption>Cash Flow Improvement Prioritization Matrix</caption><thead><tr><th>Action</th><th>Typical Cash Impact</th><th>Implementation Effort</th><th>Time to See Results</th><th>Priority Signal</th></tr></thead><tbody><tr><td>Shorten payment terms (Net 30 → Net 15)</td><td>15–20 days faster collection</td><td>Low: update invoice templates</td><td>1–2 billing cycles</td><td>Start here if average receivables exceed 45 days</td></tr><tr><td>Require deposits on new contracts</td><td>25–50% of project value upfront</td><td>Low: revise contract language</td><td>Immediate on new work</td><td>Essential if project values exceed $5,000</td></tr><tr><td>Negotiate extended vendor terms</td><td>15–30 days additional float</td><td>Medium: requires relationship leverage</td><td>Next billing cycle</td><td>Pursue when payables turnover is under 25 days</td></tr><tr><td>Implement early-payment discounts (2/10 Net 30)</td><td>Accelerates 20–40% of receivables</td><td>Low: add terms to invoices</td><td>2–4 weeks</td><td>Use when cash value exceeds 2% discount cost</td></tr><tr><td>Weekly invoicing vs. monthly</td><td>Reduces average collection by 10–15 days</td><td>Low: process change only</td><td>1 month</td><td>High priority for service businesses billing hourly</td></tr><tr><td>Line of credit (establish before needed)</td><td>Emergency buffer, variable</td><td>High: requires financials, approval</td><td>2–6 weeks to establish</td><td>Secure when cash covers less than 60 days of expenses</td></tr><tr><td>Inventory reduction / JIT ordering</td><td>Frees 10–30% of working capital</td><td>High: supply chain coordination</td><td>1–3 months</td><td>Address if inventory turnover exceeds 90 days</td></tr><tr><td>Retainer or subscription billing</td><td>Predictable monthly inflow</td><td>Medium: pricing model redesign</td><td>3–6 months to transition</td><td>Consider if revenue variance exceeds 40% month-to-month</td></tr></tbody></table>
+    <p class="vm-note">Illustrative general information — confirm current figures for your situation.</p>
+  </div>
+</div>
+
 ## Understand What You're Actually Measuring
 
 Before you fix anything, you need to know what your cash position looks like, not just today but 8 to 12 weeks out. Most small business owners run on gut feel and their checking account balance. That's a recipe for surprises.

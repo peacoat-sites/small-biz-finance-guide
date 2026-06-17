@@ -34,6 +34,16 @@ I've reviewed hundreds of these over the years, and I can tell you with some con
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Unit Economics Sanity-Check Table</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this worksheet to pressure-test your core numbers before an investor does—if any row lands in the red zone, pause and fix the math before you pitch.</p>
+    <table><thead><tr><th>Metric</th><th>How to Calculate</th><th>Healthy Zone (Illustrative)</th><th>Warning Sign</th></tr></thead><tbody><tr><td>Customer Acquisition Cost (CAC)</td><td>Total sales &amp; marketing spend ÷ new customers acquired</td><td>Recoverable within 12 months of gross profit</td><td>CAC payback &gt; 18 months</td></tr><tr><td>Lifetime Value (LTV)</td><td>Avg. revenue per customer × gross margin % × avg. customer lifespan</td><td>≥ 3× CAC for venture-scale businesses</td><td>LTV:CAC below 2:1</td></tr><tr><td>Gross Margin</td><td>(Revenue − direct costs) ÷ revenue</td><td>Software ≥ 70%; services ≥ 40%; physical goods ≥ 30%</td><td>Margins below industry floor without clear scale path</td></tr><tr><td>Monthly Burn Rate</td><td>Cash out − cash in over a month</td><td>≥ 12 months runway at current burn</td><td>&lt; 6 months runway without funded plan</td></tr><tr><td>Revenue per Employee (at scale)</td><td>Annual revenue ÷ FTEs</td><td>SaaS benchmark: $150K–$300K+ at maturity</td><td>Projecting &lt; $100K/employee in Year 3+</td></tr></tbody></table>
+    <p class="vm-note">Illustrative general information — confirm current figures for your situation.</p>
+  </div>
+</div>
+
 ## What Investors Are Actually Looking For
 
 Here's what most people don't realize: investors aren't scrutinizing your financial plan because they think you've predicted the future correctly. They know you haven't. A seed-stage investor does not believe your $4.2M revenue projection for Year 3 is real. What they're evaluating is whether you understand *how* a business like yours makes money, what it costs to grow it, and whether you've thought clearly about risk.

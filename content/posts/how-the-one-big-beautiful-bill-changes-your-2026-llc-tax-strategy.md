@@ -18,6 +18,16 @@ Most coverage of the One Big Beautiful Bill Act treated it like a Washington sto
 
 The bill was signed on July 4, 2025. Several of its most consequential provisions either activated on January 1, 2026 or carry a hard deadline of July 4, 2026. That makes right now the live window. Not next tax season. Now.
 
+
+<div class="value-module">
+  <div class="vm-head">QBI vs Bonus Depreciation: Decision Matrix</div>
+  <div class="vm-body">
+    <p class="vm-intro">Use this matrix to determine which OBBBA provision delivers more immediate value based on your LLC's current situation.</p>
+    <table><caption>Strategic Priority Matrix: QBI Deduction vs 100% Bonus Depreciation</caption><thead><tr><th>Business Situation</th><th>QBI Priority</th><th>Bonus Depreciation Priority</th><th>Recommended First Action</th></tr></thead><tbody><tr><td>Service business (consulting, law, accounting) with income approaching phase-out thresholds</td><td>High</td><td>Low-Medium</td><td>Model W-2 vs distribution split to maximize QBI before threshold</td></tr><tr><td>Product or equipment-based business planning capital purchases</td><td>Medium</td><td>High</td><td>Accelerate equipment purchases into 2026 while 100% depreciation applies</td></tr><tr><td>New LLC considering S-corp election</td><td>High</td><td>Medium</td><td>File Form 2553 by March 15 (new entities) or within 75 days of election decision</td></tr><tr><td>Real estate LLC with cost segregation opportunity</td><td>Low (rental often excluded)</td><td>High</td><td>Commission cost segregation study to identify eligible components</td></tr><tr><td>High-income specified service trade or business (SSTB)</td><td>Low (phased out)</td><td>High</td><td>Shift tax strategy toward depreciation and retirement contributions</td></tr><tr><td>Stable income below $182,100 single / $364,200 joint (illustrative thresholds)</td><td>High</td><td>Situational</td><td>Ensure reasonable compensation documented; QBI calculates automatically</td></tr></tbody></table>
+    <p class="vm-note">Illustrative general information — confirm current figures for your situation.</p>
+  </div>
+</div>
+
 ## The QBI Deduction Is Permanent. Stop Planning Around Its Death.
 
 For the last several years, pass-through owners have been operating under a quiet uncertainty: the Section 199A qualified business income deduction, worth 20% of eligible pass-through income, was always supposed to sunset on December 31, 2025. A lot of owners built compensation structures, retirement contributions, and entity choices around that expiration date. Some even started questioning whether staying an S-corp still made sense without it.

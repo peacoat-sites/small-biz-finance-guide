@@ -17,6 +17,16 @@ author_bio: "Amanda Pierce has run her own small business and knows the differen
 
 Bonus depreciation dropped to 60% in 2024. That single number is causing a lot of confusion right now, and I've seen business owners make costly planning mistakes because they either didn't know the phase-down was happening or assumed it was still 100%. Let's get you caught up.
 
+
+<div class="value-module">
+  <div class="vm-head">Bonus Depreciation Phase-Down Numeric Example</div>
+  <div class="vm-body">
+    <p class="vm-intro">This worked example shows how the same $100,000 equipment purchase yields different first-year deductions as bonus depreciation phases down, helping you weigh purchase timing.</p>
+    <table><caption>First-Year Deduction on $100,000 of 5-Year MACRS Equipment</caption><thead><tr><th>Tax Year</th><th>Bonus Rate</th><th>Bonus Deduction</th><th>Regular MACRS (Year 1)</th><th>Total Year-1 Deduction</th><th>Remaining to Depreciate</th></tr></thead><tbody><tr><td>2022</td><td>100%</td><td>$100,000</td><td>$0</td><td>$100,000</td><td>$0</td></tr><tr><td>2023</td><td>80%</td><td>$80,000</td><td>$4,000</td><td>$84,000</td><td>$16,000</td></tr><tr><td>2024</td><td>60%</td><td>$60,000</td><td>$8,000</td><td>$68,000</td><td>$32,000</td></tr><tr><td>2025</td><td>40%</td><td>$40,000</td><td>$12,000</td><td>$52,000</td><td>$48,000</td></tr><tr><td>2026</td><td>20%</td><td>$20,000</td><td>$16,000</td><td>$36,000</td><td>$64,000</td></tr><tr><td>2027+</td><td>0%</td><td>$0</td><td>$20,000</td><td>$20,000</td><td>$80,000</td></tr></tbody></table>
+    <p class="vm-note">Illustrative general information — confirm current figures for your situation.</p>
+  </div>
+</div>
+
 ## What Bonus Depreciation Actually Is (And Why the Phase-Down Matters)
 
 For years, bonus depreciation was the tax planning equivalent of a gift. Under the Tax Cuts and Jobs Act of 2017, businesses could deduct 100% of the cost of qualifying assets in the year they were placed in service, rather than depreciating them over five, seven, or fifteen years the normal way. Buy a $60,000 piece of equipment in December, wipe out $60,000 of taxable income that same year. It was genuinely powerful.

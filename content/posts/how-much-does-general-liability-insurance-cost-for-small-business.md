@@ -32,6 +32,16 @@ General liability insurance is one of those topics where the internet is full of
 
 Let me give you the real picture.
 
+
+<div class="value-module">
+  <div class="vm-head">Cost Factors That Actually Move Your Premium</div>
+  <div class="vm-body">
+    <p class="vm-intro">Insurers weight these factors differently, but here's how each typically shifts your quote from baseline industry averages.</p>
+    <table><caption>Premium Impact by Risk Factor</caption><thead><tr><th>Factor</th><th>Low-Cost Scenario</th><th>High-Cost Scenario</th><th>Typical Premium Impact</th></tr></thead><tbody><tr><td>Annual Revenue</td><td>Under $100K</td><td>Over $500K</td><td>+40% to +150% from baseline</td></tr><tr><td>Customer Foot Traffic</td><td>Home-based, no visitors</td><td>Retail with 200+ daily visitors</td><td>+25% to +100%</td></tr><tr><td>Claims History</td><td>Zero claims in 5 years</td><td>2+ claims in 3 years</td><td>+30% to +75% (or declination)</td></tr><tr><td>Work Location</td><td>Office or client sites only</td><td>Construction sites, heights, heavy equipment</td><td>+50% to +200%</td></tr><tr><td>Subcontractor Use</td><td>No subs, employees only</td><td>Regular use of uninsured subs</td><td>+20% to +60%</td></tr><tr><td>Coverage Limits</td><td>$500K per occurrence</td><td>$2M per occurrence</td><td>+30% to +50%</td></tr><tr><td>Deductible Choice</td><td>$2,500 deductible</td><td>$0 or $500 deductible</td><td>+10% to +20% for low deductible</td></tr><tr><td>Geographic Location</td><td>Rural, low-litigation state</td><td>Urban, high-litigation state (CA, FL, NY)</td><td>+15% to +40%</td></tr></tbody></table>
+    <p class="vm-note">Illustrative general information — confirm current figures for your situation.</p>
+  </div>
+</div>
+
 ## What You'll Actually Pay: Ranges That Mean Something
 
 The "$500 to $1,500" figure isn't a lie, but it's doing a lot of work. That range captures a freelance copywriter working from home at one end and a mid-sized landscaping company at the other. They're not comparable risks, and treating them as such is like saying "cars cost between $8,000 and $80,000" and calling it useful.

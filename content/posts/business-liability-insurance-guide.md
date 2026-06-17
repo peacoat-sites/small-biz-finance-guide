@@ -32,6 +32,16 @@ Business liability insurance is one of those things owners put off because it fe
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Coverage Gaps: What Each Policy Excludes</div>
+  <div class="vm-body">
+    <p class="vm-intro">Understanding what each liability policy does NOT cover is often more valuable than knowing what it covers—these gaps are where businesses get blindsided.</p>
+    <table><caption>Common Exclusions by Liability Policy Type</caption><thead><tr><th>Policy Type</th><th>What It Covers</th><th>Critical Exclusions (You Need Separate Coverage)</th><th>Gap-Filler Policy</th></tr></thead><tbody><tr><td>General Liability (GL)</td><td>Third-party bodily injury, property damage, advertising injury</td><td>Your own injuries; employee injuries; professional mistakes; auto accidents; intentional acts; pollution</td><td>Workers' comp, E&amp;O, commercial auto, pollution liability</td></tr><tr><td>Professional Liability (E&amp;O)</td><td>Claims from professional advice, errors, or omissions causing client financial loss</td><td>Bodily injury; property damage; criminal acts; claims from work done before retroactive date; intentional fraud</td><td>General liability for injury/property claims</td></tr><tr><td>Product Liability</td><td>Injuries or damage caused by products you make or sell</td><td>Product recall costs; damage to your own product; breach of warranty without injury; design flaws you knew about</td><td>Product recall insurance; GL for non-product claims</td></tr><tr><td>Commercial Auto</td><td>Accidents in business-owned or business-use vehicles</td><td>Employee personal vehicles used for work (hired/non-owned gap); cargo damage; vehicles not scheduled on policy</td><td>Hired and non-owned auto coverage; inland marine for cargo</td></tr><tr><td>Workers' Compensation</td><td>Employee injuries and occupational illness</td><td>Independent contractors; owners (in most states, optional); intentional employee self-harm; injuries during commute</td><td>Contractor requires their own policy; occupational accident for 1099 workers</td></tr></tbody></table>
+    <p class="vm-note">Illustrative general information — confirm current figures for your situation.</p>
+  </div>
+</div>
+
 ## What Business Liability Insurance Actually Covers
 
 The term "liability insurance" gets used loosely, and that creates confusion. There isn't one single policy called "business liability insurance." It's an umbrella term for a category of policies that protect your business when someone claims your operations, products, employees, or advice caused them harm or financial loss.

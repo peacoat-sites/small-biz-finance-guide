@@ -28,6 +28,16 @@ author_bio: "Rachel Green is a fractional CFO who has helped dozens of small bus
 
 Most articles about opening a business bank account spend 800 words telling you to "gather your documents" and then stop. That's not advice. That's a checklist you could've written yourself. So let me cover what actually matters, including the part where most startups make an expensive mistake in the first 90 days.
 
+
+<div class="value-module">
+  <div class="vm-head">Online Business Bank Account Comparison Matrix</div>
+  <div class="vm-body">
+    <p class="vm-intro">This decision matrix compares the major online-first business banks across criteria that actually matter for startups in their first two years.</p>
+    <table><thead><tr><th>Bank</th><th>Monthly Fee</th><th>APY on Balances</th><th>Sub-Accounts</th><th>Approval Speed</th><th>Best For</th><th>Key Limitation</th></tr></thead><tbody><tr><td>Mercury</td><td>$0</td><td>None on basic</td><td>Unlimited</td><td>1–3 business days</td><td>Tech/product startups planning to raise capital</td><td>No cash deposits; limited integrations with traditional accounting</td></tr><tr><td>Relay</td><td>$0</td><td>None</td><td>Up to 20</td><td>1–2 business days</td><td>Service businesses using profit-first or envelope budgeting</td><td>No interest earnings; no physical branch access</td></tr><tr><td>Bluevine</td><td>$0</td><td>Up to 2%+ (variable; check current rates)</td><td>1 primary</td><td>1–2 business days</td><td>Businesses holding $20K+ in operating reserves</td><td>Fewer sub-accounts; interest tiers require minimum balances</td></tr><tr><td>Novo</td><td>$0</td><td>None</td><td>Reserve buckets</td><td>1–3 business days</td><td>Freelancers and microbusinesses wanting app integrations</td><td>Slower customer support response times reported</td></tr><tr><td>Chase Business Complete</td><td>$15 (waivable)</td><td>None</td><td>1 primary</td><td>Same day (branch) or 3–5 days online</td><td>Businesses planning SBA loans or needing cash deposit access</td><td>Fee requires $2K minimum balance to waive; fewer startup-friendly features</td></tr></tbody></table>
+    <p class="vm-note">Illustrative general information — confirm current figures for your situation.</p>
+  </div>
+</div>
+
 ## Why the Bank You Pick at Month One Usually Stays
 
 Switching business bank accounts is annoying in a way that's hard to overstate. You've got ACH setups, connected apps, maybe a Stripe or PayPal integration, vendor autopays. Changing all of that is a half-day project minimum. Most owners never do it, which means the account you open in a panic during week two of your business tends to follow you for years.

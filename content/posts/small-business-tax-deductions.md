@@ -32,6 +32,16 @@ Small business owners leave thousands of dollars on the table every year, not be
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">Common Deductions: Documentation Cheat Sheet</div>
+  <div class="vm-body">
+    <p class="vm-intro">Each deduction type has specific proof the IRS expects—here's what to keep and the red-flag threshold where audits become more likely.</p>
+    <table><thead><tr><th>Deduction Category</th><th>What Qualifies</th><th>Required Documentation</th><th>Audit-Risk Threshold</th></tr></thead><tbody><tr><td>Home Office</td><td>Space used regularly and exclusively for business</td><td>Square footage measurements, home expenses (mortgage/rent, utilities, insurance), floor plan or photos</td><td>Deduction exceeds 15–20% of home's total expenses</td></tr><tr><td>Vehicle (Actual Method)</td><td>Business miles for client visits, supplies, travel—not commuting</td><td>Mileage log with date, destination, business purpose, odometer readings</td><td>Claiming over 75% business use without contemporaneous log</td></tr><tr><td>Vehicle (Standard Mileage)</td><td>Same as above; simpler calculation</td><td>Same mileage log; keep fuel/repair receipts if switching methods later</td><td>High annual mileage (over 20,000 business miles) without supporting calendar or client records</td></tr><tr><td>Meals (Business)</td><td>Meals with clients, prospects, or during business travel (generally 50% deductible)</td><td>Receipt showing amount, date, location; note of who attended and business purpose</td><td>Meal deductions disproportionate to revenue or client base size</td></tr><tr><td>Equipment &amp; Supplies</td><td>Computers, software, office furniture, tools of trade</td><td>Receipts or invoices; for items over $2,500, asset log with date placed in service</td><td>Large Section 179 deductions in year with minimal revenue</td></tr><tr><td>Professional Services</td><td>Legal fees, accounting, bookkeeping, consulting</td><td>Invoices showing services rendered and business purpose</td><td>Generally low risk if invoices are legitimate and retained</td></tr><tr><td>Education &amp; Training</td><td>Courses, certifications, conferences maintaining or improving current business skills</td><td>Registration receipts, course descriptions, travel records if applicable</td><td>Claiming education for new career field vs. current business</td></tr><tr><td>Health Insurance (Self-Employed)</td><td>Premiums for yourself, spouse, dependents if not eligible for employer plan</td><td>Form 1095-A/B/C, premium payment records, proof of self-employment income</td><td>Deduction exceeds net self-employment earnings</td></tr></tbody></table>
+    <p class="vm-note">Illustrative general information — confirm current figures for your situation.</p>
+  </div>
+</div>
+
 ## What Makes an Expense Deductible in the First Place
 
 Before you start making a list of everything you've ever bought for your business, understand the rule. The IRS requires that a deductible business expense be both **ordinary** and **necessary**. Ordinary means it's common and accepted in your industry. Necessary means it's appropriate and helpful for your business. You don't have to prove the expense was indispensable, just that it was genuinely connected to operating your business.

@@ -32,6 +32,16 @@ If you're self-employed, the federal government expects you to pay your income t
 
 The IRS generally expects quarterly payments if you'll owe $1,000 or more in federal taxes for the year after subtracting any withholding. That $1,000 threshold is the trigger. Most self-employed people hit it quickly.
 
+
+<div class="value-module">
+  <div class="vm-head">Safe Harbor Method Decision Matrix</div>
+  <div class="vm-body">
+    <p class="vm-intro">Choose your quarterly payment strategy based on your income trajectory and tolerance for complexity.</p>
+    <table><thead><tr><th>Your Situation</th><th>Best Method</th><th>Quarterly Payment Formula</th><th>Why It Works</th></tr></thead><tbody><tr><td>Income roughly stable year-over-year</td><td>100% of prior year</td><td>Last year's Line 24 ÷ 4</td><td>Zero estimation required; guaranteed penalty-free</td></tr><tr><td>Income growing significantly this year</td><td>100% of prior year</td><td>Last year's Line 24 ÷ 4</td><td>You'll owe a lump sum in April but no penalties; preserves cash flow during growth</td></tr><tr><td>Income dropping 20%+ from last year</td><td>90% of current year</td><td>(Projected income × effective tax rate × 0.90) ÷ 4</td><td>Avoids overpaying; requires quarterly income tracking</td></tr><tr><td>Prior year AGI exceeded $150K ($75K MFS)</td><td>110% of prior year</td><td>Last year's Line 24 × 1.10 ÷ 4</td><td>Higher threshold required for safe harbor protection</td></tr><tr><td>First year of self-employment</td><td>90% of current year</td><td>(Projected income × effective tax rate × 0.90) ÷ 4</td><td>No prior return baseline exists; use conservative income estimate</td></tr><tr><td>Highly variable income (seasonal/project-based)</td><td>Annualized income method</td><td>Recalculate cumulative liability each quarter using Form 2210 Schedule AI</td><td>Matches payments to actual earning periods; most complex but most precise</td></tr></tbody></table>
+    <p class="vm-note">Illustrative general information — confirm current figures for your situation.</p>
+  </div>
+</div>
+
 ## What You're Actually Calculating
 
 Here's where people overcomplicate this. You're not trying to predict the future with perfect accuracy. You're trying to make four reasonable payments that keep you out of penalty territory. The IRS offers two "safe harbor" methods for doing that, and knowing them changes how hard you need to work on the estimate.

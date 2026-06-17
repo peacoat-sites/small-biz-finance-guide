@@ -32,6 +32,16 @@ Understanding the difference between a 1099 contractor and a W-2 employee isn't 
 
 ---
 
+
+<div class="value-module">
+  <div class="vm-head">IRS Classification Factors Checklist</div>
+  <div class="vm-body">
+    <p class="vm-intro">The IRS evaluates worker status across three categories—use these specific factors to assess your own situation before assigning a classification.</p>
+    <table><caption>IRS Three-Category Worker Classification Test</caption><thead><tr><th>Category</th><th>Factor</th><th>Points Toward Employee (W-2)</th><th>Points Toward Contractor (1099)</th></tr></thead><tbody><tr><td rowspan="4">Behavioral Control</td><td>Instructions given</td><td>You dictate when, where, and how work is done</td><td>Worker controls their own methods and schedule</td></tr><tr><td>Training provided</td><td>You train them on procedures or systems</td><td>Worker already has expertise; no training needed</td></tr><tr><td>Work sequence</td><td>You set order of tasks or require approval at stages</td><td>Worker determines workflow independently</td></tr><tr><td>Tools and equipment</td><td>You provide computer, software, workspace</td><td>Worker supplies their own equipment</td></tr><tr><td rowspan="3">Financial Control</td><td>Significant investment</td><td>Worker has little/no investment in their work capacity</td><td>Worker has unreimbursed business expenses, owns equipment</td></tr><tr><td>Payment structure</td><td>Regular paycheck (hourly, weekly, biweekly)</td><td>Flat project fee or milestone payments</td></tr><tr><td>Profit/loss opportunity</td><td>Worker paid regardless of efficiency or outcome</td><td>Worker can profit more by working faster or lose money on a bad project</td></tr><tr><td rowspan="3">Relationship Type</td><td>Written contract</td><td>No contract, or contract describes employment</td><td>Contract explicitly defines independent relationship</td></tr><tr><td>Benefits</td><td>Worker receives health insurance, PTO, retirement</td><td>No employee-type benefits provided</td></tr><tr><td>Permanence</td><td>Ongoing, indefinite relationship</td><td>Defined project or time-limited engagement</td></tr></tbody><tfoot><tr><td colspan="4"><strong>Key threshold:</strong> No single factor is decisive. If 5+ factors lean toward "Employee," consult a tax professional before issuing a 1099. The web developer scenario in this article (set schedule, your equipment, regular pay periods, 4-month duration) checks at least 4 employee factors.</td></tr></tfoot></table>
+    <p class="vm-note">Illustrative general information — confirm current figures for your situation.</p>
+  </div>
+</div>
+
 ## What the Two Classifications Actually Mean
 
 A W-2 employee is someone your business employs directly. You withhold federal and state income taxes from their paycheck, you pay half of their Social Security and Medicare taxes (FICA), and you're responsible for unemployment taxes. At the end of the year, you issue them a W-2 form showing everything that was withheld.
