@@ -122,7 +122,7 @@ If you're genuinely unsure about a worker's classification, the IRS Form SS-8 ex
 | Time investment | Significant, especially at first | Minimal once set up |
 | Good fit for | Sole proprietor, no employees | Any business with employees |
 
-For most small businesses with even one employee, a payroll service pays for itself in time saved and mistakes avoided. If you want to think through the financial tradeoffs, a resource like [Mike Michalowicz's "Profit First"](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=yourtag-20) can help you build systems that account for tax obligations before they sneak up on you. (Disclosure: this site may earn a commission from qualifying Amazon purchases.)
+For most small businesses with even one employee, a payroll service pays for itself in time saved and mistakes avoided. If you want to think through the financial tradeoffs, a resource like [Mike Michalowicz's "Profit First"](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=contentportfo-20) can help you build systems that account for tax obligations before they sneak up on you. (Disclosure: this site may earn a commission from qualifying Amazon purchases.)
 
 ---
 

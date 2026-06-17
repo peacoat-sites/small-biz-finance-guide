@@ -82,7 +82,7 @@ Also, if you need project tracking, time-based billing with detailed timesheets,
 
 Wave genuinely shines for freelancers, consultants, sole proprietors, and small LLCs with under $500,000 in annual revenue and no employees or just one or two. It's also a reasonable starting point for a new business that isn't sure what it needs yet. The [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/) consistently emphasize that keeping clear financial records from day one prevents most of the cash flow and tax problems that sink early-stage businesses, and Wave gets you there without a $30-50 monthly software subscription eating into early margins.
 
-If you want to go deeper on setting up clean books from scratch, Mike Piper's [*Accounting Made Simple*](https://www.amazon.com/Accounting-Made-Simple-Mike-Piper/dp/0981454224?tag=yourtag-20) (disclosure: that's an affiliate link) is about $12 and pairs well with Wave for owners who want to actually understand what they're recording and why.
+If you want to go deeper on setting up clean books from scratch, Mike Piper's [*Accounting Made Simple*](https://www.amazon.com/Accounting-Made-Simple-Mike-Piper/dp/0981454224?tag=contentportfo-20) (disclosure: that's an affiliate link) is about $12 and pairs well with Wave for owners who want to actually understand what they're recording and why.
 
 One honest caveat: no accounting software substitutes for a CPA review. I'd strongly recommend having a CPA look over your Wave books at least once a year, especially at tax time. The software records what you tell it to. Whether those entries are correct is a different question.
 

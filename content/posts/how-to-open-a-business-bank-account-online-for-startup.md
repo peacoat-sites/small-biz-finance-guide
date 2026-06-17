@@ -95,7 +95,7 @@ Once personal and business money mix, you spend hours reconstructing which charg
 
 Open the account before your first dollar of revenue, not after. Even if the business is just an idea with a freshly filed LLC, open the account now. It costs nothing and saves you a painful cleanup later.
 
-A simple bookkeeping setup from the start helps too. If you want a practical framework, Mike Michalowicz's [*Profit First*](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=placeholder-20) (Amazon, commission may apply) is the book I recommend most often to first-time founders for building a cash management habit that actually sticks.
+A simple bookkeeping setup from the start helps too. If you want a practical framework, Mike Michalowicz's [*Profit First*](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=contentportfo-20) (Amazon, commission may apply) is the book I recommend most often to first-time founders for building a cash management habit that actually sticks.
 
 ## One Account or Several?
 

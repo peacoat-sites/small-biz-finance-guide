@@ -80,7 +80,7 @@ Any week or month where your ending balance goes below zero (or below your perso
 **Step 6: Update it weekly.**
 A forecast you built once in January and never touched is useless by March. Fifteen minutes every Monday to update actuals and adjust projections keeps it alive and useful.
 
-If you'd rather start with a pre-built tool, books like [Profit First by Mike Michalowicz](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=yourtag-20) offer a cash management framework specifically designed for small business owners. *(This site may earn a commission on purchases.)*
+If you'd rather start with a pre-built tool, books like [Profit First by Mike Michalowicz](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=contentportfo-20) offer a cash management framework specifically designed for small business owners. *(This site may earn a commission on purchases.)*
 
 ---
 
@@ -141,7 +141,7 @@ Sometimes forecasting reveals a gap you can't close through operational changes 
 
 The [SBA's loan programs](https://www.sba.gov/) and [SCORE's free mentorship network](https://www.score.org/) are both underused by small business owners. SCORE in particular can connect you with a retired CFO or banker who'll review your cash flow situation for free. I've sent clients there. It works.
 
-For a deeper read on working capital and funding structures, [The Small Business Bible by Steven D. Strauss](https://www.amazon.com/Small-Business-Bible-Everything-Starting/dp/1118041437?tag=yourtag-20) covers the full landscape well. *(This site may earn a commission on purchases.)*
+For a deeper read on working capital and funding structures, [The Small Business Bible by Steven D. Strauss](https://www.amazon.com/Small-Business-Bible-Everything-Starting/dp/1118041437?tag=contentportfo-20) covers the full landscape well. *(This site may earn a commission on purchases.)*
 
 ---
 

@@ -87,7 +87,7 @@ The application process has real teeth to it. Here's what a practical path looks
 
 **Step 5: Conditional commitment and closing.** The USDA issues a conditional commitment letter. Your lender and attorney handle the closing documents, similar to a commercial real estate closing.
 
-If you haven't put together a formal business plan before, a resource like [Tim Berry's *Lean Business Planning*](https://www.amazon.com/dp/1599186071?tag=yourtag-20) (Amazon, affiliate link) can help you build projections that actually make sense to a lender without overcomplicating it.
+If you haven't put together a formal business plan before, a resource like [Tim Berry's *Lean Business Planning*](https://www.amazon.com/dp/1599186071?tag=contentportfo-20) (Amazon, affiliate link) can help you build projections that actually make sense to a lender without overcomplicating it.
 
 ## Other USDA Rural Business Programs Worth Knowing
 

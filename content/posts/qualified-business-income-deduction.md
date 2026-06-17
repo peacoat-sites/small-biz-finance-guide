@@ -74,7 +74,7 @@ If you're above the income thresholds and not an SSTB, apply the W-2 wage and pr
 
 Take the smaller number. That's your QBI deduction.
 
-It sounds like a lot of steps but it flows through IRS Form 8995 (the simpler version for most people under the threshold) or Form 8995-A (for higher-income filers and those with multiple businesses). Your tax software will walk you through it. For anyone with a more complex setup, though, doing it manually at least once helps you understand what's actually happening. Ram Charan's *What the CEO Wants You to Know* won't help you here, but Mike Piper's [*Taxes Made Simple*](https://www.amazon.com/Taxes-Made-Simple-Understand-Return/dp/0997061537?tag=placeholder-20) is a genuinely useful plain-language resource if you want to go deeper without a law degree. (The site may earn a small commission if you purchase through that link.)
+It sounds like a lot of steps but it flows through IRS Form 8995 (the simpler version for most people under the threshold) or Form 8995-A (for higher-income filers and those with multiple businesses). Your tax software will walk you through it. For anyone with a more complex setup, though, doing it manually at least once helps you understand what's actually happening. Ram Charan's *What the CEO Wants You to Know* won't help you here, but Mike Piper's [*Taxes Made Simple*](https://www.amazon.com/Taxes-Made-Simple-Understand-Return/dp/0997061537?tag=contentportfo-20) is a genuinely useful plain-language resource if you want to go deeper without a law degree. (The site may earn a small commission if you purchase through that link.)
 
 ## The Part Most Articles Skip: Planning Opportunities
 

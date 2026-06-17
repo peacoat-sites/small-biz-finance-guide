@@ -126,7 +126,7 @@ Many banks let you start the application online now. For complex entity types (m
 Most accounts have a minimum opening deposit. Transfer enough to meet it and cover any minimum balance requirement to avoid fees.
 
 **Step 7: Connect your accounting software.**
-Once the account is live, link it to QuickBooks, FreshBooks, Wave, or whichever platform you use. This is the step that makes your bookkeeping actually manageable. If you're not using accounting software yet, this is a good time to start. [Accounting Made Simple by Mike Piper](https://www.amazon.com/Accounting-Made-Simple-Explained-Pages/dp/0981454224?tag=yourtag-20) is a genuinely useful, plain-English introduction if you want to understand what you're looking at. *(This site may earn a commission from qualifying Amazon purchases.)*
+Once the account is live, link it to QuickBooks, FreshBooks, Wave, or whichever platform you use. This is the step that makes your bookkeeping actually manageable. If you're not using accounting software yet, this is a good time to start. [Accounting Made Simple by Mike Piper](https://www.amazon.com/Accounting-Made-Simple-Explained-Pages/dp/0981454224?tag=contentportfo-20) is a genuinely useful, plain-English introduction if you want to understand what you're looking at. *(This site may earn a commission from qualifying Amazon purchases.)*
 
 ---
 

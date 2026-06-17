@@ -102,7 +102,7 @@ Opening the right accounts is step one. Keeping them clean is the ongoing work. 
 
 7. **Talk to a CPA at least once a year.** Not just at tax time. A proactive review mid-year can catch issues while there's still time to fix them.
 
-If you want a more structured approach to financial systems, [*Profit First* by Mike Michalowicz](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=yourtag-20) is a widely-used framework that many small business owners find genuinely transformative. The book walks through a bank account structure designed to make profitability visible and automatic. *(This site may earn a small commission on purchases.)*
+If you want a more structured approach to financial systems, [*Profit First* by Mike Michalowicz](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=contentportfo-20) is a widely-used framework that many small business owners find genuinely transformative. The book walks through a bank account structure designed to make profitability visible and automatic. *(This site may earn a small commission on purchases.)*
 
 ---
 
@@ -127,7 +127,7 @@ The separation isn't just bookkeeping hygiene. It's strategic.
 
 You don't have to figure this out alone. [SCORE](https://www.score.org/) offers free mentorship from retired business executives and has local chapters in most cities. If you're early-stage and cash-strapped, a SCORE mentor can walk you through setting up basic financial systems at no cost. [The U.S. Small Business Administration (SBA)](https://www.sba.gov/) also has free tools, learning modules, and guides on business structure and financial management that are worth bookmarking.
 
-For deeper reading, [*Simple Numbers, Straight Talk, Big Profits* by Greg Crabtree](https://www.amazon.com/Simple-Numbers-Straight-Talk-Profits/dp/1608320561?tag=yourtag-20) is a clear-eyed look at how small business finances actually work, written for owners rather than accountants. *(This site may earn a small commission on purchases.)*
+For deeper reading, [*Simple Numbers, Straight Talk, Big Profits* by Greg Crabtree](https://www.amazon.com/Simple-Numbers-Straight-Talk-Profits/dp/1608320561?tag=contentportfo-20) is a clear-eyed look at how small business finances actually work, written for owners rather than accountants. *(This site may earn a small commission on purchases.)*
 
 And seriously: get a CPA. Not just a tax preparer who fills in boxes on a form. A CPA who works with small businesses can help you choose the right structure, set up clean systems, and catch problems early. The cost is almost always worth it.
 

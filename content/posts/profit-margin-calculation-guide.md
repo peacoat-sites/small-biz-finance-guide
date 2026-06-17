@@ -125,7 +125,7 @@ What most people don't realize is that margin problems rarely announce themselve
 
 **Seasonal or project-based blindness.** If you run a business with uneven revenue, looking at margin in a single good month can give you false confidence. Always calculate margin over a rolling 3-month or 12-month period as well.
 
-A good foundational book for getting your financial thinking structured is [Profit First by Mike Michalowicz](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=yourtag-20), which reframes how you allocate revenue from day one. (Disclosure: this site may earn a commission from qualifying Amazon purchases.) It won't replace a CPA, but it builds the right mental model.
+A good foundational book for getting your financial thinking structured is [Profit First by Mike Michalowicz](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=contentportfo-20), which reframes how you allocate revenue from day one. (Disclosure: this site may earn a commission from qualifying Amazon purchases.) It won't replace a CPA, but it builds the right mental model.
 
 ---
 
@@ -141,7 +141,7 @@ Knowing your margin is only useful if you act on it. Here's how to put those num
 
 **Loan and funding applications.** Lenders and investors want to see your margins. A business with strong, consistent gross margins is a safer bet than one with volatile or razor-thin margins, even if the revenue looks impressive. Understanding your own numbers before someone else interrogates them is a basic form of protection.
 
-If you don't yet have a clean system for tracking these numbers monthly, [this accounting guide for small business owners on Amazon](https://www.amazon.com/s?k=small+business+accounting+guide&tag=yourtag-20) can help you set one up without needing to become an accountant. (Disclosure: this site may earn a commission.) That said, once your revenue crosses $100,000 or so, it's worth investing in a real bookkeeper and consulting a CPA for your tax strategy. The cost of good professional advice is almost always worth it.
+If you don't yet have a clean system for tracking these numbers monthly, [this accounting guide for small business owners on Amazon](https://www.amazon.com/s?k=small+business+accounting+guide&tag=contentportfo-20) can help you set one up without needing to become an accountant. (Disclosure: this site may earn a commission.) That said, once your revenue crosses $100,000 or so, it's worth investing in a real bookkeeper and consulting a CPA for your tax strategy. The cost of good professional advice is almost always worth it.
 
 ---
 

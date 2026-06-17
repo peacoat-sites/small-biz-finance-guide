@@ -106,7 +106,7 @@ The best tax outcome doesn't come from scrambling in April. It comes from a syst
 
 **Step 6: Meet with a CPA at least once a year, ideally before the tax year ends.** There are moves you can make before December 31 that you can't make after. Buying equipment, making retirement contributions, timing income, prepaying deductible expenses. A year-end check-in is where that guidance pays off.
 
-If you're building out your financial systems and want a practical guide to the bookkeeping side, Mike Piper's *[Accounting Made Simple](https://www.amazon.com/Accounting-Made-Simple-Explained-Pages/dp/0981454224?tag=YOURTAG-20)* is a lean, honest book that explains the fundamentals without drowning you in theory. *(Note: this site may earn a commission from qualifying Amazon purchases.)*
+If you're building out your financial systems and want a practical guide to the bookkeeping side, Mike Piper's *[Accounting Made Simple](https://www.amazon.com/Accounting-Made-Simple-Explained-Pages/dp/0981454224?tag=contentportfo-20)* is a lean, honest book that explains the fundamentals without drowning you in theory. *(Note: this site may earn a commission from qualifying Amazon purchases.)*
 
 ---
 

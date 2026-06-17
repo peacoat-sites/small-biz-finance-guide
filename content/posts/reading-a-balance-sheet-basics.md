@@ -154,7 +154,7 @@ The [Consumer Financial Protection Bureau's small business resources](https://ww
 
 ---
 
-If you want a solid companion to the basics covered here, [Financial Intelligence for Entrepreneurs by Karen Berman and Joe Knight](https://www.amazon.com/Financial-Intelligence-Entrepreneurs-Knowing-Numbers/dp/1422119157?tag=your-tag-here) is genuinely the best plain-language resource I've recommended to clients over the years. It covers balance sheets, P&Ls, and cash flow without condescending to you. (Disclosure: this site may earn a small commission if you purchase through that link, at no extra cost to you.)
+If you want a solid companion to the basics covered here, [Financial Intelligence for Entrepreneurs by Karen Berman and Joe Knight](https://www.amazon.com/Financial-Intelligence-Entrepreneurs-Knowing-Numbers/dp/1422119157?tag=contentportfo-20) is genuinely the best plain-language resource I've recommended to clients over the years. It covers balance sheets, P&Ls, and cash flow without condescending to you. (Disclosure: this site may earn a small commission if you purchase through that link, at no extra cost to you.)
 
 The balance sheet isn't something to hand off entirely to your accountant and never look at again. It's your business in a single frame. Once you know how to read it, you start seeing things early: the debt that's creeping up, the cash that's tighter than the profit numbers suggest, the equity you've actually built. That knowledge doesn't just help you in a meeting. It changes how you run the business every day.
 

@@ -73,7 +73,7 @@ Business owner trying to maximize personal retirement savings AND has employees:
 
 The [U.S. Small Business Administration](https://www.sba.gov/) has baseline guidance on retirement plan options for small businesses, and the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/) has resources worth bookmarking if you're building out your financial infrastructure more broadly. Neither substitutes for a CPA who knows your specific numbers, but they're good starting points.
 
-For a deeper read on retirement plan strategy for business owners, Mike Piper's *[Retirement Planning with Tax-Advantaged Accounts](https://www.amazon.com/s?k=retirement+planning+tax+advantaged+accounts+small+business&tag=your-tag-here)* is worth the $15 (affiliate link, FYI). It's not glamorous, but it covers these structures without the sales pitch.
+For a deeper read on retirement plan strategy for business owners, Mike Piper's *[Retirement Planning with Tax-Advantaged Accounts](https://www.amazon.com/s?k=retirement+planning+tax+advantaged+accounts+small+business&tag=contentportfo-20)* is worth the $15 (affiliate link, FYI). It's not glamorous, but it covers these structures without the sales pitch.
 
 ---
 

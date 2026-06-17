@@ -61,7 +61,7 @@ Discretionary bonuses, like a surprise holiday gift, don't have to be included. 
 
 If you use a fluctuating workweek arrangement (where a salaried nonexempt employee gets paid a fixed salary for all hours, with a half-time premium for overtime hours), there are specific conditions that have to be met and the math works differently. This is a legitimate tool, but it requires correct implementation or it backfires.
 
-For a clean reference on payroll math and compensation structures, Mike Piper's *[Accounting Made Simple](https://www.amazon.com/Accounting-Made-Simple-Explained-Pages/dp/0981454224?tag=yoursiteid-20)* (Amazon, affiliate link) isn't specifically about overtime but gives a solid foundation for understanding compensation accounting. For a deeper operational guide, *[The E-Myth Revisited](https://www.amazon.com/E-Myth-Revisited-Small-Businesses-About/dp/0887307280?tag=yoursiteid-20)* (Amazon, affiliate link) has aged well on the systems thinking side of building payroll processes you can actually maintain.
+For a clean reference on payroll math and compensation structures, Mike Piper's *[Accounting Made Simple](https://www.amazon.com/Accounting-Made-Simple-Explained-Pages/dp/0981454224?tag=contentportfo-20)* (Amazon, affiliate link) isn't specifically about overtime but gives a solid foundation for understanding compensation accounting. For a deeper operational guide, *[The E-Myth Revisited](https://www.amazon.com/E-Myth-Revisited-Small-Businesses-About/dp/0887307280?tag=contentportfo-20)* (Amazon, affiliate link) has aged well on the systems thinking side of building payroll processes you can actually maintain.
 
 ## What Recordkeeping Actually Looks Like
 

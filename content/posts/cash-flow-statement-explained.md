@@ -116,7 +116,7 @@ If you're using QuickBooks, FreshBooks, or Xero, your auto-generated cash flow s
 
 **Relying only on the bank balance.** Your bank balance is a snapshot of right now. It doesn't tell you about the $30,000 invoice coming due next week or the $15,000 in outstanding receivables that haven't been paid yet. The cash flow statement, especially when combined with a 13-week cash flow forecast, gives you a real picture.
 
-For business owners who want to build stronger financial literacy around these statements, [*Financial Intelligence for Entrepreneurs* by Karen Berman and Joe Knight](https://www.amazon.com/Financial-Intelligence-Entrepreneurs-Knowing-Numbers/dp/1422119157?tag=yourtag-20) is one of the most readable and practical books I've recommended to clients over the years. *(Disclosure: this site may earn a commission on qualifying purchases.)*
+For business owners who want to build stronger financial literacy around these statements, [*Financial Intelligence for Entrepreneurs* by Karen Berman and Joe Knight](https://www.amazon.com/Financial-Intelligence-Entrepreneurs-Knowing-Numbers/dp/1422119157?tag=contentportfo-20) is one of the most readable and practical books I've recommended to clients over the years. *(Disclosure: this site may earn a commission on qualifying purchases.)*
 
 ## How Cash Flow Statements Support Borrowing and Planning
 

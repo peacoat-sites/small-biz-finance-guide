@@ -103,7 +103,7 @@ This is where applications fall apart operationally. Showing up to a lender with
 - Three years of financial projections with realistic assumptions
 - A description of how the loan funds will be used
 
-If you want a solid framework for your business plan and projections, books like [*The E-Myth Revisited* by Michael Gerber](https://www.amazon.com/E-Myth-Revisited-Small-Businesses-About/dp/0887307280?tag=your-associate-tag) won't write your plan for you, but they'll help you think about your business the way a lender will. Amazon may earn a commission on purchases through that link.
+If you want a solid framework for your business plan and projections, books like [*The E-Myth Revisited* by Michael Gerber](https://www.amazon.com/E-Myth-Revisited-Small-Businesses-About/dp/0887307280?tag=contentportfo-20) won't write your plan for you, but they'll help you think about your business the way a lender will. Amazon may earn a commission on purchases through that link.
 
 **Step 5: Check the SBA's borrower eligibility requirements directly**
 Use the SBA's lender match tool and review their official borrower checklist at sba.gov before you submit anything. Requirements shift between programs, and the site is the authoritative source.

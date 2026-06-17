@@ -60,7 +60,7 @@ Businesses are typically valued on a multiple of EBITDA (earnings before interes
 
 Get a formal business valuation done. Not your accountant's back-of-napkin guess. A certified business appraiser (look for the CVA or ABV credential) or an M&A advisor who works in your industry will give you a defensible number. Expect to pay somewhere in the $3,000 to $10,000 range depending on complexity. It's worth every dollar because it anchors every conversation that follows.
 
-I'd also suggest reading *Built to Sell* by John Warrillow (available on [Amazon](https://www.amazon.com/Built-Sell-Creating-Business-Without/dp/1591845823?tag=yourtag-20) -- the site may earn a commission on purchases). It's one of the clearest, most practical books on making a business transferable, and it's written for owners, not bankers.
+I'd also suggest reading *Built to Sell* by John Warrillow (available on [Amazon](https://www.amazon.com/Built-Sell-Creating-Business-Without/dp/1591845823?tag=contentportfo-20) -- the site may earn a commission on purchases). It's one of the clearest, most practical books on making a business transferable, and it's written for owners, not bankers.
 
 ## The Legal Structure Actually Matters Here
 

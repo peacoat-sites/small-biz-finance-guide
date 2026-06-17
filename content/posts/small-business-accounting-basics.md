@@ -84,7 +84,7 @@ Most business owners have heard of a profit and loss statement. Fewer can tell y
 
 If you're running your financials on any decent software, these reports generate automatically once your books are kept current. The problem is most small business owners look at them quarterly at best, or only when something goes wrong. Pull these reports monthly. Spend twenty minutes with them. It will change how you make decisions.
 
-For a practical deep-dive into how these statements connect, [*Financial Intelligence for Entrepreneurs* by Karen Berman and Joe Knight](https://www.amazon.com/Financial-Intelligence-Entrepreneurs-Knowing-Numbers/dp/1422119157?tag=yourtag-20) is the most readable explanation I've ever found. (Affiliate link, this site may earn a small commission.)
+For a practical deep-dive into how these statements connect, [*Financial Intelligence for Entrepreneurs* by Karen Berman and Joe Knight](https://www.amazon.com/Financial-Intelligence-Entrepreneurs-Knowing-Numbers/dp/1422119157?tag=contentportfo-20) is the most readable explanation I've ever found. (Affiliate link, this site may earn a small commission.)
 
 ## Separating Personal and Business Finances (Non-Negotiable)
 

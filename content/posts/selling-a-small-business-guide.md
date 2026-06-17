@@ -40,7 +40,7 @@ What surprised me when I started digging into this was how much the multiple shi
 
 A useful starting framework: look at your SDE honestly, then ask yourself what would happen to revenue in year one if you walked out the door on closing day. The answer tells you more about your real valuation ceiling than any formula will.
 
-For a deeper dive on valuation mechanics and how to position a business before sale, the book [*The Art of Selling Your Business* by John Warrillow](https://www.amazon.com/Art-Selling-Your-Business-Strategies/dp/1733510052?tag=yourtag-20) is one of the most practical resources I've seen on this topic. (Note: that's an affiliate link, and the site may earn a small commission.)
+For a deeper dive on valuation mechanics and how to position a business before sale, the book [*The Art of Selling Your Business* by John Warrillow](https://www.amazon.com/Art-Selling-Your-Business-Strategies/dp/1733510052?tag=contentportfo-20) is one of the most practical resources I've seen on this topic. (Note: that's an affiliate link, and the site may earn a small commission.)
 
 ## Getting Your House in Order: The Pre-Sale Preparation Phase
 

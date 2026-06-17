@@ -70,7 +70,7 @@ This is where most founders either win or lose before they ever meet a lender.
 
 1. **Get your personal credit report pulled and clean up any issues.** Don't apply for anything until you know your score and have addressed errors or delinquencies. Use AnnualCreditReport.com for the free pull.
 
-2. **Write a real business plan, not a vision document.** Lenders want financial projections, a clear use-of-funds breakdown, a market analysis with sources, and a repayment plan. If you want a framework, [Tim Berry's "Lean Business Planning"](https://www.amazon.com/Lean-Business-Planning-Tim-Berry/dp/1599186071?tag=yourtag-20) is a practical, no-fluff guide to this. *(Disclosure: This site may earn a small commission on purchases.)*
+2. **Write a real business plan, not a vision document.** Lenders want financial projections, a clear use-of-funds breakdown, a market analysis with sources, and a repayment plan. If you want a framework, [Tim Berry's "Lean Business Planning"](https://www.amazon.com/Lean-Business-Planning-Tim-Berry/dp/1599186071?tag=contentportfo-20) is a practical, no-fluff guide to this. *(Disclosure: This site may earn a small commission on purchases.)*
 
 3. **Prepare personal financial statements.** A personal balance sheet listing your assets and liabilities. If you have a co-founder or spouse involved in the business, theirs may be needed too.
 

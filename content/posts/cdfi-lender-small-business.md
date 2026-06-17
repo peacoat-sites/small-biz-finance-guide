@@ -105,7 +105,7 @@ The most important thing you can do is tell your story clearly. Why do you need 
 
 CDFI loans are debt, and like all business debt, they have tax implications. Interest payments on business loans are generally deductible as a business expense. But how your loan is structured, whether it's a term loan, a line of credit, or equipment financing, affects your bookkeeping and your tax picture. I always tell clients: talk to a CPA before you sign anything significant. The [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed) is a legitimate starting point for understanding how business debt and deductions work, but it's not a substitute for a professional who knows your specific situation.
 
-If you want to go deeper on financial literacy before or during the loan process, Mike Michalowicz's [*Profit First*](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=placeholder-20) is one of the most practical books I recommend to business owners who want to understand their cash flow before taking on any new debt. *(This site may earn a commission on qualifying purchases.)*
+If you want to go deeper on financial literacy before or during the loan process, Mike Michalowicz's [*Profit First*](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=contentportfo-20) is one of the most practical books I recommend to business owners who want to understand their cash flow before taking on any new debt. *(This site may earn a commission on qualifying purchases.)*
 
 ---
 

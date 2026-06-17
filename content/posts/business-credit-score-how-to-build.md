@@ -110,7 +110,7 @@ Here's something that surprises people: age of accounts matters, but it doesn't 
 
 One common mistake is applying for too much credit at once. Each application often triggers an inquiry, and stacking applications in a short window can signal desperation to lenders reviewing your file manually.
 
-If you want a deeper reference on business financial structure and credit strategy, the book [*Profit First* by Mike Michalowicz](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=yourtag-20) won't cover business credit directly, but it fundamentally changes how owners think about separating and managing business money, which supports healthier credit behavior. (Disclosure: this site may earn a commission from qualifying purchases.)
+If you want a deeper reference on business financial structure and credit strategy, the book [*Profit First* by Mike Michalowicz](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=contentportfo-20) won't cover business credit directly, but it fundamentally changes how owners think about separating and managing business money, which supports healthier credit behavior. (Disclosure: this site may earn a commission from qualifying purchases.)
 
 ## Business Credit vs. Personal Credit: When Each One Matters
 

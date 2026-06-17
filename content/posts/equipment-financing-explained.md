@@ -101,7 +101,7 @@ Section 179 of the tax code lets you deduct the full purchase price of qualifyin
 
 This is genuinely one of those areas where a conversation with your CPA before you decide on loan versus lease can change the math significantly. I'm not going to pretend I can give you one-size-fits-all tax advice here because the right answer depends on your income, entity type, and current year tax situation.
 
-For deeper reading on the financial structure side of these decisions, Mike Michalowicz's *[Profit First](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=your-tag-20)* (Amazon, commissions may apply) won't cover equipment financing specifically, but his framework for thinking about cash flow decisions is genuinely useful context.
+For deeper reading on the financial structure side of these decisions, Mike Michalowicz's *[Profit First](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=contentportfo-20)* (Amazon, commissions may apply) won't cover equipment financing specifically, but his framework for thinking about cash flow decisions is genuinely useful context.
 
 ---
 

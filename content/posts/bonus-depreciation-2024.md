@@ -82,7 +82,7 @@ The [Consumer Financial Protection Bureau's small business resources](https://ww
 
 There is also ongoing conversation in Congress about reinstating 100% bonus depreciation retroactively, which has happened before. I wouldn't count on it, and I wouldn't make major cash flow decisions based on legislative hope, but it's worth keeping an eye on as a potential planning variable heading into 2025.
 
-If you want to build out a solid capital expense planning model for your business, Mike Piper's [*Taxes Made Simple*](https://www.amazon.com/Taxes-Made-Simple-Income-Yourself/dp/0997946445?tag=yoursiteid-20) (Amazon, affiliate link) is one of the clearest plain-English resources I've found for small business owners who want to actually understand what's happening, not just hand everything off.
+If you want to build out a solid capital expense planning model for your business, Mike Piper's [*Taxes Made Simple*](https://www.amazon.com/Taxes-Made-Simple-Income-Yourself/dp/0997946445?tag=contentportfo-20) (Amazon, affiliate link) is one of the clearest plain-English resources I've found for small business owners who want to actually understand what's happening, not just hand everything off.
 
 ---
 

@@ -95,7 +95,7 @@ Invoicing software, even basic free tools, handles things Word simply can't. It 
 
 QuickBooks Online, FreshBooks, and Wave (which is free) are the three I see most often with small business clients. Wave is genuinely solid for freelancers and very small operations. QuickBooks is the gold standard if you're eventually going to hand your books to a CPA. FreshBooks sits in the middle and has a clean interface that non-accountants tend to like.
 
-If you want a deeper understanding of how invoicing connects to your broader accounting system, a resource like [Accounting QuickStart Guide by ClydeBank Business](https://www.amazon.com/dp/1945051582?tag=your-tag-here) is a practical read that doesn't assume you have a finance degree. (Disclosure: this site may earn a commission from qualifying Amazon purchases.)
+If you want a deeper understanding of how invoicing connects to your broader accounting system, a resource like [Accounting QuickStart Guide by ClydeBank Business](https://www.amazon.com/dp/1945051582?tag=contentportfo-20) is a practical read that doesn't assume you have a finance degree. (Disclosure: this site may earn a commission from qualifying Amazon purchases.)
 
 The other thing software does is create a paper trail automatically. When a client says "I never received that invoice," you can show them the timestamp of when it was sent, when it was opened, and exactly what it contained. That changes the conversation.
 
@@ -145,7 +145,7 @@ On an accrual basis, income counts when the invoice is issued, regardless of whe
 
 Sales tax is the other variable. If you sell physical products or certain taxable services, you may be required to collect and remit sales tax, and your invoice needs to reflect that accurately. This is highly state-specific. Get this wrong and you're looking at back taxes and penalties. Please work with a CPA to make sure your invoicing reflects your actual tax obligations. This is not an area to guess about.
 
-A resource that helps small business owners track this end-to-end is [Profit First by Mike Michalowicz](https://www.amazon.com/dp/073521414X?tag=your-tag-here), which is less about invoicing per se and more about building a system where your revenue, once collected, actually becomes profit. It's one of the most practically useful books I've recommended to clients over the years. (Disclosure: this site may earn a commission from qualifying Amazon purchases.)
+A resource that helps small business owners track this end-to-end is [Profit First by Mike Michalowicz](https://www.amazon.com/dp/073521414X?tag=contentportfo-20), which is less about invoicing per se and more about building a system where your revenue, once collected, actually becomes profit. It's one of the most practically useful books I've recommended to clients over the years. (Disclosure: this site may earn a commission from qualifying Amazon purchases.)
 
 ---
 

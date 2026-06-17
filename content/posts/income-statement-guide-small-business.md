@@ -104,7 +104,7 @@ If you're starting from scratch or cleaning up a mess, here's a practical proces
 
 **Step 8: Sanity check.** Does this number roughly match what you feel happened in your business? If the P&L says you made $40,000 in profit but your bank account didn't move, you have a timing or categorization issue to investigate.
 
-If you want a structured template to work from, accounting guides like [*Accounting All-in-One For Dummies*](https://www.amazon.com/Accounting-All-One-Dummies-Business/dp/1119837650?tag=yourtag-20) can walk you through formats in detail. The site may earn a small commission from qualifying purchases.
+If you want a structured template to work from, accounting guides like [*Accounting All-in-One For Dummies*](https://www.amazon.com/Accounting-All-One-Dummies-Business/dp/1119837650?tag=contentportfo-20) can walk you through formats in detail. The site may earn a small commission from qualifying purchases.
 
 ## Common Mistakes Small Business Owners Make With Income Statements
 

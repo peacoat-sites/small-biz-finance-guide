@@ -115,7 +115,7 @@ Here's a simple example of how they connect:
 | You buy $3,000 in equipment | No direct impact (it's an asset) | Equipment (asset) increases by $3,000 | Cash outflow of $3,000 |
 | You depreciate that equipment over time | Depreciation expense reduces net income | Asset value decreases on balance sheet | Non-cash: shown in operating activities |
 
-See how the same transaction shows up differently depending on which lens you're looking through? This is why a single statement never tells the whole story. For a deeper understanding of how these work together, books like [*Financial Intelligence for Entrepreneurs* by Karen Berman and Joe Knight](https://www.amazon.com/Financial-Intelligence-Entrepreneurs-Knowing-Numbers/dp/1422119157?tag=yourtag-20) are genuinely excellent for non-accountants. (Disclosure: this site may earn a small commission from qualifying purchases.)
+See how the same transaction shows up differently depending on which lens you're looking through? This is why a single statement never tells the whole story. For a deeper understanding of how these work together, books like [*Financial Intelligence for Entrepreneurs* by Karen Berman and Joe Knight](https://www.amazon.com/Financial-Intelligence-Entrepreneurs-Knowing-Numbers/dp/1422119157?tag=contentportfo-20) are genuinely excellent for non-accountants. (Disclosure: this site may earn a small commission from qualifying purchases.)
 
 ## How to Actually Use Your Financial Statements Month to Month
 
@@ -133,7 +133,7 @@ Knowing what the statements *are* is step one. Using them consistently is where 
 
 The IRS small business tax center also provides guidance on record-keeping requirements, and maintaining clean monthly financials makes tax time significantly less painful. Consider building this habit now rather than scrambling in April.
 
-If you want a more structured approach to this, a resource like [*Profit First* by Mike Michalowicz](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=yourtag-20) offers a practical, cash-focused system that many small business owners find easier to implement than traditional accounting methods. (Disclosure: this site may earn a small commission from qualifying purchases.) And whenever tax strategy comes into play, please consult a licensed CPA. The decisions you make about how you categorize expenses and structure your finances have real tax consequences that generic advice can't fully account for.
+If you want a more structured approach to this, a resource like [*Profit First* by Mike Michalowicz](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=contentportfo-20) offers a practical, cash-focused system that many small business owners find easier to implement than traditional accounting methods. (Disclosure: this site may earn a small commission from qualifying purchases.) And whenever tax strategy comes into play, please consult a licensed CPA. The decisions you make about how you categorize expenses and structure your finances have real tax consequences that generic advice can't fully account for.
 
 ---
 

@@ -77,7 +77,7 @@ A few practical habits that I recommend consistently:
 - Write the business purpose on receipts at the time, not later. "Lunch with Steve" is not a business purpose. "Lunch with Steve Martinez, proposal for website redesign contract" is.
 - Review your P&L monthly, not annually. Errors compound, and catching them in real time is far less stressful than untangling a year of mispostings.
 
-If you want a deeper framework for thinking about all of this, Frederick Dailey's *Tax Savvy for Small Business* (available on [Amazon](https://www.amazon.com/Tax-Savvy-Small-Business-Frederick/dp/1413328080?tag=yourtag-20)) is one of the most practical books on the subject. (The site may earn a commission from this link.) It won't replace a CPA, but it'll make your conversations with one much more productive.
+If you want a deeper framework for thinking about all of this, Frederick Dailey's *Tax Savvy for Small Business* (available on [Amazon](https://www.amazon.com/Tax-Savvy-Small-Business-Frederick/dp/1413328080?tag=contentportfo-20)) is one of the most practical books on the subject. (The site may earn a commission from this link.) It won't replace a CPA, but it'll make your conversations with one much more productive.
 
 ---
 

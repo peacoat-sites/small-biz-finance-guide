@@ -48,7 +48,7 @@ Before you fix anything, you need to know what your cash position looks like, no
 
 Build a rolling cash flow forecast. This doesn't need to be complicated. A simple spreadsheet with your expected cash in (by week, by source) and expected cash out (fixed expenses, variable costs, debt payments, taxes) gives you something the bank balance never will: warning time. If you can see a crunch coming in six weeks, you have options. If you see it on a Tuesday when payroll runs Friday, you don't.
 
-[Profit First by Mike Michalowicz](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=yourtag-20) *(affiliate link)* won't teach you GAAP accounting, but it introduced a lot of owners to the idea that cash management is a discipline, not a reaction. Worth a read if you've never structured your accounts around cash flow intentionally.
+[Profit First by Mike Michalowicz](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=contentportfo-20) *(affiliate link)* won't teach you GAAP accounting, but it introduced a lot of owners to the idea that cash management is a discipline, not a reaction. Worth a read if you've never structured your accounts around cash flow intentionally.
 
 The IRS small business tax center also has guidance on estimated tax payments that can genuinely affect your cash position quarterly. A lot of owners get blindsided by those. A good CPA can help you model tax timing so it doesn't crater your Q1.
 

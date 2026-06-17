@@ -80,7 +80,7 @@ You don't need a 40-tab model. Honestly, a 40-tab model for a pre-revenue compan
 
 **Assumptions page.** This might be the most important page in the whole document, and almost nobody includes it clearly. Document every significant assumption: average contract value, churn rate, customer acquisition cost, gross margin percentage, headcount growth, sales cycle length. When an investor pushes back on your projections, you want to be able to say "here's the assumption driving that number" and then discuss the assumption on its merits. It turns a confrontation into a conversation.
 
-For founders who want a solid framework to build from, Mike Michalowicz's *Profit First* (available on [Amazon](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=yoursite-20)) isn't specifically about investor models, but it rewires how you think about money flowing through a business. Pair it with a purpose-built financial modeling template. (Disclosure: the site may earn a commission from Amazon links.)
+For founders who want a solid framework to build from, Mike Michalowicz's *Profit First* (available on [Amazon](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=contentportfo-20)) isn't specifically about investor models, but it rewires how you think about money flowing through a business. Pair it with a purpose-built financial modeling template. (Disclosure: the site may earn a commission from Amazon links.)
 
 ---
 

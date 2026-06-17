@@ -82,7 +82,7 @@ People also wait too long. I can't count how many people have called me in Janua
 
 Finally, people assume they need a lot of money to bother. You don't. Even if you can only contribute $5,000 or $10,000 in year one, establishing the plan costs nothing at Fidelity or Schwab, and the flexibility to contribute more in better years is worth having the account open.
 
-For deeper reading on retirement planning strategy for the self-employed, Mike Piper's *[Retirement Planning for Dummies](https://www.amazon.com/Retirement-Planning-Dummies-Mike-Piper/dp/1119724175?tag=bookscomm-20)* (Amazon, commissions may apply) is one of the clearest plain-English treatments I've come across.
+For deeper reading on retirement planning strategy for the self-employed, Mike Piper's *[Retirement Planning for Dummies](https://www.amazon.com/Retirement-Planning-Dummies-Mike-Piper/dp/1119724175?tag=contentportfo-20)* (Amazon, commissions may apply) is one of the clearest plain-English treatments I've come across.
 
 ---
 

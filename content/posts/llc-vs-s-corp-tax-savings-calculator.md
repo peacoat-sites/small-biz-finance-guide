@@ -88,7 +88,7 @@ You don't need a fancy tool. You need a spreadsheet and about twenty minutes. He
 
 **Step 5: That's your actual net savings.** If it's a positive number and not trivially small, the conversation with a CPA is worth having.
 
-If you want a pre-built template to work through this, Mike Piper's [*Taxes Made Simple*](https://www.amazon.com/Taxes-Made-Simple-Income-Professionals/dp/0997946202?tag=yourtag-20) is a solid resource for understanding the tax mechanics behind these decisions. (Disclosure: that's an affiliate link, and the site may earn a small commission.)
+If you want a pre-built template to work through this, Mike Piper's [*Taxes Made Simple*](https://www.amazon.com/Taxes-Made-Simple-Income-Professionals/dp/0997946202?tag=contentportfo-20) is a solid resource for understanding the tax mechanics behind these decisions. (Disclosure: that's an affiliate link, and the site may earn a small commission.)
 
 ---
 
