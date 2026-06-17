@@ -1,0 +1,143 @@
+
+<style>
+.bec { margin:30px 0; border:1px solid var(--border); border-radius:14px; overflow:hidden; font-variant-numeric:tabular-nums }
+.bec-head { padding:15px 20px; background:var(--surface2); font-weight:800; font-size:1.1rem }
+.bec-body { padding:20px }
+.bec-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(165px,1fr)); gap:14px; margin-bottom:16px }
+.bec label { display:flex; flex-direction:column; gap:6px; font-size:13px; font-weight:600; color:var(--muted) }
+.bec input {
+  width:100%; padding:12px 13px; border:1.5px solid var(--border-strong); border-radius:10px;
+  font-size:16px; color:var(--text); background:var(--surface); box-sizing:border-box;
+  font-family:inherit; transition:border-color .15s,box-shadow .15s
+}
+.bec input:focus {
+  outline:none; border-color:var(--accent);
+  box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 20%,transparent)
+}
+.bec-results { display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:14px; margin-top:20px }
+.bec .rc { background:var(--surface2); border-radius:12px; padding:14px 16px; text-align:center }
+.bec .rl { display:block; font-size:11px; text-transform:uppercase; letter-spacing:.05em; color:var(--muted) }
+.bec .rv { display:block; font-size:1.7rem; font-weight:800; color:var(--accent); line-height:1.15; margin:2px 0 }
+.bec .rs { display:block; font-size:11.5px; color:var(--muted) }
+.bec-callout {
+  margin-top:16px; padding:14px 18px; border-radius:12px;
+  background:color-mix(in srgb,var(--accent) 10%,#fff);
+  border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);
+  font-size:.95rem; line-height:1.5
+}
+.bec-callout b { color:var(--accent) }
+.bec-divider { border:none; border-top:1px solid var(--border); margin:24px 0 }
+.bec-section-title { font-weight:700; font-size:1rem; margin:0 0 14px; color:var(--text) }
+.bec-note { margin:16px 0 0; font-size:12px; color:var(--stone); line-height:1.5 }
+@media(max-width:560px){ .bec .rv{font-size:1.4rem} }
+</style>
+
+<div class="bec">
+  <div class="bec-head">Break-Even &amp; Self-Employment Tax Calculator</div>
+  <div class="bec-body">
+
+    <!-- Section A: Break-Even -->
+    <p class="bec-section-title">Section A — Break-Even Analysis</p>
+    <div class="bec-grid">
+      <label>Fixed Monthly Costs ($)
+        <input type="number" id="be-fixed" value="5000" min="0" step="100" oninput="beCalc()">
+      </label>
+      <label>Variable Cost Per Unit ($)
+        <input type="number" id="be-variable" value="15" min="0" step="1" oninput="beCalc()">
+      </label>
+      <label>Price Per Unit ($)
+        <input type="number" id="be-price" value="45" min="0.01" step="1" oninput="beCalc()">
+      </label>
+    </div>
+
+    <div class="bec-results" id="be-results">
+      <div class="rc"><span class="rl">Break-Even Units</span><span class="rv" id="be-units">—</span><span class="rs">units/month</span></div>
+      <div class="rc"><span class="rl">Break-Even Revenue</span><span class="rv" id="be-revenue">—</span><span class="rs">per month</span></div>
+      <div class="rc"><span class="rl">Contribution Margin</span><span class="rv" id="be-cm">—</span><span class="rs">per unit</span></div>
+      <div class="rc"><span class="rl">Contribution Margin %</span><span class="rv" id="be-cmp">—</span><span class="rs">of price</span></div>
+    </div>
+
+    <div class="bec-callout" id="be-callout" style="display:none"></div>
+
+    <hr class="bec-divider">
+
+    <!-- Section B: SE Tax -->
+    <p class="bec-section-title">Section B — Self-Employment Tax Estimator</p>
+    <div class="bec-grid">
+      <label>Annual Net Profit ($)
+        <input type="number" id="se-profit" value="75000" min="0" step="1000" oninput="seCalc()">
+      </label>
+    </div>
+
+    <div class="bec-results">
+      <div class="rc"><span class="rl">SE Tax Owed</span><span class="rv" id="se-tax">—</span><span class="rs">15.3% of 92.35%</span></div>
+      <div class="rc"><span class="rl">Deductible Half</span><span class="rv" id="se-deduct">—</span><span class="rs">above-the-line deduction</span></div>
+      <div class="rc"><span class="rl">Effective SE Rate</span><span class="rv" id="se-rate">—</span><span class="rs">of net profit</span></div>
+      <div class="rc"><span class="rl">Quarterly Est. Tax</span><span class="rv" id="se-quarterly">—</span><span class="rs">SE tax ÷ 4</span></div>
+    </div>
+
+    <div class="bec-callout" id="se-callout" style="display:none"></div>
+
+    <p class="bec-note">⚠ Disclaimer: This tool provides estimates only and does not constitute tax or financial advice. SE tax figures are based on the 2024 self-employment tax rate of 15.3% applied to 92.35% of net profit. Income tax is not included. Consult a CPA or tax professional for personalized guidance.</p>
+  </div>
+</div>
+
+<script>
+(function(){
+  var fmt = function(n){ return '$'+n.toLocaleString('en-US',{minimumFractionDigits:0,maximumFractionDigits:0}); };
+  var fmtD = function(n){ return '$'+n.toLocaleString('en-US',{minimumFractionDigits:2,maximumFractionDigits:2}); };
+
+  function beCalc(){
+    var fixed = parseFloat(document.getElementById('be-fixed').value)||0;
+    var variable = parseFloat(document.getElementById('be-variable').value)||0;
+    var price = parseFloat(document.getElementById('be-price').value)||0;
+    if(price<=variable){
+      document.getElementById('be-units').textContent='N/A';
+      document.getElementById('be-revenue').textContent='N/A';
+      document.getElementById('be-cm').textContent=fmtD(price-variable);
+      document.getElementById('be-cmp').textContent='0%';
+      var c=document.getElementById('be-callout');
+      c.innerHTML='<b>Warning:</b> Price must exceed variable cost to reach break-even. Increase your price or reduce variable costs.';
+      c.style.display='block';
+      return;
+    }
+    var cm = price - variable;
+    var cmp = (cm/price)*100;
+    var beUnits = fixed/cm;
+    var beRevenue = beUnits * price;
+
+    document.getElementById('be-units').textContent = Math.ceil(beUnits).toLocaleString();
+    document.getElementById('be-revenue').textContent = fmt(Math.ceil(beRevenue));
+    document.getElementById('be-cm').textContent = fmtD(cm);
+    document.getElementById('be-cmp').textContent = cmp.toFixed(1)+'%';
+
+    var callout = document.getElementById('be-callout');
+    callout.innerHTML = 'You need to sell <b>'+Math.ceil(beUnits).toLocaleString()+' units/month</b> to cover all costs. Your contribution margin of <b>'+cmp.toFixed(1)+'%</b> means every $1 of revenue contributes '+cmp.toFixed(0)+'¢ toward covering fixed costs and profit.';
+    callout.style.display='block';
+  }
+
+  function seCalc(){
+    var profit = parseFloat(document.getElementById('se-profit').value)||0;
+    if(profit<=0){ return; }
+    var netEarnings = profit * 0.9235;
+    var seTax = netEarnings * 0.153;
+    var deductHalf = seTax / 2;
+    var effectiveRate = (seTax / profit) * 100;
+    var quarterly = seTax / 4;
+
+    document.getElementById('se-tax').textContent = fmt(Math.round(seTax));
+    document.getElementById('se-deduct').textContent = fmt(Math.round(deductHalf));
+    document.getElementById('se-rate').textContent = effectiveRate.toFixed(1)+'%';
+    document.getElementById('se-quarterly').textContent = fmt(Math.round(quarterly));
+
+    var callout = document.getElementById('se-callout');
+    callout.innerHTML = 'On <b>'+fmt(Math.round(profit))+'</b> net profit, your SE tax is <b>'+fmt(Math.round(seTax))+'</b>. You can deduct <b>'+fmt(Math.round(deductHalf))+'</b> from gross income (the employer-equivalent half). Set aside roughly <b>'+fmt(Math.round(quarterly))+'</b> per quarter for estimated tax payments.';
+    callout.style.display='block';
+  }
+
+  window.beCalc = beCalc;
+  window.seCalc = seCalc;
+  beCalc();
+  seCalc();
+})();
+</script>

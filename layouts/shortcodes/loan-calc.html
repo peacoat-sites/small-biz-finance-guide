@@ -1,0 +1,178 @@
+
+<style>
+.lc { margin:30px 0; border:1px solid var(--border); border-radius:14px; overflow:hidden; font-variant-numeric:tabular-nums }
+.lc-head { padding:15px 20px; background:var(--surface2); font-weight:800; font-size:1.1rem }
+.lc-body { padding:20px }
+.lc-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(165px,1fr)); gap:14px; margin-bottom:16px }
+.lc label { display:flex; flex-direction:column; gap:6px; font-size:13px; font-weight:600; color:var(--muted) }
+.lc input, .lc select {
+  width:100%; padding:12px 13px; border:1.5px solid var(--border-strong); border-radius:10px;
+  font-size:16px; color:var(--text); background:var(--surface); box-sizing:border-box;
+  font-family:inherit; transition:border-color .15s,box-shadow .15s
+}
+.lc input:focus, .lc select:focus {
+  outline:none; border-color:var(--accent);
+  box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 20%,transparent)
+}
+.lc-results { display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:14px; margin-top:20px }
+.lc .rc { background:var(--surface2); border-radius:12px; padding:14px 16px; text-align:center }
+.lc .rl { display:block; font-size:11px; text-transform:uppercase; letter-spacing:.05em; color:var(--muted) }
+.lc .rv { display:block; font-size:1.7rem; font-weight:800; color:var(--accent); line-height:1.15; margin:2px 0 }
+.lc .rs { display:block; font-size:11.5px; color:var(--muted) }
+.lc-callout {
+  margin-top:16px; padding:14px 18px; border-radius:12px;
+  background:color-mix(in srgb,var(--accent) 10%,#fff);
+  border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);
+  font-size:.95rem; line-height:1.5
+}
+.lc-callout b { color:var(--accent) }
+.lc-note { margin:16px 0 0; font-size:12px; color:var(--stone); line-height:1.5 }
+.lc-divider { border:none; border-top:1px solid var(--border); margin:24px 0 }
+.lc-section-title { font-weight:700; font-size:1rem; margin:0 0 14px; color:var(--text) }
+@media(max-width:560px){ .lc .rv{font-size:1.4rem} }
+</style>
+
+<div class="lc">
+  <div class="lc-head">Business Loan Calculator</div>
+  <div class="lc-body">
+
+    <!-- Section A: Standard Loan -->
+    <p class="lc-section-title">Standard Term Loan</p>
+    <div class="lc-grid">
+      <label>Loan Amount ($)
+        <input type="number" id="lc-principal" value="50000" min="1000" step="1000" oninput="lcCalc()">
+      </label>
+      <label>Annual Interest Rate (%)
+        <input type="number" id="lc-rate" value="7.5" min="0.1" max="50" step="0.1" oninput="lcCalc()">
+      </label>
+      <label>Loan Term
+        <select id="lc-term" onchange="lcCalc()">
+          <option value="12">1 Year</option>
+          <option value="24">2 Years</option>
+          <option value="36" selected>3 Years</option>
+          <option value="60">5 Years</option>
+          <option value="84">7 Years</option>
+          <option value="120">10 Years</option>
+        </select>
+      </label>
+      <label>Monthly Revenue ($ optional)
+        <input type="number" id="lc-revenue" value="" min="0" step="500" placeholder="e.g. 20000" oninput="lcCalc()">
+      </label>
+    </div>
+
+    <div class="lc-results" id="lc-results">
+      <div class="rc"><span class="rl">Monthly Payment</span><span class="rv" id="lc-monthly">—</span><span class="rs">per month</span></div>
+      <div class="rc"><span class="rl">Total Interest</span><span class="rv" id="lc-interest">—</span><span class="rs">over loan life</span></div>
+      <div class="rc"><span class="rl">Total Cost</span><span class="rv" id="lc-total">—</span><span class="rs">principal + interest</span></div>
+      <div class="rc"><span class="rl">Payoff Date</span><span class="rv" id="lc-payoff" style="font-size:1.2rem">—</span><span class="rs">estimated</span></div>
+    </div>
+
+    <div class="lc-callout" id="lc-callout" style="display:none"></div>
+
+    <hr class="lc-divider">
+
+    <!-- Section B: Factor Rate Converter -->
+    <p class="lc-section-title">Factor Rate → APR Converter (MCAs &amp; Short-Term Loans)</p>
+    <div class="lc-grid">
+      <label>Loan / Advance Amount ($)
+        <input type="number" id="fr-principal" value="25000" min="1000" step="1000" oninput="frCalc()">
+      </label>
+      <label>Factor Rate (e.g. 1.35)
+        <input type="number" id="fr-factor" value="1.35" min="1.01" max="2.5" step="0.01" oninput="frCalc()">
+      </label>
+      <label>Repayment Term (months)
+        <input type="number" id="fr-months" value="12" min="1" max="36" step="1" oninput="frCalc()">
+      </label>
+    </div>
+
+    <div class="lc-results">
+      <div class="rc"><span class="rl">Total Repayment</span><span class="rv" id="fr-total">—</span><span class="rs">principal × factor</span></div>
+      <div class="rc"><span class="rl">Daily Payment</span><span class="rv" id="fr-daily">—</span><span class="rs">÷ (months × 30)</span></div>
+      <div class="rc"><span class="rl">Effective APR</span><span class="rv" id="fr-apr">—</span><span class="rs">annualized cost</span></div>
+      <div class="rc"><span class="rl">Cost of Capital</span><span class="rv" id="fr-cost">—</span><span class="rs">total interest</span></div>
+    </div>
+
+    <div class="lc-callout" id="fr-callout" style="display:none"></div>
+
+    <p class="lc-note">⚠ Disclaimer: This calculator is for estimation only and does not constitute financial advice. Actual loan terms vary by lender. Consult a licensed financial professional before taking on business debt.</p>
+  </div>
+</div>
+
+<script>
+(function(){
+  var fmt = function(n){ return '$'+n.toLocaleString('en-US',{minimumFractionDigits:0,maximumFractionDigits:0}); };
+  var fmtD = function(n){ return '$'+n.toLocaleString('en-US',{minimumFractionDigits:2,maximumFractionDigits:2}); };
+
+  function lcCalc(){
+    var P = parseFloat(document.getElementById('lc-principal').value)||0;
+    var annualRate = parseFloat(document.getElementById('lc-rate').value)||0;
+    var n = parseInt(document.getElementById('lc-term').value)||36;
+    var rev = parseFloat(document.getElementById('lc-revenue').value)||0;
+    if(P<=0||annualRate<=0||n<=0){ return; }
+
+    var r = annualRate/100/12;
+    var payment = P * r / (1 - Math.pow(1+r,-n));
+    var totalCost = payment * n;
+    var totalInterest = totalCost - P;
+
+    var payoffDate = new Date();
+    payoffDate.setMonth(payoffDate.getMonth() + n);
+    var payoffStr = payoffDate.toLocaleDateString('en-US',{month:'short',year:'numeric'});
+
+    document.getElementById('lc-monthly').textContent = fmtD(payment);
+    document.getElementById('lc-interest').textContent = fmt(Math.round(totalInterest));
+    document.getElementById('lc-total').textContent = fmt(Math.round(totalCost));
+    document.getElementById('lc-payoff').textContent = payoffStr;
+
+    var callout = document.getElementById('lc-callout');
+    var msgs = [];
+    if(rev>0){
+      var dscr = rev/payment;
+      msgs.push('Your <b>DSCR</b> (debt service coverage ratio) is <b>'+dscr.toFixed(2)+'x</b>. Most lenders require ≥1.25x.');
+    }
+    msgs.push('Interest cost is <b>'+((totalInterest/P)*100).toFixed(1)+'%</b> of your principal over the loan life.');
+    callout.innerHTML = msgs.join(' &nbsp;·&nbsp; ');
+    callout.style.display = 'block';
+  }
+
+  function frCalc(){
+    var P = parseFloat(document.getElementById('fr-principal').value)||0;
+    var factor = parseFloat(document.getElementById('fr-factor').value)||0;
+    var months = parseFloat(document.getElementById('fr-months').value)||0;
+    if(P<=0||factor<=1||months<=0){ return; }
+
+    var totalRepay = P * factor;
+    var cost = totalRepay - P;
+    var days = months * 30;
+    var dailyPayment = totalRepay / days;
+
+    // Approximate APR via Newton's method on the daily payment annuity
+    // totalRepay = P * r_daily / (1-(1+r_daily)^-days) * days ... simpler: bisection on monthly equiv
+    // Use monthly: monthly_payment = totalRepay/months; solve for r in P = pmt*(1-(1+r)^-months)/r
+    var pmt = totalRepay / months;
+    var rLo = 0.0001, rHi = 5.0, rMid, iter=0;
+    while(iter<100){
+      rMid = (rLo+rHi)/2;
+      var pv = pmt*(1-Math.pow(1+rMid,-months))/rMid;
+      if(pv>P){ rLo=rMid; }else{ rHi=rMid; }
+      if(Math.abs(pv-P)<0.01) break;
+      iter++;
+    }
+    var apr = rMid * 12 * 100;
+
+    document.getElementById('fr-total').textContent = fmt(Math.round(totalRepay));
+    document.getElementById('fr-daily').textContent = fmtD(dailyPayment);
+    document.getElementById('fr-apr').textContent = apr.toFixed(1)+'%';
+    document.getElementById('fr-cost').textContent = fmt(Math.round(cost));
+
+    var callout = document.getElementById('fr-callout');
+    callout.innerHTML = 'A factor rate of <b>'+factor.toFixed(2)+'</b> on a '+months+'-month term is equivalent to an APR of roughly <b>'+apr.toFixed(1)+'%</b>. Factor-rate products (MCAs) are typically far more expensive than traditional bank loans — compare carefully before signing.';
+    callout.style.display='block';
+  }
+
+  window.lcCalc = lcCalc;
+  window.frCalc = frCalc;
+  lcCalc();
+  frCalc();
+})();
+</script>
