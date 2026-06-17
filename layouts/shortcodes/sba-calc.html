@@ -1,0 +1,189 @@
+<style>
+.sba{margin:30px 0;border:1px solid var(--border);border-radius:14px;overflow:hidden;font-variant-numeric:tabular-nums}
+.sba-head{padding:15px 20px;background:var(--surface2);font-weight:800;font-size:1.1rem}
+.sba-body{padding:20px}
+.sba-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px;margin-bottom:16px}
+.sba label{display:flex;flex-direction:column;gap:6px;font-size:13px;font-weight:600;color:var(--muted)}
+.sba input,.sba select{width:100%;padding:12px 13px;border:1.5px solid var(--border-strong);border-radius:10px;font-size:16px;color:var(--text);background:var(--surface);box-sizing:border-box;font-family:inherit;transition:border-color .15s,box-shadow .15s}
+.sba input:focus,.sba select:focus{outline:none;border-color:var(--accent);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 20%,transparent)}
+.sba-results{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin-top:20px}
+.sba-card{background:var(--surface2);border-radius:12px;padding:14px 16px;text-align:center}
+.sba-card span{display:block}
+.sba-card .cl{font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)}
+.sba-card .cv{font-size:1.7rem;font-weight:800;color:var(--accent);line-height:1.15;margin:2px 0}
+.sba-card .cs{font-size:.8rem;color:var(--stone)}
+.sba-callout{margin-top:16px;padding:14px 18px;border-radius:12px;background:color-mix(in srgb,var(--accent) 10%,#fff);border:1px solid color-mix(in srgb,var(--accent) 35%,transparent);font-size:.95rem}
+.sba-callout a{color:var(--accent)}
+.sba-note{margin:16px 0 0;font-size:12px;color:var(--stone)}
+.sba-hidden{display:none}
+</style>
+
+<div class="sba" id="sba-calc">
+  <div class="sba-head">SBA Loan Payment &amp; Fee Calculator</div>
+  <div class="sba-body">
+    <div class="sba-grid">
+      <label>Loan Type
+        <select id="sba-type" onchange="sbaUpdate()">
+          <option value="7a_standard">SBA 7(a) Standard</option>
+          <option value="7a_small">SBA 7(a) Small ($500k or less)</option>
+          <option value="504">SBA 504</option>
+          <option value="micro">SBA Microloan (&lt;$50k)</option>
+        </select>
+      </label>
+      <label>Loan Amount ($)
+        <input type="number" id="sba-amount" value="150000" min="500" max="5500000" step="1000" oninput="sbaUpdate()">
+      </label>
+      <label>Annual Interest Rate (%)
+        <input type="number" id="sba-rate" value="11.0" min="1" max="30" step="0.25" oninput="sbaUpdate()">
+      </label>
+      <label>Loan Term (years)
+        <select id="sba-term" onchange="sbaUpdate()">
+          <option value="10">10 years (working capital / equipment)</option>
+          <option value="25">25 years (real estate)</option>
+          <option value="20">20 years (504 / real estate)</option>
+          <option value="6">6 years (Microloan)</option>
+        </select>
+      </label>
+    </div>
+
+    <div class="sba-results">
+      <div class="sba-card">
+        <span class="cl">Monthly Payment</span>
+        <span class="cv" id="sba-monthly">--</span>
+      </div>
+      <div class="sba-card">
+        <span class="cl">SBA Guarantee Fee</span>
+        <span class="cv" id="sba-fee">--</span>
+        <span class="cs">paid at closing</span>
+      </div>
+      <div class="sba-card sba-504-only sba-hidden">
+        <span class="cl">Annual Service Fee</span>
+        <span class="cv" id="sba-annual-fee">--</span>
+        <span class="cs">504 ongoing fee</span>
+      </div>
+      <div class="sba-card">
+        <span class="cl">Total Interest</span>
+        <span class="cv" id="sba-interest">--</span>
+      </div>
+      <div class="sba-card">
+        <span class="cl">Total Cost of Borrowing</span>
+        <span class="cv" id="sba-total">--</span>
+      </div>
+      <div class="sba-card">
+        <span class="cl">Effective APR (approx.)</span>
+        <span class="cv" id="sba-apr">--</span>
+      </div>
+    </div>
+
+    <div class="sba-callout">
+      <strong>Important:</strong> SBA loans require collateral and a personal guarantee. The SBA does not lend directly &mdash; you apply through an SBA-approved lender (banks, credit unions, CDFIs). <a href="https://www.sba.gov/funding-programs/loans" target="_blank" rel="noopener">Learn more at sba.gov &rarr;</a>
+    </div>
+
+    <p class="sba-note">SBA loan terms and fees are set by the SBA and change periodically. Verify current rates at <a href="https://www.sba.gov" target="_blank" rel="noopener">sba.gov</a> before applying. Calculator uses 2024 guarantee fee schedule.</p>
+  </div>
+</div>
+
+<script>
+(function(){
+  var TYPE_DEFAULTS = {
+    '7a_standard': {rate:11.0, term:10, maxAmt:5000000, minAmt:500},
+    '7a_small':    {rate:11.0, term:10, maxAmt:500000,  minAmt:500},
+    '504':         {rate:11.0, term:20, maxAmt:5500000, minAmt:25000},
+    'micro':       {rate:11.0, term:6,  maxAmt:50000,   minAmt:500}
+  };
+  var TERM_OPTIONS = {
+    '7a_standard': [{v:10,l:'10 years (working capital / equipment)'},{v:25,l:'25 years (real estate)'}],
+    '7a_small':    [{v:10,l:'10 years (working capital / equipment)'},{v:25,l:'25 years (real estate)'}],
+    '504':         [{v:10,l:'10 years'},{v:20,l:'20 years (most common)'},{v:25,l:'25 years (real estate)'}],
+    'micro':       [{v:6,l:'6 years'}]
+  };
+
+  function fmt(n){
+    if(n>=1000000) return '$'+(n/1000000).toFixed(2)+'M';
+    if(n>=1000)    return '$'+(n/1000).toFixed(1)+'k';
+    return '$'+Math.round(n).toLocaleString();
+  }
+  function fmtFull(n){return '$'+Math.round(n).toLocaleString();}
+  function fmtPct(n){return n.toFixed(2)+'%';}
+
+  function calcMonthly(principal, annualRate, years){
+    var r = annualRate/100/12;
+    var n = years*12;
+    if(r===0) return principal/n;
+    return principal * r * Math.pow(1+r,n) / (Math.pow(1+r,n)-1);
+  }
+
+  function calcGuaranteeFee(loan, loanType){
+    if(loanType==='micro') return 0;
+    if(loanType==='504'){
+      // SBA debenture fee ~0.5% + CDC fee ~1.5% of debenture (funded portion ~40%)
+      // Simplified: ~2% of loan as combined upfront
+      return loan * 0.02;
+    }
+    // 7(a)
+    var gPct = loan<=150000 ? 0.85 : 0.75;
+    var gAmt = loan * gPct;
+    if(loan<=150000)  return 0;
+    if(loan<=700000)  return gAmt * 0.030;
+    var fee = gAmt * 0.035;
+    if(loan>1000000)  fee += (loan-1000000)*0.0025;
+    return fee;
+  }
+
+  function calc504AnnualFee(loan){
+    // 0.369% annually on outstanding SBA portion (~40% of loan)
+    return loan * 0.40 * 0.00369;
+  }
+
+  window.sbaUpdate = function(){
+    var type   = document.getElementById('sba-type').value;
+    var amount = parseFloat(document.getElementById('sba-amount').value)||0;
+    var rate   = parseFloat(document.getElementById('sba-rate').value)||0;
+    var term   = parseInt(document.getElementById('sba-term').value)||10;
+
+    // Rebuild term options if type changed
+    var termSel = document.getElementById('sba-term');
+    var curTerm = termSel.value;
+    var opts = TERM_OPTIONS[type];
+    termSel.innerHTML = opts.map(function(o){
+      return '<option value="'+o.v+'"'+(o.v==curTerm?' selected':'')+'>'+o.l+'</option>';
+    }).join('');
+    term = parseInt(termSel.value)||opts[0].v;
+
+    // Clamp amount
+    var def = TYPE_DEFAULTS[type];
+    if(amount<def.minAmt) amount=def.minAmt;
+    if(amount>def.maxAmt) amount=def.maxAmt;
+
+    var monthly  = calcMonthly(amount, rate, term);
+    var months   = term*12;
+    var totalPmt = monthly*months;
+    var interest = totalPmt - amount;
+    var fee      = calcGuaranteeFee(amount, type);
+    var totalCost = totalPmt + fee;
+    var effAPR   = rate + (fee/amount/term*100);
+
+    document.getElementById('sba-monthly').textContent  = fmtFull(monthly);
+    document.getElementById('sba-fee').textContent      = fmtFull(fee);
+    document.getElementById('sba-interest').textContent = fmtFull(interest);
+    document.getElementById('sba-total').textContent    = fmtFull(totalCost);
+    document.getElementById('sba-apr').textContent      = fmtPct(effAPR);
+
+    // 504 annual fee card
+    var annFeeCard = document.querySelector('.sba-504-only');
+    if(type==='504'){
+      annFeeCard.classList.remove('sba-hidden');
+      document.getElementById('sba-annual-fee').textContent = fmtFull(calc504AnnualFee(amount));
+    } else {
+      annFeeCard.classList.add('sba-hidden');
+    }
+  };
+
+  // Init on load
+  if(document.readyState==='loading'){
+    document.addEventListener('DOMContentLoaded', window.sbaUpdate);
+  } else {
+    window.sbaUpdate();
+  }
+})();
+</script>
