@@ -162,6 +162,10 @@ Your invoicing process is a direct reflection of how seriously you run your busi
 - **[The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20)**
 - **[Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20)**
 
+## Sources & References
+
+- [SBA — Managing Business Finances](https://www.sba.gov/business-guide/manage-your-business/manage-your-finances) — supports cash flow management and invoicing best practices
+- [FTC — Business Guidance](https://www.ftc.gov/business-guidance) — supports fair billing and business communication practices
 
 *Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 

@@ -139,6 +139,12 @@ Most small business owners aren't trying to cheat the tax system. They're just t
 - **[Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20)**
 - **[The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20)**
 
+## Sources & References
+
+- [IRS — Business Expenses (Publication 535)](https://www.irs.gov/publications/p535) — Covers deductible business expenses, documentation requirements
+- [IRS — Home Office Deduction](https://www.irs.gov/businesses/small-businesses-self-employed/home-office-deduction) — Explains exclusive use test and calculation methods
+- [IRS — Small Business and Self-Employed Tax Center](https://www.irs.gov/businesses/small-businesses-self-employed) — Hub for small business tax guidance and forms
+- [SBA — Business Tax Guide](https://www.sba.gov/business-guide/manage-your-business/pay-taxes) — Overview of small business tax obligations and deductions
 
 *Photo: [Nataliya Vaitkevich](https://www.pexels.com/@n-voitkevich) via Pexels*
 

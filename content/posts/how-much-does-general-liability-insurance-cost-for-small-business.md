@@ -135,6 +135,11 @@ The honest truth about general liability pricing is that there's no universal an
 - **[Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20)**
 - **[Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20)**
 
+## Sources & References
+
+- [III — Cost of Business Insurance](https://www.iii.org/article/cost-of-business-insurance) — Industry data on small business liability insurance costs
+- [SBA — Get Business Insurance](https://www.sba.gov/business-guide/launch-your-business/get-business-insurance) — Official guidance on small business insurance types and considerations
+- [NAIC — Consumer Resources](https://content.naic.org/consumer.htm) — State insurance regulator info on commercial coverage
 
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
 

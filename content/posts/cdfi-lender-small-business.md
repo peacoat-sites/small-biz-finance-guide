@@ -129,6 +129,11 @@ The CDFI system isn't perfect, and not every lender within it is equally strong.
 
 ---
 
+## Sources & References
+
+- [U.S. Treasury — CDFI Fund](https://www.cdfifund.gov/) — Official certifying body explaining what CDFIs are and how they work
+- [Opportunity Finance Network — Find a CDFI](https://www.ofn.org/) — Major CDFI industry network with member directory and resources
+
 ---
 
 ## Recommended Resources

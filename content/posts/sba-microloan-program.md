@@ -106,6 +106,11 @@ The SBA Microloan program won't make you rich and it won't solve a broken busine
 
 ---
 
+## Sources & References
+
+- [SBA — Microloan Program Overview](https://www.sba.gov/funding-programs/loans/microloans) — Official program details, loan limits, and eligibility requirements
+- [SBA — Lender Match Tool](https://www.sba.gov/lendermatch) — Tool to find approved intermediary lenders by location
+
 ---
 
 ## Recommended Resources

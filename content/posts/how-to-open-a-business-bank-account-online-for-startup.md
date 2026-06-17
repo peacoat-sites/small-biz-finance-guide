@@ -116,6 +116,11 @@ Once you have payroll, contractors, or multiple revenue streams, it's worth talk
 - **[Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20)**
 - **[Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)**
 
+## Sources & References
+
+- [SBA — Choose a business bank account](https://www.sba.gov/business-guide/launch-your-business/open-business-bank-account) — Supports requirements for opening business bank accounts
+- [IRS — Employer Identification Number (EIN)](https://www.irs.gov/businesses/small-businesses-self-employed/employer-id-numbers) — Supports EIN requirements for business banking
+- [FDIC — Deposit Insurance Overview](https://www.fdic.gov/resources/deposit-insurance/) — Supports understanding of business deposit protection
 
 *Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
 

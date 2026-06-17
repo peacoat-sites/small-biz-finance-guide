@@ -128,6 +128,11 @@ Getting a business loan with no revenue is harder than it used to be told to you
 
 ---
 
+## Sources & References
+
+- [SBA — Loans Overview](https://www.sba.gov/funding-programs/loans) — Supports SBA loan options for startups
+- [SBA — Microloans](https://www.sba.gov/funding-programs/loans/microloans) — Supports microloan credit requirements discussion
+
 ---
 
 ## Recommended Resources

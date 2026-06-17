@@ -146,6 +146,13 @@ Payroll taxes are one of those areas where the cost of ignorance is genuinely hi
 
 ---
 
+## Sources & References
+
+- [IRS — Employment Taxes for Small Business](https://www.irs.gov/businesses/small-businesses-self-employed/employment-taxes) — Explains employer payroll tax obligations, FICA, withholding requirements
+- [IRS — Depositing and Reporting Employment Taxes](https://www.irs.gov/businesses/small-businesses-self-employed/depositing-and-reporting-employment-taxes) — Covers deposit schedules and penalties for late payments
+- [SBA — Employer Responsibilities When Hiring](https://www.sba.gov/business-guide/manage-your-business/hire-manage-employees) — Overview of federal employer obligations including payroll taxes
+- [IRS — Understanding Employment Taxes](https://www.irs.gov/businesses/small-businesses-self-employed/understanding-employment-taxes) — Breaks down FICA rates and wage base thresholds
+
 ---
 
 ## Recommended Resources

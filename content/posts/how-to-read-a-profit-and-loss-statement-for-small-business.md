@@ -131,6 +131,10 @@ The P&L isn't the enemy. It's just a report. And once you understand what it's a
 - **[Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20)**
 - **[Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20)**
 
+## Sources & References
+
+- [SBA — Financial statements overview](https://www.sba.gov/business-guide/manage-your-business/manage-your-finances) — Supports understanding P&L basics for small business owners
+- [IRS — Business expenses guidance](https://www.irs.gov/businesses/small-businesses-self-employed/deducting-business-expenses) — Supports expense categorization on P&L statements
 
 *Photo: [Nataliya Vaitkevich](https://www.pexels.com/@n-voitkevich) via Pexels*
 

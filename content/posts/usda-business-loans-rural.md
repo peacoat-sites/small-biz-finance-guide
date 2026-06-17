@@ -123,6 +123,11 @@ If you're running a business in a rural area and you've been told no too many ti
 
 ---
 
+## Sources & References
+
+- [USDA — Rural Eligibility Site](https://eligibility.sc.egov.usda.gov/eligibility/welcomeAction.do) — Address lookup tool for rural area eligibility
+- [SBA — Rural Lender Advantage](https://www.sba.gov/partners/lenders/7a-loan-program) — Context on SBA rural lending partnerships
+
 ---
 
 ## Recommended Resources

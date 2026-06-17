@@ -140,6 +140,11 @@ Worker classification is one of those topics that most business owners only thin
 
 ---
 
+## Sources & References
+
+- [IRS — Independent Contractor vs Employee](https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee) — IRS guidelines on worker classification factors
+- [IRS — Employment Taxes for Businesses](https://www.irs.gov/businesses/small-businesses-self-employed/employment-taxes) — Explains employer payroll tax obligations
+
 ---
 
 ## Recommended Resources

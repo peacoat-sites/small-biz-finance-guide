@@ -154,6 +154,10 @@ Getting this right isn't complicated once you understand the framework, but it d
 - **[Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20)**
 - **[Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20)**
 
+## Sources & References
+
+- [IRS — Independent Contractor or Employee](https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee) — Explains IRS three-factor test for worker classification
+- [IRS — Forms and Associated Taxes for Independent Contractors](https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-defined) — Defines independent contractor status and tax obligations
 
 *Photo: [Leeloo The First](https://www.pexels.com/@leeloothefirst) via Pexels*
 

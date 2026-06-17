@@ -166,6 +166,11 @@ Clean books don't make your business successful on their own, but they give you 
 - **[Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20)**
 - **[Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20)**
 
+## Sources & References
+
+- [IRS — Recordkeeping for Small Business](https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping) — IRS requirements for maintaining adequate business records
+- [SBA — Manage Your Finances](https://www.sba.gov/business-guide/manage-your-business/manage-your-finances) — SBA guidance on financial recordkeeping and retention periods
+- [IRS Publication 583 — Starting a Business](https://www.irs.gov/publications/p583) — Official IRS guide covering bookkeeping basics for new businesses
 
 *Photo: [Nataliya Vaitkevich](https://www.pexels.com/@n-voitkevich) via Pexels*
 

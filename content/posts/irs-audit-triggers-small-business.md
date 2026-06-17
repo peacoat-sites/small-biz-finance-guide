@@ -90,6 +90,12 @@ If you want a deeper framework for thinking about all of this, Frederick Dailey'
 - **[QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20)**
 - **[AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)**
 
+## Sources & References
+
+- [IRS — Audit Techniques Guides](https://www.irs.gov/businesses/small-businesses-self-employed/audit-techniques-guides-atgs) — IRS guidance on how business audits are conducted
+- [IRS — Business Use of Car Deduction](https://www.irs.gov/taxtopics/tc510) — Official rules on vehicle expense deductions
+- [IRS — Home Office Deduction](https://www.irs.gov/businesses/small-businesses-self-employed/home-office-deduction) — Requirements for claiming home office deductions
+- [SBA — Small Business Taxes](https://www.sba.gov/business-guide/manage-your-business/pay-taxes) — Federal guidance on small business tax compliance
 
 *Photo: [Leeloo The First](https://www.pexels.com/@leeloothefirst) via Pexels*
 

@@ -159,6 +159,10 @@ The bottom line is straightforward. Liability insurance isn't a luxury or a bure
 - **[The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20)**
 - **[Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20)**
 
+## Sources & References
+
+- [SBA — Business insurance overview](https://www.sba.gov/business-guide/launch-your-business/get-business-insurance) — Covers liability insurance types small businesses need
+- [III — General liability insurance guide](https://www.iii.org/article/what-covered-general-liability-insurance) — Explains GL coverage and common exclusions
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

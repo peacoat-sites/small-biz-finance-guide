@@ -82,6 +82,11 @@ If you want to build a stronger foundation for understanding trade finance and c
 - **[Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20)**
 - **[AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)**
 
+## Sources & References
+
+- [SBA — Financing options for small businesses](https://www.sba.gov/business-guide/plan-your-business/fund-your-business) — Overview of small business financing alternatives including trade financing
+- [CFPB — What is a business loan](https://www.consumerfinance.gov/) — Context on business lending products and consumer protections
+- [FTC — Financing a Business](https://www.ftc.gov/business-guidance/small-businesses) — Guidance for small businesses on financing and avoiding scams
 
 *Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
 

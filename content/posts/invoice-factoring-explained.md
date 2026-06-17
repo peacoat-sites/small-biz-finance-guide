@@ -154,6 +154,11 @@ Invoice factoring is not glamorous, and it's not cheap. But for the right busine
 
 ---
 
+## Sources & References
+
+- [SBA — Invoice Financing Overview](https://www.sba.gov/funding-programs/loans) — Describes small business financing options including invoice-based funding
+- [FTC — Small Business Financing](https://www.ftc.gov/business-guidance/small-businesses) — Consumer protection guidance for small business financial products
+
 ---
 
 ## Recommended Resources

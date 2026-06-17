@@ -138,6 +138,10 @@ The businesses that survive long-term aren't always the ones with the best produ
 - **[AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)**
 - **[Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20)**
 
+## Sources & References
+
+- [IRS — Small Business and Self-Employed Tax Center](https://www.irs.gov/businesses/small-businesses-self-employed) — Supports IRS record-keeping requirements for small businesses
+- [SBA — Manage Your Finances](https://www.sba.gov/business-guide/manage-your-business/manage-your-finances) — Official guidance on small business accounting and bookkeeping basics
 
 *Photo: [Engin Akyurt](https://www.pexels.com/@enginakyurt) via Pexels*
 

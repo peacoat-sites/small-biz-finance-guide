@@ -90,6 +90,10 @@ The deduction exists specifically because Congress recognized that self-employed
 - **[Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20)**
 - **[AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)**
 
+## Sources & References
+
+- [IRS — Publication 535 Business Expenses](https://www.irs.gov/publications/p535) — Covers self-employed health insurance deduction rules and eligibility
+- [IRS — Self-Employed Individuals Tax Center](https://www.irs.gov/businesses/small-businesses-self-employed/self-employed-individuals-tax-center) — Overview of self-employment tax and deduction rules
 
 *Photo: [Greta Hoffman](https://www.pexels.com/@greta-hoffman) via Pexels*
 

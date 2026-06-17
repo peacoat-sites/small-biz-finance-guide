@@ -152,6 +152,11 @@ Vehicle deductions reward the business owners who track their numbers and penali
 - **[AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)**
 - **[Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)**
 
+## Sources & References
+
+- [IRS — Standard Mileage Rates](https://www.irs.gov/tax-professionals/standard-mileage-rates) — Current IRS mileage rates for business vehicle deductions
+- [IRS — Publication 463 Travel and Business Expenses](https://www.irs.gov/publications/p463) — Official rules for vehicle deduction methods and recordkeeping
+- [IRS — Topic 510 Business Use of Car](https://www.irs.gov/taxtopics/tc510) — IRS guidance on standard mileage vs actual expense methods
 
 *Photo: [Deane Bayas](https://www.pexels.com/@dbaler) via Pexels*
 

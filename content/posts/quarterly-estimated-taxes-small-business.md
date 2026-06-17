@@ -137,6 +137,11 @@ The quarterly estimated tax system isn't complicated once you've done it a year 
 - **[Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20)**
 - **[Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)**
 
+## Sources & References
+
+- [IRS — Estimated Taxes](https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes) — Explains who must pay, due dates, and $1,000 threshold
+- [IRS — Self-Employment Tax](https://www.irs.gov/businesses/small-businesses-self-employed/self-employment-tax-social-security-and-medicare-taxes) — Covers Social Security and Medicare obligations for self-employed
+- [IRS — Form 1040-ES](https://www.irs.gov/forms-pubs/about-form-1040-es) — Official form and instructions for calculating estimated payments
 
 *Photo: [Mark Youso](https://www.pexels.com/@mark-youso-420893752) via Pexels*
 

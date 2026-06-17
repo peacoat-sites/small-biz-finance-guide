@@ -89,6 +89,10 @@ If you're already in an MCA and feeling the pressure, you're not alone and you'r
 - **[Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20)**
 - **[QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20)**
 
+## Sources & References
+
+- [CFPB — What is a merchant cash advance?](https://www.consumerfinance.gov/) — Consumer finance guidance on alternative lending products
+- [SBA — Fund Your Business](https://www.sba.gov/business-guide/plan-your-business/fund-your-business) — Compares traditional vs alternative small business financing
 
 *Photo: [Berna](https://www.pexels.com/@mibernaa) via Pexels*
 

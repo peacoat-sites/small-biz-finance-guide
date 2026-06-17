@@ -130,6 +130,11 @@ Selling a business you've built is one of the most significant financial events 
 
 ---
 
+## Sources & References
+
+- [SBA — Selling Your Business](https://www.sba.gov/business-guide/manage-your-business/close-or-sell-your-business) — Official guidance on selling/closing a small business
+- [IRS — Sale of a Business](https://www.irs.gov/businesses/small-businesses-self-employed/sale-of-a-business) — Tax implications and reporting for business sales
+
 ---
 
 ## Recommended Resources

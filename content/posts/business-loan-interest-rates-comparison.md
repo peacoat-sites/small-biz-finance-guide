@@ -127,6 +127,12 @@ The honest truth about business loan rates is that the number you see isn't the 
 
 ---
 
+## Sources & References
+
+- [SBA — Loan Programs](https://www.sba.gov/funding-programs/loans) — SBA loan types and current rate structure info
+- [Federal Reserve — Small Business Credit Survey](https://www.fedsmallbusiness.org/) — Data on small business lending rates and approval
+- [CFPB — Small Business Lending](https://www.consumerfinance.gov/compliance/compliance-resources/small-business-lending-resources/) — Small business lending regulations and disclosures
+
 ---
 
 ## Recommended Resources

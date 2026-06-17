@@ -157,6 +157,11 @@ Getting your expense categories right isn't glamorous work. But it's foundationa
 - **[Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20)**
 - **[AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)**
 
+## Sources & References
+
+- [IRS — Business Expenses Publication 535](https://www.irs.gov/publications/p535) — Defines ordinary/necessary expenses and deduction rules
+- [SBA — Managing Business Finances](https://www.sba.gov/business-guide/manage-your-business/manage-your-finances) — Guidance on expense tracking and financial management
+- [IRS — Small Business Tax Center](https://www.irs.gov/businesses/small-businesses-self-employed) — Central resource for small business tax requirements
 
 *Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
 

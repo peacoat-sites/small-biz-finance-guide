@@ -101,6 +101,10 @@ If you know you're going to be late, call the supplier before the invoice is due
 - **[Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20)**
 - **[QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20)**
 
+## Sources & References
+
+- [SBA — Managing Business Credit](https://www.sba.gov/business-guide/manage-your-business/manage-your-finances) — supports fundamentals of business credit and cash flow management
+- [Federal Reserve — Small Business Credit Survey](https://www.fedsmallbusiness.org/) — supports data on how small businesses use supplier credit
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

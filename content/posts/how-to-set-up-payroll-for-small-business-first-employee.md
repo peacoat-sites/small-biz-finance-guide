@@ -155,6 +155,12 @@ You don't have to get this perfect from day one. But you do have to get the foun
 - **[Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20)**
 - **[Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20)**
 
+## Sources & References
+
+- [IRS — Employer ID Numbers](https://www.irs.gov/businesses/small-businesses-self-employed/employer-id-numbers) — EIN requirements and online application process
+- [IRS — Employment Taxes for Small Businesses](https://www.irs.gov/businesses/small-businesses-self-employed/employment-taxes) — Supports Form 940, withholding, quarterly filing obligations
+- [USCIS — I-9 Central](https://www.uscis.gov/i-9-central) — Form I-9 completion requirements and timing rules
+- [SBA — Hire and Manage Employees](https://www.sba.gov/business-guide/manage-your-business/hire-manage-employees) — Overview of state registration and payroll setup steps
 
 *Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 

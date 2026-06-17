@@ -147,6 +147,10 @@ The income statement isn't the most exciting document in your business, but it m
 - **[Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20)**
 - **[The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20)**
 
+## Sources & References
+
+- [SBA — Financial Statements](https://www.sba.gov/business-guide/manage-your-business/manage-your-finances) — Supports definitions and importance of financial statements for small business
+- [IRS — Business Expenses](https://www.irs.gov/businesses/small-businesses-self-employed/deducting-business-expenses) — Supports expense categories relevant to income statement preparation
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

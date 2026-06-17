@@ -125,6 +125,10 @@ Do yourself a favor and don't let an online calculator be the last word on this.
 - **[Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20)**
 - **[The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20)**
 
+## Sources & References
+
+- [IRS — S Corporations overview](https://www.irs.gov/businesses/small-businesses-self-employed/s-corporations) — Explains S corp election requirements and tax treatment
+- [IRS — Self-Employment Tax (Social Security and Medicare)](https://www.irs.gov/businesses/small-businesses-self-employed/self-employment-tax-social-security-and-medicare-taxes) — Details 15.3% SE tax rate and wage base rules
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

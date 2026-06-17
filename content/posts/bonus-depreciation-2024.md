@@ -116,6 +116,11 @@ You can opt out. The election to not claim bonus depreciation is made on a class
 - **[The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20)**
 - **[AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)**
 
+## Sources & References
+
+- [IRS — Bonus Depreciation Overview](https://www.irs.gov/newsroom/new-rules-and-limitations-for-depreciation-and-expensing-under-the-tax-cuts-and-jobs-act) — Confirms TCJA bonus depreciation rules and phase-down schedule
+- [IRS — Publication 946 (Depreciating Property)](https://www.irs.gov/publications/p946) — Official guidance on MACRS and bonus depreciation calculations
+- [SBA — Tax Credits and Deductions](https://www.sba.gov/business-guide/manage-your-business/pay-taxes) — Government resource on business tax deductions
 
 *Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
 

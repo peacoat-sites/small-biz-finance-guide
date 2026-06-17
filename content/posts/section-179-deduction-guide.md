@@ -96,6 +96,10 @@ No, and they work differently. Bonus depreciation can create a loss (Section 179
 - **[Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20)**
 - **[Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20)**
 
+## Sources & References
+
+- [SBA — Tax Benefits for Businesses](https://www.sba.gov/business-guide/manage-your-business/pay-taxes) — SBA overview of small business tax deductions
+- [IRS — Publication 946 Depreciation](https://www.irs.gov/publications/p946) — Detailed rules for depreciating and expensing business property
 
 *Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
 

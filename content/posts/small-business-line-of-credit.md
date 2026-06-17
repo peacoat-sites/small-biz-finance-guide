@@ -122,6 +122,10 @@ Applying when you're already in trouble is the third big mistake. Lenders smell 
 - **[Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20)**
 - **[Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)**
 
+## Sources & References
+
+- [SBA — Lines of Credit](https://www.sba.gov/funding-programs/loans) — explains SBA-backed credit options for small businesses
+- [CFPB — Small Business Lending](https://www.consumerfinance.gov/compliance/compliance-resources/small-business-lending-resources/) — regulatory guidance on small business credit products
 
 *Photo: [Lighten Up](https://www.pexels.com/@lightenup) via Pexels*
 

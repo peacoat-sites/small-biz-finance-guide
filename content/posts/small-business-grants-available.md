@@ -140,6 +140,10 @@ The business owner who gets a grant isn't always the one with the best business.
 - **[The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20)**
 - **[AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)**
 
+## Sources & References
+
+- [SBA — Grants overview](https://www.sba.gov/funding-programs/grants) — Federal small business grant programs and eligibility
+- [Grants.gov — Search grants](https://www.grants.gov/) — Official federal grant search and application portal
 
 *Photo: [Markus Winkler](https://www.pexels.com/@markus-winkler-1430818) via Pexels*
 

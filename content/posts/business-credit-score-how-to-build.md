@@ -143,6 +143,11 @@ Building business credit is one of those things that feels administrative and ea
 - **[The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20)**
 - **[Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)**
 
+## Sources & References
+
+- [SBA — Business credit overview](https://www.sba.gov/business-guide/plan-your-business/establish-business-credit) — explains establishing business credit separate from personal credit
+- [CFPB — Business vs personal credit differences](https://www.consumerfinance.gov/) — supports distinction between personal and business credit systems
+- [FTC — Business credit reports](https://www.ftc.gov/business-guidance/small-businesses) — guidance on business credit reporting and access
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

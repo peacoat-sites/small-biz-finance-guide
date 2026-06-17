@@ -133,6 +133,11 @@ Getting business insurance right isn't about buying every policy available or sp
 
 ---
 
+## Sources & References
+
+- [SBA — Business Insurance Overview](https://www.sba.gov/business-guide/launch-your-business/get-business-insurance) — Covers required vs. optional insurance types for small businesses
+- [III — Small Business Insurance](https://www.iii.org/article/small-business-insurance-basics) — Details commercial auto, general liability, and policy types
+
 ---
 
 ## Recommended Resources

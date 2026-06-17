@@ -107,6 +107,10 @@ Each individual account holder selects their own investments from whatever optio
 - **[Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20)**
 - **[Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20)**
 
+## Sources & References
+
+- [IRS — SEP Plan FAQs](https://www.irs.gov/retirement-plans/retirement-plans-faqs-regarding-seps) — Confirms SEP contribution limits and employer-only contribution structure
+- [IRS — SIMPLE IRA Plan FAQs](https://www.irs.gov/retirement-plans/retirement-plans-faqs-regarding-simple-ira-plans) — Confirms SIMPLE IRA employee contributions and required employer match
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

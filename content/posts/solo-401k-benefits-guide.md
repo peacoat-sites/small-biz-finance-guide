@@ -95,6 +95,10 @@ For deeper reading on retirement planning strategy for the self-employed, Mike P
 - **[The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20)**
 - **[Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20)**
 
+## Sources & References
+
+- [IRS — One-Participant 401(k) Plans](https://www.irs.gov/retirement-plans/one-participant-401k-plans) — Confirms Solo 401k rules, contribution limits, eligibility requirements
+- [IRS — Self-Employed Individuals Tax Center](https://www.irs.gov/businesses/small-businesses-self-employed/self-employed-individuals-tax-center) — Explains net self-employment compensation calculations
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

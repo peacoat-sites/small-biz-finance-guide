@@ -117,6 +117,11 @@ If you're trying to build more fluency around business financing decisions gener
 - **[The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20)**
 - **[Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20)**
 
+## Sources & References
+
+- [SBA — 7(a) Loans](https://www.sba.gov/funding-programs/loans/7a-loans) — Official details on 7(a) loan purposes, limits, and terms
+- [SBA — 504 Loans](https://www.sba.gov/funding-programs/loans/504-loans) — Official details on 504 loan structure and eligible uses
+- [SBA — Lender Match](https://www.sba.gov/funding-programs/loans/lender-match) — Tool to connect with SBA-approved lenders
 
 *Photo: [Leeloo The First](https://www.pexels.com/@leeloothefirst) via Pexels*
 

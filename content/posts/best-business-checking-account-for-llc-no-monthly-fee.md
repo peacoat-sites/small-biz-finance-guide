@@ -140,6 +140,11 @@ Your LLC's bank account isn't exciting, but it's one of the most practical decis
 - **[The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20)**
 - **[Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20)**
 
+## Sources & References
+
+- [SBA — Choose a business bank account](https://www.sba.gov/business-guide/launch-your-business/open-business-bank-account) — Supports need for separate LLC bank account
+- [IRS — Limited Liability Company (LLC)](https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc) — Supports LLC tax and recordkeeping requirements
+- [FDIC — Business Deposit Insurance](https://www.fdic.gov/resources/deposit-insurance/brochures/deposits-at-a-glance/) — Supports business account deposit protection claims
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

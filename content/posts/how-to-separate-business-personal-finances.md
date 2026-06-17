@@ -146,6 +146,11 @@ Getting your finances separated isn't a one-afternoon project you do and forget.
 - **[The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20)**
 - **[Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20)**
 
+## Sources & References
+
+- [SBA — Manage your finances](https://www.sba.gov/business-guide/manage-your-business/manage-your-finances) — Covers separating business/personal finances for small businesses
+- [IRS — Business expenses overview](https://www.irs.gov/businesses/small-businesses-self-employed/deducting-business-expenses) — Supports proper expense tracking for tax deductions
+- [NOLO — Piercing the corporate veil](https://www.nolo.com/legal-encyclopedia/personal-liability-piercing-corporate-veil-33006.html) — Explains corporate veil and commingling risks
 
 *Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
 

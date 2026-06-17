@@ -134,6 +134,12 @@ The SBA 7(a) is not a magic door. It's a well-structured, government-backed loan
 
 ---
 
+## Sources & References
+
+- [SBA — 7(a) Loans](https://www.sba.gov/funding-programs/loans/7a-loans) — Official program details, amounts, guarantee percentages, eligible uses
+- [SBA — Lender Match](https://www.sba.gov/funding-programs/loans/lender-match) — Explains how to find SBA-approved lenders
+- [SBA — 504 Loans](https://www.sba.gov/funding-programs/loans/504-loans) — Supports comparison with 504 loan program mentioned
+
 ---
 
 ## Recommended Resources

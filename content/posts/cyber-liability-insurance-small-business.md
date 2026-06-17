@@ -95,6 +95,10 @@ Insurers are paying attention to this now. Some policies require MFA as a condit
 - **[Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20)**
 - **[Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20)**
 
+## Sources & References
+
+- [FTC — Cybersecurity for Small Business](https://www.ftc.gov/business-guidance/small-businesses/cybersecurity) — supports cybersecurity fundamentals and breach response guidance
+- [SBA — Strengthen Your Cybersecurity](https://www.sba.gov/business-guide/manage-your-business/strengthen-your-cybersecurity) — supports small business cyber risk awareness
 
 *Photo: [Dan  Nelson](https://www.pexels.com/@dan-nelson-1667453) via Pexels*
 

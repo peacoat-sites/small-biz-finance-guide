@@ -145,6 +145,11 @@ The best thing you can do right now, whether you're five years from an exit or f
 
 ---
 
+## Sources & References
+
+- [SBA — Valuing a Business](https://www.sba.gov/business-guide/plan-your-business/calculate-your-startup-costs) — Government guidance on business planning and financial assessment
+- [IRS — Business Valuation Guidelines](https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-gift-taxes) — IRS guidance on valuation for tax and estate planning purposes
+
 ---
 
 ## Recommended Resources

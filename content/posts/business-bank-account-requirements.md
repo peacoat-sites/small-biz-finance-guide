@@ -159,6 +159,10 @@ Getting this right early is one of the highest-leverage things you can do for yo
 - **[Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20)**
 - **[The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20)**
 
+## Sources & References
+
+- [SBA — Open a business bank account](https://www.sba.gov/business-guide/launch-your-business/open-business-bank-account) — Explains why business accounts are necessary and basic requirements
+- [IRS — Recordkeeping for small businesses](https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping) — Supports need for separate financial records for tax compliance
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

@@ -158,6 +158,10 @@ Profit margin isn't a vanity metric for big companies with finance departments. 
 - **[Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20)**
 - **[Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20)**
 
+## Sources & References
+
+- [SBA — Understanding Financial Statements](https://www.sba.gov/business-guide/manage-your-business/manage-your-finances) — Explains profit margins and financial management for small businesses
+- [IRS — Business Expenses](https://www.irs.gov/businesses/small-businesses-self-employed/deducting-business-expenses) — Defines deductible business costs relevant to margin calculations
 
 *Photo: [Artem Podrez](https://www.pexels.com/@artempodrez) via Pexels*
 

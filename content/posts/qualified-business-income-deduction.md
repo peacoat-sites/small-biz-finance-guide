@@ -97,6 +97,11 @@ The expiration question is real. If the deduction sunsets at the end of 2025 as 
 - **[Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20)**
 - **[AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)**
 
+## Sources & References
+
+- [IRS — Qualified Business Income Deduction overview](https://www.irs.gov/newsroom/qualified-business-income-deduction) — Explains QBI deduction basics, eligibility, and income limits
+- [IRS — Tax Cuts and Jobs Act provisions](https://www.irs.gov/tax-reform) — Confirms TCJA created the deduction in 2017
+- [SBA — Choose a business structure](https://www.sba.gov/business-guide/launch-your-business/choose-business-structure) — Explains pass-through entities like sole props and S corps
 
 *Photo: [Towfiqu barbhuiya](https://www.pexels.com/@towfiqu-barbhuiya-3440682) via Pexels*
 

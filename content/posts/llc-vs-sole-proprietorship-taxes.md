@@ -121,6 +121,11 @@ The bottom line is that "LLC vs. sole proprietorship" isn't really a single ques
 - **[QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20)**
 - **[AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)**
 
+## Sources & References
+
+- [IRS — Self-Employment Tax (Schedule SE)](https://www.irs.gov/businesses/small-businesses-self-employed/self-employment-tax-social-security-and-medicare-taxes) — Explains 15.3% SE tax rate and calculation
+- [IRS — Single Member Limited Liability Companies](https://www.irs.gov/businesses/small-businesses-self-employed/single-member-limited-liability-companies) — Confirms default disregarded entity treatment for tax
+- [SBA — Choose a Business Structure](https://www.sba.gov/business-guide/launch-your-business/choose-business-structure) — Compares sole proprietorship vs LLC legal/tax basics
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

@@ -166,6 +166,10 @@ Hiring your first employee is one of the most meaningful milestones in a busines
 - **[Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)**
 - **[Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20)**
 
+## Sources & References
+
+- [IRS — Employer Tax Responsibilities](https://www.irs.gov/businesses/small-businesses-self-employed/employment-taxes) — Covers FICA, FUTA, and federal payroll tax obligations
+- [SBA — Hire and Manage Employees](https://www.sba.gov/business-guide/manage-your-business/hire-manage-employees) — Federal requirements for hiring first employee
 
 *Photo: [Thirdman](https://www.pexels.com/@thirdman) via Pexels*
 

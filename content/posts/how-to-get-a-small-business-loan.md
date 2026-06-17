@@ -146,6 +146,10 @@ Getting a small business loan is not a mysterious process reserved for businesse
 - **[Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20)**
 - **[Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20)**
 
+## Sources & References
+
+- [SBA — Fund your business](https://www.sba.gov/business-guide/plan-your-business/fund-your-business) — Covers SBA loan programs and application basics
+- [CFPB — Small business lending](https://www.consumerfinance.gov/rules-policy/small-business-lending/) — Consumer protections and lender requirements
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

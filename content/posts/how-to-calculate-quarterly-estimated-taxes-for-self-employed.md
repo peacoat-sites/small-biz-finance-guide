@@ -119,6 +119,10 @@ The honest truth is that calculated quarterly payments feel complicated until yo
 - **[Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20)**
 - **[The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20)**
 
+## Sources & References
+
+- [IRS — Self-Employment Tax (Schedule SE)](https://www.irs.gov/businesses/small-businesses-self-employed/self-employment-tax-social-security-and-medicare-taxes) — Explains 15.3% SE tax rate and calculation method
+- [IRS — Form 1040-ES Instructions](https://www.irs.gov/forms-pubs/about-form-1040-es) — Official quarterly estimated tax form and payment instructions
 
 *Photo: [Leeloo The First](https://www.pexels.com/@leeloothefirst) via Pexels*
 

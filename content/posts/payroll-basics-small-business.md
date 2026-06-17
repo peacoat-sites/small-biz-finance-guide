@@ -141,6 +141,12 @@ Getting payroll right is fundamentally about discipline and setup. The mechanics
 
 ---
 
+## Sources & References
+
+- [IRS — Employment Taxes for Small Businesses](https://www.irs.gov/businesses/small-businesses-self-employed/employment-taxes) — covers withholding, deposits, and employer tax obligations
+- [IRS — Independent Contractor vs Employee](https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee) — explains worker classification rules to avoid misclassification
+- [SBA — Hire and Manage Employees](https://www.sba.gov/business-guide/manage-your-business/hire-manage-employees) — overview of payroll setup and compliance for small businesses
+
 ---
 
 ## Recommended Resources

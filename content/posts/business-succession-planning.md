@@ -97,6 +97,10 @@ The research here is somewhat mixed on whether family successions outperform out
 - **[Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)**
 - **[AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)**
 
+## Sources & References
+
+- [SBA — Plan for business succession](https://www.sba.gov/business-guide/manage-your-business/close-or-sell-your-business) — Federal guidance on succession planning and exit strategies
+- [NAIC — Life insurance for business owners](https://content.naic.org/consumer/life-insurance.htm) — Explains life insurance as succession funding mechanism
 
 *Photo: [Sora Shimazaki](https://www.pexels.com/@sora-shimazaki) via Pexels*
 
