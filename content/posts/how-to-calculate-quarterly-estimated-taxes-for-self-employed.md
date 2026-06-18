@@ -38,7 +38,7 @@ The IRS generally expects quarterly payments if you'll owe $1,000 or more in fed
   <div class="vm-body">
     <p class="vm-intro">Choose your quarterly payment strategy based on your income trajectory and tolerance for complexity.</p>
     <table><thead><tr><th>Your Situation</th><th>Best Method</th><th>Quarterly Payment Formula</th><th>Why It Works</th></tr></thead><tbody><tr><td>Income roughly stable year-over-year</td><td>100% of prior year</td><td>Last year's Line 24 ÷ 4</td><td>Zero estimation required; guaranteed penalty-free</td></tr><tr><td>Income growing significantly this year</td><td>100% of prior year</td><td>Last year's Line 24 ÷ 4</td><td>You'll owe a lump sum in April but no penalties; preserves cash flow during growth</td></tr><tr><td>Income dropping 20%+ from last year</td><td>90% of current year</td><td>(Projected income × effective tax rate × 0.90) ÷ 4</td><td>Avoids overpaying; requires quarterly income tracking</td></tr><tr><td>Prior year AGI exceeded $150K ($75K MFS)</td><td>110% of prior year</td><td>Last year's Line 24 × 1.10 ÷ 4</td><td>Higher threshold required for safe harbor protection</td></tr><tr><td>First year of self-employment</td><td>90% of current year</td><td>(Projected income × effective tax rate × 0.90) ÷ 4</td><td>No prior return baseline exists; use conservative income estimate</td></tr><tr><td>Highly variable income (seasonal/project-based)</td><td>Annualized income method</td><td>Recalculate cumulative liability each quarter using Form 2210 Schedule AI</td><td>Matches payments to actual earning periods; most complex but most precise</td></tr></tbody></table>
-    <p class="vm-note">Illustrative general information — confirm current figures for your situation.</p>
+    <p class="vm-note">Illustrative general information, confirm current figures for your situation.</p>
   </div>
 </div>
 
@@ -121,8 +121,8 @@ The honest truth is that calculated quarterly payments feel complicated until yo
 
 ## Sources & References
 
-- [IRS — Self-Employment Tax (Schedule SE)](https://www.irs.gov/businesses/small-businesses-self-employed/self-employment-tax-social-security-and-medicare-taxes) — Explains 15.3% SE tax rate and calculation method
-- [IRS — Form 1040-ES Instructions](https://www.irs.gov/forms-pubs/about-form-1040-es) — Official quarterly estimated tax form and payment instructions
+- [IRS, Self-Employment Tax (Schedule SE)](https://www.irs.gov/businesses/small-businesses-self-employed/self-employment-tax-social-security-and-medicare-taxes), Explains 15.3% SE tax rate and calculation method
+- [IRS, Form 1040-ES Instructions](https://www.irs.gov/forms-pubs/about-form-1040-es), Official quarterly estimated tax form and payment instructions
 
 *Photo: [Leeloo The First](https://www.pexels.com/@leeloothefirst) via Pexels*
 
@@ -138,6 +138,6 @@ The honest truth is that calculated quarterly payments feel complicated until yo
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

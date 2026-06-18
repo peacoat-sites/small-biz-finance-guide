@@ -98,8 +98,8 @@ No, and they work differently. Bonus depreciation can create a loss (Section 179
 
 ## Sources & References
 
-- [SBA — Tax Benefits for Businesses](https://www.sba.gov/business-guide/manage-your-business/pay-taxes) — SBA overview of small business tax deductions
-- [IRS — Publication 946 Depreciation](https://www.irs.gov/publications/p946) — Detailed rules for depreciating and expensing business property
+- [SBA, Tax Benefits for Businesses](https://www.sba.gov/business-guide/manage-your-business/pay-taxes), SBA overview of small business tax deductions
+- [IRS, Publication 946 Depreciation](https://www.irs.gov/publications/p946), Detailed rules for depreciating and expensing business property
 
 *Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
 
@@ -113,6 +113,6 @@ No, and they work differently. Bonus depreciation can create a loss (Section 179
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

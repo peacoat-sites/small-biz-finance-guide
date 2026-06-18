@@ -91,8 +91,8 @@ If you're already in an MCA and feeling the pressure, you're not alone and you'r
 
 ## Sources & References
 
-- [CFPB — What is a merchant cash advance?](https://www.consumerfinance.gov/) — Consumer finance guidance on alternative lending products
-- [SBA — Fund Your Business](https://www.sba.gov/business-guide/plan-your-business/fund-your-business) — Compares traditional vs alternative small business financing
+- [CFPB, What is a merchant cash advance?](https://www.consumerfinance.gov/), Consumer finance guidance on alternative lending products
+- [SBA, Fund Your Business](https://www.sba.gov/business-guide/plan-your-business/fund-your-business), Compares traditional vs alternative small business financing
 
 *Photo: [Berna](https://www.pexels.com/@mibernaa) via Pexels*
 
@@ -106,6 +106,6 @@ If you're already in an MCA and feeling the pressure, you're not alone and you'r
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

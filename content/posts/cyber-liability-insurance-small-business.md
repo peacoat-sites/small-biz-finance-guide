@@ -38,7 +38,7 @@ Cyber liability insurance covers your business when a data breach, cyberattack, 
   <div class="vm-body">
     <p class="vm-intro">Use this matrix to compare what different cyber liability policy tiers typically include before you request quotes.</p>
     <table><thead><tr><th>Coverage Component</th><th>Basic Policy</th><th>Standard Policy</th><th>Comprehensive Policy</th><th>Why It Matters</th></tr></thead><tbody><tr><td>Breach notification costs</td><td>Included</td><td>Included</td><td>Included</td><td>Mandatory in most states; costs add up fast with large customer lists</td></tr><tr><td>Forensic investigation</td><td>Limited (often capped at $25K–$50K)</td><td>Included</td><td>Included</td><td>Finding the breach source typically requires outside specialists</td></tr><tr><td>Business interruption</td><td>Rarely included</td><td>Included with waiting period (often 8–12 hours)</td><td>Included with shorter waiting period</td><td>Covers lost revenue while systems are down</td></tr><tr><td>Ransomware payments</td><td>Excluded</td><td>Sub-limited (often 50% of policy limit)</td><td>Included up to full limit</td><td>Check for required pre-approval and negotiation services</td></tr><tr><td>Regulatory fines and penalties</td><td>Excluded</td><td>Limited coverage</td><td>Included where legally insurable</td><td>HIPAA, PCI-DSS, state privacy law violations can trigger fines</td></tr><tr><td>Third-party lawsuits</td><td>Excluded or minimal</td><td>Included</td><td>Included</td><td>Customer or partner claims for damages from your breach</td></tr><tr><td>Social engineering fraud</td><td>Excluded</td><td>Optional rider</td><td>Often included or optional</td><td>Covers losses when employees are tricked into transfers</td></tr><tr><td>Reputational harm/PR costs</td><td>Excluded</td><td>Optional rider</td><td>Included</td><td>Crisis communications to rebuild customer trust</td></tr><tr><td>Typical annual premium range (illustrative, for under $1M revenue)</td><td>$500–$1,500</td><td>$1,500–$3,500</td><td>$3,500–$7,500+</td><td>Varies significantly by industry, data volume, and security posture</td></tr></tbody></table>
-    <p class="vm-note">Illustrative general information — confirm current figures for your situation.</p>
+    <p class="vm-note">Illustrative general information, confirm current figures for your situation.</p>
   </div>
 </div>
 
@@ -97,8 +97,8 @@ Insurers are paying attention to this now. Some policies require MFA as a condit
 
 ## Sources & References
 
-- [FTC — Cybersecurity for Small Business](https://www.ftc.gov/business-guidance/small-businesses/cybersecurity) — supports cybersecurity fundamentals and breach response guidance
-- [SBA — Strengthen Your Cybersecurity](https://www.sba.gov/business-guide/manage-your-business/strengthen-your-cybersecurity) — supports small business cyber risk awareness
+- [FTC, Cybersecurity for Small Business](https://www.ftc.gov/business-guidance/small-businesses/cybersecurity), supports cybersecurity fundamentals and breach response guidance
+- [SBA, Strengthen Your Cybersecurity](https://www.sba.gov/business-guide/manage-your-business/strengthen-your-cybersecurity), supports small business cyber risk awareness
 
 *Photo: [Dan  Nelson](https://www.pexels.com/@dan-nelson-1667453) via Pexels*
 
@@ -112,8 +112,8 @@ Insurers are paying attention to this now. Some policies require MFA as a condit
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-- **[Ring Alarm 8-Piece Kit + Video Doorbell Bundle](https://www.amazon.com/dp/B08KKNM4LG/?tag=contentportfo-20)** (~$299) — Complete home security kit with video doorbell — documents visitors and can lower home insurance premiums by up to 20%.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Ring Alarm 8-Piece Kit + Video Doorbell Bundle](https://www.amazon.com/dp/B08KKNM4LG/?tag=contentportfo-20)** (~$299), Complete home security kit with video doorbell, documents visitors and can lower home insurance premiums by up to 20%.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
 

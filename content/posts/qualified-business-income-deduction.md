@@ -99,9 +99,9 @@ The expiration question is real. If the deduction sunsets at the end of 2025 as 
 
 ## Sources & References
 
-- [IRS — Qualified Business Income Deduction overview](https://www.irs.gov/newsroom/qualified-business-income-deduction) — Explains QBI deduction basics, eligibility, and income limits
-- [IRS — Tax Cuts and Jobs Act provisions](https://www.irs.gov/tax-reform) — Confirms TCJA created the deduction in 2017
-- [SBA — Choose a business structure](https://www.sba.gov/business-guide/launch-your-business/choose-business-structure) — Explains pass-through entities like sole props and S corps
+- [IRS, Qualified Business Income Deduction overview](https://www.irs.gov/newsroom/qualified-business-income-deduction), Explains QBI deduction basics, eligibility, and income limits
+- [IRS, Tax Cuts and Jobs Act provisions](https://www.irs.gov/tax-reform), Confirms TCJA created the deduction in 2017
+- [SBA, Choose a business structure](https://www.sba.gov/business-guide/launch-your-business/choose-business-structure), Explains pass-through entities like sole props and S corps
 
 *Photo: [Towfiqu barbhuiya](https://www.pexels.com/@towfiqu-barbhuiya-3440682) via Pexels*
 
@@ -115,6 +115,6 @@ The expiration question is real. If the deduction sunsets at the end of 2025 as 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

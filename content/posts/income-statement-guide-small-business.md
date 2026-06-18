@@ -149,8 +149,8 @@ The income statement isn't the most exciting document in your business, but it m
 
 ## Sources & References
 
-- [SBA — Financial Statements](https://www.sba.gov/business-guide/manage-your-business/manage-your-finances) — Supports definitions and importance of financial statements for small business
-- [IRS — Business Expenses](https://www.irs.gov/businesses/small-businesses-self-employed/deducting-business-expenses) — Supports expense categories relevant to income statement preparation
+- [SBA, Financial Statements](https://www.sba.gov/business-guide/manage-your-business/manage-your-finances), Supports definitions and importance of financial statements for small business
+- [IRS, Business Expenses](https://www.irs.gov/businesses/small-businesses-self-employed/deducting-business-expenses), Supports expense categories relevant to income statement preparation
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
@@ -166,6 +166,6 @@ The income statement isn't the most exciting document in your business, but it m
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

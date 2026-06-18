@@ -139,9 +139,9 @@ The quarterly estimated tax system isn't complicated once you've done it a year 
 
 ## Sources & References
 
-- [IRS — Estimated Taxes](https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes) — Explains who must pay, due dates, and $1,000 threshold
-- [IRS — Self-Employment Tax](https://www.irs.gov/businesses/small-businesses-self-employed/self-employment-tax-social-security-and-medicare-taxes) — Covers Social Security and Medicare obligations for self-employed
-- [IRS — Form 1040-ES](https://www.irs.gov/forms-pubs/about-form-1040-es) — Official form and instructions for calculating estimated payments
+- [IRS, Estimated Taxes](https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes), Explains who must pay, due dates, and $1,000 threshold
+- [IRS, Self-Employment Tax](https://www.irs.gov/businesses/small-businesses-self-employed/self-employment-tax-social-security-and-medicare-taxes), Covers Social Security and Medicare obligations for self-employed
+- [IRS, Form 1040-ES](https://www.irs.gov/forms-pubs/about-form-1040-es), Official form and instructions for calculating estimated payments
 
 *Photo: [Mark Youso](https://www.pexels.com/@mark-youso-420893752) via Pexels*
 
@@ -157,6 +157,6 @@ The quarterly estimated tax system isn't complicated once you've done it a year 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

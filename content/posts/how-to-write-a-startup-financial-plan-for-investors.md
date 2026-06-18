@@ -38,9 +38,9 @@ I've reviewed hundreds of these over the years, and I can tell you with some con
 <div class="value-module">
   <div class="vm-head">Unit Economics Sanity-Check Table</div>
   <div class="vm-body">
-    <p class="vm-intro">Use this worksheet to pressure-test your core numbers before an investor does—if any row lands in the red zone, pause and fix the math before you pitch.</p>
+    <p class="vm-intro">Use this worksheet to pressure-test your core numbers before an investor does-if any row lands in the red zone, pause and fix the math before you pitch.</p>
     <table><thead><tr><th>Metric</th><th>How to Calculate</th><th>Healthy Zone (Illustrative)</th><th>Warning Sign</th></tr></thead><tbody><tr><td>Customer Acquisition Cost (CAC)</td><td>Total sales &amp; marketing spend ÷ new customers acquired</td><td>Recoverable within 12 months of gross profit</td><td>CAC payback &gt; 18 months</td></tr><tr><td>Lifetime Value (LTV)</td><td>Avg. revenue per customer × gross margin % × avg. customer lifespan</td><td>≥ 3× CAC for venture-scale businesses</td><td>LTV:CAC below 2:1</td></tr><tr><td>Gross Margin</td><td>(Revenue − direct costs) ÷ revenue</td><td>Software ≥ 70%; services ≥ 40%; physical goods ≥ 30%</td><td>Margins below industry floor without clear scale path</td></tr><tr><td>Monthly Burn Rate</td><td>Cash out − cash in over a month</td><td>≥ 12 months runway at current burn</td><td>&lt; 6 months runway without funded plan</td></tr><tr><td>Revenue per Employee (at scale)</td><td>Annual revenue ÷ FTEs</td><td>SaaS benchmark: $150K–$300K+ at maturity</td><td>Projecting &lt; $100K/employee in Year 3+</td></tr></tbody></table>
-    <p class="vm-note">Illustrative general information — confirm current figures for your situation.</p>
+    <p class="vm-note">Illustrative general information, confirm current figures for your situation.</p>
   </div>
 </div>
 
@@ -148,6 +148,6 @@ Get the assumptions right. Know every number well enough to defend it from three
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

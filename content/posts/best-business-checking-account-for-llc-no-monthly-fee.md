@@ -142,9 +142,9 @@ Your LLC's bank account isn't exciting, but it's one of the most practical decis
 
 ## Sources & References
 
-- [SBA — Choose a business bank account](https://www.sba.gov/business-guide/launch-your-business/open-business-bank-account) — Supports need for separate LLC bank account
-- [IRS — Limited Liability Company (LLC)](https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc) — Supports LLC tax and recordkeeping requirements
-- [FDIC — Business Deposit Insurance](https://www.fdic.gov/resources/deposit-insurance/brochures/deposits-at-a-glance/) — Supports business account deposit protection claims
+- [SBA, Choose a business bank account](https://www.sba.gov/business-guide/launch-your-business/open-business-bank-account), Supports need for separate LLC bank account
+- [IRS, Limited Liability Company (LLC)](https://www.irs.gov/businesses/small-businesses-self-employed/limited-liability-company-llc), Supports LLC tax and recordkeeping requirements
+- [FDIC, Business Deposit Insurance](https://www.fdic.gov/resources/deposit-insurance/brochures/deposits-at-a-glance/), Supports business account deposit protection claims
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
@@ -160,7 +160,7 @@ Your LLC's bank account isn't exciting, but it's one of the most practical decis
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-- **[QuickBooks Small Business Bookkeeping Guide](https://www.amazon.com/dp/0692957790/?tag=contentportfo-20)** (~$17) — Compact, practical QuickBooks pocket guide — ideal for new business owners setting up accounting for the first time.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[QuickBooks Small Business Bookkeeping Guide](https://www.amazon.com/dp/0692957790/?tag=contentportfo-20)** (~$17), Compact, practical QuickBooks pocket guide, ideal for new business owners setting up accounting for the first time.
 

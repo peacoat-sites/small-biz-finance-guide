@@ -119,9 +119,9 @@ If you're trying to build more fluency around business financing decisions gener
 
 ## Sources & References
 
-- [SBA — 7(a) Loans](https://www.sba.gov/funding-programs/loans/7a-loans) — Official details on 7(a) loan purposes, limits, and terms
-- [SBA — 504 Loans](https://www.sba.gov/funding-programs/loans/504-loans) — Official details on 504 loan structure and eligible uses
-- [SBA — Lender Match](https://www.sba.gov/funding-programs/loans/lender-match) — Tool to connect with SBA-approved lenders
+- [SBA, 7(a) Loans](https://www.sba.gov/funding-programs/loans/7a-loans), Official details on 7(a) loan purposes, limits, and terms
+- [SBA, 504 Loans](https://www.sba.gov/funding-programs/loans/504-loans), Official details on 504 loan structure and eligible uses
+- [SBA, Lender Match](https://www.sba.gov/funding-programs/loans/lender-match), Tool to connect with SBA-approved lenders
 
 *Photo: [Leeloo The First](https://www.pexels.com/@leeloothefirst) via Pexels*
 
@@ -137,6 +137,6 @@ If you're trying to build more fluency around business financing decisions gener
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

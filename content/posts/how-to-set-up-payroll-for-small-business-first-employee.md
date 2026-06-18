@@ -40,7 +40,7 @@ So let's do that.
   <div class="vm-body">
     <p class="vm-intro">Use this checklist to track every required step from hire date through your first quarterly filing cycle.</p>
     <table><caption>First-Employee Payroll Setup Checklist</caption><thead><tr><th>Step</th><th>What It Is</th><th>Deadline or Timing</th><th>Where to File/Store</th></tr></thead><tbody><tr><td>1. Obtain EIN</td><td>Federal employer identification number</td><td>Before first payroll runs</td><td>IRS.gov (online, immediate)</td></tr><tr><td>2. State employer registration</td><td>Withholding tax account + unemployment insurance account</td><td>Before first payroll; some states require within 20 days of first wages</td><td>State revenue dept + workforce agency</td></tr><tr><td>3. Collect Form W-4</td><td>Employee's federal withholding elections</td><td>On or before first day of work</td><td>Keep in payroll file (do not send to IRS)</td></tr><tr><td>4. Complete Form I-9</td><td>Employment eligibility verification</td><td>Section 1: Day 1; Section 2: within 3 business days of start</td><td>Separate I-9 binder (retain 3 years after hire or 1 year after termination, whichever is later)</td></tr><tr><td>5. Report new hire</td><td>State new-hire reporting (child support enforcement)</td><td>Typically within 20 days of hire (varies by state)</td><td>State new-hire directory</td></tr><tr><td>6. Run first payroll</td><td>Calculate gross pay, withhold FICA (6.2% SS + 1.45% Medicare), federal/state income tax</td><td>On your established pay date</td><td>Payroll system or manual ledger</td></tr><tr><td>7. Deposit withheld taxes</td><td>Federal income tax + employee/employer FICA</td><td>Monthly or semi-weekly based on total liability (most new employers: by 15th of following month)</td><td>EFTPS.gov (electronic deposit required)</td></tr><tr><td>8. File Form 941</td><td>Quarterly federal payroll tax return</td><td>Last day of month following quarter end (Apr 30, Jul 31, Oct 31, Jan 31)</td><td>IRS (e-file or mail)</td></tr><tr><td>9. File Form 940</td><td>Annual federal unemployment (FUTA) tax return</td><td>January 31 following the tax year</td><td>IRS</td></tr><tr><td>10. Provide Form W-2</td><td>Annual wage and tax statement to employee</td><td>By January 31 for prior year</td><td>Employee + SSA (Copy A)</td></tr></tbody></table>
-    <p class="vm-note">Illustrative general information — confirm current figures for your situation.</p>
+    <p class="vm-note">Illustrative general information, confirm current figures for your situation.</p>
   </div>
 </div>
 
@@ -157,10 +157,10 @@ You don't have to get this perfect from day one. But you do have to get the foun
 
 ## Sources & References
 
-- [IRS — Employer ID Numbers](https://www.irs.gov/businesses/small-businesses-self-employed/employer-id-numbers) — EIN requirements and online application process
-- [IRS — Employment Taxes for Small Businesses](https://www.irs.gov/businesses/small-businesses-self-employed/employment-taxes) — Supports Form 940, withholding, quarterly filing obligations
-- [USCIS — I-9 Central](https://www.uscis.gov/i-9-central) — Form I-9 completion requirements and timing rules
-- [SBA — Hire and Manage Employees](https://www.sba.gov/business-guide/manage-your-business/hire-manage-employees) — Overview of state registration and payroll setup steps
+- [IRS, Employer ID Numbers](https://www.irs.gov/businesses/small-businesses-self-employed/employer-id-numbers), EIN requirements and online application process
+- [IRS, Employment Taxes for Small Businesses](https://www.irs.gov/businesses/small-businesses-self-employed/employment-taxes), Supports Form 940, withholding, quarterly filing obligations
+- [USCIS, I-9 Central](https://www.uscis.gov/i-9-central), Form I-9 completion requirements and timing rules
+- [SBA, Hire and Manage Employees](https://www.sba.gov/business-guide/manage-your-business/hire-manage-employees), Overview of state registration and payroll setup steps
 
 *Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 
@@ -176,6 +176,6 @@ You don't have to get this perfect from day one. But you do have to get the foun
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

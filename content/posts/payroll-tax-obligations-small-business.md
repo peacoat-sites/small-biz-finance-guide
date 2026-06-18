@@ -148,10 +148,10 @@ Payroll taxes are one of those areas where the cost of ignorance is genuinely hi
 
 ## Sources & References
 
-- [IRS — Employment Taxes for Small Business](https://www.irs.gov/businesses/small-businesses-self-employed/employment-taxes) — Explains employer payroll tax obligations, FICA, withholding requirements
-- [IRS — Depositing and Reporting Employment Taxes](https://www.irs.gov/businesses/small-businesses-self-employed/depositing-and-reporting-employment-taxes) — Covers deposit schedules and penalties for late payments
-- [SBA — Employer Responsibilities When Hiring](https://www.sba.gov/business-guide/manage-your-business/hire-manage-employees) — Overview of federal employer obligations including payroll taxes
-- [IRS — Understanding Employment Taxes](https://www.irs.gov/businesses/small-businesses-self-employed/understanding-employment-taxes) — Breaks down FICA rates and wage base thresholds
+- [IRS, Employment Taxes for Small Business](https://www.irs.gov/businesses/small-businesses-self-employed/employment-taxes), Explains employer payroll tax obligations, FICA, withholding requirements
+- [IRS, Depositing and Reporting Employment Taxes](https://www.irs.gov/businesses/small-businesses-self-employed/depositing-and-reporting-employment-taxes), Covers deposit schedules and penalties for late payments
+- [SBA, Employer Responsibilities When Hiring](https://www.sba.gov/business-guide/manage-your-business/hire-manage-employees), Overview of federal employer obligations including payroll taxes
+- [IRS, Understanding Employment Taxes](https://www.irs.gov/businesses/small-businesses-self-employed/understanding-employment-taxes), Breaks down FICA rates and wage base thresholds
 
 ---
 
@@ -159,6 +159,6 @@ Payroll taxes are one of those areas where the cost of ignorance is genuinely hi
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

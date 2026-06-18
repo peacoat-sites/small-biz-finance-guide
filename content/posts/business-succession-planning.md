@@ -34,9 +34,9 @@ That story is not unusual. It is, in fact, the default outcome when there's no p
 <div class="value-module">
   <div class="vm-head">Succession Readiness Self-Assessment Checklist</div>
   <div class="vm-body">
-    <p class="vm-intro">Use this checklist to gauge how prepared your business is for ownership transition—each item includes a threshold that separates 'ready' from 'at risk.'</p>
+    <p class="vm-intro">Use this checklist to gauge how prepared your business is for ownership transition-each item includes a threshold that separates 'ready' from 'at risk.'</p>
     <ul><li><strong>Formal business valuation:</strong> Completed by qualified professional within past 24 months. <em>At risk if:</em> Last valuation is 3+ years old or never performed.</li><li><strong>Buy-sell agreement:</strong> Legally binding document exists covering death, disability, divorce, and voluntary exit. <em>At risk if:</em> Agreement is absent, unsigned, or hasn't been reviewed since ownership or valuation changed.</li><li><strong>Funding mechanism for buyout:</strong> Life insurance, installment terms, or reserve fund sized to at least 60% of current valuation. <em>At risk if:</em> No identified funding source or coverage under 40% of estimated value.</li><li><strong>Key-person documentation:</strong> Written roles, responsibilities, and decision authority for top 3 operational leaders. <em>At risk if:</em> Owner is single point of failure for customer relationships, vendor terms, or daily operations.</li><li><strong>Financial records accessibility:</strong> Spouse, successor, or designated agent can locate bank accounts, tax returns, and P&L within 48 hours. <em>At risk if:</em> Critical records exist only in owner's head or personal devices without shared access.</li><li><strong>Management depth test:</strong> Business has operated 2+ weeks without owner involvement at least once in past 3 years. <em>At risk if:</em> Owner has never taken extended absence or operations degraded significantly when attempted.</li><li><strong>Successor identification:</strong> At least one internal or external candidate formally identified and communicated to advisors. <em>At risk if:</em> No successor named or succession relies entirely on future sale to unknown buyer.</li><li><strong>Legal structure review:</strong> Entity type, operating agreement, and ownership percentages reviewed by attorney within past 36 months. <em>At risk if:</em> Documents are outdated, missing, or inconsistent with current ownership reality.</li></ul>
-    <p class="vm-note">Illustrative general information — confirm current figures for your situation.</p>
+    <p class="vm-note">Illustrative general information, confirm current figures for your situation.</p>
   </div>
 </div>
 
@@ -99,8 +99,8 @@ The research here is somewhat mixed on whether family successions outperform out
 
 ## Sources & References
 
-- [SBA — Plan for business succession](https://www.sba.gov/business-guide/manage-your-business/close-or-sell-your-business) — Federal guidance on succession planning and exit strategies
-- [NAIC — Life insurance for business owners](https://content.naic.org/consumer/life-insurance.htm) — Explains life insurance as succession funding mechanism
+- [SBA, Plan for business succession](https://www.sba.gov/business-guide/manage-your-business/close-or-sell-your-business), Federal guidance on succession planning and exit strategies
+- [NAIC, Life insurance for business owners](https://content.naic.org/consumer/life-insurance.htm), Explains life insurance as succession funding mechanism
 
 *Photo: [Sora Shimazaki](https://www.pexels.com/@sora-shimazaki) via Pexels*
 
@@ -114,6 +114,6 @@ The research here is somewhat mixed on whether family successions outperform out
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

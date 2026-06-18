@@ -125,8 +125,8 @@ If you're running a business in a rural area and you've been told no too many ti
 
 ## Sources & References
 
-- [USDA — Rural Eligibility Site](https://eligibility.sc.egov.usda.gov/eligibility/welcomeAction.do) — Address lookup tool for rural area eligibility
-- [SBA — Rural Lender Advantage](https://www.sba.gov/partners/lenders/7a-loan-program) — Context on SBA rural lending partnerships
+- [USDA, Rural Eligibility Site](https://eligibility.sc.egov.usda.gov/eligibility/welcomeAction.do), Address lookup tool for rural area eligibility
+- [SBA, Rural Lender Advantage](https://www.sba.gov/partners/lenders/7a-loan-program), Context on SBA rural lending partnerships
 
 ---
 
@@ -134,7 +134,7 @@ If you're running a business in a rural area and you've been told no too many ti
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-- **[How to Buy Your Perfect First Home](https://www.amazon.com/dp/1731350120/?tag=contentportfo-20)** (~$14) — Practical step-by-step guide to qualifying for a mortgage, budgeting correctly, and navigating the full homebuying process.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[How to Buy Your Perfect First Home](https://www.amazon.com/dp/1731350120/?tag=contentportfo-20)** (~$14), Practical step-by-step guide to qualifying for a mortgage, budgeting correctly, and navigating the full homebuying process.
 

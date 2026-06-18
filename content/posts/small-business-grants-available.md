@@ -142,8 +142,8 @@ The business owner who gets a grant isn't always the one with the best business.
 
 ## Sources & References
 
-- [SBA — Grants overview](https://www.sba.gov/funding-programs/grants) — Federal small business grant programs and eligibility
-- [Grants.gov — Search grants](https://www.grants.gov/) — Official federal grant search and application portal
+- [SBA, Grants overview](https://www.sba.gov/funding-programs/grants), Federal small business grant programs and eligibility
+- [Grants.gov, Search grants](https://www.grants.gov/), Official federal grant search and application portal
 
 *Photo: [Markus Winkler](https://www.pexels.com/@markus-winkler-1430818) via Pexels*
 
@@ -159,6 +159,6 @@ The business owner who gets a grant isn't always the one with the best business.
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

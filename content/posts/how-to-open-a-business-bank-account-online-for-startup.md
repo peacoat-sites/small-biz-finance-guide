@@ -34,7 +34,7 @@ Most articles about opening a business bank account spend 800 words telling you 
   <div class="vm-body">
     <p class="vm-intro">This decision matrix compares the major online-first business banks across criteria that actually matter for startups in their first two years.</p>
     <table><thead><tr><th>Bank</th><th>Monthly Fee</th><th>APY on Balances</th><th>Sub-Accounts</th><th>Approval Speed</th><th>Best For</th><th>Key Limitation</th></tr></thead><tbody><tr><td>Mercury</td><td>$0</td><td>None on basic</td><td>Unlimited</td><td>1–3 business days</td><td>Tech/product startups planning to raise capital</td><td>No cash deposits; limited integrations with traditional accounting</td></tr><tr><td>Relay</td><td>$0</td><td>None</td><td>Up to 20</td><td>1–2 business days</td><td>Service businesses using profit-first or envelope budgeting</td><td>No interest earnings; no physical branch access</td></tr><tr><td>Bluevine</td><td>$0</td><td>Up to 2%+ (variable; check current rates)</td><td>1 primary</td><td>1–2 business days</td><td>Businesses holding $20K+ in operating reserves</td><td>Fewer sub-accounts; interest tiers require minimum balances</td></tr><tr><td>Novo</td><td>$0</td><td>None</td><td>Reserve buckets</td><td>1–3 business days</td><td>Freelancers and microbusinesses wanting app integrations</td><td>Slower customer support response times reported</td></tr><tr><td>Chase Business Complete</td><td>$15 (waivable)</td><td>None</td><td>1 primary</td><td>Same day (branch) or 3–5 days online</td><td>Businesses planning SBA loans or needing cash deposit access</td><td>Fee requires $2K minimum balance to waive; fewer startup-friendly features</td></tr></tbody></table>
-    <p class="vm-note">Illustrative general information — confirm current figures for your situation.</p>
+    <p class="vm-note">Illustrative general information, confirm current figures for your situation.</p>
   </div>
 </div>
 
@@ -118,9 +118,9 @@ Once you have payroll, contractors, or multiple revenue streams, it's worth talk
 
 ## Sources & References
 
-- [SBA — Choose a business bank account](https://www.sba.gov/business-guide/launch-your-business/open-business-bank-account) — Supports requirements for opening business bank accounts
-- [IRS — Employer Identification Number (EIN)](https://www.irs.gov/businesses/small-businesses-self-employed/employer-id-numbers) — Supports EIN requirements for business banking
-- [FDIC — Deposit Insurance Overview](https://www.fdic.gov/resources/deposit-insurance/) — Supports understanding of business deposit protection
+- [SBA, Choose a business bank account](https://www.sba.gov/business-guide/launch-your-business/open-business-bank-account), Supports requirements for opening business bank accounts
+- [IRS, Employer Identification Number (EIN)](https://www.irs.gov/businesses/small-businesses-self-employed/employer-id-numbers), Supports EIN requirements for business banking
+- [FDIC, Deposit Insurance Overview](https://www.fdic.gov/resources/deposit-insurance/), Supports understanding of business deposit protection
 
 *Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
 
@@ -134,6 +134,6 @@ Once you have payroll, contractors, or multiple revenue streams, it's worth talk
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

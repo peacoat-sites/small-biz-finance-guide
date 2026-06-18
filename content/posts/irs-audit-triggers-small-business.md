@@ -92,10 +92,10 @@ If you want a deeper framework for thinking about all of this, Frederick Dailey'
 
 ## Sources & References
 
-- [IRS — Audit Techniques Guides](https://www.irs.gov/businesses/small-businesses-self-employed/audit-techniques-guides-atgs) — IRS guidance on how business audits are conducted
-- [IRS — Business Use of Car Deduction](https://www.irs.gov/taxtopics/tc510) — Official rules on vehicle expense deductions
-- [IRS — Home Office Deduction](https://www.irs.gov/businesses/small-businesses-self-employed/home-office-deduction) — Requirements for claiming home office deductions
-- [SBA — Small Business Taxes](https://www.sba.gov/business-guide/manage-your-business/pay-taxes) — Federal guidance on small business tax compliance
+- [IRS, Audit Techniques Guides](https://www.irs.gov/businesses/small-businesses-self-employed/audit-techniques-guides-atgs), IRS guidance on how business audits are conducted
+- [IRS, Business Use of Car Deduction](https://www.irs.gov/taxtopics/tc510), Official rules on vehicle expense deductions
+- [IRS, Home Office Deduction](https://www.irs.gov/businesses/small-businesses-self-employed/home-office-deduction), Requirements for claiming home office deductions
+- [SBA, Small Business Taxes](https://www.sba.gov/business-guide/manage-your-business/pay-taxes), Federal guidance on small business tax compliance
 
 *Photo: [Leeloo The First](https://www.pexels.com/@leeloothefirst) via Pexels*
 
@@ -109,6 +109,6 @@ If you want a deeper framework for thinking about all of this, Frederick Dailey'
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

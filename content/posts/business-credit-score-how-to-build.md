@@ -145,9 +145,9 @@ Building business credit is one of those things that feels administrative and ea
 
 ## Sources & References
 
-- [SBA — Business credit overview](https://www.sba.gov/business-guide/plan-your-business/establish-business-credit) — explains establishing business credit separate from personal credit
-- [CFPB — Business vs personal credit differences](https://www.consumerfinance.gov/) — supports distinction between personal and business credit systems
-- [FTC — Business credit reports](https://www.ftc.gov/business-guidance/small-businesses) — guidance on business credit reporting and access
+- [SBA, Business credit overview](https://www.sba.gov/business-guide/plan-your-business/establish-business-credit), explains establishing business credit separate from personal credit
+- [CFPB, Business vs personal credit differences](https://www.consumerfinance.gov/), supports distinction between personal and business credit systems
+- [FTC, Business credit reports](https://www.ftc.gov/business-guidance/small-businesses), guidance on business credit reporting and access
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
@@ -163,6 +163,6 @@ Building business credit is one of those things that feels administrative and ea
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

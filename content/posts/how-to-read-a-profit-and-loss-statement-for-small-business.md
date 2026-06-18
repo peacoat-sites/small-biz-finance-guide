@@ -40,7 +40,7 @@ So let's fix that right now.
   <div class="vm-body">
     <p class="vm-intro">Use these threshold ranges to spot trouble before it drains cash.</p>
     <table><caption>Key P&L Ratios &amp; Warning Signs for Small Businesses</caption><thead><tr><th>P&amp;L Line Item</th><th>What to Calculate</th><th>Healthy Range</th><th>Warning Sign</th></tr></thead><tbody><tr><td>Gross Profit</td><td>(Revenue − COGS) ÷ Revenue</td><td>50–70% for services; 30–50% for product businesses</td><td>Dropping 5+ points quarter-over-quarter without explanation</td></tr><tr><td>Labor Costs</td><td>Total payroll ÷ Revenue</td><td>25–35% for most small businesses</td><td>Exceeds 40% while gross margin stays flat</td></tr><tr><td>Rent &amp; Occupancy</td><td>Rent + utilities ÷ Revenue</td><td>5–10% of revenue</td><td>Creeping above 12% signals overextension</td></tr><tr><td>Owner Compensation</td><td>Owner pay ÷ Net Profit (before owner pay)</td><td>Varies, but track separately from profit</td><td>Owner draws exceed net profit for 3+ consecutive months</td></tr><tr><td>Net Profit Margin</td><td>Net Income ÷ Revenue</td><td>10–20% for healthy small businesses</td><td>Below 5% with no reinvestment plan</td></tr><tr><td>Revenue Trend</td><td>Compare same period prior year</td><td>Flat or growing</td><td>Declining 10%+ year-over-year without seasonal cause</td></tr></tbody></table>
-    <p class="vm-note">Illustrative general information — confirm current figures for your situation.</p>
+    <p class="vm-note">Illustrative general information, confirm current figures for your situation.</p>
   </div>
 </div>
 
@@ -133,8 +133,8 @@ The P&L isn't the enemy. It's just a report. And once you understand what it's a
 
 ## Sources & References
 
-- [SBA — Financial statements overview](https://www.sba.gov/business-guide/manage-your-business/manage-your-finances) — Supports understanding P&L basics for small business owners
-- [IRS — Business expenses guidance](https://www.irs.gov/businesses/small-businesses-self-employed/deducting-business-expenses) — Supports expense categorization on P&L statements
+- [SBA, Financial statements overview](https://www.sba.gov/business-guide/manage-your-business/manage-your-finances), Supports understanding P&L basics for small business owners
+- [IRS, Business expenses guidance](https://www.irs.gov/businesses/small-businesses-self-employed/deducting-business-expenses), Supports expense categorization on P&L statements
 
 *Photo: [Nataliya Vaitkevich](https://www.pexels.com/@n-voitkevich) via Pexels*
 
@@ -150,6 +150,6 @@ The P&L isn't the enemy. It's just a report. And once you understand what it's a
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

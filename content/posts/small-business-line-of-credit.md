@@ -124,8 +124,8 @@ Applying when you're already in trouble is the third big mistake. Lenders smell 
 
 ## Sources & References
 
-- [SBA — Lines of Credit](https://www.sba.gov/funding-programs/loans) — explains SBA-backed credit options for small businesses
-- [CFPB — Small Business Lending](https://www.consumerfinance.gov/compliance/compliance-resources/small-business-lending-resources/) — regulatory guidance on small business credit products
+- [SBA, Lines of Credit](https://www.sba.gov/funding-programs/loans), explains SBA-backed credit options for small businesses
+- [CFPB, Small Business Lending](https://www.consumerfinance.gov/compliance/compliance-resources/small-business-lending-resources/), regulatory guidance on small business credit products
 
 *Photo: [Lighten Up](https://www.pexels.com/@lightenup) via Pexels*
 
@@ -141,6 +141,6 @@ Applying when you're already in trouble is the third big mistake. Lenders smell 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

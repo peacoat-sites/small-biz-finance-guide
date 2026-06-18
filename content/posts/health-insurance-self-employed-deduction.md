@@ -36,8 +36,8 @@ I'll be honest: I didn't fully appreciate how many nuances were packed into this
   <div class="vm-head">Deduction Eligibility Decision Checklist</div>
   <div class="vm-body">
     <p class="vm-intro">Use this checklist to determine whether you can claim the self-employed health insurance deduction and how much qualifies.</p>
-    <table><thead><tr><th>Eligibility Criterion</th><th>Threshold / Rule</th><th>If Not Met</th></tr></thead><tbody><tr><td>Self-employment status</td><td>Must have net self-employment income (Schedule C, partnership K-1, or S-corp wages)</td><td>No deduction available for that tax year</td></tr><tr><td>Spouse employer plan availability</td><td>You (and covered family members) must NOT be eligible for ANY subsidized employer plan—even if you declined enrollment</td><td>Months with eligibility are excluded from deduction</td></tr><tr><td>Premium payment timing</td><td>Policy must be established under your business or in your name; premiums paid during months you had qualifying self-employment</td><td>Only months with both coverage AND self-employment income qualify</td></tr><tr><td>Deduction amount cap</td><td>Cannot exceed your net self-employment earnings (after other business deductions)</td><td>Excess premiums may be deductible as itemized medical expense (subject to AGI floor)</td></tr><tr><td>Premium tax credit coordination</td><td>Cannot deduct premiums that were paid with advance premium tax credits from marketplace plans</td><td>Only deduct the portion you paid out-of-pocket after credits</td></tr><tr><td>Long-term care insurance limits</td><td>Subject to age-based annual caps (e.g., roughly $480 for age 40 and under, scaling to ~$5,960 for age 71+; limits adjust annually)</td><td>Amounts above the limit are not deductible here</td></tr><tr><td>Children under 27 rule</td><td>Premiums for children under 27 qualify even if they are not your tax dependent</td><td>Children 27+ must be claimed as dependents to qualify</td></tr></tbody></table>
-    <p class="vm-note">Illustrative general information — confirm current figures for your situation.</p>
+    <table><thead><tr><th>Eligibility Criterion</th><th>Threshold / Rule</th><th>If Not Met</th></tr></thead><tbody><tr><td>Self-employment status</td><td>Must have net self-employment income (Schedule C, partnership K-1, or S-corp wages)</td><td>No deduction available for that tax year</td></tr><tr><td>Spouse employer plan availability</td><td>You (and covered family members) must NOT be eligible for ANY subsidized employer plan-even if you declined enrollment</td><td>Months with eligibility are excluded from deduction</td></tr><tr><td>Premium payment timing</td><td>Policy must be established under your business or in your name; premiums paid during months you had qualifying self-employment</td><td>Only months with both coverage AND self-employment income qualify</td></tr><tr><td>Deduction amount cap</td><td>Cannot exceed your net self-employment earnings (after other business deductions)</td><td>Excess premiums may be deductible as itemized medical expense (subject to AGI floor)</td></tr><tr><td>Premium tax credit coordination</td><td>Cannot deduct premiums that were paid with advance premium tax credits from marketplace plans</td><td>Only deduct the portion you paid out-of-pocket after credits</td></tr><tr><td>Long-term care insurance limits</td><td>Subject to age-based annual caps (e.g., roughly $480 for age 40 and under, scaling to ~$5,960 for age 71+; limits adjust annually)</td><td>Amounts above the limit are not deductible here</td></tr><tr><td>Children under 27 rule</td><td>Premiums for children under 27 qualify even if they are not your tax dependent</td><td>Children 27+ must be claimed as dependents to qualify</td></tr></tbody></table>
+    <p class="vm-note">Illustrative general information, confirm current figures for your situation.</p>
   </div>
 </div>
 
@@ -92,8 +92,8 @@ The deduction exists specifically because Congress recognized that self-employed
 
 ## Sources & References
 
-- [IRS — Publication 535 Business Expenses](https://www.irs.gov/publications/p535) — Covers self-employed health insurance deduction rules and eligibility
-- [IRS — Self-Employed Individuals Tax Center](https://www.irs.gov/businesses/small-businesses-self-employed/self-employed-individuals-tax-center) — Overview of self-employment tax and deduction rules
+- [IRS, Publication 535 Business Expenses](https://www.irs.gov/publications/p535), Covers self-employed health insurance deduction rules and eligibility
+- [IRS, Self-Employed Individuals Tax Center](https://www.irs.gov/businesses/small-businesses-self-employed/self-employed-individuals-tax-center), Overview of self-employment tax and deduction rules
 
 *Photo: [Greta Hoffman](https://www.pexels.com/@greta-hoffman) via Pexels*
 
@@ -107,8 +107,8 @@ The deduction exists specifically because Congress recognized that self-employed
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 

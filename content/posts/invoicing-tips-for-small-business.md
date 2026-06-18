@@ -36,9 +36,9 @@ Invoicing isn't glamorous. Nobody starts a business dreaming about billing softw
 <div class="value-module">
   <div class="vm-head">Invoice Payment Terms Comparison</div>
   <div class="vm-body">
-    <p class="vm-intro">Different payment terms create different cash-flow outcomes and client expectations—here's how the common options compare for small businesses.</p>
+    <p class="vm-intro">Different payment terms create different cash-flow outcomes and client expectations-here's how the common options compare for small businesses.</p>
     <table><thead><tr><th>Payment Term</th><th>What It Means</th><th>Best For</th><th>Cash-Flow Impact</th><th>Client Perception</th></tr></thead><tbody><tr><td>Due on Receipt</td><td>Payment expected immediately upon invoice delivery</td><td>One-time projects, new clients, amounts under $500</td><td>Fastest cash; may require follow-up if ignored</td><td>Can feel aggressive; set expectation in contract first</td></tr><tr><td>Net 15</td><td>Payment due within 15 calendar days</td><td>Freelancers, ongoing retainers, small-to-mid invoices</td><td>Good balance of speed and client flexibility</td><td>Reasonable; increasingly common for small vendors</td></tr><tr><td>Net 30</td><td>Payment due within 30 calendar days</td><td>Established client relationships, invoices over $2,000</td><td>Standard but can strain thin margins</td><td>Expected by most corporate AP departments</td></tr><tr><td>Net 60</td><td>Payment due within 60 calendar days</td><td>Large enterprise contracts, wholesale/inventory businesses</td><td>Significant delay; requires cash reserves or credit line</td><td>Often requested by big companies; negotiate if possible</td></tr><tr><td>2/10 Net 30</td><td>2% discount if paid in 10 days; otherwise full amount in 30</td><td>Encouraging early payment on larger invoices ($1,000+)</td><td>Trades small margin for faster cash</td><td>Seen as professional; motivates prompt payers</td></tr><tr><td>50% Upfront / 50% on Completion</td><td>Split payment at project start and delivery</td><td>Custom projects, new clients, amounts over $1,500</td><td>De-risks large jobs; funds materials/labor upfront</td><td>Standard for contractors, designers, consultants</td></tr></tbody></table>
-    <p class="vm-note">Illustrative general information — confirm current figures for your situation.</p>
+    <p class="vm-note">Illustrative general information, confirm current figures for your situation.</p>
   </div>
 </div>
 
@@ -164,8 +164,8 @@ Your invoicing process is a direct reflection of how seriously you run your busi
 
 ## Sources & References
 
-- [SBA — Managing Business Finances](https://www.sba.gov/business-guide/manage-your-business/manage-your-finances) — supports cash flow management and invoicing best practices
-- [FTC — Business Guidance](https://www.ftc.gov/business-guidance) — supports fair billing and business communication practices
+- [SBA, Managing Business Finances](https://www.sba.gov/business-guide/manage-your-business/manage-your-finances), supports cash flow management and invoicing best practices
+- [FTC, Business Guidance](https://www.ftc.gov/business-guidance), supports fair billing and business communication practices
 
 *Photo: [Kindel Media](https://www.pexels.com/@kindelmedia) via Pexels*
 
@@ -181,6 +181,6 @@ Your invoicing process is a direct reflection of how seriously you run your busi
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

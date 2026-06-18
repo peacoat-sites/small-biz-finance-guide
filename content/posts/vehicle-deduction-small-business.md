@@ -154,9 +154,9 @@ Vehicle deductions reward the business owners who track their numbers and penali
 
 ## Sources & References
 
-- [IRS — Standard Mileage Rates](https://www.irs.gov/tax-professionals/standard-mileage-rates) — Current IRS mileage rates for business vehicle deductions
-- [IRS — Publication 463 Travel and Business Expenses](https://www.irs.gov/publications/p463) — Official rules for vehicle deduction methods and recordkeeping
-- [IRS — Topic 510 Business Use of Car](https://www.irs.gov/taxtopics/tc510) — IRS guidance on standard mileage vs actual expense methods
+- [IRS, Standard Mileage Rates](https://www.irs.gov/tax-professionals/standard-mileage-rates), Current IRS mileage rates for business vehicle deductions
+- [IRS, Publication 463 Travel and Business Expenses](https://www.irs.gov/publications/p463), Official rules for vehicle deduction methods and recordkeeping
+- [IRS, Topic 510 Business Use of Car](https://www.irs.gov/taxtopics/tc510), IRS guidance on standard mileage vs actual expense methods
 
 *Photo: [Deane Bayas](https://www.pexels.com/@dbaler) via Pexels*
 
@@ -172,6 +172,6 @@ Vehicle deductions reward the business owners who track their numbers and penali
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 
