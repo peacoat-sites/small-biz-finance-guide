@@ -25,7 +25,6 @@ author_title: "CPA & Lead Editor"
 author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
 
 ---
-
 You hired your first employee last Tuesday. By Friday, you realized you have absolutely no idea how payroll works. What do you withhold? When do you send the money to the government? What happens if you get it wrong? If that scenario sounds familiar, you're not alone. Payroll is one of the most common places small business owners get tripped up, not because it's impossibly complex, but because nobody ever sat down and explained it clearly. Let's fix that.
 
 ## What Payroll Actually Involves (Beyond Just Cutting a Check)
@@ -42,8 +41,6 @@ Independent contractors are a different story. If you pay a 1099 contractor, you
 
 > **Helpful resource:** [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's the tax structure in plain terms. Every time you run payroll, you're dealing with FICA taxes. FICA stands for Federal Insurance Contributions Act, and it covers Social Security and Medicare.
 
 Currently, Social Security is taxed at 12.4% of wages up to a wage base limit that adjusts annually, split evenly between you and the employee. Medicare is taxed at 2.9%, also split evenly. So your total FICA obligation as an employer is 7.65% of each employee's gross wages on your end, and you withhold another 7.65% from the employee's paycheck. High earners (above $200,000 in wages) have an additional 0.9% Medicare surtax withheld from their pay, but you don't match that one.
@@ -56,19 +53,19 @@ State taxes vary dramatically. Some states have no income tax. Others have compl
 
 ## Setting Up Payroll: A Step-by-Step Walkthrough
 
-Getting set up correctly from the start saves enormous headaches. Here's the sequence that works.
+Getting set up correctly from the start saves enormous headaches. Here's how to do it.
 
-**Step 1: Get an EIN.** If you don't already have an Employer Identification Number, you need one before you can run payroll. You apply directly through the IRS website and get it immediately. Free, fast, no excuse to skip it.
+**Step 1: Get an EIN.** If you don't already have an Employer Identification Number, you need one before you can run payroll. Apply directly through the IRS website and you'll get it immediately. Free, fast, no excuse to skip it.
 
-**Step 2: Separate your business finances.** This isn't optional. Payroll taxes flowing through a personal account is a mess that creates problems with your books and with the IRS. If you haven't done this yet, read up on [how to separate business and personal finances](/how-to-separate-business-personal-finances/) before you touch payroll.
+**Step 2: Separate your business finances.** This isn't optional. Payroll taxes flowing through a personal account is a mess. It tangles your books and creates problems with the IRS. If you haven't done this yet, read up on [how to separate business and personal finances](/how-to-separate-business-personal-finances/) before you touch payroll.
 
 **Step 3: Have every new hire complete a W-4.** This form determines federal income tax withholding. Keep it on file. You don't send it to the IRS unless they specifically request it.
 
 **Step 4: Register for federal and state payroll tax accounts.** For federal taxes, you'll use the Electronic Federal Tax Payment System (EFTPS). Sign up at eftps.gov. For state accounts, each state has its own process. Google your state plus "employer payroll tax registration" and you'll find the right agency.
 
-**Step 5: Choose a payroll schedule.** Most small businesses run payroll weekly, biweekly, or semi-monthly. There's no universal right answer, but biweekly is the most common. Once you pick a schedule, stay consistent.
+**Step 5: Choose a payroll schedule.** Most small businesses run payroll weekly, biweekly, or semi-monthly. There's no universal right answer, but biweekly is the most common. Once you pick one, stay consistent.
 
-**Step 6: Choose how you'll run payroll.** You have three options: do it yourself manually (only reasonable if you have one or two employees and you enjoy spreadsheets), use payroll software, or outsource to a payroll service. More on this below.
+**Step 6: Choose how you'll run payroll.** You have three options: do it yourself manually (only reasonable if you have one or two employees and you actually enjoy spreadsheets), use payroll software, or outsource to a payroll service. More on this below.
 
 **Step 7: File and pay on time, every time.** Your deposit schedule (how often you send taxes to the IRS) depends on the size of your payroll tax liability. The IRS assigns you either a monthly or semi-weekly deposit schedule based on a lookback period. The penalties for late deposits aren't trivial. They start at 2% and scale up to 15% depending on how late you are.
 
@@ -85,13 +82,13 @@ This is a question I get constantly. The honest answer depends on how many emplo
 | Full-service payroll provider (ADP, Paychex, etc.) | Any size, want hands-off | $60-$200+/month | Higher cost, less control |
 | Local bookkeeper or accountant | Complex situations, owner wants expert eyes | Varies widely | Best for compliance peace of mind |
 
-In my experience, most small businesses with under ten employees do well with software like Gusto or QuickBooks Payroll. These platforms handle the calculations, file your federal and state taxes, and generate W-2s automatically. They're not perfect, but they dramatically reduce the chance of a costly mistake. If you're running 20 or more employees with multiple states, tip credits, or union rules involved, a dedicated payroll service or a CPA-managed solution is worth the premium.
+In my experience, most small businesses with under ten employees do well with software like Gusto or QuickBooks Payroll. These platforms handle the calculations, file your federal and state taxes, and generate W-2s automatically. They're not perfect, but they dramatically reduce the chance of a costly mistake. Once you hit 20 employees or more, especially if you're juggling multiple states, tip credits, or union rules, a dedicated payroll service or a CPA-managed solution is worth the premium.
 
 Whichever route you take, remember that the liability stays with you. Payroll services are agents. If they make an error, the IRS comes to you first.
 
 ## Common Payroll Mistakes and How to Avoid Them
 
-Mistakes in payroll fall into a few predictable categories. Knowing them in advance puts you ahead of most business owners.
+Mistakes in payroll fall into predictable categories. Knowing them puts you ahead of most business owners.
 
 **Misclassifying workers.** Paying someone as a 1099 contractor when they function as an employee under IRS guidelines can result in back taxes, interest, and penalties going back years. If you control when, where, and how someone works, they're probably an employee.
 
@@ -119,12 +116,7 @@ As your business grows and you take on more employees, your payroll history also
 
 The [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/) are also worth bookmarking. They provide plain-language guidance on employer financial obligations that complements what the IRS publishes.
 
----
-
-
----
-
-Getting payroll right is fundamentally about discipline and setup. The mechanics aren't magical, but they require consistency. Get your accounts registered, choose the right tools for your size, stay on top of your deposit deadlines, and don't try to cut corners on classification. I've watched payroll problems spiral into five-figure headaches for businesses that started with one simple mistake. The good news is those mistakes are avoidable, and now you know exactly where the landmines are.
+Getting payroll right is fundamentally about discipline and setup. The mechanics aren't magical, but they require consistency. Get your accounts registered, choose the right tools for your size, stay on top of your deposit deadlines, and don't try to cut corners on classification. I've watched payroll problems spiral into five-figure headaches for businesses that started with one simple mistake. The good news is those mistakes are avoidable.
 
 ## Helpful Resources
 
@@ -134,12 +126,7 @@ Getting payroll right is fundamentally about discipline and setup. The mechanics
 - **[The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20)**
 - **[Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20)**
 
-
----
-
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
-
----
 
 ## Sources & References
 
@@ -147,12 +134,9 @@ Getting payroll right is fundamentally about discipline and setup. The mechanics
 - [IRS, Independent Contractor vs Employee](https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee), explains worker classification rules to avoid misclassification
 - [SBA, Hire and Manage Employees](https://www.sba.gov/business-guide/manage-your-business/hire-manage-employees), overview of payroll setup and compliance for small businesses
 
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-

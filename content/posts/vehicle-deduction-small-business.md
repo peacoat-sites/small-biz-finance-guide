@@ -25,7 +25,6 @@ author_title: "CPA & Lead Editor"
 author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
 
 ---
-
 You bought a truck for your business last year, drove it 14,000 miles for client visits and supply runs, and then left the entire deduction on the table because you weren't sure how to claim it. That scenario plays out thousands of times every tax season. Vehicle deductions are one of the most valuable and most misunderstood write-offs available to small business owners, and getting them wrong costs real money in both directions: either you underclaim and overpay, or you overclaim and invite an audit.
 
 Let's fix that.
@@ -34,29 +33,27 @@ Let's fix that.
 
 The IRS gives you two ways to deduct vehicle costs, and you need to understand both before you pick one. You can't switch back and forth freely, so the choice matters.
 
-**The Standard Mileage Rate** is the simpler option. The IRS sets a rate per business mile driven (check the current rate at the [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed), since it adjusts periodically and sometimes mid-year). You multiply that rate by your total business miles, and that's your deduction. No receipts for oil changes, no depreciation calculations. Just miles.
+**The Standard Mileage Rate** is simpler. The IRS sets a rate per business mile driven (check the current rate at the [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed), since it adjusts periodically and sometimes mid-year). You multiply that rate by your total business miles. That's your deduction. No receipts for oil changes, no depreciation calculations. Just miles.
 
-**The Actual Expense Method** means you track every dollar you spend on the vehicle: gas, insurance, registration, repairs, tires, loan interest, and depreciation. Then you multiply the total by your business-use percentage. If you drove 20,000 miles total and 14,000 were for business, your business-use percentage is 70%. You apply that 70% to your total vehicle costs to get your deduction.
+**The Actual Expense Method** means tracking every dollar you spend on the vehicle: gas, insurance, registration, repairs, tires, loan interest, depreciation. Then you multiply the total by your business-use percentage. If you drove 20,000 miles total and 14,000 were for business, your business-use percentage is 70%. Apply that 70% to your total vehicle costs to get your deduction.
 
-Which one wins? It depends on the vehicle. A heavy-duty truck or SUV with high operating costs often produces a bigger deduction under the actual expense method. A fuel-efficient car with relatively low expenses often works out better under standard mileage. Run both calculations before you file, or ask your CPA to do it. The IRS requires that if you want to use standard mileage for a vehicle, you must choose it in the first year the vehicle is placed in service. If you start with actual expenses, you're locked into that method for that vehicle.
+Which one wins? It depends on the vehicle. A heavy-duty truck or SUV with high operating costs often produces a bigger deduction under actual expenses. A fuel-efficient car with relatively low expenses often works out better under standard mileage. Run both calculations before you file, or ask your CPA to do it.
 
-One more rule: to use the standard mileage rate, you must own or lease the vehicle. If your business owns multiple vehicles, you can't use standard mileage for a fleet. That's an actual-expense situation by default.
+Here's the catch: the IRS requires that if you want to use standard mileage for a vehicle, you must choose it in the first year the vehicle is placed in service. Start with actual expenses, and you're locked into that method for that vehicle. Also, to use the standard mileage rate, you must own or lease the vehicle. If your business owns multiple vehicles, you can't use standard mileage for a fleet. That's an actual-expense situation by default.
 
 ## Section 179 and Bonus Depreciation: The Big Deductions
 
 > **Helpful resource:** [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 This is where things get interesting for owners who purchased a vehicle outright or financed one.
 
 Under Section 179 of the tax code, you can deduct the full cost of qualifying business property in the year you buy it, rather than depreciating it over several years. Vehicles qualify, but there are limits based on vehicle type and business-use percentage. Passenger vehicles face relatively low annual caps. However, SUVs and trucks with a gross vehicle weight rating (GVWR) over 6,000 pounds fall into a different category with significantly higher deduction limits. This is why you'll sometimes hear business owners talk about buying a heavy SUV specifically for the tax write-off. That's not a myth. The math can be real. But the vehicle still has to be genuinely used for business.
 
-Bonus depreciation is a separate provision that has allowed businesses to immediately deduct a large percentage of an asset's cost in the first year. The percentage has been stepping down over recent years, so you'll want to confirm the current rate with a tax professional before assuming you can deduct 100%. The rules change, and what was true two years ago may not be true when you're reading this.
+Bonus depreciation is a separate provision that allows businesses to immediately deduct a large percentage of an asset's cost in the first year. The percentage has been stepping down over recent years, so you'll want to confirm the current rate with a tax professional before assuming you can deduct 100%. The rules change.
 
-A critical point: both Section 179 and bonus depreciation are calculated on the business-use percentage. If you buy a $55,000 truck and use it 80% for business, you're working with $44,000 of deductible basis, not $55,000. The IRS will want to see documentation that supports that percentage.
+A critical point: both Section 179 and bonus depreciation are calculated on the business-use percentage. Buy a $55,000 truck and use it 80% for business, you're working with $44,000 of deductible basis, not $55,000. The IRS will want to see documentation that supports that percentage.
 
-For a solid foundation on all the deductions available to your business, the [small business tax deductions guide](/small-business-tax-deductions/) on this site walks through the broader landscape in plain language.
+For a solid foundation on all the deductions available to your business, the [small business tax deductions guide](/small-business-tax-deductions/) on this site walks through the broader picture in plain language.
 
 ## What Counts as Business Use (and What Doesn't)
 
@@ -87,15 +84,15 @@ A compliant mileage log includes, for each trip:
 - The business purpose
 - The odometer reading at start and end, or the total miles for the trip
 
-You don't need to be obsessive about it. There are apps like MileIQ, Everlance, and Stride that auto-track your drives using your phone's GPS and let you swipe to categorize each trip as business or personal. Some of them cost less than $10 a month and can save you hours at tax time and thousands of dollars in legitimate deductions you'd otherwise forget.
+You don't need to obsess over it. Apps like MileIQ, Everlance, and Stride auto-track your drives using your phone's GPS and let you swipe to categorize each trip as business or personal. Most cost less than $10 a month and can save you hours at tax time and thousands of dollars in legitimate deductions you'd otherwise forget.
 
-If you're using the actual expense method, keep every receipt related to the vehicle. Gas, repairs, insurance premiums, registration fees, car washes (if the vehicle is used for client-facing work), all of it. Store them digitally. A shoebox of crumpled receipts is not a filing system.
+If you're using the actual expense method, keep every receipt related to the vehicle. Gas, repairs, insurance premiums, registration fees, car washes (if the vehicle is used for client-facing work). Store them digitally. A shoebox of crumpled receipts is not a filing system.
 
 For help building clean financial habits across your whole business, the [small business bookkeeping guide](/small-business-bookkeeping-guide/) is worth reading alongside this one.
 
 ## Leased Vehicles: A Different Set of Rules
 
-If you lease rather than own your business vehicle, the standard mileage rate is still available in most cases. Under the actual expense method, you can deduct the portion of your lease payments that reflects business use. If your monthly lease payment is $600 and your business-use percentage is 75%, you can deduct $450 per month.
+If you lease rather than own your business vehicle, the standard mileage rate is still available in most cases. Under the actual expense method, you can deduct the portion of your lease payments that reflects business use. Your monthly lease payment is $600 and your business-use percentage is 75%? You can deduct $450 per month.
 
 There's a complication called the "inclusion amount." The IRS requires lessees of certain higher-value vehicles to add back a small amount to income each year, which effectively reduces the deduction. This is the IRS's way of preventing the lease deduction from exceeding what an owner using depreciation would get. The inclusion amount is relatively small on most vehicles, but it exists and your CPA should account for it.
 
@@ -137,11 +134,6 @@ Run your own numbers. If your vehicle is expensive to operate or you're driving 
 
 SCORE's free mentorship resources at [score.org](https://www.score.org/) include financial planning templates and advisors who can help small business owners build better tracking habits before tax season sneaks up on them again.
 
----
-
-
----
-
 Vehicle deductions reward the business owners who track their numbers and penalize those who guess. The rules aren't impossibly complex, but they do require consistent habits and, for anything involving large asset purchases or structural questions, a good CPA who knows your situation. The deduction is real. Go claim it.
 
 ## Helpful Resources
@@ -164,14 +156,9 @@ Vehicle deductions reward the business owners who track their numbers and penali
 
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
 
----
-
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-

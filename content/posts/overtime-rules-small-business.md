@@ -24,7 +24,6 @@ faqs:
   - q: "Are salaried managers automatically exempt from overtime?"
     a: "No. Salary alone doesn't create exemption. The employee's weekly salary must meet the current federal threshold (verify this currently, as it's been in flux), and their job duties must genuinely meet one of the FLSA's exemption categories. Consult a CPA or employment attorney before classifying any position as exempt."
 ---
-
 Most small business owners I talk to are operating on a version of overtime law that's about five years out of date, half-remembered from when they hired their first employee, and honestly just wrong in a few key places. That's not a criticism. It's genuinely confusing, and the federal government hasn't made it easier.
 
 So let me tell you what I found when I went back through all of it recently, because the rules have shifted more than most people realize.
@@ -33,21 +32,17 @@ So let me tell you what I found when I went back through all of it recently, bec
 
 The Fair Labor Standards Act is the starting point. Under the FLSA, nonexempt employees must be paid at least 1.5 times their regular rate of pay for any hours worked beyond 40 in a single workweek. Not a pay period. Not a month. A workweek, which you define (it just has to be a fixed, recurring 168-hour period).
 
-What surprised me when I dug into this more carefully: the salary threshold for the "white collar" exemptions (executive, administrative, professional) has been one of the most legally turbulent numbers in small business compliance over the past few years. As of 2026, this is still an active area of litigation and regulatory back-and-forth. The Department of Labor attempted to raise the threshold significantly, courts pushed back, and we're in a period of genuine uncertainty. My honest advice: don't just google the number and move on. Check the [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed) and, more importantly, talk to an employment attorney or a CPA who handles payroll compliance, because what's enforceable today may shift again.
+Here's what surprised me: the salary threshold for the "white collar" exemptions has been one of the most legally turbulent numbers in small business compliance over the past few years. As of 2026, this is still an active area of litigation and regulatory back-and-forth. The Department of Labor attempted to raise the threshold significantly, courts pushed back, and we're in genuine uncertainty. My honest advice: don't just google the number and move on. Check the [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed) and, more importantly, talk to an employment attorney or a CPA who handles payroll compliance, because what's enforceable today may shift again.
 
 The other thing people forget: your state may have stricter rules, and state law wins if it's more protective of the employee. California is the famous example (daily overtime kicks in after 8 hours, not just weekly after 40), but Alaska, Colorado, and Nevada have their own wrinkles. If you're operating in multiple states, you're not playing one game, you're playing several simultaneously.
 
 ## Who Is Actually Exempt?
 
-> **Helpful resource:** [AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
+This is where I see the most expensive mistakes. Business owners assume that paying someone a salary makes them exempt from overtime. It doesn't.
 
+Exempt status requires two things: the employee meets a salary basis test (currently paid above a weekly threshold on a predetermined basis) AND their job duties meet one of the specific exemption categories. The duties test is where things get muddy. An "administrative" employee, under FLSA definition, isn't just someone who does admin work. Their primary duty has to involve office work directly related to the management or general business operations of the company, and they have to exercise discretion and independent judgment on significant matters. A receptionist who follows a script and escalates every decision is probably not exempt. A bookkeeper who makes judgment calls on vendor payments and has signing authority might be. The line isn't always obvious.
 
-
-This is where I see the most expensive mistakes. Business owners assume that paying someone a salary makes them exempt from overtime. It doesn't. Exempt status requires two things: the employee meets a salary basis test (currently paid above a weekly threshold on a predetermined basis) AND their job duties meet one of the specific exemption categories.
-
-The duties test is where things get muddy. An "administrative" employee, under FLSA definition, isn't just someone who does admin work. Their primary duty has to involve office work directly related to the management or general business operations of the company, and they have to exercise discretion and independent judgment on significant matters. A receptionist who follows a script and escalates every decision is probably not exempt. A bookkeeper who makes judgment calls on vendor payments and has signing authority might be. The line isn't always obvious.
-
-I'll be honest: I've seen small businesses get hit with back pay claims because they misclassified a customer service manager or an inside sales rep as exempt. These cases are expensive, embarrassing, and almost always avoidable with a 90-minute conversation with someone who knows what they're looking at. [SCORE](https://www.score.org/) offers free mentorship and can connect you with advisors who've been through exactly this.
+I've seen small businesses get hit with back pay claims because they misclassified a customer service manager or an inside sales rep as exempt. These cases are expensive, embarrassing, and almost always avoidable with a 90-minute conversation with someone who knows what they're looking at. [SCORE](https://www.score.org/) offers free mentorship and can connect you with advisors who've been through exactly this.
 
 The other high-risk category is independent contractors. Misclassifying a worker as a 1099 contractor when they functionally operate as an employee doesn't just affect overtime, it creates a cascade of tax, benefits, and liability exposure. The IRS and the DOL both have their own tests for this, and they don't entirely agree with each other, which is its own kind of fun.
 
@@ -55,13 +50,13 @@ The other high-risk category is independent contractors. Misclassifying a worker
 
 Even when business owners know they owe overtime, they often calculate it wrong.
 
-The regular rate of pay isn't always just the hourly wage. If you pay a non-discretionary bonus (a production bonus, an attendance bonus, anything tied to specific performance criteria), that bonus has to be included in the regular rate calculation before you figure out the overtime premium. The math goes like this: total compensation for the week divided by total hours worked gives you the regular rate, and then you owe 0.5 times that rate for each overtime hour (because the employee already earned the straight time portion in their total comp).
+The regular rate of pay isn't always just the hourly wage. If you pay a non-discretionary bonus (a production bonus, an attendance bonus, anything tied to specific performance criteria), that bonus has to be included in the regular rate calculation before you figure out the overtime premium. Total compensation for the week divided by total hours worked gives you the regular rate, and then you owe 0.5 times that rate for each overtime hour (because the employee already earned the straight time portion in their total comp).
 
 Discretionary bonuses, like a surprise holiday gift, don't have to be included. But the word "discretionary" has a legal meaning here, not just a casual one. If you announced a bonus and employees had reason to expect it, it's probably not discretionary in the DOL's eyes.
 
 If you use a fluctuating workweek arrangement (where a salaried nonexempt employee gets paid a fixed salary for all hours, with a half-time premium for overtime hours), there are specific conditions that have to be met and the math works differently. This is a legitimate tool, but it requires correct implementation or it backfires.
 
-For a clean reference on payroll math and compensation structures, Mike Piper's *[Accounting Made Simple](https://www.amazon.com/Accounting-Made-Simple-Explained-Pages/dp/0981454224?tag=contentportfo-20)* (Amazon, affiliate link) isn't specifically about overtime but gives a solid foundation for understanding compensation accounting. For a deeper operational guide, *[The E-Myth Revisited](https://www.amazon.com/E-Myth-Revisited-Small-Businesses-About/dp/0887307280?tag=contentportfo-20)* (Amazon, affiliate link) has aged well on the systems thinking side of building payroll processes you can actually maintain.
+For a clean reference on payroll math and compensation structures, Mike Piper's *[Accounting Made Simple](https://www.amazon.com/Accounting-Made-Simple-Explained-Pages/dp/0981454224?tag=contentportfo-20)* (Amazon, affiliate link) isn't specifically about overtime but gives a solid foundation for understanding compensation accounting. *[The E-Myth Revisited](https://www.amazon.com/E-Myth-Revisited-Small-Businesses-About/dp/0887307280?tag=contentportfo-20)* (Amazon, affiliate link) has aged well on the systems thinking side of building payroll processes you can actually maintain.
 
 ## What Recordkeeping Actually Looks Like
 
@@ -70,9 +65,6 @@ The FLSA requires you to keep payroll records for at least three years and time 
 Track start and end times, not just total hours. Track meal breaks separately if your state requires them. If you're using software like Gusto, QuickBooks Payroll, or Homebase, most of this is handled automatically, but you need to actually check the settings. Defaulting to a Monday-through-Sunday workweek when your pay cycle starts on Wednesday creates calculation headaches you don't need.
 
 The moment you have even one nonexempt employee working irregular hours, manual timekeeping is a liability. The $40 to $80 a month for a proper time-tracking tool is not optional in my opinion. It's insurance.
-
----
-
 
 ---
 
@@ -85,7 +77,6 @@ The overtime rules aren't especially complicated once you sit with them, but the
 - **[AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)**
 - **[Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20)**
 - **[Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)**
-
 
 *Photo: [Stas Knop](https://www.pexels.com/@stasknop) via Pexels*
 
@@ -101,4 +92,3 @@ The overtime rules aren't especially complicated once you sit with them, but the
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-

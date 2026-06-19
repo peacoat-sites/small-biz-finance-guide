@@ -13,56 +13,51 @@ author_bio: "Rachel Green is a fractional CFO who has helped dozens of small bus
 slug: "sba-loans-now-require-100-us-citizenship-what-small-business-owners-mu"
 affiliate_disclosure: true
 ---
+Something most people assumed about SBA loans turned out to be completely wrong. The fallout is hitting right now.
 
-Something most people assumed about SBA loans turned out to be wrong, and the fallout is landing right now on hundreds of thousands of small business owners across the country.
+For decades, lawful permanent residents, the 12.8 million green card holders working and paying taxes in the U.S., could access the SBA's flagship lending programs. That ended on March 1, 2026. The SBA now requires 100% citizenship or national status for all direct and indirect business owners to qualify for 7(a) and 504 loans. Not 51%. Not a controlling stake. Every single owner at every layer. A business where one partner holds a 1% stake and has a green card gets disqualified completely. In April 2026, the SBA extended the same rule to microloans and Surety Bond Guarantees, essentially closing off every lending channel the agency operates.
 
-For decades, the SBA's flagship lending programs were available to lawful permanent residents, the roughly 12.8 million green card holders who live, work, pay taxes, and build businesses in the United States. That changed on March 1, 2026. The SBA now requires 100% of all direct and indirect business owners to be U.S. citizens or nationals to qualify for 7(a) and 504 loans. Not 51%. Not a majority. Every single owner at every ownership level. A business where one partner holds a 1% stake and has a green card is fully disqualified. The SBA later extended the same rule to its microloan program and Surety Bond Guarantee program, effective April 1, 2026, closing off virtually every lending channel the agency operates.
-
-This is the first time in the SBA's 72-year history that lawful permanent residents have been categorically excluded. And based on what I've been digging into over the past few weeks, a lot of business owners, lenders, and even accountants don't fully understand what changed, or what it means for the businesses affected.
+This is the first time in 72 years that lawful permanent residents have been categorically blocked. And based on what I've dug into over the past few weeks, plenty of business owners, lenders, and even accountants still don't fully understand what changed or what it means.
 
 ## The Scale of This Is Bigger Than Most People Realize
 
-Let me put some numbers on this, because the abstract policy language doesn't capture it well.
+The numbers matter here, because policy language obscures them.
 
-In FY2025, the SBA approved 3,358 loans for businesses with at least one lawful permanent resident owner. That's about 4% of the agency's roughly 85,000 total loan approvals that year. On its own, 4% sounds modest. But those loan approvals were happening against a backdrop of $44.8 billion in total SBA-guaranteed lending. Industry lenders estimate that 5% to 15% of their SBA portfolios involve businesses with green card holder ownership. Run those percentages and you get somewhere between $2.2 billion and $6.7 billion in annual small business credit that is now off the table.
+In FY2025, the SBA approved 3,358 loans for businesses with at least one lawful permanent resident owner. That's 4% of roughly 85,000 total approvals. On the surface, 4% sounds small. But those approvals came against $44.8 billion in total SBA-guaranteed lending. Industry lenders estimate 5% to 15% of their SBA portfolios involve green card holder ownership. Do the math: somewhere between $2.2 billion and $6.7 billion in annual small business credit just disappeared.
 
-The average SBA 7(a) loan in FY2024 was $443,097. The average 504 loan was $1.1 million. These aren't supplemental credit lines. For a lot of business owners, that's the difference between opening a restaurant, buying a building, or hiring a first employee, versus not doing any of those things. NPR's coverage from June 12, 2026 included voices from affected entrepreneurs who had been in the middle of active loan applications when the rule hit. There's no grace period that helps someone mid-process.
+The average SBA 7(a) loan in FY2024 was $443,097. A 504 loan averaged $1.1 million. These aren't supplemental credit lines. For most business owners, this is the difference between opening that restaurant, buying a building, hiring a first employee, or not. NPR covered this on June 12, 2026, interviewing entrepreneurs caught mid-application when the rule hit. There's no grace period. No soft landing.
 
 ## What the Rule Actually Says (and the Part That Catches People Off Guard)
 
-> **Helpful resource:** [QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
+The SBA's official announcement from March 9, 2026 is blunt: all owners, direct and indirect, must be U.S. citizens or nationals. The indirect ownership piece trips most people up. If your business has investors, silent partners, or sits inside a holding company structure, every natural person with an ownership stake traces through those layers. One green card holder anywhere breaks eligibility.
 
+I'll be honest. I was surprised this extended to indirect ownership so broadly. Most SBA rules focus on controlling interest or majority stakes. This draws a harder line than almost anything in the program's history.
 
-
-The SBA's official announcement, published March 9, 2026, is clear: to be eligible, all owners, direct and indirect, must be U.S. citizens or nationals. The indirect ownership piece is what trips people up. If your business has investors, silent partners, or is structured with a holding company, every natural person with an ownership stake traces through those layers. One green card holder anywhere in the chain breaks eligibility.
-
-I'll be honest, I was surprised this extended to indirect ownership so broadly. Most SBA rules focus on controlling interest or majority ownership. This one draws a harder line than almost anything I've seen in the program's history.
-
-What surprised me in the Nolo analysis published April 29, 2026 was the clarification around the microloan expansion. Microloans, which cap at $50,000 and are often the entry point for very early-stage businesses and underserved entrepreneurs, were seen by some advocates as potentially exempt from the initial rule. They weren't. The April 1 expansion removed that possibility entirely.
+What caught me in the Nolo analysis from April 29, 2026 was the clarity on microloans. Some advocates thought microloans, which cap at $50,000 and serve very early-stage and underserved entrepreneurs, might escape the initial rule. They didn't. The April expansion removed that possibility entirely.
 
 ## The Alternatives Are Real, But They're Not Equivalent
 
-Affected business owners are being directed toward conventional bank loans, online lenders, CDFIs (Community Development Financial Institutions), and, in the long run, naturalization. I want to be straight with you about what those options actually look like.
+Affected business owners get pointed toward conventional bank loans, online lenders, CDFIs (Community Development Financial Institutions), and naturalization. Let me be straight about what those actually look like.
 
-Conventional bank loans for small businesses typically carry higher interest rates than SBA-backed products, require stronger credit profiles, and often demand more collateral. The SBA guarantee exists precisely because conventional lenders won't take on the risk profile that many small business owners carry. Online lenders, like those operating on platforms like Fundbox or OnDeck, move faster but their rates can run significantly higher, sometimes into the double digits, and their term structures don't match what a 7(a) loan offers.
+Conventional bank loans carry higher rates than SBA products, demand stronger credit, and require more collateral. The SBA guarantee exists because conventional lenders won't take the risk profile many small business owners carry. Online lenders like Fundbox or OnDeck move faster but rates climb into double digits sometimes, and term structures don't match a 7(a) loan.
 
-CDFIs are the most promising alternative in this space, and they do real, important work for underserved borrowers. But they operate at a different scale. They don't have the national capacity to absorb billions in redirected credit demand, and their loan limits are often lower than what a 504 loan can support. As The Kaplan Group noted in their February 20, 2026 analysis, the removal of SBA access doesn't just raise costs, it functionally removes certain borrowers from the credit market altogether.
+CDFIs do real work for underserved borrowers. But they operate at a different scale. They can't absorb billions in redirected credit demand, and loan limits often sit below what a 504 can support. The Kaplan Group's February 20, 2026 analysis nailed this: removing SBA access doesn't just raise costs. It removes certain borrowers from the credit market altogether.
 
-Naturalization is the other option people mention. It's worth treating that honestly too. The naturalization process requires five years of continuous residency as a lawful permanent resident, passing civics and language requirements, no disqualifying criminal record, and processing times that currently run 12 to 24 months depending on the service center. For a business owner who needs capital in the next six months, that's not an alternative. It's a different timeline entirely.
+Naturalization gets mentioned too, so here's the reality. The process requires five years of continuous residency as a permanent resident, civics and language requirements, no disqualifying criminal record, and processing times running 12 to 24 months depending on the service center. For a business owner needing capital in six months, that's not an alternative. It's a different timeline entirely.
 
 ## What Lenders and Business Owners Should Be Doing Right Now
 
-If you're a business owner with any non-citizen ownership in your structure, the immediate step is to audit your ownership documentation before you walk into any SBA lender. Don't assume your banker caught this, especially if you have a relationship predating March 2026. Lenders are still catching up, and the last thing you want is to get deep into underwriting before someone flags the citizenship issue.
+If you have any non-citizen ownership in your structure, audit your ownership documentation before walking into any SBA lender. Don't assume your banker caught this, especially if you've had a relationship since before March 2026. Lenders are still catching up, and the last thing you want is deep underwriting before someone flags the citizenship issue.
 
-If you're a lender or broker working with immigrant-owned businesses, the practical obligation here is to screen ownership structure at intake, not at approval. The rule change is not hypothetical and it's not under review as of this writing.
+If you're a lender or broker working with immigrant-owned businesses, screen ownership structure at intake, not approval. This isn't hypothetical and it's not under review.
 
-Businesses that do qualify should take note too. If you've been on the fence about an SBA application because of rate environment concerns or timing, the competitive landscape for SBA credit just shifted. With a meaningful portion of the eligible borrower pool removed from the program, lender capacity for qualified borrowers may improve, at least modestly.
+Qualified businesses should take note too. If you've been hesitant about an SBA application due to rates or timing, the competitive landscape just shifted. With a meaningful chunk of eligible borrowers removed, lender capacity for qualified applicants might actually improve, at least a little.
 
 ## The Bigger Question Nobody Has Answered
 
-I'll close with something that's still genuinely unclear to me after all this research. The SBA has not published detailed guidance on how it plans to handle pipeline loans that were in process before March 1, 2026, or whether there's any waiver mechanism being considered. Legal challenges are being discussed in policy circles but nothing has been filed that would indicate a near-term injunction. The Black Enterprise reporting from June 15, 2026 notes ongoing advocacy from business groups, but no legislative relief is moving quickly.
+The SBA hasn't published detailed guidance on pipeline loans that were in process before March 1, 2026, or whether any waiver mechanism exists. Legal challenges are being discussed in policy circles but nothing's been filed suggesting a near-term injunction. Black Enterprise reported on June 15, 2026 that business groups are advocating, but legislative relief isn't moving quickly.
 
-This is a policy that took effect fast, affects real capital, and the downstream impact on immigrant entrepreneurship is going to take time to show up clearly in the data. If you're affected, consult with a business attorney or CPA who works specifically with SBA lending before making any financing decisions. The stakes here are high enough that general advice, including this article, isn't a substitute for a professional looking at your specific structure.
+This rule took effect fast, affects real capital, and the downstream impact on immigrant entrepreneurship will take time to materialize in the data. If you're affected, consult with a business attorney or CPA who works specifically with SBA lending before making financing decisions. The stakes are high enough that general advice, including this article, doesn't substitute for a professional reviewing your specific structure.
 
 ## Sources
 - [SBA Bans Foreign Nationals from Accessing SBA-backed Loans](https://www.sba.gov/article/2026/03/09/sba-bans-foreign-nationals-accessing-sba-backed-loans) (March 9, 2026)
@@ -80,7 +75,6 @@ This is a policy that took effect fast, affects real capital, and the downstream
 - **[The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20)**
 - **[Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)**
 
-
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
@@ -95,4 +89,3 @@ This is a policy that took effect fast, affects real capital, and the downstream
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-

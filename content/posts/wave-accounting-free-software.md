@@ -25,69 +25,65 @@ author_title: "Business Loan Writer"
 author_bio: "Michael Torres spent years as a small business banker before moving to the borrower side as a loan consultant. He knows the SBA loan process inside and out, including the parts of the application that most business owners get wrong. At Small Biz Finance Guide, he covers SBA loans, lines of credit, equipment financing, and how to present your business to a lender in the best possible light."
 
 ---
+Most free accounting software for small business is either deliberately hamstrung or masquerading as "free forever" before the paywall hits. Wave is different, and I've been recommending it to clients for years now, though I'll admit I was skeptical at first.
 
-Most free software for small business accounting is either crippled on purpose or is just a trial masquerading as "free forever." Wave is the exception I keep recommending to clients, and honestly I was skeptical for years before I really dug into what it actually does.
-
-Here's the short version: Wave offers genuinely free double-entry accounting, invoicing, and receipt scanning. Not a free tier. Not a 30-day trial. Free. The catch is smaller than you'd expect, and I'll get into exactly where the business model kicks in. But before I do, let me explain why I think most small business owners are sleeping on this tool.
+Here's what you need to know: Wave gives you genuinely free double-entry accounting, invoicing, and receipt scanning. Not a limited free tier. Not a 30-day trial. Actually free. The catch exists, but it's smaller than you'd expect. I'll walk you through exactly where the money comes in, but first, let me explain why most small business owners are overlooking this tool.
 
 ## What You Actually Get for Free
 
-The accounting module is the core, and it's legitimately solid. Double-entry bookkeeping, a chart of accounts you can customize, bank and credit card connections, transaction categorization, profit and loss statements, balance sheets, cash flow statements. This is the stuff that accountants actually care about when you hand your books over at tax time.
+The accounting module is the real deal. Double-entry bookkeeping, customizable chart of accounts, bank and credit card connections, transaction categorization, profit and loss statements, balance sheets, cash flow statements. These are the things accountants actually care about when you hand over your books at tax time.
 
-Wave connects to most major U.S. and Canadian banks through Plaid. The connection isn't always perfectly stable, and you'll occasionally need to re-authenticate, but in my experience it works about 90% of the time without fuss. For free software, that's a reasonable trade.
+Wave connects to most major U.S. and Canadian banks through Plaid. The connection isn't always flawless, and you'll occasionally need to re-authenticate, but it works reliably about 90% of the time. For free software, that's solid.
 
-Invoicing is also free and it's better than I expected. You can build clean, branded invoices, set up recurring billing, and send payment reminders automatically. The templates aren't flashy, but they look professional. A few clients I've helped set up on Wave have told me customers actually commented that their invoices looked more polished than before.
+Invoicing is also free and surprisingly good. You can build clean, branded invoices, set up recurring billing, and send payment reminders automatically. The templates aren't fancy, but they look professional enough that clients I've helped set up on Wave have mentioned their invoices actually look more polished than before.
 
-The receipt scanning app, called Wave Receipts (available on iOS and Android), pulls data off photos of receipts and matches them to transactions. It's imperfect, maybe 70-80% accurate in my observation, but it beats a shoebox.
+Wave Receipts, the iOS and Android app, scans receipt photos and pulls the data into your transactions. It's imperfect, maybe 70-80% accurate in my experience, but it beats a shoe box.
 
 ## Where Wave Makes Its Money (And Where Costs Creep In)
 
 > **Helpful resource:** [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
+I'll be direct about this part, since most reviews skip over it.
 
+Wave makes money on payment processing and payroll. Accept credit card payments through Wave invoices and you'll pay 2.9% plus $0.60 per transaction for Visa, Mastercard, and Discover, plus 3.4% and $0.60 for American Express. That's on par with Stripe or Square, maybe slightly steeper on AmEx. It's not predatory, just realistic.
 
-This is the part most reviews gloss over, so I'll be direct.
+Payroll is the other paid feature. In 14 states offering "tax-service payroll" (Wave handles filings), it costs $40 a month plus $6 per active employee. In the rest, "self-service payroll" runs $20 monthly plus $6 per employee, but you're responsible for your own tax filings. Some owners can handle this. Others can't. If you're in a self-service state with two employees, you'll need to either spend time learning your state's payroll deposit requirements or hire a payroll service.
 
-Wave makes money on payment processing and payroll. If you want to accept credit card payments through Wave invoices, you'll pay 2.9% plus $0.60 per transaction for Visa, Mastercard, and Discover, and 3.4% plus $0.60 for American Express. That's in line with Stripe or Square, maybe slightly higher on the AmEx rate. It's not predatory, but it's not charitable either.
-
-Payroll is the other paid layer. In the 14 states where Wave offers "tax-service payroll" (meaning they handle the filings for you), it runs $40 per month plus $6 per active employee. In the remaining states, you get "self-service payroll" for $20 per month plus $6 per active employee, but you're responsible for filing your own payroll taxes. This is fine for some owners and a headache for others. If you have even two employees and you're in a self-service state, budget time to understand your state's payroll deposit requirements or loop in a payroll service.
-
-Worth mentioning: Wave was acquired by H&R Block in 2019, then sold to a private equity firm called Francisco Partners in 2023. That ownership change made some users nervous, and honestly, I understand why. The product has continued to function well, but the long-term roadmap is less transparent than it was when Wave was an independent company. I don't think it's a dealbreaker, but it's worth knowing.
+One more thing: H&R Block bought Wave in 2019, then sold it to private equity firm Francisco Partners in 2023. That ownership shuffle made some people nervous, and I get it. The product has held up fine, but the transparency around future development dropped compared to when Wave was independent. It's not a dealbreaker, but you should know it happened.
 
 ## How the Setup Actually Works
 
-Getting started takes maybe 45 minutes if you go at a reasonable pace.
+Getting started takes about 45 minutes.
 
-You create an account at waveapps.com, pick your business type, and land in a dashboard that isn't overwhelming. The first thing worth doing is connecting your bank accounts under Accounting > Banking. Wave pulls in your transaction history (usually 30-90 days back, depending on your bank) and asks you to categorize transactions.
+Create an account at waveapps.com, select your business type, and you'll land in a dashboard that doesn't feel overwhelming. Connect your bank accounts under Accounting > Banking first. Wave pulls in your transaction history (usually 30-90 days back) and asks you to categorize things.
 
-Set up your chart of accounts before you categorize anything. Wave gives you a default chart that works fine for most sole proprietors and simple LLCs, but if you have inventory, multiple revenue streams, or project-based work, spend 20 minutes customizing the categories to match how your business actually runs. Future-you will be grateful.
+Before you start categorizing, set up your chart of accounts. Wave gives you a default chart that works fine for sole proprietors and simple LLCs, but if you have inventory, multiple revenue streams, or project-based work, spend 20 minutes customizing it to match your actual business. Future-you will appreciate that.
 
-From there, you can work through transactions daily, weekly, or in monthly batches. Monthly is the minimum I'd suggest. Letting a full quarter pile up is how people end up calling me in a panic in April.
+From there you can work through transactions daily, weekly, or monthly. Monthly is my minimum recommendation. Letting a full quarter pile up is how people end up calling me in a panic in April.
 
-One thing that surprised me was how clean the reports look out of the box. The P&L in particular generates something a lender or accountant can actually read without you needing to format anything. If you're applying for an SBA loan (the [U.S. Small Business Administration](https://www.sba.gov/) requires financial statements as part of the application package), a Wave-generated P&L is perfectly acceptable as a starting point.
+The reports surprised me with how clean they look right out of the box. The P&L especially generates something a lender or accountant can actually read without you reformatting anything. If you're applying for an SBA loan, the [U.S. Small Business Administration](https://www.sba.gov/) requires financial statements as part of the application, and a Wave-generated P&L works perfectly as a starting point.
 
 ## Where Wave Falls Short
 
-I want to be honest about the ceiling here, because Wave isn't for everyone.
+Let me be honest about the limits, because this tool isn't for everyone.
 
-Inventory management is basically nonexistent. You can track inventory as a balance sheet item, but there's no native system for tracking stock levels, cost of goods sold by SKU, or purchase orders. If you're a product-based business with more than a handful of SKUs, you'll hit this wall fast. QuickBooks Online or even something like Zoho Inventory will serve you better.
+Inventory management is basically nonexistent. You can track inventory as a balance sheet item, but there's no native system for stock levels, cost of goods sold by SKU, or purchase orders. If you're selling products and have more than a handful of SKUs, you'll hit this wall fast. QuickBooks Online or Zoho Inventory will do better.
 
-Multi-currency invoicing is available, but currency conversion accounting is clunky and I've seen rounding errors cause reconciliation headaches for clients with significant international revenue.
+Multi-currency invoicing exists, but currency conversion accounting is awkward and I've seen rounding errors create reconciliation problems for clients with serious international revenue.
 
-The customer support situation has gotten worse since the H&R Block era. Live chat is available, but only if you're on a paid plan (payroll or payments). Free-only users get a knowledge base and a community forum. For straightforward questions, the knowledge base is actually decent. For anything nuanced, you're on your own unless you pay.
+Customer support got worse after the H&R Block acquisition. Live chat is available, but only for paid users (payroll or payments). Free-only users get a knowledge base and community forum. The knowledge base is decent for straightforward questions. For anything complex, you're stuck unless you pay.
 
-Also, if you need project tracking, time-based billing with detailed timesheets, or job costing, look elsewhere. FreshBooks handles service businesses better in those areas.
+Also, if you need project tracking, time-based billing with detailed timesheets, or job costing, pick something else. FreshBooks handles service businesses better in those departments.
 
 ## Who This Is Actually For
 
-Wave genuinely shines for freelancers, consultants, sole proprietors, and small LLCs with under $500,000 in annual revenue and no employees or just one or two. It's also a reasonable starting point for a new business that isn't sure what it needs yet. The [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/) consistently emphasize that keeping clear financial records from day one prevents most of the cash flow and tax problems that sink early-stage businesses, and Wave gets you there without a $30-50 monthly software subscription eating into early margins.
+Wave genuinely works for freelancers, consultants, sole proprietors, and small LLCs with under $500,000 annual revenue and no employees or maybe one or two. It's also a reasonable starting point for a brand-new business that doesn't know what it needs yet. The [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/) consistently emphasize that clean financial records from day one prevent most of the cash flow and tax problems that kill early-stage businesses, and Wave gets you there without a $30-50 monthly subscription eating into your early margins.
 
-If you want to go deeper on setting up clean books from scratch, Mike Piper's [*Accounting Made Simple*](https://www.amazon.com/Accounting-Made-Simple-Mike-Piper/dp/0981454224?tag=contentportfo-20) (disclosure: that's an affiliate link) is about $12 and pairs well with Wave for owners who want to actually understand what they're recording and why.
+If you want to go deeper on setting up books from scratch, Mike Piper's [*Accounting Made Simple*](https://www.amazon.com/Accounting-Made-Simple-Mike-Piper/dp/0981454224?tag=contentportfo-20) (that's an affiliate link) costs about $12 and pairs nicely with Wave for owners who want to understand what they're recording and why.
 
-One honest caveat: no accounting software substitutes for a CPA review. I'd strongly recommend having a CPA look over your Wave books at least once a year, especially at tax time. The software records what you tell it to. Whether those entries are correct is a different question.
+One honest thing: no accounting software replaces a CPA review. Get a CPA to look over your Wave books at least once a year, especially at tax time. The software records what you tell it to. Whether those entries are correct is another question.
 
 ---
-
 
 ## Helpful Resources
 
@@ -96,7 +92,6 @@ One honest caveat: no accounting software substitutes for a CPA review. I'd stro
 - **[Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)**
 - **[Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20)**
 - **[The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20)**
-
 
 *Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
 
@@ -112,4 +107,3 @@ One honest caveat: no accounting software substitutes for a CPA review. I'd stro
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-

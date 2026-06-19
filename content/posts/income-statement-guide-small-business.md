@@ -25,7 +25,6 @@ author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
 
 ---
-
 Most small business owners I've worked with over the years can tell me their bank balance to the dollar. Ask them what their net profit margin was last quarter, though, and you get a long pause. That gap, right there, is exactly why the income statement exists, and exactly why so many business owners are flying blind without realizing it.
 
 ## What an Income Statement Actually Is (And What It's Not)
@@ -37,10 +36,6 @@ What surprises most people is what it doesn't show. An income statement doesn't 
 This distinction trips up a lot of entrepreneurs, especially in the early years. A business can show a profit on paper and still run out of cash. A business can burn through reserves while technically posting a loss. The income statement is one lens, not the whole picture, and you need to understand it before you can use it well.
 
 ## The Anatomy of an Income Statement, Line by Line
-
-> **Helpful resource:** [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Let's walk through the actual structure. I'm going to use plain language here because the accounting terminology can make this feel more complicated than it is.
 
@@ -82,7 +77,7 @@ Generating a P&L in QuickBooks or Wave takes about 30 seconds. Understanding wha
 
 No single number tells the whole story. The value is in the relationship between them, and in how they change over time.
 
-**Look for anomalies.** What surprised me when I first started sitting down with small business income statements regularly was how often owners had expenses buried in categories that made no sense. Software subscriptions showing up under "Office Supplies." Owner distributions coded as payroll. Miscategorized expenses distort every ratio and make decision-making harder. Garbage in, garbage out.
+**Look for anomalies.** What surprised me when I first started sitting down with small business income statements regularly was how often owners had expenses buried in categories that made no sense. Software subscriptions showing up under "Office Supplies." Owner distributions coded as payroll. Miscategorized expenses distort every ratio and make decision-making harder.
 
 ## A Step-by-Step Guide to Building Your First Income Statement
 
@@ -104,7 +99,7 @@ If you're starting from scratch or cleaning up a mess, here's a practical proces
 
 **Step 8: Sanity check.** Does this number roughly match what you feel happened in your business? If the P&L says you made $40,000 in profit but your bank account didn't move, you have a timing or categorization issue to investigate.
 
-If you want a structured template to work from, accounting guides like [*Accounting All-in-One For Dummies*](https://www.amazon.com/Accounting-All-One-Dummies-Business/dp/1119837650?tag=contentportfo-20) can walk you through formats in detail. The site may earn a small commission from qualifying purchases.
+If you want a structured template to work from, [*Accounting All-in-One For Dummies*](https://www.amazon.com/Accounting-All-One-Dummies-Business/dp/1119837650?tag=contentportfo-20) walks you through formats in detail. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 ## Common Mistakes Small Business Owners Make With Income Statements
 
@@ -134,18 +129,14 @@ If you're preparing to bring on investors or sell the business someday, three ye
 
 ---
 
-
----
-
 The income statement isn't the most exciting document in your business, but it might be the most honest one. It doesn't care how hard you worked or how good your product is. It just shows you what happened. Once you learn to read it without flinching, and to use it as a tool rather than a report card, you'll make better decisions faster. That's the whole game.
 
-## Helpful Resources
+## Recommended Resources
 
-*As an Amazon Associate this site earns from qualifying purchases.*
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20)**
-- **[Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20)**
-- **[The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20)**
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 
 ## Sources & References
 
@@ -157,15 +148,3 @@ The income statement isn't the most exciting document in your business, but it m
 ---
 
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
-
----
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-

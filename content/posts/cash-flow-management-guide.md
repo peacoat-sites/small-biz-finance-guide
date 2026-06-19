@@ -25,7 +25,6 @@ author_title: "Operations Finance Writer"
 author_bio: "Amanda Pierce has run her own small business and knows the difference between profitability on paper and actually having money in the bank. She specializes in the operational side of business finances: invoicing systems, cash flow forecasting, dealing with slow-paying clients, and managing the day-to-day money reality of running a small business. At Small Biz Finance Guide, she covers cash flow tools, payment systems, and operational finance."
 
 ---
-
 You built a profitable business and still can't make payroll. That sentence sounds like a contradiction, but it's one of the most common disasters I watch small business owners walk into. Profit is an accounting concept. Cash is what keeps the lights on. When those two things fall out of sync, even a growing business can collapse. According to the [U.S. Small Business Administration (SBA)](https://www.sba.gov/), cash flow problems are consistently cited among the top reasons small businesses fail, not bad products, not weak demand, not poor management in the traditional sense. Just cash, running out at the wrong moment.
 
 This guide is for the business owner who wants to understand cash flow the way a CFO does, without needing an accounting degree to get there.
@@ -36,7 +35,7 @@ This guide is for the business owner who wants to understand cash flow the way a
 
 Let's clear this up once and for all, because the confusion between profit and cash flow kills businesses every year.
 
-Profit is what's left after you subtract expenses from revenue on paper. Cash flow is the actual movement of money into and out of your bank account. The gap between those two things is where the danger lives.
+Profit is what's left after you subtract expenses from revenue on paper. Cash flow is the actual movement of money into and out of your bank account. The gap between those two things? That's where the danger lives.
 
 Here's a concrete example. Say you run a small landscaping company. You land a $20,000 commercial contract in March. You complete the work, you invoice the client, and you record $20,000 in revenue. Your income statement shows you're profitable. But your payment terms are net-60, which means you won't see that money until late May. Meanwhile, you've already paid your crew, bought materials, and covered fuel costs in March. You're profitable on paper. You're broke in the bank.
 
@@ -53,10 +52,6 @@ Most small business owners only ever think about operating cash flow, which is w
 ---
 
 ## How to Build a Cash Flow Forecast (Step-by-Step)
-
-> **Helpful resource:** [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 A cash flow forecast is simply a prediction of when money will come in and when it will go out. It won't be perfect. But even a rough forecast gives you warning time, and warning time is everything.
 
@@ -80,7 +75,7 @@ Any week or month where your ending balance goes below zero (or below your perso
 **Step 6: Update it weekly.**
 A forecast you built once in January and never touched is useless by March. Fifteen minutes every Monday to update actuals and adjust projections keeps it alive and useful.
 
-If you'd rather start with a pre-built tool, books like [Profit First by Mike Michalowicz](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=contentportfo-20) offer a cash management framework specifically designed for small business owners. *(This site may earn a commission on purchases.)*
+If you'd rather start with a pre-built tool, [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20) offers a cash management framework specifically designed for small business owners. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 ---
 
@@ -145,9 +140,6 @@ For a deeper read on working capital and funding structures, [The Small Business
 
 ---
 
-
----
-
 Cash flow management isn't a complex skill reserved for finance professionals. It's mostly about paying attention to timing, building simple habits, and catching problems with enough runway to actually fix them. The businesses I've watched thrive over the long run aren't always the most profitable ones. They're the ones where the owner knows exactly how much cash they have, when it's coming in, and what's going out. That knowledge is the real foundation of financial stability. Start with a simple 13-week forecast, update it weekly, and the rest gets easier from there.
 
 ## Helpful Resources
@@ -158,7 +150,6 @@ Cash flow management isn't a complex skill reserved for finance professionals. I
 - **[Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20)**
 - **[The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20)**
 
-
 *Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
 
 ---
@@ -167,13 +158,10 @@ Cash flow management isn't a complex skill reserved for finance professionals. I
 
 ---
 
----
-
 ## Recommended Resources
 
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+**Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 - **[QuickBooks Small Business Bookkeeping Guide](https://www.amazon.com/dp/0692957790/?tag=contentportfo-20)** (~$17), Compact, practical QuickBooks pocket guide, ideal for new business owners setting up accounting for the first time.
-

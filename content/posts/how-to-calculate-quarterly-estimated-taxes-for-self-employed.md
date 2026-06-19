@@ -25,7 +25,6 @@ author_title: "Tax Strategist"
 author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
 
 ---
-
 Most advice about quarterly estimated taxes starts in the wrong place. It leads with the IRS payment schedule, or maybe a vague warning about penalties, and skips the thing you actually need first: a clear picture of what you're estimating and why the math works the way it does. So let's fix that.
 
 If you're self-employed, the federal government expects you to pay your income taxes and self-employment taxes throughout the year, not all at once in April. When you worked a regular job, your employer handled this automatically, pulling FICA taxes and income tax withholding from every paycheck. Now that you work for yourself, you're both the employee and the employer. That's why self-employment tax exists at a flat 15.3% on your net self-employment income (12.4% for Social Security, 2.9% for Medicare), and it's why the IRS sends nobody a bill in real time. You're on the honor system, with penalties if you get it badly wrong.
@@ -44,27 +43,23 @@ The IRS generally expects quarterly payments if you'll owe $1,000 or more in fed
 
 ## What You're Actually Calculating
 
-Here's where people overcomplicate this. You're not trying to predict the future with perfect accuracy. You're trying to make four reasonable payments that keep you out of penalty territory. The IRS offers two "safe harbor" methods for doing that, and knowing them changes how hard you need to work on the estimate.
+You're not trying to predict the future with perfect accuracy. That's the first thing to get straight. You're trying to make four reasonable payments that keep you out of penalty territory. The IRS offers two "safe harbor" methods for doing that, and knowing them changes how hard you need to work on the estimate.
 
 **Safe Harbor Method 1:** Pay 100% of last year's total tax liability, spread evenly across four quarters. If you owed $12,000 total last year, you pay $3,000 each quarter. Done. You can pull that number directly from Line 24 of last year's Form 1040.
 
 **Safe Harbor Method 2:** Pay 90% of your current year's actual tax liability. This requires you to actually estimate your current income, which is more work but can save money if this year is going to be lighter than last year.
 
-There's a third variation most articles forget to mention: if your adjusted gross income last year was over $150,000 (or $75,000 married filing separately), the safe harbor threshold bumps up to 110% of last year's tax, not 100%. This catches a lot of people off guard after a good year.
+Then there's the twist most articles skip: if your adjusted gross income last year was over $150,000 (or $75,000 married filing separately), the safe harbor threshold bumps up to 110% of last year's tax, not 100%. This catches a lot of people off guard after a good year.
 
-Practically speaking: if your income is relatively stable, Method 1 is the low-stress choice. If your business had a rough year and you're confident this year will be worse, Method 2 saves you from overpaying and waiting for a refund. I'd default to Method 1 for anyone in their first couple of years of self-employment, when income swings are harder to predict.
+Practically speaking: if your income is relatively stable, Method 1 is the low-stress choice. If your business had a rough year and you're confident this year will be worse, Method 2 saves you from overpaying and waiting for a refund. Default to Method 1 if you're in your first couple of years of self-employment, when income swings are harder to predict.
 
 ## The Actual Calculation, Step by Step
 
-> **Helpful resource:** [AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
-Let's do the real math. Say you're a freelance designer who expects to earn $85,000 in net self-employment income this year. Here's how to build the estimate.
+Let's do the real math. Say you're a freelance designer who expects to earn $85,000 in net self-employment income this year.
 
 **Step 1: Start with net self-employment income.** This is gross revenue minus legitimate business expenses. Not gross revenue. If you billed $110,000 and spent $25,000 on software, equipment, contractors, and a home office, your net is $85,000. That's your starting number.
 
-**Step 2: Calculate self-employment tax.** The IRS lets you multiply net self-employment income by 92.35% first (this accounts for the employer-equivalent deduction). So: $85,000 x 0.9235 = $78,497.50. Then multiply by 15.3%: $78,497.50 x 0.153 = $12,010.12. That's your estimated self-employment tax.
+**Step 2: Calculate self-employment tax.** The IRS lets you multiply net self-employment income by 92.35% first (this accounts for the employer-equivalent deduction). So: $85,000 × 0.9235 = $78,497.50. Then multiply by 15.3%: $78,497.50 × 0.153 = $12,010.12. That's your estimated self-employment tax.
 
 **Step 3: Deduct half of self-employment tax from gross income.** The IRS allows you to deduct half of SE tax as an above-the-line deduction. So: $85,000 minus $6,005.06 (half of $12,010.12) = $78,994.94. This is your adjusted gross income for the purpose of this estimate.
 
@@ -74,19 +69,21 @@ Let's do the real math. Say you're a freelance designer who expects to earn $85,
 
 **Step 6: Add SE tax back in.** $9,221 + $12,010 = $21,231 total estimated federal tax for the year.
 
-**Step 7: Divide by four.** $21,231 / 4 = $5,307.75 per quarter. Round to a sensible number and that's your quarterly payment.
+**Step 7: Divide by four.** $21,231 ÷ 4 = $5,307.75 per quarter. Round to a sensible number and that's your quarterly payment.
 
-This is also the logic behind IRS Form 1040-ES, which walks you through the same calculation with a worksheet. It's worth downloading even if you end up using software, because seeing the structure once makes everything else click.
+This is also the logic behind IRS Form 1040-ES, which walks you through the same calculation with a worksheet. Download it even if you end up using software, because seeing the structure once makes everything else click.
+
+> **Helpful resource:** [AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 ## When and How to Pay
 
-The IRS payment schedule is not evenly spaced by calendar quarter, which catches people every single time. For 2024, the due dates are April 15, June 17, September 16, and January 15, 2025. The second "quarter" only covers two months (May and June). This is a quirk of the IRS schedule, not a mistake.
+The IRS payment schedule isn't evenly spaced by calendar quarter, which catches people every single time. For 2024, the due dates are April 15, June 17, September 16, and January 15, 2025. The second "quarter" only covers two months (May and June). It's a quirk of the IRS schedule, not a mistake.
 
-If any of those dates fall on a weekend or federal holiday, the deadline shifts to the next business day. The [IRS's own payment portal](https://www.irs.gov/payments), called IRS Direct Pay, is free and takes money directly from a bank account. You can also pay via the Electronic Federal Tax Payment System (EFTPS), which the [U.S. Small Business Administration](https://www.sba.gov/) recommends for businesses because it allows you to schedule payments in advance. EFTPS requires upfront enrollment (allow a week for the PIN to arrive by mail), so don't wait until the night before your first payment is due to sign up.
+If any of those dates fall on a weekend or federal holiday, the deadline shifts to the next business day. The [IRS's own payment portal](https://www.irs.gov/payments), called IRS Direct Pay, is free and takes money directly from a bank account. You can also pay via the Electronic Federal Tax Payment System (EFTPS), which the [U.S. Small Business Administration](https://www.sba.gov/) recommends for businesses because it lets you schedule payments in advance. EFTPS requires upfront enrollment (allow a week for the PIN to arrive by mail), so don't wait until the night before your first payment is due to sign up.
 
 Credit card payments are technically possible through third-party processors, but they charge a fee of around 1.87% to 1.99% of the payment. There's almost no scenario where that makes sense. Use the bank transfer.
 
-Keep a record of every payment confirmation number. Seriously, save them somewhere. If there's ever a discrepancy with the IRS, that confirmation number is your proof.
+Keep a record of every payment confirmation number. Save them somewhere. If there's ever a discrepancy with the IRS, that confirmation number is your proof.
 
 ## State Taxes Are a Separate Problem
 
@@ -96,18 +93,13 @@ The [Consumer Financial Protection Bureau's small business resources](https://ww
 
 ## Tools That Actually Help
 
-You can do this calculation in a spreadsheet, and honestly, a well-built one is hard to beat. *Profit First* by Mike Michalowicz (available on [Amazon](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X), and yes, this site may earn a commission) is less about tax mechanics and more about building a cash management system that makes sure the tax money doesn't get spent before April, which is the more common failure mode in real life.
+You can do this calculation in a spreadsheet, and honestly, a well-built one is hard to beat. *Profit First* by Mike Michalowicz (available on [Amazon](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X), and yes, this site may earn a commission) is less about tax mechanics and more about building a cash management system that makes sure the tax money doesn't get spent before April. That's the more common failure mode in real life.
 
-If you want software, QuickBooks Self-Employed (currently around $20/month) estimates your quarterly payments automatically based on your actual income as you categorize it. FreshBooks does the same. Both are fine. Neither is magic. The estimate is only as good as the income data you put in, which means you have to actually log your income and expenses regularly, not in a panic the week before a payment is due.
+If you want software, QuickBooks Self-Employed (currently around $20 per month) estimates your quarterly payments automatically based on your actual income as you categorize it. FreshBooks does the same. Both are fine. Neither is magic. The estimate is only as good as the income data you put in, which means you have to actually log your income and expenses regularly, not in a panic the week before a payment is due.
 
-Some people keep a simple rule: set aside 25-30% of every payment received into a separate savings account. It's not perfectly precise, but it ensures you never face a $15,000 tax bill with nothing in reserve. A lot of experienced freelancers run their whole system this way, and they sleep fine.
+Some people keep a simple rule: set aside 25 to 30% of every payment received into a separate savings account. It's not perfectly precise, but it ensures you never face a $15,000 tax bill with nothing in reserve. A lot of experienced freelancers run their whole system this way, and they sleep fine.
 
 For anything complex, including S-corp elections, retirement contribution deductions (SEP-IRA, Solo 401(k)), or a year with wildly variable income, talk to a CPA. The self-employment tax calculation above is standard, but the deduction side can significantly change your liability, and a CPA will find things a spreadsheet won't.
-
----
-
-
----
 
 The honest truth is that calculated quarterly payments feel complicated until you do them once. After the first year, you have a real prior-year number to anchor to, and the whole system becomes mechanical in the best way. The goal isn't perfection. It's staying close enough that April doesn't hurt.
 
@@ -132,12 +124,9 @@ The honest truth is that calculated quarterly payments feel complicated until yo
 
 ---
 
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-

@@ -25,7 +25,6 @@ author_title: "Tax Strategist"
 author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
 
 ---
-
 Most business owners spend years building something valuable, then give away a significant chunk of that value in the final six months before the sale. I've watched it happen more times than I'd like to admit. A seller gets an offer, gets excited, skips the preparation phase, and ends up leaving real money on the table, not because they were careless people, but because they didn't know what buyers actually look for when they open the hood. Selling a business is a completely different skill set than running one. And most people only do it once.
 
 ## What Your Business Is Actually Worth (And Why Your Number Probably Isn't It)
@@ -34,55 +33,59 @@ I'll be honest: the valuation conversation is where most sellers get their first
 
 Owners typically anchor their price to what the business means to them, the years invested, the risk they took, the lifestyle it funded. Buyers anchor to something entirely different: transferable earnings, clean documentation, and how much risk they're taking on. Those two starting points are rarely close.
 
-The most common valuation method for small businesses is a multiple of Seller's Discretionary Earnings, or SDE. SDE is essentially your net profit, added back with the owner's salary, owner benefits, depreciation, amortization, and any one-time expenses. For most small businesses, buyers are paying somewhere between 2x and 4x that number, though the range varies significantly by industry, growth trend, and how dependent the business is on the owner personally.
+The most common valuation method for small businesses is a multiple of Seller's Discretionary Earnings, or SDE. SDE is essentially your net profit, plus the owner's salary, owner benefits, depreciation, amortization, and any one-time expenses. For most small businesses, buyers pay somewhere between 2x and 4x that number, though the range varies significantly by industry, growth trend, and how dependent the business is on you personally.
 
-What surprised me when I started digging into this was how much the multiple shifts based on factors sellers often overlook. A business where the owner is the key salesperson, the primary relationship with every major client, and the only one who knows how the back-end systems work? That business carries a steep discount in a buyer's mind, because they're not just buying a business, they're buying a job they don't fully understand yet. A business with documented processes, a capable management layer, and diversified revenue across at least 10-15 clients? That trades at the higher end of the range.
+Here's what surprised me: how much the multiple shifts based on factors sellers overlook. A business where you're the key salesperson, the primary relationship with every major client, and the only one who knows how the back-end systems work? That carries a steep discount in a buyer's mind. They're not just buying a business, they're buying a job they don't fully understand yet. A business with documented processes, a capable management layer, and diversified revenue across 10-15 clients? That trades at the higher end of the range.
 
-A useful starting framework: look at your SDE honestly, then ask yourself what would happen to revenue in year one if you walked out the door on closing day. The answer tells you more about your real valuation ceiling than any formula will.
+A useful starting framework: look at your SDE honestly, then ask yourself what would happen to revenue on day one if you walked out the door at closing. The answer tells you more about your real valuation ceiling than any formula will.
 
-For a deeper dive on valuation mechanics and how to position a business before sale, the book [*The Art of Selling Your Business* by John Warrillow](https://www.amazon.com/Art-Selling-Your-Business-Strategies/dp/1733510052?tag=contentportfo-20) is one of the most practical resources I've seen on this topic. (Note: that's an affiliate link, and the site may earn a small commission.)
+For a deeper look at valuation mechanics and positioning before sale, [*The Art of Selling Your Business* by John Warrillow](https://www.amazon.com/Art-Selling-Your-Business-Strategies/dp/1733510052?tag=contentportfo-20) is one of the most practical resources I've found. (Note: that's an affiliate link, and the site may earn a small commission.)
 
 ## Getting Your House in Order: The Pre-Sale Preparation Phase
 
 > **Helpful resource:** [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
+If you're planning to sell in the next 12 to 24 months, the single best use of your time right now is making your business look the way it would if you were trying to impress the most skeptical buyer imaginable.
 
+That means three years of clean, accurate financial statements. Not shoebox receipts. Not a QuickBooks file your bookkeeper kind of keeps updated. Formal profit and loss statements, balance sheets, and cash flow statements, ideally prepared or reviewed by a CPA. Buyers and their lenders need to verify your numbers, and anything that looks inconsistent will either kill the deal or drop your price.
 
-If you're planning to sell in the next 12 to 24 months, the single best use of your time right now is making your business look the way it would look if you were trying to impress the most skeptical buyer imaginable.
-
-That means three years of clean, accurate financial statements. Not shoebox receipts. Not a QuickBooks file your bookkeeper "kind of keeps updated." Formal profit and loss statements, balance sheets, and cash flow statements, ideally prepared or reviewed by a CPA. Buyers and their lenders need to verify your numbers, and anything that looks inconsistent will either kill the deal or drop your price.
-
-Here's a practical pre-sale checklist I walk clients through:
+Here's a practical pre-sale checklist:
 
 **Step 1: Clean up your books, 12-24 months before sale.**
+
 Separate personal expenses from business expenses completely. Stop running your gym membership, personal vehicle, or family vacation through the business. These get added back in SDE calculations, but excessive personal expenses make your financials messy and raise red flags.
 
 **Step 2: Document your operations.**
+
 Write down how things get done. Standard operating procedures don't need to be corporate-grade manuals. They need to be clear enough that someone who doesn't know your business could follow them. This directly reduces perceived buyer risk.
 
 **Step 3: Solidify customer contracts.**
+
 Month-to-month verbal agreements with clients are a liability in a sale. Written contracts with renewal terms signal stability. If your top three clients represent more than 40% of revenue and have no contracts, expect that to come up in every negotiation.
 
 **Step 4: Reduce owner dependence.**
+
 This is the hard one. Delegate. Promote from within. Let someone else handle the client relationships. Every month you spend doing this before the sale is worth more than almost anything else you can do.
 
 **Step 5: Get a professional valuation.**
+
 Not a back-of-napkin calculation. A formal business valuation from a certified business appraiser or a business broker gives you an independent reference point and strengthens your negotiating position.
 
 **Step 6: Consult your accountant and attorney before listing.**
-The structure of the deal, whether it's an asset sale or a stock sale, has major tax consequences. I can't stress this enough: talk to a CPA before you sign anything. The [IRS Small Business Tax Center](https://www.irs.gov/businesses/small-businesses-self-employed) has resources that outline basic treatment of business sale transactions, but a CPA who knows your specific situation is irreplaceable here.
+
+The structure of the deal, whether it's an asset sale or a stock sale, has major tax consequences. Talk to a CPA before you sign anything. The [IRS Small Business Tax Center](https://www.irs.gov/businesses/small-businesses-self-employed) has resources that outline basic treatment of business sale transactions, but a CPA who knows your specific situation is irreplaceable here.
 
 ## Finding the Right Buyer: More Options Than Most Sellers Realize
 
-Most sellers assume there's one path: list the business, wait for a call, negotiate with whoever shows up. The reality is more nuanced, and the type of buyer you target shapes nearly everything about the transaction.
+Most sellers assume there's one path: list the business, wait for a call, negotiate with whoever shows up. The reality is more nuanced. The type of buyer you target shapes nearly everything about the transaction.
 
 **Individual buyers** are often first-time business owners using SBA financing. They tend to be more emotionally invested in the process, slower to move, and heavily dependent on lender approval. SBA 7(a) loans are the most common financing vehicle for business acquisitions under about $5 million, which means your business needs to meet SBA eligibility criteria and your financials need to hold up to lender scrutiny.
 
-**Strategic buyers** are existing companies in your industry or an adjacent one who are buying for market share, talent, or capabilities. They can often pay more because there's operational synergy in the deal. The downside is that strategic buyers may have existing staff who overlap with yours, and they're typically sophisticated negotiators.
+**Strategic buyers** are existing companies in your industry or an adjacent one buying for market share, talent, or capabilities. They can often pay more because there's operational synergy in the deal. The downside: strategic buyers may have existing staff who overlap with yours, and they're typically sophisticated negotiators.
 
 **Private equity and search funds** are increasingly active in the lower middle market, targeting businesses with $500K to $3M in EBITDA. If your business fits that profile, it's worth understanding how PE buyers underwrite deals, because their approach and terms differ meaningfully from individual buyers.
 
-**Internal buyers** including management buyouts can be a cleaner transition, but they often require seller financing, where you essentially become the bank for part of the purchase price.
+**Internal buyers**, including management buyouts, can be a cleaner transition, but they often require seller financing, where you essentially become the bank for part of the purchase price.
 
 Business brokers are the most common resource for deals under $2 million in value. They handle marketing, screen buyers, and manage the process for a commission (typically 8-12% for smaller deals). For larger transactions, M&A advisors or investment bankers are more appropriate. [SCORE's mentorship resources](https://www.score.org/) can help you think through which exit path fits your business and connect you with advisors in your area, free of charge.
 
@@ -90,7 +93,7 @@ Business brokers are the most common resource for deals under $2 million in valu
 
 Here's where sellers often get blindsided. The purchase price is only part of the story. How the deal is structured determines how much you actually take home and when.
 
-**Asset sale vs. stock sale.** Most small business transactions are structured as asset sales, where the buyer purchases specific assets and assumes selected liabilities. From a tax perspective, this is often better for buyers but can create a higher tax bill for sellers depending on how the sale proceeds are allocated across asset classes. Stock sales are more favorable for sellers in many cases, but buyers push back because they inherit all historical liabilities. This is a conversation to have with a CPA before you get deep into negotiation.
+**Asset sale vs. stock sale.** Most small business transactions are asset sales, where the buyer purchases specific assets and assumes selected liabilities. From a tax perspective, this is often better for buyers but can create a higher tax bill for sellers depending on how the sale proceeds are allocated across asset classes. Stock sales are more favorable for sellers in many cases, but buyers push back because they inherit all historical liabilities. This is a conversation to have with a CPA before you get deep into negotiation.
 
 **Earnouts.** An earnout is when part of your purchase price is contingent on the business hitting certain performance targets post-sale. Buyers love earnouts because they shift risk to the seller. Sellers often agree to them because they bridge a valuation gap. The research on earnouts is genuinely mixed: some sellers collect the full amount, many don't. If you agree to an earnout, make sure the metrics are clearly defined, within your control, and that the accounting methodology is specified in the agreement.
 
@@ -102,14 +105,11 @@ Here's where sellers often get blindsided. The purchase price is only part of th
 
 Due diligence is the buyer's formal process of verifying everything you've represented. It typically runs 30 to 90 days and covers financials, legal, operations, customers, and sometimes HR.
 
-I've seen deals fall apart in due diligence over things sellers thought were no big deal: an expired lease that was never renewed in writing, a key employee who was essentially running everything and had no non-compete, sales tax filings that hadn't been kept current, or a top customer who verbally indicated they might not continue with new ownership.
+I've seen deals fall apart over things sellers thought were no big deal: an expired lease that was never renewed in writing, a key employee who was essentially running everything and had no non-compete, sales tax filings that hadn't been kept current, or a top customer who verbally indicated they might not continue with new ownership.
 
 Go through your own due diligence before you list. Hire an attorney to review your contracts, leases, and any outstanding legal exposure. Have your accountant verify that your tax filings are current and your financial statements are reconciled. Create a virtual data room with organized documents so when a buyer asks for three years of bank statements, you can send a link in 20 minutes instead of scrambling for two weeks.
 
 The smoother your due diligence process, the more confidence buyers have, and confident buyers are less likely to renegotiate price after the fact.
-
----
-
 
 ---
 
@@ -122,7 +122,6 @@ Selling a business you've built is one of the most significant financial events 
 - **[The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20)**
 - **[Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)**
 - **[Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20)**
-
 
 ---
 
@@ -143,4 +142,3 @@ Selling a business you've built is one of the most significant financial events 
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-

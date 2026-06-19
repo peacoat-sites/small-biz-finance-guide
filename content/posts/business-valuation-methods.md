@@ -25,20 +25,19 @@ author_title: "Tax Strategist"
 author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
 
 ---
+You just got an offer to buy your business. The number on the table either makes you feel robbed or handed the lottery. The problem? You have no idea which one it is. I've watched owners accept offers 40% below actual value because they never bothered learning valuation. I've also seen owners walk away from genuinely fair deals anchored to a number they'd pulled from nowhere. Both are avoidable. That's what this is for.
 
-You just got an offer to buy your business. The number on the table is either going to make you feel like you've been robbed or like you've been handed the lottery. The problem is, you have no idea which one it is. I've seen owners accept offers 40% below what their business was actually worth because they never took the time to understand valuation. I've also seen owners walk away from genuinely fair deals because they were anchored to a number they pulled from thin air. Both outcomes are avoidable, and that's exactly what this article is for.
-
-Business valuation isn't just for exits, either. You'll need it when you're bringing on a partner, seeking a bank loan, raising outside investment, settling a divorce, buying out a co-founder, or doing estate planning. The moment you need a real number and don't have one, you're already behind. Let's fix that.
+Valuation isn't just for exits. You need it when bringing on a partner, seeking a bank loan, raising outside investment, settling a divorce, buying out a co-founder, or doing estate planning. The moment you need a real number and don't have one, you're already behind.
 
 ---
 
 ## Why There's No Single "Right" Number
 
-The first thing that frustrates most business owners when they dig into valuation is this: there isn't one universally correct method. Two appraisers can look at the same business and arrive at legitimately different numbers. That's not incompetence. It's the nature of the exercise.
+Here's what frustrates most business owners digging into valuation: there isn't one universally correct method. Two appraisers can look at the same business and arrive at legitimately different numbers. That's not incompetence. It's the nature of the work.
 
-Every valuation method rests on a set of assumptions. What will the business earn in the future? How much risk is baked into those earnings? What would a buyer pay today versus what the assets are worth on paper? Different buyers weigh these questions differently. A private equity firm buying for cash flow cares about different things than a strategic acquirer who wants your customer list or your technology.
+Every valuation method rests on assumptions. What will the business earn in the future? How much risk is baked into those earnings? What would a buyer pay today versus what the assets are worth on paper? Different buyers weigh these differently. A private equity firm buying for cash flow cares about different things than a strategic acquirer hunting for your customer list or your technology.
 
-What you want is to understand three or four core methods well enough that you can triangulate your own number, pressure-test what someone else is telling you, and walk into a negotiation or a lender meeting with confidence. That's the goal here.
+What you want is to understand three or four core methods well enough to triangulate your own number, pressure-test what someone else is telling you, and walk into a negotiation or lender meeting with confidence.
 
 ---
 
@@ -46,51 +45,49 @@ What you want is to understand three or four core methods well enough that you c
 
 > **Helpful resource:** [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
+This is the method most buyers and lenders care about most. The income approach asks one central question: how much money is this business going to generate, and what is that stream of income worth today?
 
+The most common version for small businesses is the **Seller's Discretionary Earnings (SDE) multiple**.
 
-This is the method most buyers and lenders care about most, and for good reason. The income approach asks one central question: how much money is this business going to generate, and what is that stream of income worth today?
+Start with net profit. Add back your own salary and benefits, since a new owner would replace those costs with their own compensation. Then add back one-time or non-recurring expenses (that legal bill from last year, the equipment you wrote off) and any personal expenses run through the business (the car lease, the phone, the Costco membership). The result is your SDE, representing the true economic benefit the business delivers to a full-time owner-operator.
 
-The most common version you'll encounter for small businesses is the **Seller's Discretionary Earnings (SDE) multiple**. Here's how it works.
+From there, apply a multiple. For small businesses, that ranges from 1.5x to 3.5x SDE, with significant variation depending on industry, size, growth trend, and how dependent the business is on you. A $250,000 SDE business might sell for $375,000 to $875,000 depending on these factors. That's a massive range, which is why understanding the qualitative drivers of your multiple matters as much as the math.
 
-Start with your net profit. Then add back your own salary and benefits, since a new owner would replace those costs with their own compensation. Then add back any one-time or non-recurring expenses (that legal bill from last year, the equipment you wrote off), and any personal expenses you ran through the business (the car lease, the phone, the Costco membership). The result is your SDE. It represents the true economic benefit the business delivers to a full-time owner-operator.
+For larger, more sophisticated businesses, **EBITDA multiples** (Earnings Before Interest, Taxes, Depreciation, and Amortization) take over. Businesses with $1M or more in EBITDA often trade at 4x to 7x or higher, depending on sector.
 
-From there, you apply a multiple. For small businesses, that multiple typically ranges from 1.5x to 3.5x SDE, with a lot of variation depending on industry, business size, growth trend, and how dependent the business is on you personally. A $250,000 SDE business might sell for anywhere from $375,000 to $875,000 depending on those factors. That's a massive range, which is why understanding the qualitative drivers of your multiple matters as much as the math.
-
-For larger or more sophisticated businesses, a similar concept called **EBITDA multiples** (Earnings Before Interest, Taxes, Depreciation, and Amortization) is used. Businesses with $1M or more in EBITDA are often valued at 4x to 7x or higher, depending on the sector.
-
-The other version of the income approach is **Discounted Cash Flow (DCF)**. You project your free cash flows out 5 to 10 years, then discount them back to today's dollars using a "discount rate" that reflects the risk of those projections. DCF is powerful in theory and used frequently in formal appraisals, but it's also highly sensitive to your assumptions. A small change in the discount rate or the long-term growth assumption can swing your valuation dramatically. I'd suggest understanding it conceptually, but be cautious about over-relying on your own DCF model without a CPA or business appraiser involved.
+The other income approach version is **Discounted Cash Flow (DCF)**. Project your free cash flows out 5 to 10 years, then discount them back to today's dollars using a "discount rate" reflecting the risk of those projections. DCF is powerful in theory and widely used in formal appraisals, but it's also highly sensitive to your assumptions. A small change in the discount rate or long-term growth assumption can swing your valuation dramatically. Understand it conceptually, but be cautious about over-relying on your own DCF model without a CPA or business appraiser involved.
 
 ---
 
 ## The Market Approach: What Comparable Businesses Actually Sold For
 
-If the income approach is science, the market approach is detective work. You're looking at what similar businesses have actually sold for and using those transactions as a benchmark.
+If the income approach is science, the market approach is detective work. You're looking at what similar businesses actually sold for and using those transactions as a benchmark.
 
-For publicly traded companies, this is relatively easy. There's transaction data everywhere. For private small businesses, it's harder, but not impossible. Databases like BizBuySell, Pratt's Stats, and DealStats aggregate historical sale data by industry, revenue, and earnings. Your business broker, CPA, or M&A advisor will typically have access to these.
+For publicly traded companies, this is straightforward. Transaction data exists everywhere. For private small businesses, it's harder but doable. Databases like BizBuySell, Pratt's Stats, and DealStats aggregate historical sale data by industry, revenue, and earnings. Your business broker, CPA, or M&A advisor usually has access.
 
-The market approach is especially useful as a cross-check. If your income approach valuation says your business is worth $1.2M but comparable businesses in your industry with similar revenue are selling for $650,000 to $800,000, that's a signal worth taking seriously. Either your business is genuinely exceptional, or your assumptions are off.
+The market approach is especially useful as a cross-check. If your income approach says your business is worth $1.2M but comparable businesses in your industry with similar revenue are selling for $650,000 to $800,000, that signals something worth taking seriously. Either your business is genuinely exceptional, or your assumptions are off.
 
-One caveat: "comparable" is doing a lot of work in that sentence. A restaurant with $800K in revenue in a suburban strip mall is not comparable to a restaurant with $800K in revenue in a prime downtown location, even if the SDE looks similar on paper. Geography, customer concentration, lease terms, staff tenure, and brand recognition all matter. Use market comps as a reference range, not a verdict.
+"Comparable" does a lot of heavy lifting in that sentence. A restaurant with $800K revenue in a suburban strip mall isn't comparable to one with $800K revenue in a prime downtown location, even if the SDE looks similar on paper. Geography, customer concentration, lease terms, staff tenure, and brand recognition all matter. Use market comps as a reference range, not a verdict.
 
 ---
 
 ## The Asset Approach: The Floor, Not the Ceiling
 
-The asset-based approach calculates what your business is worth based on its net assets: total assets minus total liabilities. There are two main flavors.
+The asset-based approach calculates your business worth based on net assets: total assets minus total liabilities. Two main flavors exist.
 
-**Book value** uses the numbers on your balance sheet. This is often misleading for operating businesses because balance sheet values don't reflect real-world market values. Equipment depreciated to zero might still be worth $50,000 in the open market. Real estate might have appreciated significantly.
+**Book value** uses the numbers on your balance sheet. This often misleads for operating businesses because balance sheet values don't reflect real-world market values. Equipment depreciated to zero might still fetch $50,000 on the open market. Real estate might have appreciated significantly.
 
-**Liquidation value** asks what you'd actually get if you sold everything off today, quickly. This is almost always lower than book value. Inventory sold at auction, equipment sold under time pressure, and accounts receivable that won't all collect at face value. Liquidation value is the floor. It represents the absolute worst-case scenario.
+**Liquidation value** asks what you'd actually get selling everything off today, quickly. Almost always lower than book value. Inventory sold at auction, equipment sold under time pressure, accounts receivable that won't all collect at face value. Liquidation value is the floor. It represents the absolute worst-case scenario.
 
-The asset approach is most relevant for businesses where the value really is tied up in assets: real estate holding companies, equipment-heavy manufacturers, or businesses where the earnings are minimal but the tangible asset base is significant. For service businesses, consulting firms, or SaaS companies, asset-based valuation often significantly undervalues what the business is worth as a going concern.
+The asset approach matters most for asset-heavy businesses: real estate holding companies, equipment-heavy manufacturers, or businesses where earnings are minimal but the tangible asset base is significant. For service businesses, consulting firms, or SaaS companies, asset-based valuation often significantly undervalues what the business is worth as a going concern.
 
-One thing that often gets left off balance sheets entirely is **goodwill and intangible assets**: brand reputation, customer relationships, intellectual property, trained staff, and proprietary processes. These can represent the majority of a business's real value, and they won't show up unless you explicitly account for them.
+One thing that often stays off balance sheets entirely is **goodwill and intangible assets**: brand reputation, customer relationships, intellectual property, trained staff, and proprietary processes. These can represent the majority of a business's real value and won't show up unless you explicitly account for them.
 
 ---
 
 ## A Side-by-Side Comparison of the Three Core Methods
 
-Here's a quick reference to help you decide which method applies to your situation.
+Here's quick reference to help you decide which method applies.
 
 | Method | Best Used For | Main Inputs | Common Pitfalls |
 |---|---|---|---|
@@ -99,36 +96,33 @@ Here's a quick reference to help you decide which method applies to your situati
 | Market / Comparable Sales | Any business with sufficient comparable transaction data | Industry sale databases, revenue and earnings benchmarks | Poor comps, ignoring qualitative differences |
 | Asset-Based (Book or Liquidation) | Asset-heavy businesses, distressed situations, holding companies | Balance sheet, appraised asset values | Ignores intangibles; understates going-concern value |
 
-No single method should be used in isolation. A credible valuation triangulates two or three of these and explains the reasoning behind the final number.
+No single method should stand alone. A credible valuation triangulates two or three and explains the reasoning behind the final number.
 
 ---
 
 ## What Kills Your Valuation (and What Boosts It)
 
-Understanding the math of valuation is step one. Understanding what drives the multiple is step two, and it's where most owners leave money on the table.
+Understanding the math of valuation is step one. Understanding what drives the multiple is step two. Most owners leave money on the table here.
 
-**Factors that hurt your valuation:**
-- Heavy owner dependency. If the business doesn't work without you, it's worth less to a buyer who has to step in and replace you.
-- Customer concentration. If 50% of your revenue comes from one client, that's an existential risk that any smart buyer will discount heavily.
-- Declining revenue trends. A business with three years of declining top-line revenue will trade at the low end of any multiple range, even if current earnings look okay.
+**Factors that hurt:**
+- Heavy owner dependency. A business that doesn't work without you is worth less to a buyer who has to replace you.
+- Customer concentration. If 50% of your revenue comes from one client, that's an existential risk any smart buyer discounts heavily.
+- Declining revenue trends. A business with three years of declining top-line revenue trades at the low end of any multiple range, even if current earnings look solid.
 - Messy books. I've watched deals fall apart or get repriced in due diligence because the seller's financials were inconsistent or unclear. The Consumer Financial Protection Bureau's small business resources include guidance on maintaining clean, lender-ready records, and the same principles apply to exit readiness.
-- Undocumented processes. If your operations only exist inside your head, that's a risk a buyer prices in.
+- Undocumented processes. If your operations exist only inside your head, that's a risk a buyer prices in.
 
-**Factors that boost your valuation:**
-- Recurring revenue or contracted customers. Subscriptions, retainers, and multi-year contracts are worth real multiples premium.
+**Factors that boost:**
+- Recurring revenue or contracted customers. Subscriptions, retainers, and multi-year contracts command real multiple premiums.
 - Demonstrated growth. Three to five years of consistent revenue and earnings growth tells a story.
-- Strong management team. A business that runs without you is worth more than one that depends on you.
-- Documented systems and SOPs. Written processes, clean accounting, an organized CRM. These reduce a buyer's perceived risk.
-- Clean tax history. The IRS small business tax center has resources on proper recordkeeping, and buyers will scrutinize your last three years of returns. Clean, consistent filings signal a well-run operation.
+- Strong management team. A business that runs without you is worth more than one dependent on you.
+- Documented systems and SOPs. Written processes, clean accounting, an organized CRM reduce a buyer's perceived risk.
+- Clean tax history. The IRS small business tax center has recordkeeping resources, and buyers scrutinize your last three years of returns. Clean, consistent filings signal a well-run operation.
 
-If you're not planning to sell for five years, the time to start building these factors is now, not the year you decide to exit.
-
----
-
+If you're not planning to sell for five years, start building these factors now, not the year you exit.
 
 ---
 
-The best thing you can do right now, whether you're five years from an exit or five months, is to sit down and run your numbers through at least two of these methods. See where they land. Then ask yourself honestly: what are the two or three things that would hurt my valuation most, and what can I actually do about them? That question has made more clients meaningful money than any other single exercise I've put in front of them. You built this business. Make sure you get paid fairly for it.
+Sit down right now and run your numbers through at least two of these methods. See where they land. Then ask yourself honestly: what are the two or three things that would hurt my valuation most, and what can I actually do about them? That question has made more clients meaningful money than any other single exercise. You built this business. Make sure you get paid fairly for it.
 
 ## Helpful Resources
 
@@ -137,7 +131,6 @@ The best thing you can do right now, whether you're five years from an exit or f
 - **[Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20)**
 - **[Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20)**
 - **[The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20)**
-
 
 ---
 
@@ -158,4 +151,3 @@ The best thing you can do right now, whether you're five years from an exit or f
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-

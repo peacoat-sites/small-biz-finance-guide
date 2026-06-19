@@ -25,7 +25,6 @@ author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
 
 ---
-
 You're sitting across from a banker, a potential investor, or maybe just your own accountant, and someone slides a page of numbers in front of you. Three columns, a bunch of line items, totals at the bottom. Everyone in the room assumes you understand it. You nod. You don't fully understand it. I've watched this exact moment happen to smart, capable business owners more times than I can count, and it never has to go that way.
 
 A balance sheet is not complicated once someone explains it honestly. The problem is most explanations start with accounting theory instead of starting with you, the person who needs to make a decision. So let's fix that right now.
@@ -51,8 +50,6 @@ Your P&L tells you whether you made money. Your balance sheet tells you whether 
 ## The Three Sections: Breaking Down What You're Looking At
 
 > **Helpful resource:** [Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Every balance sheet, whether it's one page or ten, organizes itself into three buckets. Here's what lives in each one.
 
@@ -135,7 +132,7 @@ These aren't exotic Wall Street metrics. A lender at your local bank is calculat
 
 ## Common Mistakes Business Owners Make When Reading a Balance Sheet
 
-What most people don't realize is that a balance sheet can look healthy while hiding serious problems. Here are the patterns I've seen come back to bite people.
+A balance sheet can look healthy while hiding serious problems. Here are the patterns I've seen come back to bite people.
 
 **Confusing assets with cash.** A machine worth $80,000 on paper can't pay your employees this Friday. Always distinguish between liquid and illiquid assets.
 
@@ -151,9 +148,6 @@ The [Consumer Financial Protection Bureau's small business resources](https://ww
 
 ---
 
-
----
-
 If you want a solid companion to the basics covered here, [Financial Intelligence for Entrepreneurs by Karen Berman and Joe Knight](https://www.amazon.com/Financial-Intelligence-Entrepreneurs-Knowing-Numbers/dp/1422119157?tag=contentportfo-20) is genuinely the best plain-language resource I've recommended to clients over the years. It covers balance sheets, P&Ls, and cash flow without condescending to you. (Disclosure: this site may earn a small commission if you purchase through that link, at no extra cost to you.)
 
 The balance sheet isn't something to hand off entirely to your accountant and never look at again. It's your business in a single frame. Once you know how to read it, you start seeing things early: the debt that's creeping up, the cash that's tighter than the profit numbers suggest, the equity you've actually built. That knowledge doesn't just help you in a meeting. It changes how you run the business every day.
@@ -166,14 +160,11 @@ The balance sheet isn't something to hand off entirely to your accountant and ne
 - **[Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)**
 - **[AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)**
 
-
 *Photo: [Tara Winstead](https://www.pexels.com/@tara-winstead) via Pexels*
 
 ---
 
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
-
----
 
 ---
 
@@ -183,4 +174,3 @@ The balance sheet isn't something to hand off entirely to your accountant and ne
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-

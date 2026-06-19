@@ -24,83 +24,75 @@ faqs:
   - q: "How do I deduct a business trip that also had personal days mixed in?"
     a: "The transportation costs (airfare, for example) are generally deductible if the primary purpose was business. Lodging and meals for the personal days are not deductible. Keep your meeting calendar, any conference agendas, and be specific in your records about which days were business and which weren't. This one's genuinely fact-specific, so ask your CPA before you file."
 ---
+Most small business tax deduction articles hand you a 47-item checklist with zero context, no priority ranking, and no mention of the documentation you've never actually kept. That's not a checklist. That's asking for trouble.
 
-Most small business tax deduction articles give you a 47-item checklist with no context, no priority, and no acknowledgment that half those deductions require documentation you've probably never kept. That's not a checklist. That's a liability.
+Here's what actually helps: knowing which deductions move the needle, which ones get flagged in audits, and what paper you need to gather before December 31st, not the night before you file.
 
-Here's what's actually useful: knowing which deductions move the needle, which ones get scrutinized, and what you need to back them up before December 31st -- not April 14th.
-
-I've spent 18 years sitting across the table from small business owners who left real money on the table because nobody told them the rules clearly. This is my attempt to fix that.
+I've spent 18 years across the table from small business owners who left real money on the table because nobody explained the rules straight. This is my attempt to fix that.
 
 ## The Deductions That Actually Matter
 
 Start with the ones that cost you the most if you miss them.
 
-**Home office.** If you work from home and have a dedicated space used regularly and exclusively for business, you can deduct it. Two methods: the simplified method gives you $5 per square foot up to 300 square feet (so a max of $1,500). The regular method requires calculating the actual percentage of your home used for business and applying it to your mortgage interest or rent, utilities, insurance, and depreciation. The regular method almost always produces a larger deduction, but it requires a paper trail. I'd recommend running both calculations and keeping the worksheets.
+**Home office.** If you work from home and have a dedicated space used regularly and exclusively for business, you can deduct it. Two methods exist: the simplified method gives you $5 per square foot up to 300 square feet (max deduction of $1,500 per year). The regular method requires you to calculate what percentage of your home is actually used for business, then apply that to your mortgage interest or rent, utilities, insurance, and depreciation. The regular method almost always wins, but it demands receipts and calculations you need to keep. Run both numbers and save the worksheets.
 
-One thing people get wrong: "regularly and exclusively" means what it says. A spare bedroom with a desk where your kids also do homework doesn't qualify.
+Here's where people slip up: "regularly and exclusively" means exactly that. A spare bedroom with a desk where your kids also do homework doesn't count.
 
-**Vehicle expenses.** Two methods again. Standard mileage rate for 2026 is set by the IRS each year (check IRS.gov for the current rate -- it adjusts periodically). The actual expense method lets you deduct a percentage of real costs: gas, insurance, repairs, depreciation. If you drive a lot for work, keep a mileage log. A spreadsheet works fine, but apps like MileIQ or Everlance make this nearly automatic. Auditors love asking for mileage logs, and "I estimated it" is not a defensible position.
+**Vehicle expenses.** Two methods again. The IRS standard mileage rate for 2026 is published annually on [IRS.gov](https://www.irs.gov/) and shifts based on fuel costs. The actual expense method lets you deduct a percentage of what you actually spend: gas, insurance, repairs, depreciation. If you drive constantly for work, you need a mileage log. A spreadsheet does the job, but apps like MileIQ or Everlance handle it semi-automatically. Auditors ask for mileage logs every time, and "I estimated it" gets you nowhere.
 
-**Section 179 and bonus depreciation.** You bought equipment, computers, machinery, or qualifying property for the business this year. Instead of depreciating it over five or seven years, Section 179 lets you expense a significant portion of it immediately. Bonus depreciation is layered on top of that. The rules shift year to year -- consult your CPA before year-end on this one, because the timing of a purchase can matter by thousands of dollars.
+**Section 179 and bonus depreciation.** You bought equipment, computers, machinery, or qualifying property this year. Instead of depreciating it over five or seven years, Section 179 lets you write off a big chunk immediately. Bonus depreciation stacks on top of that. The rules change annually, so talk to your CPA before year-end. The timing of when you buy something can shift your deduction by thousands of dollars.
 
-**Qualified Business Income (QBI) deduction.** If you're a sole proprietor, partnership, S-corp, or LLC (not a C-corp), you may be able to deduct up to 20% of your qualified business income. This is one of the most significant deductions available to small business owners and one of the most misunderstood. It phases out at higher income levels, and certain service-based businesses (law, finance, consulting) hit limitations earlier. Your CPA should be running this calculation for you. If they're not, ask directly.
+**Qualified Business Income (QBI) deduction.** If you're a sole proprietor, partnership, S-corp, or LLC (not a C-corp), you might deduct up to 20% of your qualified business income. This is the single biggest deduction most small business owners don't understand. It phases out once you hit higher income levels, and certain service businesses (law, finance, consulting) run into limitations faster. Your CPA should calculate this for you. If they're not, ask.
 
-**Health insurance premiums.** If you're self-employed and not eligible for coverage through a spouse's employer plan, you can deduct 100% of health insurance premiums you pay for yourself, your spouse, and your dependents. This one is frequently missed by solo operators who assume it only matters at tax time. It doesn't go on Schedule C; it goes on Schedule 1. Small difference, but your bookkeeper needs to know.
+**Health insurance premiums.** Self-employed and not covered through a spouse's plan? You can deduct 100% of health insurance premiums you pay for yourself, your spouse, and your dependents. Solo operators miss this one constantly because they think it only matters at tax time. It doesn't go on Schedule C; it goes on Schedule 1. Your bookkeeper needs to know the difference.
 
 ## What Most People Underestimate
 
-> **Helpful resource:** [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
+Retirement contributions. This is where business owners leave the most money behind.
 
+A SEP-IRA lets you contribute up to 25% of net self-employment income, with an annual ceiling (check IRS Publication 560 for current numbers). A Solo 401(k) can allow even larger total contributions depending on your situation. Both reduce your taxable income dollar for dollar. A freelance engineer I know started maxing his SEP-IRA at 44 and cut his federal tax bill by more than any single operational deduction we found. The math almost always works.
 
+If you have employees, a SIMPLE IRA or SEP plan covers them too, and employer contributions are fully deductible. The [U.S. Small Business Administration](https://www.sba.gov/) has a useful overview of retirement plan options if you're starting from zero.
 
-Retirement contributions. This is where I see business owners leave the most money behind.
+**Meals.** The rules shifted in 2018 and still aren't intuitive. Currently, business meals with a client or business associate where there's a legitimate business purpose are 50% deductible. Meals you provide to employees at your workplace for the employer's convenience follow different rules. Entertainment (sporting events, concerts) basically disappeared as a deduction, and mixing meals with entertainment is a quick way to get flagged. Document why you're eating, who was there, and when.
 
-A SEP-IRA lets you contribute up to 25% of net self-employment income, up to a fairly high annual ceiling (check IRS Publication 560 for current limits). A Solo 401(k) can allow even larger total contributions for the right person. Both reduce your taxable income dollar for dollar. A client of mine, a freelance engineer, started maxing his SEP-IRA at 44 and cut his federal tax bill by more than any single operational deduction we found. The math on this is almost always compelling.
+**Software and subscriptions.** Your accounting software, project management tools, industry publications, LinkedIn Premium if it's actually work-related, all deductible. This one gets overlooked because the charges are small and scattered across statements. Go through your credit card statements and find every recurring business charge. Most owners find $500 to $2,000 a year in forgotten subscriptions they never categorized.
 
-If you have employees, a SIMPLE IRA or SEP plan can cover them too, and employer contributions are deductible. The [U.S. Small Business Administration](https://www.sba.gov/) has a reasonable overview of small business retirement plan options if you're starting from scratch.
-
-**Meals.** The rules on meals have been in flux since 2018 and they're still not intuitive. Currently, business meals with a client or business associate that have a clear business purpose are 50% deductible. Meals provided to employees at the workplace for the employer's convenience have their own rules. Entertainment (sporting events, concerts) is essentially gone as a deduction, and conflating meals with entertainment is a fast way to get a deduction disallowed. Document the business purpose, the attendees, and the date every time.
-
-**Software and subscriptions.** Your accounting software, project management tools, industry publications, LinkedIn Premium if it's genuinely business-related -- all of it is deductible. This one's easy to miss because the charges are small and scattered. Run through your credit card statements and identify every recurring business charge. I guarantee most owners find $500 to $2,000 a year in forgotten subscriptions they never categorized.
-
-**Professional services.** Your CPA, attorney, financial consultant, business coach -- deductible. What you pay me is deductible. Keep the invoices.
+**Professional services.** Your CPA, attorney, financial consultant, business coach, all deductible. What you pay professionals is deductible. Keep the invoices.
 
 ## The Payroll Side That Gets Ignored
 
-If you have employees, the deductions get broader and the record-keeping requirements get more serious.
+Once you have employees, deductions expand and record-keeping gets serious.
 
-Wages, salaries, and bonuses are fully deductible. Your employer portion of payroll taxes (Social Security, Medicare) is deductible. Benefits you provide -- health insurance, group term life insurance up to certain limits, contributions to employee retirement plans -- are generally deductible. If you're paying for an employee's education that's related to their current job, that's deductible too.
+Wages, salaries, and bonuses are fully deductible. Your employer portion of payroll taxes is deductible. Benefits you provide, health insurance, group term life insurance up to certain limits, and employee retirement plan contributions are generally deductible. Paying for an employee's education related to their current job? Deductible.
 
-The mistake I see here isn't missing the deduction. It's not running clean payroll records that support it. The IRS doesn't care that you paid your people; they care that you can prove it. Payroll software like Gusto or QuickBooks Payroll creates that paper trail automatically. It's worth the cost.
+The real problem isn't missing the deduction. It's not keeping clean payroll records that prove it. The IRS doesn't care that you paid people; they care that you can show it. Payroll software like Gusto or QuickBooks Payroll creates that documentation automatically. It's worth the monthly fee.
 
-One contrarian opinion I'll stand behind: you probably don't need a dedicated payroll accountant if you have under 10 employees. Modern payroll software handles the filings, the tax deposits, and the year-end W-2s without a separate person. Most small business owners paying for a dedicated payroll service at that scale are paying for peace of mind they could get from a $50/month software subscription.
+Here's an unpopular opinion I'll defend: you probably don't need a dedicated payroll accountant if you have under 10 employees. Modern payroll software handles filings, tax deposits, and W-2s without a separate person. Most small business owners paying for dedicated payroll service at that scale are just buying peace of mind they could get from a $50/month subscription.
 
 ## Deductions That Attract Scrutiny
 
-I'd be doing you a disservice if I didn't name these.
+The home office deduction has a reputation for triggering audits. The reputation is partly overblown, but the deduction also gets abused, which is why it gets attention. If you actually qualify, take it. Just keep a photo of the space, your square footage calculation, and lease or mortgage documents.
 
-The home office deduction has a reputation for triggering audits. The reputation is partially overblown, but the deduction is also frequently abused, which is why it gets attention. If you legitimately qualify, take it. Just keep a photo of the space, your square footage calculation, and the lease or mortgage documents.
+Claiming 100% business use of a vehicle almost always gets a second look. Unless you have a separate personal vehicle, that claim isn't credible. Be honest. Overstating vehicle use is one of the most common mistakes the IRS catches.
 
-Claiming 100% business use of a vehicle almost always draws a second look. Unless you have a separate vehicle you use personally, that number is rarely credible. Be honest in your calculation. Overstating vehicle use is one of the most common errors the IRS finds.
+Hobby loss rules (IRC Section 183) matter. If your side business lost money for three of the last five years, the IRS may reclassify it as a hobby, which kills the deductions. Running a legitimate business means acting like one: separate bank account, a business plan, genuine effort to turn profit.
 
-Hobby loss rules (IRC Section 183) are real. If your side business has lost money for three of the last five years, the IRS may try to reclassify it as a hobby, which eliminates the deductions. Running a legitimate business means acting like one: a separate bank account, a business plan, consistent effort to generate profit.
-
-The [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/) cover some of the record-keeping basics that apply here, particularly around maintaining clean separation between business and personal finances.
+The [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/) cover record-keeping basics that apply here, especially maintaining clear separation between business and personal finances.
 
 ## Building Your 2026 Checklist From Here
 
 The checklist isn't a document you download. It's a system you build before December 31st.
 
-Start with a dedicated business checking account and credit card if you don't have them. Every business expense runs through those accounts. Every receipt gets stored digitally -- Dext, Hubdoc, even a simple Google Drive folder organized by month works if you're actually consistent.
+Start with a dedicated business checking account and credit card if you don't have them already. Run every business expense through those accounts. Every receipt gets stored digitally, Dext, Hubdoc, or even a Google Drive folder organized by month works if you're actually consistent.
 
-Categorize transactions monthly, not annually. The people who do their bookkeeping in a panicked weekend every April pay more in taxes, not less, because they miss things and make errors.
+Categorize transactions monthly, not in a frantic April weekend. The people who do their bookkeeping once a year pay more in taxes, not less, because they miss things and make errors.
 
-If you want a solid framework for setting up these systems, Mike Piper's *Taxes Made Simple* (available [on Amazon](https://www.amazon.com/Taxes-Made-Simple-Understandable-Taxes/dp/0997946458/?tag=contentportfo-20)) is the most accessible plain-English guide I've found for small business owners who want to understand what they're signing. (Disclosure: that link is an affiliate link, and the site may earn a small commission.)
+For a solid framework on setting up these systems, Mike Piper's *Taxes Made Simple* (available [on Amazon](https://www.amazon.com/Taxes-Made-Simple-Understandable-Taxes/dp/0997946458/?tag=contentportfo-20)) is the clearest plain-English guide I've found for small business owners who want to understand what they're actually signing.
 
-Then, before year-end, sit down with a CPA -- not a tax preparer, a CPA -- and review what you've captured. Ask specifically about Section 179, your retirement contribution options, and whether your entity structure is still optimized for your income level. That conversation is itself deductible.
+*(Disclosure: that link is an affiliate link, and this site may earn a small commission.)*
 
----
-
+Then, before year-end, meet with a CPA, not a tax preparer, a CPA, and review what you've gathered. Ask specifically about Section 179, retirement contribution options, and whether your entity structure still fits your income level. That conversation itself is deductible.
 
 ## Helpful Resources
 
@@ -110,19 +102,15 @@ Then, before year-end, sit down with a CPA -- not a tax preparer, a CPA -- and r
 - **[Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20)**
 - **[AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)**
 
-
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
 
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
 
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.

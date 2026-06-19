@@ -25,34 +25,29 @@ author_title: "Operations Finance Writer"
 author_bio: "Amanda Pierce has run her own small business and knows the difference between profitability on paper and actually having money in the bank. She specializes in the operational side of business finances: invoicing systems, cash flow forecasting, dealing with slow-paying clients, and managing the day-to-day money reality of running a small business. At Small Biz Finance Guide, she covers cash flow tools, payment systems, and operational finance."
 
 ---
+Most tax advice about the qualified business income deduction starts in the middle. It assumes you already know what it is, skips right past the part where 20% of your income might just disappear from your taxable base, and then spends three paragraphs hedging about whether you qualify. Let me back up.
 
-Most tax advice about the qualified business income deduction starts in the middle. It assumes you already know what it is, skips the part where 20% of your income might just disappear from your taxable base, and then spends three paragraphs hedging about whether you qualify. Let me back up and do this right.
+The QBI deduction, created by the Tax Cuts and Jobs Act in 2017 and currently set to expire after 2025 (Congress has been circling an extension, but nothing's locked in as of now), lets eligible self-employed people and pass-through business owners deduct up to 20% of their qualified business income. Not a credit. A deduction. You're reducing the income that gets taxed, which means the actual dollar benefit depends on your marginal rate. If you're in the 22% bracket and you earn $100,000 in qualified business income, you could potentially deduct $20,000, saving roughly $4,400 in federal income tax.
 
-The QBI deduction, created by the Tax Cuts and Jobs Act in 2017 and currently set to expire after the 2025 tax year (Congress has been circling an extension, but nothing is locked in as of this writing), lets eligible self-employed people and pass-through business owners deduct up to 20% of their qualified business income. Not a credit. A deduction. You're reducing the income that gets taxed, which means the actual dollar benefit depends on your marginal rate. If you're in the 22% bracket and you earn $100,000 in qualified business income, you could potentially deduct $20,000, saving roughly $4,400 in federal income tax. Real money.
-
-Here's what makes it complicated: "up to 20%" does a lot of work in that sentence. There are income thresholds, phase-outs, W-2 wage limits, and an entirely separate category called Specified Service Trades or Businesses that can get you frozen out of the deduction entirely if you earn too much. The IRS didn't make this simple. So let's go piece by piece.
+Here's what makes it complicated: "up to 20%" does a ton of work in that sentence. There are income thresholds, phase-outs, W-2 wage limits, and an entirely separate category called Specified Service Trades or Businesses that can freeze you out of the deduction entirely if you earn too much. The IRS didn't make this simple. So let's go piece by piece.
 
 ## Who Actually Qualifies
 
 Pass-through entities. That's the category. Sole proprietors, single-member LLCs taxed as sole props, partnerships, S corporations, and some trusts. If your business income flows through to your personal return rather than being taxed at the corporate level, you're in the right lane.
 
-You also need to be running what the IRS calls a "qualified trade or business." That's almost any legitimate business activity. Rental income can count, with some important caveats depending on how the rental is structured. W-2 wages from a job you also hold don't count. And your business needs to actually be generating income, not just burning cash.
+You also need to be running what the IRS calls a "qualified trade or business." That's almost any legitimate business activity. Rental income can count, with some important caveats depending on how it's structured. W-2 wages from a regular job don't count. And your business needs to actually be generating income, not just burning cash.
 
-C corporations don't qualify. The deduction was specifically designed for pass-throughs, and that's by design.
+C corporations don't qualify. The deduction was specifically designed for pass-throughs.
 
 ## The Income Thresholds (This Is Where It Gets Real)
 
-> **Helpful resource:** [Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
+For 2024, the thresholds sit at $191,950 for single filers and $383,900 for married filing jointly. Below those numbers, the deduction is relatively straightforward. You multiply your qualified business income by 20%, and that's your deduction, subject to an overall limit tied to taxable income.
 
-
-
-For 2024, the thresholds sit at $191,950 for single filers and $383,900 for married filing jointly. Below those numbers, the deduction is relatively clean. You multiply your qualified business income by 20%, and that's your deduction, subject to an overall limit tied to taxable income.
-
-Above those thresholds, two things happen depending on what kind of business you have.
+Above those thresholds, things split depending on what kind of business you have.
 
 For regular qualified businesses (a small manufacturing company, a landscaping business, a retail shop), a wage-and-property limitation kicks in. Your deduction gets capped at the greater of 50% of W-2 wages paid by the business, or 25% of W-2 wages plus 2.5% of the unadjusted basis of qualified property. That second formula matters for capital-heavy businesses with significant equipment or real estate. The math isn't hard, but it does require that you actually know your W-2 wages and your asset basis, which requires clean books.
 
-For Specified Service Trades or Businesses (SSTBs), the situation is harsher. Once you clear the upper phase-out limit ($241,950 single / $483,900 MFJ for 2024), the deduction goes to zero. Done.
+For Specified Service Trades or Businesses (SSTBs), the situation is harsher. Once you clear the upper phase-out limit ($241,950 single / $483,900 MFJ for 2024), the deduction goes to zero.
 
 ## What Counts as a Specified Service Trade or Business
 
@@ -64,34 +59,31 @@ One thing I've seen cause real confusion: a business can have an SSTB component 
 
 ## How to Actually Calculate It
 
-Start with your qualified business income. That's your net profit from the business, minus things like self-employment tax deductions, self-employed health insurance, and SEP-IRA contributions. Those adjustments reduce QBI, which reduces the deduction. It's counterintuitive but it's the rule.
+Start with your qualified business income. That's your net profit from the business, minus things like self-employment tax deductions, self-employed health insurance, and SEP-IRA contributions. Those adjustments reduce QBI, which reduces the deduction. Counterintuitive but that's the rule.
 
 Multiply QBI by 20%. That's your preliminary deduction.
 
-Then apply the overall taxable income limit: the deduction can't exceed 20% of your taxable income minus net capital gains. If your QBI deduction would be $30,000 but your taxable income minus capital gains is only $80,000, your deduction caps at $16,000 (20% of $80,000).
+Then apply the overall taxable income limit: the deduction can't exceed 20% of your taxable income minus net capital gains. If your QBI deduction would be $30,000 but your taxable income minus capital gains is only $80,000, your deduction caps at $16,000.
 
 If you're above the income thresholds and not an SSTB, apply the W-2 wage and property limitation.
 
 Take the smaller number. That's your QBI deduction.
 
-It sounds like a lot of steps but it flows through IRS Form 8995 (the simpler version for most people under the threshold) or Form 8995-A (for higher-income filers and those with multiple businesses). Your tax software will walk you through it. For anyone with a more complex setup, though, doing it manually at least once helps you understand what's actually happening. Ram Charan's *What the CEO Wants You to Know* won't help you here, but Mike Piper's [*Taxes Made Simple*](https://www.amazon.com/Taxes-Made-Simple-Understand-Return/dp/0997061537?tag=contentportfo-20) is a genuinely useful plain-language resource if you want to go deeper without a law degree. (The site may earn a small commission if you purchase through that link.)
+It sounds like a lot of steps but it flows through IRS Form 8995 (the simpler version for most people under the threshold) or Form 8995-A (for higher-income filers and those with multiple businesses). Your tax software will walk you through it. For anyone with a more complex setup, though, doing it manually at least once helps you understand what's actually happening. Mike Piper's [*Taxes Made Simple*](https://www.amazon.com/Taxes-Made-Simple-Understand-Return/dp/0997061537?tag=contentportfo-20) is a genuinely useful plain-language resource if you want to go deeper without a law degree. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 ## The Part Most Articles Skip: Planning Opportunities
 
-If you're bumping against the income thresholds, there are legitimate strategies worth exploring before year-end. Increasing W-2 wages paid through an S corp election can expand your deduction. Larger retirement contributions reduce QBI and taxable income simultaneously, which affects the calculation in ways that aren't always obvious. The [U.S. Small Business Administration](https://www.sba.gov/) has baseline resources on business structure that are worth reading if you're still deciding how to organize your entity.
+If you're bumping against the income thresholds, there are legitimate strategies worth exploring before year-end. Increasing W-2 wages paid through an S corp election can expand your deduction. Larger retirement contributions reduce QBI and taxable income simultaneously, which affects the calculation in ways that aren't always obvious. The [U.S. Small Business Administration](https://www.sba.gov/) has baseline resources on business structure worth reading if you're still deciding how to organize your entity.
 
-Charitable contributions and other deductions that reduce taxable income can also affect the overall cap. This is the kind of planning that ideally happens in October or November, not April 14th.
+Charitable contributions and other deductions that reduce taxable income also affect the overall cap. This is the kind of planning that ideally happens in October or November, not April 14th.
 
-One real planning note from practice: if you're an S corp owner, paying yourself a reasonable salary while keeping distributions higher can actually improve your QBI deduction, since the salary itself doesn't count as QBI. This is a legitimate strategy but "reasonable compensation" has IRS teeth attached, so don't get creative. The [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/) won't cover S corp compensation strategy, but they're a solid starting point for broader financial literacy if you're newer to running a business.
+One real note from practice: if you're an S corp owner, paying yourself a reasonable salary while keeping distributions higher can actually improve your QBI deduction, since the salary itself doesn't count as QBI. This is legitimate but "reasonable compensation" has IRS teeth attached, so don't get creative. The [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/) won't cover S corp compensation strategy, but they're solid for broader financial literacy if you're newer to running a business.
 
 The expiration question is real. If the deduction sunsets at the end of 2025 as currently scheduled, planning around it becomes even more time-sensitive. Consult a CPA on timing strategies before then.
 
----
-
-
 ## Helpful Resources
 
-*As an Amazon Associate this site earns from qualifying purchases.*
+*(As an Amazon Associate this site earns from qualifying purchases.)*
 
 - **[Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20)**
 - **[Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20)**
@@ -113,8 +105,7 @@ The expiration question is real. If the deduction sunsets at the end of 2025 as 
 
 ## Recommended Resources
 
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+**Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-

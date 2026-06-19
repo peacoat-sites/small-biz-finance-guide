@@ -25,73 +25,65 @@ author_title: "Tax Strategist"
 author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
 
 ---
+Most business owners stumble onto trade credit by accident. A supplier mentions "net-30 terms" on an invoice, you nod like you understand, and later that night you're quietly googling it. I've had that exact conversation with clients so many times I've lost count.
 
-Most business owners discover trade credit by accident. A supplier mentions "net-30 terms" on an invoice, you nod like you know what that means, and then you go home and quietly google it. No shame in that. I've had that conversation with clients more times than I can count.
-
-So let's talk about it properly, because trade credit is one of the most underused and misunderstood tools available to small businesses. And unlike a bank loan, you don't need a pitch deck or a credit history to get started.
+Trade credit is one of the most underused and misunderstood tools available to small businesses. And here's the thing that makes it different from a bank loan: you don't need a pitch deck, a pristine credit history, or six months of financial statements to get started.
 
 ## What Trade Credit Actually Is
 
-Here's the simplest definition I know: trade credit is when a supplier lets you take goods or services now and pay for them later. That's it. No interest (usually), no formal loan application, no collateral. The supplier extends you short-term credit as part of doing business with them.
+Trade credit is simple. A supplier lets you take goods or services now and pay them later. No interest (usually). No formal application. No collateral. The supplier extends you short-term credit because it's how business gets done.
 
-The most common versions you'll see are net-30, net-60, and net-90 terms. Net-30 means you have 30 days from the invoice date to pay. Net-60, 60 days. And so on. You'll also see terms like "2/10 net-30," which means you get a 2% discount if you pay within 10 days, but the full amount is due by day 30. That early payment discount is worth paying attention to (more on that in a minute).
+You'll see net-30, net-60, and net-90 most often. Net-30 means 30 days from invoice to payment. Net-60 is 60 days. Straightforward. Then there's "2/10 net-30," which means 2% off if you pay in 10 days, but the full amount is due by day 30. That early-payment discount deserves real attention (we'll dig into the math later).
 
-For a product-based business buying inventory, or a contractor paying for materials before a client pays you, this kind of arrangement is the difference between being able to take on work and turning it down because you don't have the cash upfront.
+For product businesses buying inventory or contractors paying for materials before clients pay them, this arrangement is what makes taking on work possible instead of turning it down because you're broke.
 
 ## Why This Often Beats a Line of Credit
 
-> **Helpful resource:** [Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
+A business line of credit requires an application, a personal guarantee, a hard credit pull, months of bank statements, and interest the second you use it. Trade credit doesn't.
 
+The [U.S. Small Business Administration](https://www.sba.gov/) lists trade credit as one of the most common forms of small business financing specifically because the barrier to entry is so low. A supplier who wants your repeat business is often way more willing to extend terms than a bank that's never heard of you.
 
-
-I know that sounds like a strong claim. But think about what a business line of credit involves: a bank application, personal guarantee, likely a hard credit pull, potentially months of business bank statements, and interest the moment you draw on it. Trade credit skips all of that.
-
-The [U.S. Small Business Administration](https://www.sba.gov/) lists trade credit as one of the most common forms of financing for small businesses, and it's specifically because the barrier is so low early on. A supplier who wants your repeat business is often far more willing to extend terms than a bank that doesn't know you yet.
-
-That said, trade credit isn't a replacement for a line of credit in every situation. If you need cash, trade credit doesn't help you directly. It helps you preserve cash you already have. That distinction matters.
+But here's the catch: trade credit isn't a replacement for a line of credit when you actually need cash. Trade credit preserves cash you already have. It doesn't create cash. That's an important distinction.
 
 ## How to Actually Get It
 
-You don't wait to be offered trade credit. You ask for it.
+You don't wait for an offer. You ask.
 
-When you're setting up a new supplier relationship, after the initial price conversation, say: "Do you offer net-30 terms for accounts?" That's the whole question. Some will say yes immediately. Some will say yes after you've placed a couple of paid orders. Some will ask you to fill out a short credit application, which usually just means your business name, EIN, maybe a few trade references or your bank's name.
+When you're setting up a new supplier, after the price conversation, say: "Do you offer net-30 terms?" Some will say yes immediately. Others will say yes after you've paid a couple invoices on time. A few will ask you to fill out a short credit application, usually just your business name, EIN, maybe a bank reference or two.
 
-If you're newer in business and don't have much history, start with smaller suppliers before approaching the big distributors. I've seen clients build a solid trade credit profile in 12 to 18 months just by opening accounts with five or six vendors, paying every invoice early or on time, and then using those relationships as trade references when applying for terms elsewhere.
+If you're newer in business without much history, start with smaller suppliers before approaching big distributors. I've watched clients build solid trade credit profiles in 12 to 18 months just by opening accounts with five or six vendors, paying invoices early or on time, and using those relationships as references when applying for terms elsewhere.
 
-One thing most people don't realize: those payment histories can be reported to commercial credit bureaus like Dun & Bradstreet, Experian Business, and Equifax Business. Your DUNS number (a free registration through Dun & Bradstreet) is the foundation of your business credit profile. If you haven't claimed yours yet, do that before you do anything else. It's free, it takes about 10 minutes, and it starts the clock on your business credit history.
+Here's what most people miss: those payment histories get reported to commercial credit bureaus like Dun & Bradstreet, Experian Business, and Equifax Business. Your DUNS number (free through Dun & Bradstreet) is the foundation of your business credit. Get it before you do anything else. It's free, takes 10 minutes, and starts your business credit clock.
 
 ## The 2/10 Net-30 Math Most People Get Wrong
 
-When a supplier offers you "2/10 net-30," a lot of business owners either ignore the discount or take it without thinking about whether it makes sense. Here's what's actually happening financially.
+A lot of business owners ignore "2/10 net-30" discounts or take them without thinking. Let's do the actual math.
 
-You're being offered a 2% discount to pay 20 days early. That sounds small. But annualized, that's roughly a 36% return on the cash you're using to pay early. The actual formula is: (discount % / (1 - discount %)) x (365 / days between early and full payment). So 2% over 20 days = about 36.7% annualized.
+You're getting 2% off to pay 20 days early. Small number, right? Annualized, that's roughly 36% return on the cash. The formula is: (discount % / (1 - discount %)) x (365 / days between early and full payment). So 2% over 20 days equals about 36.7% annualized.
 
-If you have cash sitting idle, paying early to capture that discount is almost always worth it. If you're tight on cash, stretching to the full 30 days is absolutely the right call. The trap is paying early when you're actually drawing on an expensive credit card to do it. Then you're paying high interest to capture a smaller discount, which doesn't pencil out.
+If you have idle cash sitting around, capturing that discount makes sense almost every time. If cash is tight, stretching to full terms is the right move. The mistake is paying early with borrowed money on a credit card. Then you're paying high interest to capture a smaller discount. The numbers don't work.
 
-This is one of the things I'd encourage you to run by a CPA or financial advisor for your specific situation, because the right answer depends entirely on your cash position and cost of capital.
+Talk this through with a CPA or financial advisor for your specific situation. The right answer depends entirely on your cash position and what capital costs you.
 
 ## Building Trade Credit Intentionally
 
-A lot of small business owners treat trade credit as an afterthought. I'd argue it should be one of the first structured things you set up.
+Most small business owners treat trade credit like an accident waiting to happen. I think it should be one of the first structured things you build.
 
-The [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed) has guidance on keeping your business finances properly separated, which matters here for a reason that's easy to miss: suppliers and commercial lenders look at your business as its own entity. If your business finances are mixed with personal ones, you can't build a business credit profile that stands on its own. Separate checking account, separate EIN, everything in the business name.
+The [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed) has guidance on keeping business and personal finances separate. Here's why it matters for credit: suppliers and lenders look at your business as its own entity. If business and personal money are mixed together, you can't build a business credit profile that stands alone. Separate checking. Separate EIN. Everything in the business name.
 
-After that, the approach is pretty systematic:
+Then it's systematic: Open accounts with suppliers you already use and ask for terms. Pay every invoice before or on the due date. Add two or three more trade accounts over time. Make sure at least some suppliers report to commercial bureaus. Check your Dun & Bradstreet and Experian Business profiles every six months for errors.
 
-Open accounts with suppliers you already use and ask for terms. Pay every invoice before or on the due date. Over time, add two or three more trade accounts. Make sure at least some of your suppliers report to commercial bureaus. Check your Dun & Bradstreet and Experian Business profiles every six months to catch errors.
-
-If you want a more structured framework for thinking through business credit and working capital, Mike Michalowicz's *Profit First* (available on [Amazon](https://amzn.to/3example), note: affiliate link) doesn't cover trade credit specifically but builds excellent habits around cash management that make trade credit work a lot better in practice.
+Mike Michalowicz's *Profit First* (available on [Amazon](https://amzn.to/3example), note: affiliate link) doesn't cover trade credit specifically but teaches solid cash management habits that make trade credit work better in practice.
 
 ## When Trade Credit Goes Wrong
 
-Stretching payment terms is a short-term fix that becomes a long-term problem faster than you'd think. If you start consistently paying on day 29 of a net-30 account, fine. If you start hitting day 35 because cash is tight, you are now burning a business relationship and your commercial credit profile at the same time.
+Stretching terms becomes a crisis faster than you think. Paying on day 29 of net-30 is fine. Hitting day 35 because cash is tight means you're burning a business relationship and your commercial credit profile simultaneously.
 
-I've worked with a client who had a $2,200 outstanding invoice with a materials supplier she'd used for four years. She let it slip past terms during a slow quarter. The supplier cut her off. She had to find a new vendor, pay cash upfront for six months to establish trust, and lost the pricing she'd negotiated over years. The cost of that late payment was not $2,200. It was far higher.
+I worked with a client who had a $2,200 invoice sitting with a materials supplier she'd used for four years. She let it slip during a slow quarter. The supplier dropped her. She found a new vendor but had to pay cash upfront for six months to rebuild trust and lost all her negotiated pricing. That late payment cost her far more than $2,200.
 
-If you know you're going to be late, call the supplier before the invoice is due. Most vendors will work with you if you communicate. What they won't forgive is silence.
+If you know you're going to be late, call before the invoice is due. Most vendors will work with you if you communicate. Silence is what they won't forgive.
 
 ---
-
 
 ## Helpful Resources
 
@@ -120,4 +112,3 @@ If you know you're going to be late, call the supplier before the invoice is due
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-

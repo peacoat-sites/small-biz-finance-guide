@@ -25,26 +25,21 @@ author_title: "Operations Finance Writer"
 author_bio: "Amanda Pierce has run her own small business and knows the difference between profitability on paper and actually having money in the bank. She specializes in the operational side of business finances: invoicing systems, cash flow forecasting, dealing with slow-paying clients, and managing the day-to-day money reality of running a small business. At Small Biz Finance Guide, she covers cash flow tools, payment systems, and operational finance."
 
 ---
-
 If you're running a business in a small town or rural community, you've probably hit a wall that urban entrepreneurs rarely think about. The bank is 45 minutes away. The SBA lender you called doesn't work in your area. And every time you search for funding, the results either don't apply to you or feel impossibly complicated. Here's something that might change that picture: the USDA runs a suite of business loan and grant programs specifically designed for rural areas, and most small business owners have never heard of them.
 
 ## What USDA Business Loans Actually Are (And Who They're For)
 
-Most people associate the USDA with farm subsidies or food stamps. That's understandable. But the USDA's Rural Development division has a separate mission: strengthening rural economies by supporting businesses, infrastructure, and jobs in communities that traditional financing often overlooks.
+Most people associate the USDA with farm subsidies or food stamps. But the USDA's Rural Development division has a completely different job: strengthening rural economies by supporting businesses, infrastructure, and jobs in communities that traditional financing often overlooks.
 
-The flagship program is called the **Business & Industry (B&I) Guaranteed Loan Program**. It works similarly to an SBA loan guarantee, where the USDA doesn't lend you money directly. Instead, it guarantees a portion of a loan made by an approved commercial lender. That guarantee reduces the lender's risk, which means they're more willing to extend credit in areas or to borrowers they might otherwise pass on.
+The main program is called the **Business & Industry (B&I) Guaranteed Loan Program**. Here's how it works: the USDA doesn't lend you money directly. Instead, it guarantees a portion of a loan made by an approved commercial lender. That guarantee reduces the lender's risk, which means they're more willing to extend credit in areas or to borrowers they might otherwise pass on.
 
 There are also direct programs, smaller rural business grants, and intermediary lending programs, but the B&I guaranteed loan is the one most established small businesses will want to understand first.
 
-You might be wondering who qualifies as "rural." The USDA defines rural areas as cities, towns, and unincorporated areas with populations under 50,000, with a priority focus on communities under 25,000. You can check your address directly on the USDA's eligibility mapping tool at [USDA Rural Development](https://www.rd.usda.gov/). It takes about two minutes and gives you a clear yes or no.
+On the question of what counts as "rural," the USDA defines it as cities, towns, and unincorporated areas with populations under 50,000, with priority focus on communities under 25,000. You can check your address directly on the USDA's eligibility mapping tool at [USDA Rural Development](https://www.rd.usda.gov/). Takes about two minutes and gives you a clear yes or no.
 
 ## What You Can Use the Money For
 
-> **Helpful resource:** [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
-This is where people get pleasantly surprised. USDA B&I loans are flexible. Here's what they can cover:
+This is where people get pleasantly surprised. USDA B&I loans are flexible:
 
 - Business conversion, enlargement, repair, modernization, or development
 - Purchase of equipment, machinery, supplies, or inventory
@@ -57,19 +52,21 @@ What you can't use them for: agricultural production (that's a different USDA de
 
 I've seen clients use B&I loans to purchase commercial buildings they'd been renting for years, to buy out a retiring business partner, and to fund equipment upgrades that a conventional bank wouldn't touch because the collateral was specialized. The flexibility is real.
 
+A helpful resource if you're building financial projections: [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20). It'll help you structure your numbers in a way lenders actually understand. *(As an Amazon Associate this site earns from qualifying purchases.)*
+
 ## Loan Sizes, Terms, and What to Expect
 
 The B&I program can guarantee loans from relatively modest amounts up to $25 million, though the guarantee percentage decreases as the loan size increases. For loans up to $5 million, the USDA can guarantee up to 80 percent of the loan. From $5 million to $10 million, it drops to 70 percent, and above $10 million, it's 60 percent.
 
 Interest rates are negotiated between you and your lender, not set by the USDA directly. They can be fixed or variable. Repayment terms generally run up to 30 years for real estate, 15 years for equipment, and 7 years for working capital.
 
-One thing that catches borrowers off guard: there are fees. The USDA charges a guarantee fee (currently around 3 percent of the guaranteed portion, though this can change), and lenders may charge their own origination fees. Factor this into your cost of capital before you compare it to other options.
+Here's what catches borrowers off guard: there are fees. The USDA charges a guarantee fee (currently around 3 percent of the guaranteed portion, though this can change), and lenders may charge their own origination fees. Factor this into your cost of capital before you compare it to other options.
 
 The [U.S. Small Business Administration (SBA)](https://www.sba.gov/) runs parallel programs, particularly the 7(a) and 504 loan programs, which are worth comparing. USDA B&I loans often allow higher loan amounts and can sometimes work better for real estate-heavy deals or in communities where SBA lenders aren't active. But the application process is more complex and typically slower. It's not unusual for a B&I loan to take four to six months from application to closing.
 
 ## How to Apply: A Step-by-Step Overview
 
-The application process has real teeth to it. Here's what a practical path looks like:
+The application process has real teeth to it.
 
 **Step 1: Confirm eligibility.** Check your business address on the USDA eligibility map. Confirm your business type is eligible. Most for-profit businesses qualify, as do some nonprofits.
 
@@ -87,22 +84,13 @@ The application process has real teeth to it. Here's what a practical path looks
 
 **Step 5: Conditional commitment and closing.** The USDA issues a conditional commitment letter. Your lender and attorney handle the closing documents, similar to a commercial real estate closing.
 
-If you haven't put together a formal business plan before, a resource like [Tim Berry's *Lean Business Planning*](https://www.amazon.com/dp/1599186071?tag=contentportfo-20) (Amazon, affiliate link) can help you build projections that actually make sense to a lender without overcomplicating it.
+If you haven't put together a formal business plan before, [Tim Berry's *Lean Business Planning*](https://www.amazon.com/dp/1599186071?tag=contentportfo-20) can help you build projections that actually make sense to a lender without overcomplicating it.
 
 ## Other USDA Rural Business Programs Worth Knowing
 
-The B&I loan isn't the only tool in the kit.
-
-**Rural Business Development Grants (RBDG):** These are competitive grants for rural small businesses with under 50 employees and less than $1 million in gross revenue. They don't have to be repaid, but the competition is real and the amounts are typically modest.
-
-**Intermediary Relending Program (IRP):** The USDA lends money to intermediaries (community development organizations, nonprofits, local governments), who then re-lend it to small businesses at below-market rates. If there's an active IRP intermediary in your area, this can be a faster path to smaller loan amounts.
-
-**Rural Microentrepreneur Assistance Program (RMAP):** Supports microloans and technical assistance for businesses with under 10 employees. Worth looking into if you're early stage.
+The B&I loan isn't the only tool in the kit. **Rural Business Development Grants (RBDG)** are competitive grants for rural small businesses with under 50 employees and less than $1 million in gross revenue. They don't have to be repaid, but the competition is real and the amounts are typically modest. **Intermediary Relending Program (IRP)** works differently: the USDA lends money to intermediaries (community development organizations, nonprofits, local governments), who then re-lend it to small businesses at below-market rates. If there's an active IRP intermediary in your area, this can be a faster path to smaller loan amounts. **Rural Microentrepreneur Assistance Program (RMAP)** supports microloans and technical assistance for businesses with under 10 employees. Worth looking into if you're early stage.
 
 The [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed) is also worth bookmarking as you grow, especially if USDA financing helps you expand your payroll or buy depreciable assets. New equipment purchases, for example, may open up Section 179 deduction opportunities. Always consult a CPA before making tax decisions.
-
----
-
 
 ---
 
@@ -115,7 +103,6 @@ If you're running a business in a rural area and you've been told no too many ti
 - **[Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20)**
 - **[Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20)**
 - **[QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20)**
-
 
 ---
 
@@ -137,4 +124,3 @@ If you're running a business in a rural area and you've been told no too many ti
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 - **[How to Buy Your Perfect First Home](https://www.amazon.com/dp/1731350120/?tag=contentportfo-20)** (~$14), Practical step-by-step guide to qualifying for a mortgage, budgeting correctly, and navigating the full homebuying process.
-

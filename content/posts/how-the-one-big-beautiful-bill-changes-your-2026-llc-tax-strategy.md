@@ -13,7 +13,6 @@ author_bio: "Amanda Pierce has run her own small business and knows the differen
 slug: "how-the-one-big-beautiful-bill-changes-your-2026-llc-tax-strategy"
 affiliate_disclosure: true
 ---
-
 Most coverage of the One Big Beautiful Bill Act treated it like a Washington story. It's not. It's a cash-flow story, and if you run an LLC or S-corp, the decisions you make in the next few months will determine how much of that cash you actually keep.
 
 The bill was signed on July 4, 2025. Several of its most consequential provisions either activated on January 1, 2026 or carry a hard deadline of July 4, 2026. That makes right now the live window. Not next tax season. Now.
@@ -30,57 +29,55 @@ The bill was signed on July 4, 2025. Several of its most consequential provision
 
 ## The QBI Deduction Is Permanent. Stop Planning Around Its Death.
 
-For the last several years, pass-through owners have been operating under a quiet uncertainty: the Section 199A qualified business income deduction, worth 20% of eligible pass-through income, was always supposed to sunset on December 31, 2025. A lot of owners built compensation structures, retirement contributions, and entity choices around that expiration date. Some even started questioning whether staying an S-corp still made sense without it.
+For years, pass-through owners operated under a specific cloud: the Section 199A qualified business income deduction, worth 20% of eligible pass-through income, was set to vanish on December 31, 2025. Many owners restructured their compensation, beefed up retirement contributions, and picked entity types based on that expiration date. Some even started wondering if staying an S-corp still made financial sense without it.
 
-That calculation is over. The OBBBA permanently extended the 20% QBI deduction. According to the SBA, the provision is delivering roughly $4,600 in average annual tax relief to around 8 million entrepreneurs. That's not a rounding error in a small business budget.
+That's over now. The OBBBA made the 20% QBI deduction permanent. The SBA reports this provision is delivering roughly $4,600 in average annual tax relief to around 8 million entrepreneurs. In a small business budget, that's not noise.
 
-What this means practically: the structural advantages of S-corp elections and multi-member LLCs are locked in for the foreseeable future. If you deferred an S-corp election because you weren't sure the deduction would survive, you need to have that conversation with your CPA now. Mid-year S-corp elections are possible but have mechanics and timing requirements that don't wait for your convenience.
+Here's what actually matters: the structural advantages of S-corp elections and multi-member LLCs are locked in now. If you delayed an S-corp election because you weren't convinced the deduction would stick around, you need to call your CPA this week. Mid-year S-corp elections are doable but they have specific mechanics and timing rules that won't accommodate procrastination.
 
-One thing the permanence doesn't fix: the deduction still phases out for certain service businesses above income thresholds, and it's still calculated off net qualified business income, not gross revenue. The deduction is real, but the math still matters.
+One caveat: the deduction still phases out for certain service businesses above income thresholds, and it's calculated off net qualified business income, not gross revenue. The deduction is real. The math is still complicated.
 
 ## Bonus Depreciation Is Back at 100%. Use It on the Right Assets.
 
 > **Helpful resource:** [QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
+This got lost in the QBI conversation, but for asset-heavy operations, it's probably the bigger immediate win.
 
+The OBBBA restored 100% bonus depreciation for qualifying property acquired after January 19, 2025, and made it permanent. It also increased the Section 179 expensing cap from $1.25 million to $2.5 million. They're not the same thing and don't function identically, but the takeaway is straightforward: buy qualifying equipment, machinery, vehicles, or certain software this year, and you can write the whole cost off in 2026 instead of spreading it over five to seven years.
 
-This one got buried in the QBI coverage, but it may be the bigger short-term lever for asset-heavy businesses.
+A manufacturing LLC that purchases $400,000 in equipment sees a huge difference. Instead of a standard five-year depreciation schedule, you're looking at roughly $320,000 in deductions accelerated forward. At a 30% effective tax rate, that's close to $96,000 in taxes you don't owe this year.
 
-The OBBBA restored 100% bonus depreciation for qualifying property acquired after January 19, 2025, and made it permanent. It also raised the Section 179 expensing cap from $1.25 million to $2.5 million. These aren't the same thing and they don't work identically, but the practical result is the same: if you buy qualifying equipment, machinery, vehicles, or certain software this year, you can write the entire cost off in 2026 instead of depreciating it over five to seven years.
-
-For a manufacturing LLC that buys $400,000 in equipment, the difference between 100% first-year expensing and a standard five-year depreciation schedule is roughly $320,000 in deductions moved forward. On a 30% effective rate, that's close to $96,000 in taxes not paid this year.
-
-As Carr, Riggs & Ingram noted in their May 2026 analysis of the bill's small business provisions, the combination of permanent bonus depreciation and the expanded Section 179 cap gives owners more flexibility than they've had in years to time large purchases strategically. The key word is "qualifying." Real property improvements have their own rules. Confirm what's eligible before you pull the trigger on a capital purchase.
+Carr, Riggs & Ingram noted in their May 2026 analysis of the bill's small business provisions that the combination of permanent bonus depreciation and the expanded Section 179 cap gives owners more strategic flexibility than they've had in years to time large purchases wisely. The key word is "qualifying." Real property improvements have different rules. Confirm what's eligible before you commit to a big capital purchase.
 
 ## The R&D Deadline Is July 4, 2026. This Is Not a Drill.
 
-This is the provision most owners have missed entirely, and the window closes in a matter of weeks.
+Almost nobody's talking about this one. The window closes in weeks.
 
-Under prior law, businesses had to capitalize and amortize domestic research and development costs over five years starting in 2022. That change blindsided a lot of small manufacturers, software developers, and product companies who had previously been expensing R&D directly. The OBBBA reversed that rule, and it allows small businesses with average annual gross receipts of $31 million or less to retroactively expense domestic R&D costs back to December 31, 2021.
+Under old law, businesses had to capitalize and amortize domestic research and development costs over five years starting in 2022. That caught a lot of small manufacturers, software developers, and product companies off guard who'd been expensing R&D directly. The OBBBA reversed that. It lets small businesses with average annual gross receipts of $31 million or less retroactively expense domestic R&D costs back to December 31, 2021.
 
-The catch: to claim those retroactive deductions, you must file amended returns before July 4, 2026.
+There's a catch: to claim those retroactive deductions, amended returns must be filed by July 4, 2026.
 
-If your business spent meaningful money on domestic R&D between 2022 and 2025 and you were forced to amortize rather than expense it, there's real money sitting in amended returns you haven't filed yet. The IRS held a dedicated webinar on March 24, 2026 specifically on the bill's business tax provisions, which signals just how much professional confusion exists around implementation. That's not a knock on the IRS; it reflects the scope of what changed.
+If your business spent real money on domestic R&D between 2022 and 2025 and got forced to amortize instead of expense it, there's genuine money waiting in amended returns you haven't filed. The IRS held a dedicated webinar on March 24, 2026 specifically on the bill's business tax provisions, which tells you something about the confusion out there. That's not a criticism of the IRS. It's just how big the changes are.
 
-Get your accountant on the phone this week if R&D costs apply to your business. July 4 is not a soft deadline.
+Call your accountant this week if R&D applies to your business. July 4 is not flexible.
 
 ## The 1099 Threshold Change Is Small but Real
 
-Starting in 2026, the reporting threshold for 1099-NEC and 1099-MISC filings rises from $600 to $2,000. This won't save your business thousands of dollars, but it does reduce administrative friction, which has real cost in staff time and accounting software complexity.
+In 2026, the reporting threshold for 1099-NEC and 1099-MISC filings jumps from $600 to $2,000. It won't save you thousands of dollars, but it does reduce friction, which has genuine cost in staff time and accounting software hassle.
 
-The practical effect: if you pay a contractor between $600 and $1,999 in 2026, you no longer need to issue a 1099. That eliminates a meaningful chunk of forms for businesses that work with a rotating roster of freelancers, designers, gig workers, or occasional specialists. It also reduces the number of W-9 requests you need to chase down at year-end.
+The practical effect: if you pay a contractor between $600 and $1,999 in 2026, you skip the 1099. That cuts a meaningful chunk of forms for businesses working with rotating freelancers, designers, gig workers, or occasional specialists. You also track down fewer W-9 requests at year-end.
 
-Don't mistake this for permission to be sloppy about contractor documentation. The deductibility of contractor payments doesn't hinge on the 1099 threshold; it hinges on whether the expense is ordinary, necessary, and properly recorded. Keep your records clean regardless.
+Don't read this as permission to stop paying attention to contractor documentation. Whether you deduct contractor payments depends on whether the expense is ordinary, necessary, and properly recorded, not on the 1099 threshold. Keep your records clean.
 
 ## Entity Structure Deserves a Fresh Look Right Now
 
-The OBBBA didn't just change a few line items. It changed the underlying economics of how pass-through entities are taxed, in a way that's now permanent rather than temporary. That shifts the analysis on entity structure, owner compensation levels, retirement plan contributions, and timing of income and deductions.
+The OBBBA didn't just tweak a few line items. It fundamentally changed how pass-through entities are taxed, in ways that are now permanent instead of temporary. That ripples through decisions about entity structure, owner compensation, retirement plan contributions, and when you take income versus deductions.
 
-A single-member LLC taxed as a sole proprietorship gets the QBI deduction, but may be leaving money on the table compared to an S-corp structure at higher income levels. An S-corp that hasn't revisited its reasonable compensation calculation since 2023 may be running a structure optimized for a tax law that no longer exists.
+A single-member LLC taxed as a sole proprietorship gets the QBI deduction. But at higher income levels, you might be leaving money on the table compared to an S-corp structure. An S-corp that hasn't recalculated reasonable compensation since 2023 may be running a system optimized for a tax law that doesn't exist anymore.
 
-This is genuinely a moment to sit down with a CPA or tax advisor who works with small business owners and run the numbers fresh. Not because the rules are unstable, but because they just became more stable in ways that reward proactive planning. I'm not saying everyone needs to restructure. I'm saying that the assumptions behind your current structure may have a 2024 expiration date stamped on them that you haven't noticed yet.
+This is actually the moment to sit with a CPA or tax advisor who works with small business owners and run the numbers fresh. Not because the rules will shift again, but because they just locked into something more permanent in ways that reward thinking ahead. I'm not saying you need to restructure everything. I'm saying the logic behind your current setup probably has a 2024 expiration date you haven't noticed.
 
-The businesses that come out of 2026 with the cleanest financials and the lowest tax bills will be the ones that treated July 2026 as a planning deadline, not a post-filing afterthought. The law changed. The question is whether your strategy did too.
+The businesses ending 2026 with the best financials and lowest tax bills will be the ones that treated July 2026 as a planning deadline, not something to figure out after you file. The law changed. Your strategy needs to change with it.
 
 ---
 
@@ -120,4 +117,3 @@ The businesses that come out of 2026 with the cleanest financials and the lowest
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 - **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 - **[QuickBooks Small Business Bookkeeping Guide](https://www.amazon.com/dp/0692957790/?tag=contentportfo-20)** (~$17), Compact, practical QuickBooks pocket guide, ideal for new business owners setting up accounting for the first time.
-

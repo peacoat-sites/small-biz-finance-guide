@@ -25,7 +25,6 @@ author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
 
 ---
-
 Most articles about opening a business bank account spend 800 words telling you to "gather your documents" and then stop. That's not advice. That's a checklist you could've written yourself. So let me cover what actually matters, including the part where most startups make an expensive mistake in the first 90 days.
 
 
@@ -40,70 +39,68 @@ Most articles about opening a business bank account spend 800 words telling you 
 
 ## Why the Bank You Pick at Month One Usually Stays
 
-Switching business bank accounts is annoying in a way that's hard to overstate. You've got ACH setups, connected apps, maybe a Stripe or PayPal integration, vendor autopays. Changing all of that is a half-day project minimum. Most owners never do it, which means the account you open in a panic during week two of your business tends to follow you for years.
+Switching business bank accounts is annoying. You've got ACH setups, connected apps, maybe a Stripe or PayPal integration, vendor autopays sitting there. Changing all of that takes half a day minimum, and most owners never do it. So that account you open in a panic during week two of your business? That's the one you'll probably use for five years.
 
 Pick with that in mind.
 
-The good news: online business banking has gotten genuinely good. Mercury, Relay, Bluevine, and Novo all offer free or near-free accounts built specifically for startups. None of them require you to walk into a branch. Most approve you within 24 to 72 hours. I'd put Mercury at the top of the list for most early-stage product or tech companies, and Relay for anyone who needs multiple spending envelopes or wants to run a profit-first-style system (it supports up to 20 sub-accounts). Bluevine pays a decent APY on balances, which matters once you're holding more cash.
+The good news is online business banking has actually gotten good. Mercury, Relay, Bluevine, and Novo all offer free accounts built specifically for startups. You don't have to walk into a branch. Most approve you within 24 to 72 hours. I'd pick Mercury for most early-stage tech or product companies, and Relay if you need multiple spending envelopes or want to run a profit-first system (it supports up to 20 sub-accounts). Bluevine pays a decent APY on balances, which starts mattering once you're holding real cash reserves.
 
-Traditional banks, Chase Business Complete Banking in particular, are worth considering only if you anticipate needing SBA loans or business credit quickly. The relationship still matters there, even in 2024.
+Traditional banks like Chase Business Complete Banking? Only consider them if you'll need SBA loans or business credit fast. The relationship still counts, even now.
 
 ## What You Actually Need to Apply
 
 > **Helpful resource:** [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
+Here's where the "gather your documents" articles fail you. The list isn't the same for every business structure, and some documents trip people up because they don't exist yet.
 
+For a sole proprietor, it's simple. You need your Social Security number, a DBA (Doing Business As) certificate if you're operating under a name other than your own, and a government-issued ID. Some online banks will open an account with just that in under 10 minutes.
 
-Here's where the "gather your documents" articles fail you: the list isn't the same for every business structure, and some documents trip people up because they don't exist yet.
-
-For a sole proprietor, the bar is low. You typically need your Social Security number, a DBA (Doing Business As) certificate if you're operating under a name other than your own, and a government-issued ID. Some online banks will open an account with just that in under 10 minutes.
-
-LLCs and corporations need more. Expect to provide:
+LLCs and corporations ask for more. You'll need:
 
 - Articles of Organization (LLC) or Articles of Incorporation (corporation), filed and stamped by your state
 - Your EIN (Employer Identification Number) from the IRS, which you can get free at IRS.gov in about five minutes
 - Your operating agreement (LLC) or bylaws (corporation)
 - Ownership information for anyone with 25% or more stake in the business, per federal beneficial ownership rules
 
-That last requirement comes from FinCEN (Financial Crimes Enforcement Network) regulations, not the bank being difficult. Every bank is required to collect it. The [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/) have a plain-language breakdown of what these rules mean for small business owners if you want to read the actual requirements.
+That last one comes from FinCEN (Financial Crimes Enforcement Network) regulations, not the bank being difficult. Every bank has to collect it. The [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/) break down what these rules actually mean if you want the plain-language version.
 
-One thing that snags people: if your LLC was formed less than a week ago, some banks want to see the stamped state filing before they'll proceed. You can often get a same-day or next-day stamped copy if you filed online through your state's secretary of state portal. Plan for a short lag.
+One thing that trips people up: if your LLC was formed less than a week ago, some banks won't move forward without a stamped state filing. You can usually get a same-day or next-day copy if you filed online through your state's secretary of state portal. Just plan for a short wait.
 
 ## The Actual Application Process, Step by Step
 
-This is what the online application looks like in practice. I'm using Mercury as the example because it's the most streamlined I've seen, but the sequence is nearly identical at Relay and Novo.
+Here's what it looks like in real life. I'm walking through Mercury because it's the most streamlined I've seen, but the sequence is basically identical at Relay and Novo.
 
-**1. Go to the bank's site and start the application.** Mercury asks for your legal business name and state of formation first. Don't use your DBA here. Use the exact name on your Articles of Organization.
+**1. Go to the bank's site and start the application.** Mercury asks for your legal business name and state of formation first. Use the exact name on your Articles of Organization, not your DBA.
 
-**2. Enter your EIN.** Not your SSN. If you haven't gotten your EIN yet, do that first at IRS.gov. It takes five minutes and costs nothing.
+**2. Enter your EIN.** Not your SSN. Haven't got your EIN yet? Go to IRS.gov first. It takes five minutes and costs nothing.
 
-**3. Upload your formation documents.** A clear phone photo of your stamped Articles is fine. It doesn't need to be a notarized copy or anything formal.
+**3. Upload your formation documents.** A clear phone photo of your stamped Articles works fine. It doesn't need to be a notarized copy.
 
-**4. Verify your identity.** You'll go through a standard ID check, either a driver's license scan or passport, sometimes with a live selfie. This is the step that occasionally fails on the first attempt if your ID photo is blurry. Use good lighting.
+**4. Verify your identity.** You'll scan a driver's license or passport, sometimes with a live selfie. This occasionally fails on the first try if your ID photo is blurry. Use good lighting.
 
-**5. Add ownership information.** Anyone who owns 25% or more needs to provide their name, address, date of birth, and SSN. This is federal law, not optional, and it applies even if that person isn't involved in day-to-day operations.
+**5. Add ownership information.** Anyone who owns 25% or more needs to provide their name, address, date of birth, and SSN. This is federal law, not optional, even if they're not involved in day-to-day work.
 
-**6. Fund the account.** Most online business banks have no minimum opening deposit, or a nominal one ($25 or less). Mercury requires no minimum. You'll link a personal account to make the initial transfer.
+**6. Fund the account.** Most online business banks have no minimum opening deposit, or just $25. Mercury requires nothing. You'll link a personal account to make the initial transfer.
 
-**7. Wait.** Approval usually comes by email within one to three business days. Sometimes faster. If you're flagged for manual review, a human will reach out asking for additional documentation. Don't panic; it happens to legitimate businesses regularly, especially newly formed ones.
+**7. Wait.** Approval usually comes within one to three business days. Sometimes faster. If you're flagged for manual review, someone from the bank will email asking for more documentation. Don't panic. It happens to legitimate businesses all the time, especially brand-new ones.
 
 ## The Mistake That Costs You Later
 
-Don't commingle. I know you've heard this before. But I've sat across from enough founders doing their first-year tax prep in a cold sweat to know that most of them did exactly that for the first few months, "just until things got settled."
+Don't mix personal and business money. You've heard this before. But I've watched enough founders sweating through their first-year tax prep to know that most of them did exactly that for the first few months, "just until things got settled."
 
-Once personal and business money mix, you spend hours reconstructing which charges were business expenses. Your bookkeeper charges you for that time. Your CPA charges you for that time. And if you're ever audited, a commingled account is one of the first things that raises a flag. The [SBA](https://www.sba.gov/) explicitly recommends keeping business and personal finances separate from day one, and for good reason.
+Once it's mixed, you spend hours reconstructing which charges were business expenses. Your bookkeeper charges you for that time. Your CPA charges you for that time. And if you're audited, a commingled account is one of the first red flags. The [SBA](https://www.sba.gov/) explicitly recommends keeping them separate from day one, and they're right.
 
-Open the account before your first dollar of revenue, not after. Even if the business is just an idea with a freshly filed LLC, open the account now. It costs nothing and saves you a painful cleanup later.
+Open the account before your first dollar of revenue comes in. Even if it's just an idea with a freshly filed LLC, open it now. It's free and saves you a painful mess later.
 
-A simple bookkeeping setup from the start helps too. If you want a practical framework, Mike Michalowicz's [*Profit First*](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=contentportfo-20) (Amazon, commission may apply) is the book I recommend most often to first-time founders for building a cash management habit that actually sticks.
+A solid bookkeeping habit from the start helps too. If you want a framework that actually works, Mike Michalowicz's [*Profit First*](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=contentportfo-20) (Amazon, commission may apply) is what I recommend most to first-time founders. It builds a cash management habit that sticks.
 
 ## One Account or Several?
 
-For most startups in year one: one checking account is enough. Keep it simple. Complexity before you have revenue is procrastination with extra steps.
+For most startups in year one: one checking account is enough. Keep it simple. Complexity before you have revenue is procrastination wearing a disguise.
 
-That said, if you're someone who tends to spend whatever's in the account (most of us are), a two-account structure works well early. One operating account for incoming revenue and bill payments, one tax reserve account where you park 25 to 30% of every deposit. That second account should be slightly harder to get to, so you're not tempted to raid it for a software subscription. Relay makes this easy with its sub-account feature. Mercury requires a second account application, which takes five minutes but is slightly less elegant.
+That said, if you tend to spend whatever's in the account (most of us do), a two-account structure works well early. One operating account for incoming revenue and bills, one tax reserve account where you park 25 to 30% of every deposit. Make that second account slightly harder to access so you're not tempted to raid it for a software subscription. Relay makes this easy with sub-accounts. Mercury requires a second account application (five minutes) but it's a touch less elegant.
 
-Once you have payroll, contractors, or multiple revenue streams, it's worth talking to a CPA about how to structure your accounts around your actual tax obligations. Don't guess at the percentages.
+Once you have payroll, contractors, or multiple revenue streams, it's worth talking to a CPA about how to structure things around your actual tax obligations. Don't guess at the percentages.
 
 ---
 
@@ -136,4 +133,3 @@ Once you have payroll, contractors, or multiple revenue streams, it's worth talk
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-

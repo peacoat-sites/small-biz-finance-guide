@@ -25,7 +25,6 @@ author_title: "CPA & Lead Editor"
 author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
 
 ---
-
 Hiring your first employee is one of the most exciting things you'll do as a business owner. It's also the moment a lot of people quietly panic and open seventeen browser tabs at once.
 
 I get it. Payroll sounds like it should be simple, and then you find out there are employer taxes, withholding tables, quarterly filings, and a form called a 940 that nobody warned you about. Here's what I tell people who sit down with me at this stage: the system itself is not that complicated once you understand what's actually happening. What makes it feel hard is that no one explains it in order.
@@ -33,7 +32,6 @@ I get it. Payroll sounds like it should be simple, and then you find out there a
 So let's do that.
 
 ---
-
 
 <div class="value-module">
   <div class="vm-head">First-Payroll Filing Checklist With Deadlines</div>
@@ -50,102 +48,95 @@ The first thing to do has nothing to do with money. It's registration.
 
 If you don't already have an Employer Identification Number (EIN), that's your starting point. You get one free from the IRS at irs.gov, and the online application takes about ten minutes. This is the number that identifies your business to the federal government for tax purposes. You need it before you can do anything else payroll-related.
 
-Next, register with your state's department of revenue (or equivalent agency) for state income tax withholding, and with your state's workforce agency for unemployment insurance. Every state handles this differently. Some have a combined registration portal; some make you file separately. Just search "[your state] employer registration payroll" and follow the state's actual instructions. This part trips people up because they assume it's one-size-fits-all. It's not.
+Next, register with your state's department of revenue (or whatever they call it) for state income tax withholding, and with your state's workforce agency for unemployment insurance. Every state does this differently. Some have a combined registration portal; others make you file separately. Just search "[your state] employer registration payroll" and follow whatever the state actually tells you to do. This part trips people up because they assume it's one-size-fits-all. It isn't.
 
-Then have your new employee complete two forms on their first day:
+Your new employee needs to fill out two forms on day one:
 
-- **Form W-4** (Federal income tax withholding elections)
-- **Form I-9** (Employment eligibility verification)
+- **Form W-4** (your federal withholding choices)
+- **Form I-9** (proof you're allowed to work in the U.S.)
 
-The I-9 requires you to physically examine identity documents. You can't do this over email; federal law requires in-person review (or, for remote employees, an authorized representative). Keep the completed I-9 in a separate binder from the employee's general personnel file. I know that sounds fussy, but if you're ever audited, having them mixed in with other records creates problems.
+The I-9 requires you to look at identity documents in person. Not over email. Federal law is strict about that. If you're hiring someone remote, an authorized representative can verify for you, but it's not a virtual handshake situation. Keep the I-9 in a separate binder from everything else in their personnel file. I know that sounds obsessive, but audits happen, and mixing these documents together creates unnecessary headaches.
 
-Some states also have their own withholding certificate. California's DE 4 is one example. Check your state requirements before the first payday.
+Some states also require their own withholding form. California's DE 4 is one example. Check what your state actually requires before payday hits.
 
 ---
 
 ## Understanding What You Actually Owe as an Employer
 
-> **Helpful resource:** [AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
+This is where first-timers get blindsided. Paying someone $50,000 a year doesn't cost you $50,000. It costs more.
 
+What comes out of the employee's paycheck (you take it out and send it to the government):
 
+- Federal income tax (whatever they chose on their W-4)
+- Social Security: 6.2% of gross wages, capped at $168,600 for 2024
+- Medicare: 1.45% of everything they make
 
-This is where most first-timers get surprised. Paying an employee isn't just about the gross salary. You're responsible for a chunk of taxes on top of that.
+What you pay out of your own pocket as the employer, on top of their salary:
 
-Here's what comes out of the employee's check (you withhold it and send it to the government on their behalf):
+- Matching 6.2% for Social Security
+- Matching 1.45% for Medicare
+- Federal unemployment tax (FUTA): 6% on the first $7,000 per employee per year, though credits usually bring that down to about 0.6%
+- State unemployment tax (SUTA): differs by state and your claims history
 
-- Federal income tax (based on their W-4 elections)
-- Social Security: 6.2% of gross wages up to the annual wage base (for 2024, that's $168,600)
-- Medicare: 1.45% of all gross wages
+Pay someone $50,000 annually and your actual business cost is closer to $54,000 to $56,000 once employer taxes land. That's before benefits, workers' comp, or anything else. You need to know that number before you make any job offers.
 
-And here's what you owe as the employer, out of your own pocket, on top of what you're paying the employee:
-
-- A matching 6.2% for Social Security
-- A matching 1.45% for Medicare
-- Federal unemployment tax (FUTA): 6% on the first $7,000 of each employee's wages per year, though most employers pay far less once state unemployment credits are applied (typically comes out to 0.6%)
-- State unemployment tax (SUTA): varies widely by state and your claims history
-
-If you pay someone $50,000 a year, your actual cost to the business is closer to $54,000 to $56,000 once you add in employer taxes. That's not including benefits, workers' comp, or anything else. I want you to have that number in your head before you finalize any job offer.
-
-On the state income tax side: if your state has income tax, you withhold based on their state form and remit that to the state on a schedule they'll assign you.
+On the state side: if your state taxes income, you withhold based on their form and send it to the state on whatever schedule they assign you.
 
 ---
 
-## Actually Running Payroll: The Honest Decision You Need to Make
+## Actually Running Payroll: The Real Choice You Need to Make
 
-You have two realistic options here. You can do it yourself with software, or you can hand it to a service.
+Two realistic paths exist. Software, or outsource it.
 
-**DIY payroll software** like QuickBooks Payroll, Gusto, or OnPay will calculate withholdings automatically, generate pay stubs, and handle tax deposits and filings on your behalf. Gusto is the one I see most small businesses start with, and honestly, for one to five employees it's hard to argue against it. As of 2024, their Simple plan runs about $40 per month plus $6 per employee per month. It files your 941s (quarterly federal tax returns), your 940 (annual federal unemployment return), and your W-2s at year end. For most people in this situation, that $46 a month is the best money they spend.
+**DIY payroll software** like QuickBooks Payroll, Gusto, or OnPay calculates taxes automatically, spits out pay stubs, and handles deposits and filings for you. Gusto is what I see most small business owners start with, and for one to five employees it's genuinely hard to beat. Their Simple plan costs about $40 per month plus $6 per employee per month as of 2024. It files your quarterly 941s, your annual 940, and your year-end W-2s. For most people in this position, that $46 a month is money well spent.
 
-**Full-service payroll companies** like ADP or Paychex are worth considering if you're anticipating rapid growth or want dedicated support, but the pricing often isn't transparent, and I've seen small business owners pay $150 to $200 a month for one employee on a plan they didn't fully understand. Unless you have a specific reason to go that route, I'd skip it at the start.
+**Full-service payroll companies** like ADP or Paychex might appeal if you're scaling fast or want a dedicated rep, but pricing isn't always transparent, and I've watched business owners get stuck on plans costing $150 to $200 a month for a single employee without fully understanding why. Unless you have a specific reason to go that direction, skip it for now.
 
-**Doing it completely manually** is legal, but I'd only recommend it if you have an accountant handling all the filings on your behalf and you genuinely understand payroll tax mechanics. One missed deposit deadline can trigger a penalty of 2% to 15% depending on how late you are. The IRS does not let that slide.
+**Doing it completely yourself** is legal, but only if you've got an accountant handling all the filings and you actually understand payroll tax mechanics. Miss one deposit deadline and you're looking at a 2% to 15% penalty depending on how late you are. The IRS isn't flexible about this.
 
-A note here: if you're unsure which approach fits your business structure or state, [SCORE's free mentorship resources](https://www.score.org/) connect you with advisors who've helped businesses through exactly this. I've referred clients there and gotten good feedback.
+If you're uncertain which approach fits your setup, [SCORE's free mentorship resources](https://www.score.org/) pair you with advisors who've walked first-time employers through exactly this. I've referred people there and heard good things back.
 
 ---
 
 ## The Filing Calendar Nobody Tells You About
 
-Running payroll isn't a set-it-and-forget-it thing. There's a filing calendar you need to know.
+Payroll isn't something you set and forget. There's a calendar.
 
-**Federal tax deposits** (the Social Security, Medicare, and withheld federal income tax) are due either semi-weekly or monthly depending on your total tax liability. New employers are generally monthly depositors: the taxes from any month are due by the 15th of the following month. You make these deposits through the IRS's EFTPS system (Electronic Federal Tax Payment System), which is free to use. Set up your EFTPS account the same week you get your EIN.
+**Federal tax deposits** (Social Security, Medicare, and withheld federal income tax) get due either semi-weekly or monthly depending on your total liability. New employers are usually monthly: taxes from any month are due by the 15th of the next month. Deposit through EFTPS (Electronic Federal Tax Payment System), which is free. Open your account the same week you get your EIN.
 
-**Form 941** is filed quarterly, April 30, July 31, October 31, and January 31. It summarizes what you withheld and what you owe for the quarter.
+**Form 941** goes out quarterly: April 30, July 31, October 31, January 31. It's a summary of what you withheld and what you owe that quarter.
 
-**Form 940** is filed annually, due January 31, and covers FUTA.
+**Form 940** is annual, due January 31, and covers federal unemployment tax.
 
-**W-2s** go to employees and the Social Security Administration by January 31 of the following year.
+**W-2s** go to your employee and the Social Security Administration by January 31 of the year after.
 
-State filing schedules vary. Some states want deposits monthly, some quarterly, some annually based on your liability. Your state workforce agency will notify you of your filing frequency after registration.
+State schedules vary. Some states want monthly deposits, some quarterly, some just annually depending on what you owe. Your state workforce agency will tell you what applies to you after registration.
 
-If you're using Gusto or a comparable platform, most of this happens automatically. But you should still understand what's happening and why. The [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/) have plain-language explanations of employer obligations that are worth reading once, just to know you're not missing anything.
+If you're using Gusto or something similar, most of this happens automatically. But you should still understand what's moving where and why. The [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/) explain employer obligations in plain language. Read it once just to confirm you're not missing anything.
 
 ---
 
 ## Workers' Comp and a Few Things That Slip Through the Cracks
 
-Workers' compensation insurance is legally required in almost every state the moment you hire your first employee. Not after five employees. Not after a year. Day one.
+Workers' compensation insurance is legally required in almost every state the moment you hire your first employee. Not after a certain headcount. Not after waiting a year. Day one.
 
-The cost varies enormously by industry and by state. A clerical employee might cost $0.20 per $100 of payroll; a roofing worker might cost $20 or more per $100. Get quotes before the hire date, not after.
+The cost swings wildly by industry and state. A clerical employee might cost $0.20 per $100 of payroll. A roofing worker might cost $20 per $100. Get quotes before hire day, not after.
 
-A few other things that tend to get forgotten:
+A few other things get forgotten:
 
-New hire reporting. Federal law requires you to report new hires to your state's directory within 20 days of their start date. This is a separate step from payroll registration. The forms are simple, but missing it has penalties.
+New hire reporting. Federal law says you report new hires to your state's directory within 20 days of their start. This is separate from payroll registration. Simple forms, but miss it and you pay penalties.
 
-Pay frequency. Decide before the first payday whether you're paying weekly, bi-weekly, semi-monthly, or monthly. Some states restrict your options. Check your state's labor law requirements. Once you tell an employee when they'll be paid, changing it is legally complicated in many states.
+Pay frequency. Decide whether you're paying weekly, bi-weekly, semi-monthly, or monthly before the first paycheck goes out. Some states limit your options. Check your state's labor law. Once you tell someone when they get paid, changing it is legally messy in most states.
 
-Record retention. Keep payroll records for at least four years. That includes W-4s, pay records, tax deposit confirmations, and time records. Four years is the IRS standard; some state agencies require longer.
+Record retention. Keep payroll records for at least four years. W-4s, pay records, tax deposit confirmations, time records, all of it. Four years is federal standard; some states want longer.
 
-If you want a structured reference for all of this, J.K. Lasser's *Small Business Taxes* (available [on Amazon](https://www.amazon.com/s?k=JK+Lasser+Small+Business+Taxes), note the site may earn a commission) is updated annually and goes deep on employer obligations without requiring you to speak fluent accountant.
+J.K. Lasser's *Small Business Taxes* (updated annually and [available on Amazon](https://www.amazon.com/s?k=JK+Lasser+Small+Business+Taxes)) goes deep on employer obligations without requiring you to speak accountant fluently.
 
-One more thing: please talk to a CPA before you hire, especially if you're unsure about your business structure or state-specific requirements. A one-hour consultation to confirm you're set up correctly is almost always cheaper than fixing a mistake after the fact.
-
----
-
+One more: talk to a CPA before you hire, especially if you're unsure about your business structure or state specifics. One hour of consultation to confirm you're set up right is almost always cheaper than fixing a mistake later.
 
 ---
 
-You don't have to get this perfect from day one. But you do have to get the foundation right: EIN, state registrations, correct worker classification, and a deposit schedule you actually follow. Get those four things in order and the rest becomes manageable. Most people who've been through this once tell me the same thing: it's not as bad as they expected. The first time is just the hardest because everything is new.
+You don't need to get this perfect on day one. You do need to get the foundation right: EIN, state registrations, correct worker classification, and a deposit schedule you actually follow. Lock those four things in and the rest becomes manageable. Most people who've been through this tell me the same thing: it's not as bad as they expected. The first time is just harder because everything is new.
 
 ## Helpful Resources
 
@@ -170,12 +161,9 @@ You don't have to get this perfect from day one. But you do have to get the foun
 
 ---
 
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-

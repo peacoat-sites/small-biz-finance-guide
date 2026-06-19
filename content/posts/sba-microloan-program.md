@@ -25,14 +25,13 @@ author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
 
 ---
-
 You've got a business idea, a solid plan, and maybe $8,000 in the bank. The bank says no. The credit card limit won't cover what you need. And every SBA loan guide you find online talks about $250,000 minimums and two years of tax returns like you're already a mid-size operation. If that's where you are right now, the SBA Microloan program is probably the most relevant funding option you haven't looked at closely enough.
 
 ## What the SBA Microloan Program Actually Is
 
-The SBA Microloan program provides small loans, up to $50,000, through a network of nonprofit intermediary lenders. The average loan is around $13,000-$15,000, which tells you something useful: this program was built for the business that needs a real but modest capital injection, not a growth round.
+The SBA Microloan program provides small loans, up to $50,000, through a network of nonprofit intermediary lenders. The average loan sits around $13,000-$15,000, which tells you something useful: this program was built for the business that needs a real but modest capital injection, not a growth round.
 
-The SBA doesn't lend to you directly. It funds approved nonprofit intermediaries, which then make loans to small businesses and startups in their communities. Those intermediaries also provide technical assistance, which is more valuable than most borrowers expect. I've seen clients walk away from their first microloan with better bookkeeping habits and a real understanding of their cash flow, because the lender required a financial training session as part of the deal. That's not a penalty. That's a feature.
+Here's the structure: the SBA doesn't lend to you directly. It funds approved nonprofit intermediaries, which then make loans to small businesses and startups in their communities. Those intermediaries also provide technical assistance, and it's more valuable than most borrowers expect. I've seen clients walk away from their first microloan with better bookkeeping habits and a real understanding of their cash flow, because the lender required a financial training session as part of the deal. That's not a penalty. That's a feature.
 
 The program is administered through the [U.S. Small Business Administration](https://www.sba.gov/), and the list of approved intermediary lenders varies by state and region.
 
@@ -40,23 +39,21 @@ The program is administered through the [U.S. Small Business Administration](htt
 
 > **Helpful resource:** [QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
+The Microloan program exists for two types of borrowers that traditional banks routinely turn away: startups with no revenue history and established small businesses that are too small to qualify for conventional financing.
 
+It works especially well for sole proprietors, home-based businesses, micro-enterprises with fewer than five employees, and businesses in underserved communities. Women-owned, veteran-owned, and minority-owned businesses are specifically prioritized by many intermediary lenders, though the program is open to all eligible small businesses.
 
-The Microloan program is designed for two types of borrowers that traditional banks routinely turn away: startups with no revenue history and established small businesses that are too small to qualify for conventional financing.
+What you don't need: perfect credit. Intermediaries are mission-driven, not profit-maximized. They're evaluating your character, your plan, and your ability to repay, not just your FICO score. But don't mistake that for loose standards. You'll still need to demonstrate a credible path to repayment.
 
-It's particularly well-suited for sole proprietors, home-based businesses, micro-enterprises with fewer than five employees, and businesses in underserved communities. Women-owned, veteran-owned, and minority-owned businesses are specifically prioritized by many intermediary lenders, though the program is open to all eligible small businesses.
-
-What you don't need: perfect credit. Intermediaries are mission-driven, not profit-maximized. They're evaluating your character, your plan, and your ability to repay, not just your FICO score. That said, they're not handing money to anyone with a business card. You'll still need to demonstrate a credible path to repayment.
-
-What you do need: a business plan or at least a clear explanation of what the money is for and how you'll pay it back. Collateral is often required but requirements vary significantly by lender. Some accept business equipment. Some will work with personal assets. Some are flexible for loan amounts under $10,000.
+What you do need is a business plan or at least a clear explanation of what the money is for and how you'll pay it back. Collateral is often required, but requirements vary significantly by lender. Some accept business equipment. Some will work with personal assets. Some are flexible for loan amounts under $10,000.
 
 ## Interest Rates, Terms, and the Numbers You Need to Know
 
 Microloan interest rates run between 8% and 13% annually in most cases, though rates are set by the individual intermediary and can vary. Loan terms max out at six years. The shorter the term and lower the amount, the faster you're back to operating without debt service.
 
-Compare that to a merchant cash advance, which can carry an effective annual rate north of 50%, or a business credit card at 20% to 29%. The Microloan is not cheap money, but it's clean money with a fixed schedule and no surprise fees hiding in the fine print.
+Put that against a merchant cash advance, which can carry an effective annual rate north of 50%, or a business credit card at 20% to 29%. The Microloan isn't cheap money. But it's clean money with a fixed schedule and no surprise fees hiding in the fine print.
 
-The [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed) is worth bookmarking now, because interest paid on business loans is generally deductible. Run the specifics by your CPA before assuming anything, but it's a real cost offset worth understanding.
+Interest paid on business loans is generally deductible for tax purposes. The [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed) is worth bookmarking now. Run the specifics by your CPA before assuming anything, but it's a real cost offset worth understanding.
 
 ## How to Find and Apply Through an Intermediary
 
@@ -74,7 +71,7 @@ This is where most guides fail you. They say "find a lender" and leave it at tha
 
 6. **Receive funds and start repaying.** Once approved, funds typically arrive within a few weeks. Your repayment schedule starts shortly after.
 
-If you want a strong foundation before you walk into that first meeting, Mike Michalowicz's *Profit First* ([available on Amazon](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X), note this site may earn a commission) is the best practical guide I know for making sure a small capital injection actually changes your business instead of disappearing into operating costs.
+If you want a strong foundation before that first meeting, Mike Michalowicz's *Profit First* ([available on Amazon](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X), note this site may earn a commission) is the best practical guide I know for making sure a small capital injection actually changes your business instead of disappearing into operating costs.
 
 ## What the Money Can and Can't Be Used For
 
@@ -82,10 +79,7 @@ Microloan funds are flexible but not unlimited. You can use them for working cap
 
 What you cannot use a Microloan for: paying existing debt or purchasing real estate. If your primary need is refinancing or a property acquisition, this isn't your tool.
 
-The intermediary will ask how you plan to use the funds, and they'll hold you to it. This is appropriate. Vague answers like "general business expenses" won't get you far.
-
----
-
+The intermediary will ask how you plan to use the funds, and they'll hold you to it. Vague answers like "general business expenses" won't get you far.
 
 ---
 
@@ -98,7 +92,6 @@ The SBA Microloan program won't make you rich and it won't solve a broken busine
 - **[QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20)**
 - **[The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20)**
 - **[Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20)**
-
 
 ---
 
@@ -119,4 +112,3 @@ The SBA Microloan program won't make you rich and it won't solve a broken busine
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-

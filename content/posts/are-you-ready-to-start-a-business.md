@@ -11,18 +11,13 @@ author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
 
 ---
+Thinking about ditching your steady paycheck for that business idea you can't stop thinking about? Before you file the paperwork or tell your boss you're out, you need to be honest about where you actually stand right now.
 
-Thinking about trading your steady paycheck for a business idea you can't stop daydreaming about? Before you register an LLC or quit your job, it helps to get honest with yourself about where you actually stand today.
-
-This quick quiz looks at your habits, your money cushion, your support system, and your appetite for the messy reality of building something. There are no right answers and nothing to confess. In about two minutes you'll get a friendly read on how ready you are right now, plus a sensible next step.
+This quick quiz walks through your habits, your savings buffer, who's got your back, and whether you can handle the chaos that comes with building something real. No judgment. In about two minutes you'll get a straight read on how ready you are today, plus one sensible next move.
 
 {{< quiz >}}
 
-However you scored, remember that readiness is something you build, not something you're born with. Plenty of successful founders started from the "not yet" tier and closed the gaps one month at a time. Use your result as a starting line, not a verdict, and explore our beginner guides whenever you're ready for the next step.
-
----
-
----
+Here's the thing: readiness isn't something you're born with. It's something you build. I've talked to plenty of founders who started in the "not ready yet" bucket and closed the gaps piece by piece over the next few months. Your score here isn't a verdict. It's a starting point. When you're ready to move forward, our beginner guides are right there.
 
 ## Recommended Resources
 
@@ -30,4 +25,3 @@ However you scored, remember that readiness is something you build, not somethin
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-
