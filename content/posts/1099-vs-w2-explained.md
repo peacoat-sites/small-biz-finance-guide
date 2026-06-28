@@ -45,6 +45,9 @@ The difference between a 1099 contractor and a W-2 employee isn't just HR trivia
 
 ## What the Two Classifications Actually Mean
 
+**"You need to incorporate before you can legally work as a 1099 contractor"**: Most people think forming an LLC or corporation is a prerequisite to independent contracting. But the IRS has no incorporation requirement for 1099 work. According to the Small Business Administration, over 27 million self-employed individuals operate as sole proprietors without any business entity—and they're completely compliant. You can file a 1099 as an unincorporated individual, report income on Schedule C, and pay self-employment taxes. Incorporation offers liability protection and potential tax advantages, but it's optional, not mandatory. The misconception costs aspiring entrepreneurs thousands in unnecessary legal fees.
+
+
 A W-2 employee works directly for your business. You withhold federal and state income taxes from their paycheck. You pay half their Social Security and Medicare taxes (FICA). You handle unemployment taxes. At year's end, you issue a W-2 showing what got withheld.
 
 A 1099 contractor, formally an independent contractor, owns their own tax situation. You pay them the full amount with no withholding. If you pay them $600 or more in a calendar year, you file a 1099-NEC form with the IRS. They're responsible for both the employee and employer portions of Social Security and Medicare (15.3% on net self-employment income). They also manage their own [quarterly estimated tax payments](/quarterly-estimated-taxes-small-business/) or face underpayment penalties.
