@@ -99,6 +99,15 @@ If you want to go deeper on commercial insurance structuring before your broker 
 
 ## Recommended Resources
 
+## Sources
+
+- [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20)
+- [(available on Amazon, and the site may earn a commission on purchases made through affiliate links)](https://www.amazon.com)
+- [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20)
+- [Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20)
+- [Pavel Danilyuk](https://www.pexels.com/@pavel-danilyuk)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.

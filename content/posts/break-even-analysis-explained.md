@@ -146,6 +146,15 @@ Knowing your break-even number won't save a bad business model, but not knowing 
 
 ## Recommended Resources
 
+## Sources
+
+- [Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20)
+- [a break-even analysis spreadsheet](https://www.amazon.com/s?k=break+even+analysis+spreadsheet+template+business)
+- [Profit First by Mike Michalowicz](https://www.amazon.com/Profit-First-Transform-Money-Making-Machine/dp/073521414X)
+- [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)
+- [AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.

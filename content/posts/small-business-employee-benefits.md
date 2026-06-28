@@ -105,6 +105,15 @@ Past 20 employees, you're in a different conversation entirely, with more carrie
 
 ## Recommended Resources
 
+## Sources
+
+- [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20)
+- [U.S. Small Business Administration (SBA)](https://www.sba.gov/)
+- [SCORE](https://www.score.org/)
+- [Amazon](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X)
+- [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.

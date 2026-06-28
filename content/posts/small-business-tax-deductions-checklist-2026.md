@@ -110,6 +110,15 @@ Then, before year-end, meet with a CPA, not a tax preparer, a CPA, and review wh
 
 ## Recommended Resources
 
+## Sources
+
+- [IRS.gov](https://www.irs.gov/)
+- [U.S. Small Business Administration](https://www.sba.gov/)
+- [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/)
+- [on Amazon](https://www.amazon.com/Taxes-Made-Simple-Understandable-Taxes/dp/0997946458/?tag=contentportfo-20)
+- [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.

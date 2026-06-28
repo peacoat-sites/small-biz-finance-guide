@@ -88,6 +88,15 @@ The overtime rules aren't especially complicated once you sit with them, but the
 
 ## Recommended Resources
 
+## Sources
+
+- [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed)
+- [SCORE](https://www.score.org/)
+- [Accounting Made Simple](https://www.amazon.com/Accounting-Made-Simple-Explained-Pages/dp/0981454224?tag=contentportfo-20)
+- [The E-Myth Revisited](https://www.amazon.com/E-Myth-Revisited-Small-Businesses-About/dp/0887307280?tag=contentportfo-20)
+- [AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.

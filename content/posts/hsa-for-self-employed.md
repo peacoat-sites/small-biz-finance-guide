@@ -107,6 +107,15 @@ The dependent coverage gap. If your adult child is on your health insurance but 
 
 ## Recommended Resources
 
+## Sources
+
+- [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20)
+- [The White Coat Investor](https://www.amazon.com/White-Coat-Investor-Doctors-Finance/dp/0991433106?tag=contentportfo-20)
+- [Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20)
+- [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20)
+- [www.kaboompics.com](https://www.pexels.com/@karola-g)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.

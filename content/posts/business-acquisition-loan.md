@@ -114,6 +114,15 @@ Plan for that. Showing up to underwriting with exactly the minimum equity and no
 
 ## Recommended Resources
 
+## Sources
+
+- [SBA 7(a) program](https://www.sba.gov/)
+- [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed)
+- [on Amazon](https://www.amazon.com/s?k=buyout+business+acquisition+book)
+- [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)
+- [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.

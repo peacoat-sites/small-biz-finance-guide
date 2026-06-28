@@ -113,6 +113,15 @@ If you want a deeper reference, Mike Piper's *Accounting Made Simple* (available
 
 ## Recommended Resources
 
+## Sources
+
+- [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)
+- [U.S. Small Business Administration](https://www.sba.gov/)
+- [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed)
+- [on Amazon](https://www.amazon.com/Accounting-Made-Simple-Accounting-Explained/dp/0981454224?tag=contentportfo-20)
+- [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.

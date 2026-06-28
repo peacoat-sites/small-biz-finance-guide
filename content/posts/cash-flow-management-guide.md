@@ -160,6 +160,15 @@ Cash flow management isn't a complex skill reserved for finance professionals. I
 
 ## Recommended Resources
 
+## Sources
+
+- [U.S. Small Business Administration (SBA)](https://www.sba.gov/)
+- [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20)
+- [SBA's loan programs](https://www.sba.gov/)
+- [SCORE's free mentorship network](https://www.score.org/)
+- [The Small Business Bible by Steven D. Strauss](https://www.amazon.com/Small-Business-Bible-Everything-Starting/dp/1118041437?tag=contentportfo-20)
+
+
 **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.

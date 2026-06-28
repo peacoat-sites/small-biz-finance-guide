@@ -112,6 +112,15 @@ Put them in your model. A line that says "estimated taxes" in the month they're 
 
 ## Recommended Resources
 
+## Sources
+
+- [U.S. Small Business Administration](https://www.sba.gov/)
+- [Financial Intelligence for Entrepreneurs by Karen Berman and Joe Knight](https://www.amazon.com/Financial-Intelligence-Entrepreneurs-Knowing-Numbers/dp/1422119157?tag=contentportfo-20)
+- [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed)
+- [The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20)
+- [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.

@@ -100,6 +100,15 @@ There's no shame in either answer. The mistake is taking on VC because it feels 
 
 ## Recommended Resources
 
+## Sources
+
+- [U.S. Small Business Administration](https://www.sba.gov/)
+- [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/)
+- [on Amazon](https://www.amazon.com/Slicing-Pie-Company-Bootstrapped-Business/dp/0615796257)
+- [AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)
+- [Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.

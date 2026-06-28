@@ -21,6 +21,12 @@ Here's the thing: readiness isn't something you're born with. It's something you
 
 ## Recommended Resources
 
+## Sources
+
+- [Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)
+- [Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.

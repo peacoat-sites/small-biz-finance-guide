@@ -103,6 +103,15 @@ One honest thing: no accounting software replaces a CPA review. Get a CPA to loo
 
 ## Recommended Resources
 
+## Sources
+
+- [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)
+- [U.S. Small Business Administration](https://www.sba.gov/)
+- [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/)
+- [*Accounting Made Simple*](https://www.amazon.com/Accounting-Made-Simple-Mike-Piper/dp/0981454224?tag=contentportfo-20)
+- [Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.

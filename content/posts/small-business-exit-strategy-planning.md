@@ -132,6 +132,15 @@ The honest truth about exit planning is that it asks you to hold two things at o
 
 ## Recommended Resources
 
+## Sources
+
+- [AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)
+- [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed)
+- [The Art of Selling a Business by John Warrillow](https://www.amazon.com/Art-Selling-Business-Business-Million/dp/1989603009?tag=contentportfo-20)
+- [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/)
+- [The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.

@@ -118,6 +118,15 @@ For deeper reading on the financial structure side of these decisions, Mike Mich
 
 ## Recommended Resources
 
+## Sources
+
+- [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed)
+- [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/)
+- [Profit First](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=contentportfo-20)
+- [The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20)
+- [AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.

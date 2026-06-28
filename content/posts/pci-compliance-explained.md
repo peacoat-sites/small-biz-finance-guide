@@ -104,6 +104,15 @@ If you want to go deeper on the technical side, the PCI SSC's own published guid
 
 ## Recommended Resources
 
+## Sources
+
+- [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20)
+- [U.S. Small Business Administration](https://www.sba.gov/)
+- [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/)
+- [Evan Schuman's writing on compliance](https://www.amazon.com/s?k=PCI+compliance+small+business&tag=contentportfo-20)
+- [QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20)
+
+
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
