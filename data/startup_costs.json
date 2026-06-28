@@ -1,0 +1,234 @@
+{
+  "meta": {
+    "title": "Startup Costs by Industry (2026)",
+    "source": "SBA Office of Advocacy, SCORE, industry benchmarks",
+    "last_updated": "2026-06-28",
+    "disclaimer": "Estimates based on 2024-2026 SBA data and industry surveys. Actual costs vary by location, business model, and specific circumstances."
+  },
+  "industries": [
+    {
+      "id": "consulting",
+      "name": "Management Consulting",
+      "capital_tier": 1,
+      "startup_cost_min": 5000,
+      "startup_cost_max": 15000,
+      "startup_cost_typical": 8500,
+      "key_expenses": ["LLC formation", "website/branding", "insurance", "software tools", "office setup"],
+      "capital_intensive": false,
+      "timeline_to_launch": "2-3 weeks",
+      "profitability_timeline": "3-6 months",
+      "success_rate": 0.65
+    },
+    {
+      "id": "saas",
+      "name": "Digital / SaaS Startup",
+      "capital_tier": 2,
+      "startup_cost_min": 10000,
+      "startup_cost_max": 50000,
+      "startup_cost_typical": 25000,
+      "key_expenses": ["domain + hosting", "MVP development", "marketing", "tools/software", "legal"],
+      "capital_intensive": false,
+      "timeline_to_launch": "4-8 weeks",
+      "profitability_timeline": "6-12 months",
+      "success_rate": 0.55
+    },
+    {
+      "id": "ecommerce",
+      "name": "E-commerce Store",
+      "capital_tier": 2,
+      "startup_cost_min": 20000,
+      "startup_cost_max": 100000,
+      "startup_cost_typical": 45000,
+      "key_expenses": ["inventory/supplier relationship", "Shopify/platform", "initial marketing", "photography", "legal/payment processing"],
+      "capital_intensive": true,
+      "timeline_to_launch": "3-4 weeks",
+      "profitability_timeline": "3-6 months at scale",
+      "success_rate": 0.50
+    },
+    {
+      "id": "freelance_agency",
+      "name": "Freelance / Creative Agency",
+      "capital_tier": 1,
+      "startup_cost_min": 8000,
+      "startup_cost_max": 30000,
+      "startup_cost_typical": 15000,
+      "key_expenses": ["equipment", "software subscriptions", "branding/website", "insurance", "home office"],
+      "capital_intensive": false,
+      "timeline_to_launch": "1-2 weeks",
+      "profitability_timeline": "2-4 months",
+      "success_rate": 0.70
+    },
+    {
+      "id": "retail",
+      "name": "Retail Storefront",
+      "capital_tier": 3,
+      "startup_cost_min": 50000,
+      "startup_cost_max": 250000,
+      "startup_cost_typical": 120000,
+      "key_expenses": ["lease/buildout", "inventory", "POS system", "fixtures", "signage"],
+      "capital_intensive": true,
+      "timeline_to_launch": "8-12 weeks",
+      "profitability_timeline": "12-18 months",
+      "success_rate": 0.45
+    },
+    {
+      "id": "restaurant",
+      "name": "Restaurant / Food Service",
+      "capital_tier": 4,
+      "startup_cost_min": 100000,
+      "startup_cost_max": 500000,
+      "startup_cost_typical": 275000,
+      "key_expenses": ["lease/build-out", "kitchen equipment", "permits/licenses", "initial inventory", "staffing"],
+      "capital_intensive": true,
+      "timeline_to_launch": "6-8 months",
+      "profitability_timeline": "18-24 months",
+      "success_rate": 0.30
+    },
+    {
+      "id": "home_service",
+      "name": "Home Service Business",
+      "capital_tier": 2,
+      "startup_cost_min": 15000,
+      "startup_cost_max": 75000,
+      "startup_cost_typical": 35000,
+      "key_expenses": ["vehicle", "tools/equipment", "licensing", "insurance", "marketing"],
+      "capital_intensive": true,
+      "timeline_to_launch": "4-6 weeks",
+      "profitability_timeline": "2-4 months",
+      "success_rate": 0.60
+    },
+    {
+      "id": "manufacturing",
+      "name": "B2B Manufacturing",
+      "capital_tier": 4,
+      "startup_cost_min": 200000,
+      "startup_cost_max": 1000000,
+      "startup_cost_typical": 500000,
+      "key_expenses": ["equipment", "facility/lease", "working capital", "permits"],
+      "capital_intensive": true,
+      "timeline_to_launch": "4-6 months",
+      "profitability_timeline": "12-24 months",
+      "success_rate": 0.35
+    },
+    {
+      "id": "professional_service",
+      "name": "Professional Service (Legal/Accounting)",
+      "capital_tier": 2,
+      "startup_cost_min": 20000,
+      "startup_cost_max": 100000,
+      "startup_cost_typical": 50000,
+      "key_expenses": ["licensing", "office space", "insurance", "technology", "initial marketing"],
+      "capital_intensive": false,
+      "timeline_to_launch": "2-4 weeks",
+      "profitability_timeline": "3-6 months",
+      "success_rate": 0.65
+    },
+    {
+      "id": "beauty_salon",
+      "name": "Beauty / Salon",
+      "capital_tier": 3,
+      "startup_cost_min": 40000,
+      "startup_cost_max": 150000,
+      "startup_cost_typical": 75000,
+      "key_expenses": ["build-out", "equipment/chairs", "inventory", "licenses", "initial marketing"],
+      "capital_intensive": true,
+      "timeline_to_launch": "4-8 weeks",
+      "profitability_timeline": "6-12 months",
+      "success_rate": 0.50
+    },
+    {
+      "id": "gym_fitness",
+      "name": "Gym / Fitness Center",
+      "capital_tier": 3,
+      "startup_cost_min": 50000,
+      "startup_cost_max": 300000,
+      "startup_cost_typical": 150000,
+      "key_expenses": ["equipment", "facility lease", "build-out", "licenses", "insurance"],
+      "capital_intensive": true,
+      "timeline_to_launch": "8-12 weeks",
+      "profitability_timeline": "12-18 months",
+      "success_rate": 0.40
+    }
+  ],
+  "tier_groups": [
+    {
+      "tier": 1,
+      "label": "Bootstrap-Friendly",
+      "cost_range": "$5k-$20k",
+      "industries": ["Consulting", "Coaching", "Freelance Writing", "Virtual Assistance", "Dropshipping", "Affiliate Blogging", "Social Media Management"]
+    },
+    {
+      "tier": 2,
+      "label": "Moderate Capital",
+      "cost_range": "$20k-$75k",
+      "industries": ["E-commerce (inventory)", "Digital Agencies", "Home Services", "Professional Services", "Online Courses"]
+    },
+    {
+      "tier": 3,
+      "label": "Capital-Intensive",
+      "cost_range": "$75k-$250k",
+      "industries": ["Retail Storefront", "Salon/Spa", "Gym", "Real Estate Brokerage", "Local B2B Services"]
+    },
+    {
+      "tier": 4,
+      "label": "Very High Capital",
+      "cost_range": "$250k+",
+      "industries": ["Manufacturing", "Hospitality (Restaurant/Hotel)", "Medical Practice", "Franchise"]
+    }
+  ],
+  "hidden_costs": [
+    {
+      "item": "Accounting/Tax Setup",
+      "typical_cost": 2000,
+      "category": "legal"
+    },
+    {
+      "item": "Insurance (General Liability, Workers Comp)",
+      "typical_cost": 3000,
+      "category": "insurance"
+    },
+    {
+      "item": "Legal Entity Formation (LLC/C-Corp)",
+      "typical_cost": 1000,
+      "category": "legal"
+    },
+    {
+      "item": "Initial Marketing/Branding",
+      "typical_cost": 5000,
+      "category": "marketing"
+    },
+    {
+      "item": "Working Capital (First 3 months)",
+      "typical_cost": 20000,
+      "category": "operational"
+    },
+    {
+      "item": "Technology Stack (Email, CRM, Accounting, Project Mgmt)",
+      "typical_cost": 250,
+      "category": "software",
+      "note": "per month"
+    }
+  ],
+  "trends": [
+    {
+      "year": 2024,
+      "metric": "SaaS Startup Costs",
+      "value": "Down 15% (commoditized tools)"
+    },
+    {
+      "year": 2025,
+      "metric": "E-commerce Costs",
+      "value": "Up 20% (inventory/fulfillment complexity)"
+    },
+    {
+      "year": 2026,
+      "metric": "Service-based Costs",
+      "value": "Stable (limited capital requirements)"
+    },
+    {
+      "year": 2026,
+      "metric": "Inflation Impact",
+      "value": "8-12% increase in equipment, lease, labor"
+    }
+  ]
+}

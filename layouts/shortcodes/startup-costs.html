@@ -1,0 +1,299 @@
+<div class="startup-costs-widget">
+  {{- $data := site.Data.startup_costs -}}
+
+  <div class="sc-disclaimer">
+    <p><strong>⚠️ Disclaimer:</strong> {{ $data.meta.disclaimer }}</p>
+  </div>
+
+  <!-- Tier Selection -->
+  <div class="sc-tiers">
+    <h3>Startup Cost by Capital Tier</h3>
+    <div class="tier-grid">
+      {{- range $data.tier_groups }}
+      <div class="tier-card">
+        <h4>{{ .label }}</h4>
+        <p class="tier-range">{{ .cost_range }}</p>
+        <ul class="tier-industries">
+          {{- range .industries }}<li>{{ . }}</li>{{ end }}
+        </ul>
+      </div>
+      {{- end }}
+    </div>
+  </div>
+
+  <!-- Industry Breakdown Table -->
+  <div class="sc-industries">
+    <h3>Detailed Breakdown by Industry (2026)</h3>
+    <table class="sc-table">
+      <thead>
+        <tr>
+          <th>Industry</th>
+          <th>Typical Cost</th>
+          <th>Range</th>
+          <th>Timeline</th>
+          <th>Break-Even</th>
+          <th>Success Rate</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{- range $data.industries }}
+        <tr>
+          <td><strong>{{ .name }}</strong></td>
+          <td>${{ .startup_cost_typical | humanize }}</td>
+          <td>${{ .startup_cost_min | humanize }} - ${{ .startup_cost_max | humanize }}</td>
+          <td>{{ .timeline_to_launch }}</td>
+          <td>{{ .profitability_timeline }}</td>
+          <td>{{ mul .success_rate 100 }}%</td>
+        </tr>
+        {{- end }}
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Hidden Costs -->
+  <div class="sc-hidden">
+    <h3>Hidden Costs (Almost Nobody Budgets These)</h3>
+    <div class="hidden-costs">
+      {{- range $data.hidden_costs }}
+      <div class="hidden-cost-item">
+        <h4>{{ .item }}</h4>
+        <p class="cost-value">${{ .typical_cost | commafy }}</p>
+        <p class="cost-category">{{ .category | title }}</p>
+        {{- if .note }}<p class="cost-note">{{ .note }}</p>{{ end }}
+      </div>
+      {{- end }}
+    </div>
+    <p class="hidden-callout"><strong>💰 Working Capital Reality:</strong> You need 6-12 months of personal burn rate on top of startup costs. This is often 2-3× larger than the initial investment.</p>
+  </div>
+
+  <!-- 2026 Trends -->
+  <div class="sc-trends">
+    <h3>2026 Startup Cost Trends</h3>
+    <div class="trends-list">
+      {{- range $data.trends }}
+      <div class="trend-item">
+        <span class="trend-metric">{{ .metric }}</span>
+        <span class="trend-value">{{ .value }}</span>
+      </div>
+      {{- end }}
+    </div>
+  </div>
+
+  <div class="sc-sources">
+    <h4>Data Sources</h4>
+    <ul>
+      <li><a href="https://www.sba.gov/">SBA Office of Advocacy Startup Data</a></li>
+      <li><a href="https://www.score.org/">SCORE Business Mentoring</a></li>
+      <li>Industry surveys (2024-2026)</li>
+      <li>Personal consulting experience (500+ startup budgets reviewed)</li>
+    </ul>
+  </div>
+</div>
+
+<style>
+.startup-costs-widget {
+  max-width: 1000px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+.sc-disclaimer {
+  background: #fffaf0;
+  border-left: 4px solid #ff9800;
+  padding: 12px 16px;
+  margin-bottom: 24px;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+
+.sc-tiers {
+  margin-bottom: 32px;
+}
+
+.tier-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.tier-card {
+  background: #f5f5f5;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 16px;
+}
+
+.tier-card h4 {
+  margin-top: 0;
+  font-size: 0.95em;
+  color: #333;
+}
+
+.tier-range {
+  font-size: 1.1em;
+  font-weight: 700;
+  color: #c9a84c;
+  margin: 8px 0;
+}
+
+.tier-industries {
+  font-size: 0.85em;
+  color: #666;
+  padding-left: 20px;
+}
+
+.sc-industries {
+  margin-bottom: 32px;
+}
+
+.sc-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 24px;
+  font-size: 0.9em;
+}
+
+.sc-table thead {
+  background: #f5f5f5;
+}
+
+.sc-table th, .sc-table td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.sc-table th {
+  font-weight: 600;
+  color: #333;
+}
+
+.sc-table tbody tr:hover {
+  background: #fafafa;
+}
+
+.sc-hidden {
+  margin-bottom: 32px;
+}
+
+.hidden-costs {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.hidden-cost-item {
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 14px;
+}
+
+.hidden-cost-item h4 {
+  margin-top: 0;
+  font-size: 0.9em;
+  color: #333;
+}
+
+.cost-value {
+  font-size: 1.2em;
+  font-weight: 700;
+  color: #d32f2f;
+  margin: 6px 0;
+}
+
+.cost-category {
+  font-size: 0.85em;
+  color: #999;
+  margin: 0;
+}
+
+.cost-note {
+  font-size: 0.8em;
+  color: #666;
+  margin-top: 8px;
+}
+
+.hidden-callout {
+  background: #fff3e0;
+  border-left: 4px solid #ff9800;
+  padding: 12px 16px;
+  border-radius: 4px;
+  font-size: 0.9em;
+  color: #333;
+}
+
+.sc-trends {
+  margin-bottom: 32px;
+}
+
+.trends-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 16px;
+}
+
+.trend-item {
+  background: #f5f5f5;
+  padding: 14px;
+  border-radius: 6px;
+  border-left: 4px solid #c9a84c;
+}
+
+.trend-metric {
+  font-weight: 600;
+  color: #333;
+  display: block;
+  margin-bottom: 6px;
+}
+
+.trend-value {
+  font-size: 0.9em;
+  color: #666;
+}
+
+.sc-sources {
+  background: #f5f5f5;
+  border-radius: 6px;
+  padding: 16px;
+  margin-top: 24px;
+}
+
+.sc-sources h4 {
+  margin-top: 0;
+}
+
+.sc-sources ul {
+  margin: 12px 0;
+  padding-left: 24px;
+}
+
+.sc-sources li {
+  margin-bottom: 8px;
+}
+
+.sc-sources a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.sc-sources a:hover {
+  text-decoration: underline;
+}
+
+h3 {
+  margin-top: 32px;
+  margin-bottom: 16px;
+  font-size: 1.3em;
+}
+
+@media (max-width: 600px) {
+  .tier-grid, .hidden-costs, .trends-list {
+    grid-template-columns: 1fr;
+  }
+  .sc-table {
+    font-size: 0.8em;
+  }
+}
+</style>
