@@ -1,0 +1,70 @@
+{
+  "industries": {
+    "Consulting": {
+      "bootstrap_min": 5000,
+      "bootstrap_max": 15000,
+      "moderate_min": 15000,
+      "moderate_max": 50000
+    },
+    "E-commerce": {
+      "bootstrap_min": 8000,
+      "bootstrap_max": 25000,
+      "moderate_min": 25000,
+      "moderate_max": 100000
+    },
+    "Software (SaaS)": {
+      "bootstrap_min": 10000,
+      "bootstrap_max": 50000,
+      "moderate_min": 50000,
+      "moderate_max": 200000
+    },
+    "Service-based": {
+      "bootstrap_min": 3000,
+      "bootstrap_max": 10000,
+      "capital_min": 20000,
+      "capital_max": 75000
+    },
+    "Retail": {
+      "capital_min": 50000,
+      "capital_max": 200000,
+      "very_high_min": 200000,
+      "very_high_max": 500000
+    },
+    "Restaurant": {
+      "capital_min": 100000,
+      "capital_max": 275000,
+      "very_high_min": 275000,
+      "very_high_max": 1000000
+    },
+    "Manufacturing": {
+      "capital_min": 75000,
+      "capital_max": 250000,
+      "very_high_min": 250000,
+      "very_high_max": 1000000
+    },
+    "Real Estate": {
+      "capital_min": 50000,
+      "capital_max": 200000,
+      "very_high_min": 200000,
+      "very_high_max": 1000000
+    },
+    "Fitness/Gym": {
+      "moderate_min": 30000,
+      "moderate_max": 100000,
+      "capital_min": 100000,
+      "capital_max": 300000
+    },
+    "Cleaning Service": {
+      "bootstrap_min": 2000,
+      "bootstrap_max": 8000,
+      "moderate_min": 8000,
+      "moderate_max": 25000
+    },
+    "Coaching/Training": {
+      "bootstrap_min": 1000,
+      "bootstrap_max": 5000,
+      "moderate_min": 5000,
+      "moderate_max": 20000
+    }
+  }
+}
