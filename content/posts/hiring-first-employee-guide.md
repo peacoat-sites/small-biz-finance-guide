@@ -44,6 +44,9 @@ This guide walks you through all of it, step by step.
 
 ## Are You Actually Ready to Hire?
 
+**"You need to incorporate before hiring your first employee"**: Most entrepreneurs believe incorporation is a prerequisite for bringing on staff. But the SBA reports that 25.5 million non-employer businesses operate in the U.S. without formal incorporation, and sole proprietors and partnerships regularly hire employees legally. You can hire as a sole proprietor or LLC in most states—incorporation isn't required until you have specific tax or liability needs, typically around $50K+ in revenue. The real requirement? An EIN from the IRS and proper payroll setup. Many founders over-legalize early, spending $500-$2,000 on incorporation when a $0 EIN application would suffice initially.
+
+
 **"You need to incorporate before hiring"**: Most entrepreneurs assume they must file incorporation papers and get an EIN before bringing on their first employee. But according to the SBA, roughly 21 million U.S. businesses operate as sole proprietorships or partnerships without formal incorporation. You can legally hire employees as a sole proprietor—you'll just need an EIN (free from the IRS) and proper tax withholding setup. The real requirement isn't incorporation; it's registering for payroll taxes and maintaining worker's compensation insurance, both achievable without the cost and complexity of incorporation. Many successful founders delay incorporation until they've validated the business model and can justify legal entity costs against actual revenue.
 
 
