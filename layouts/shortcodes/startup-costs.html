@@ -57,7 +57,7 @@
       {{- range $data.hidden_costs }}
       <div class="hidden-cost-item">
         <h4>{{ .item }}</h4>
-        <p class="cost-value">${{ .typical_cost | commafy }}</p>
+        <p class="cost-value">${{ lang.NumFmt 0 .typical_cost }}</p>
         <p class="cost-category">{{ .category | title }}</p>
         {{- if .note }}<p class="cost-note">{{ .note }}</p>{{ end }}
       </div>
