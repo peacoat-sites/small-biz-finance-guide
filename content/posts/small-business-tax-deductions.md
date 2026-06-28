@@ -41,6 +41,9 @@ Small business owners leave thousands of dollars on the table every year, not be
 
 ## What Makes an Expense Deductible in the First Place
 
+**You must incorporate to start claiming business tax deductions**: Most people think you need an LLC or S-Corp to begin deducting business expenses. But the IRS doesn't care about your legal structure—it cares about whether you're operating a legitimate business. According to IRS data, sole proprietors (who file a simple Schedule C) claim an average of $12,400 in deductions annually, nearly identical to incorporated small businesses. The Tax Foundation reports that 26.9 million Americans operate as self-employed sole proprietors, claiming millions in legitimate deductions without incorporation. Your deduction eligibility depends on business legitimacy and expense documentation—not paperwork status.
+
+
 Before you make a list of everything you've bought for your business, understand the rule. The IRS requires that a deductible business expense be both **ordinary** and **necessary**. Ordinary means it's common and accepted in your industry. Necessary means it's appropriate and helpful for running your business. You don't have to prove the expense was indispensable, just that it was genuinely connected to your operations.
 
 That's it.
