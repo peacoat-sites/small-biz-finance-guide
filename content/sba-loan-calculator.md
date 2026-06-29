@@ -16,6 +16,7 @@ faqs:
     a: "SBA loan timelines vary by program and lender. Preferred Lender Program (PLP) lenders can approve 7(a) loans in 2–3 weeks. Standard SBA 7(a) processing takes 30–90 days. SBA Express loans (up to $500k) can get decisions in 36 hours but have higher rates. SBA 504 loans typically take 45–90 days due to CDC involvement."
   - q: "What credit score do I need for an SBA loan?"
     a: "Most SBA lenders look for a personal credit score of at least 680, though some will consider 640+ for smaller loans or strong businesses. More important factors include: time in business (typically 2+ years), business revenue and cash flow (DSCR above 1.25), collateral available, and personal debt-to-income ratio. Startups face higher scrutiny and may need the SBA Microloan program."
+image: "https://images.pexels.com/photos/5942520/pexels-photo-5942520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 If you are evaluating SBA loan options, one of the first questions you will face is: what will this actually cost each month — and over the life of the loan? SBA loans offer below-market rates and longer repayment terms than conventional business loans, but they come with guarantee fees that add to your upfront closing costs. Understanding the full picture before you apply helps you compare lenders and choose the right program.

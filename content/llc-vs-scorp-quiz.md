@@ -5,6 +5,7 @@ description: "Use our free interactive decision wizard to find out whether an LL
 categories: ["Business Structure"]
 author: "James Okafor"
 slug: "llc-vs-scorp-quiz"
+image: "https://images.pexels.com/photos/3449351/pexels-photo-3449351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---
 
 Choosing between an LLC and an S-Corp is one of the most consequential early decisions for small business owners. The right answer depends on your profit level, the number of owners, your state of formation, and how much administrative complexity you can manage.
