@@ -1,5 +1,6 @@
 ---
 title: "How Much Does It Cost to Start a Business in 2026? By Industry"
+image: "https://images.pexels.com/photos/8970670/pexels-photo-8970670.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 description: "Complete startup cost breakdown by industry type. From consulting ($8,500) to manufacturing ($500k+). SBA-sourced data with hidden costs breakdown."
 author: "Jamie Rivera"
 author_slug: "jamie-rivera"
