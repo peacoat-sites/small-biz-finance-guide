@@ -14,15 +14,15 @@ slug: "health-insurance-self-employed-deduction"
 affiliate_disclosure: true
 faqs:
  - q: "Can I deduct health insurance if I have a loss from my self-employment this year?"
- a: "No. The deduction is limited to your net profit from self-employment. If you had a net loss, you can't claim any health insurance deduction that year. The unused premiums can't be carried forward either."
+   a: "No. The deduction is limited to your net profit from self-employment. If you had a net loss, you can't claim any health insurance deduction that year. The unused premiums can't be carried forward either."
  - q: "Does this deduction apply if I buy insurance through the ACA marketplace?"
- a: "Yes, with a wrinkle. If you receive a Premium Tax Credit (PTC) to help pay your marketplace premiums, only the portion you actually paid out of pocket is deductible. You can't double-dip by deducting premiums that were covered by the credit. IRS Publication 974 covers this interaction in detail."
+   a: "Yes, with a wrinkle. If you receive a Premium Tax Credit (PTC) to help pay your marketplace premiums, only the portion you actually paid out of pocket is deductible. You can't double-dip by deducting premiums that were covered by the credit. IRS Publication 974 covers this interaction in detail."
  - q: "My spouse is self-employed too. Can we each claim this deduction?"
- a: "It depends on whose business purchases the coverage. Generally, only one spouse claims the deduction, tied to the business that established the plan. But if each spouse runs a separate business with separate coverage, each may be able to deduct their own premiums. Get a CPA's eyes on this one."
+   a: "It depends on whose business purchases the coverage. Generally, only one spouse claims the deduction, tied to the business that established the plan. But if each spouse runs a separate business with separate coverage, each may be able to deduct their own premiums. Get a CPA's eyes on this one."
  - q: "What if I only had health insurance for part of the year?"
- a: "The deduction is prorated by month. If you were covered under an employer plan through March and then went self-employed in April, you can only deduct premiums from April forward. The months of employer-plan eligibility are excluded even if you weren't enrolled."
+   a: "The deduction is prorated by month. If you were covered under an employer plan through March and then went self-employed in April, you can only deduct premiums from April forward. The months of employer-plan eligibility are excluded even if you weren't enrolled."
  - q: "Does this work the same for an S-corp owner?"
- a: "Not exactly. As a more-than-2% S-corp shareholder, your premiums must be run through payroll and included in your W-2 wages first. Then you deduct them personally on Form 1040. If the premiums aren't on your W-2, you likely lose the deduction. This is worth confirming with your accountant every year, not just once."
+   a: "Not exactly. As a more-than-2% S-corp shareholder, your premiums must be run through payroll and included in your W-2 wages first. Then you deduct them personally on Form 1040. If the premiums aren't on your W-2, you likely lose the deduction. This is worth confirming with your accountant every year, not just once."
 ---
 Most self-employed people I talk to are leaving hundreds of dollars on the table every single tax year. Not because they're bad at business. Because nobody told them the self-employed health insurance deduction works differently than almost every other deduction they know.
 

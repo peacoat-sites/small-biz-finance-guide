@@ -14,15 +14,15 @@ slug: "small-business-audit-risk-factors"
 affiliate_disclosure: true
 faqs:
  - q: "Does claiming a home office automatically trigger an audit?"
- a: "Not automatically, but it does increase scrutiny. The deduction has a reputation for abuse, so the IRS pays attention to it. The risk goes up if the space isn't used exclusively for business, or if the deduction represents an unusually large percentage of your revenue. Calculate it correctly, document the square footage, and you're in defensible shape."
+   a: "Not automatically, but it does increase scrutiny. The deduction has a reputation for abuse, so the IRS pays attention to it. The risk goes up if the space isn't used exclusively for business, or if the deduction represents an unusually large percentage of your revenue. Calculate it correctly, document the square footage, and you're in defensible shape."
  - q: "How far back can the IRS audit my small business?"
- a: "Generally, three years from the filing date. That extends to six years if the IRS believes you underreported income by more than 25%. There's no time limit if fraud is suspected. This is why I tell clients to keep business records for at least seven years, not three."
+   a: "Generally, three years from the filing date. That extends to six years if the IRS believes you underreported income by more than 25%. There's no time limit if fraud is suspected. This is why I tell clients to keep business records for at least seven years, not three."
  - q: "Are S-corp owners at lower audit risk than sole proprietors?"
- a: "Historically, yes. S-corp returns have been examined at lower rates than Schedule C returns. But that gap has been narrowing, particularly around reasonable compensation issues (paying yourself too little salary to minimize payroll taxes) and shareholder loans. Don't assume the S-corp structure is a shield. Consult a CPA on the reasonable compensation question specifically."
+   a: "Historically, yes. S-corp returns have been examined at lower rates than Schedule C returns. But that gap has been narrowing, particularly around reasonable compensation issues (paying yourself too little salary to minimize payroll taxes) and shareholder loans. Don't assume the S-corp structure is a shield. Consult a CPA on the reasonable compensation question specifically."
  - q: "What should I do if I receive an IRS audit notice?"
- a: "Don't panic, and don't respond alone. The type of audit matters: a correspondence audit (a letter requesting specific documentation) is very different from an in-person field audit. In either case, get a CPA or tax attorney involved before you respond. What you say and what you produce in the first response sets the frame for everything that follows."
+   a: "Don't panic, and don't respond alone. The type of audit matters: a correspondence audit (a letter requesting specific documentation) is very different from an in-person field audit. In either case, get a CPA or tax attorney involved before you respond. What you say and what you produce in the first response sets the frame for everything that follows."
  - q: "Can I reduce my audit risk by paying a higher tax bill?"
- a: "Not directly, but accuracy matters more than the amount owed. Returns that appear internally consistent, with deductions proportionate to revenue and industry norms, are less likely to be selected. If your numbers are legitimate but look unusual, attaching a brief explanatory statement to your return can reduce the chance of a follow-up inquiry."
+   a: "Not directly, but accuracy matters more than the amount owed. Returns that appear internally consistent, with deductions proportionate to revenue and industry norms, are less likely to be selected. If your numbers are legitimate but look unusual, attaching a brief explanatory statement to your return can reduce the chance of a follow-up inquiry."
 ---
 
 Most small business owners I talk to think an audit is something that happens to people who cheat. That assumption is expensive.

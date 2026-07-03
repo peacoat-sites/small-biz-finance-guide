@@ -14,15 +14,15 @@ slug: "business-checking-account-comparison"
 affiliate_disclosure: true
 faqs:
  - q: "Does my business legally need a separate checking account?"
- a: "Technically, a sole proprietor isn't required by law to have a separate business account in most states, but mixing personal and business finances is one of the fastest ways to lose liability protection if you're an LLC or corporation. Practically speaking, you need one."
+   a: "Technically, a sole proprietor isn't required by law to have a separate business account in most states, but mixing personal and business finances is one of the fastest ways to lose liability protection if you're an LLC or corporation. Practically speaking, you need one."
  - q: "Can I use a personal checking account for my business?"
- a: "Your bank's terms of service almost certainly prohibit using a personal account for business purposes, and many banks will close the account if they flag it. Beyond the policy risk, commingled accounts make bookkeeping and tax preparation significantly more expensive and complicated."
+   a: "Your bank's terms of service almost certainly prohibit using a personal account for business purposes, and many banks will close the account if they flag it. Beyond the policy risk, commingled accounts make bookkeeping and tax preparation significantly more expensive and complicated."
  - q: "What's the minimum balance I should keep in a business checking account?"
- a: "Enough to cover one month of fixed operating expenses, comfortably. That's a general rule, not a universal one. If your business has highly variable cash flow (seasonal businesses, project-based revenue), you want more cushion, not less."
+   a: "Enough to cover one month of fixed operating expenses, comfortably. That's a general rule, not a universal one. If your business has highly variable cash flow (seasonal businesses, project-based revenue), you want more cushion, not less."
  - q: "Are online-only business bank accounts safe?"
- a: "Yes, provided the bank or its partner bank is FDIC-insured up to $250,000 per depositor. Verify this before opening. The FDIC's BankFind tool at banks.data.fdic.gov will confirm it in about 30 seconds."
+   a: "Yes, provided the bank or its partner bank is FDIC-insured up to $250,000 per depositor. Verify this before opening. The FDIC's BankFind tool at banks.data.fdic.gov will confirm it in about 30 seconds."
  - q: "Should I have more than one business checking account?"
- a: "For most small businesses, two accounts is the practical sweet spot: one operating account and one tax reserve account. Some business owners add a third for payroll. Beyond that, you're usually creating complexity without proportional benefit unless you have a specific allocation strategy you're actually committed to following."
+   a: "For most small businesses, two accounts is the practical sweet spot: one operating account and one tax reserve account. Some business owners add a third for payroll. Beyond that, you're usually creating complexity without proportional benefit unless you have a specific allocation strategy you're actually committed to following."
 ---
 
 Most advice on business checking accounts focuses on monthly fees and stops there. That's like buying a car based only on the color. The fee is one line item. The account structure, transaction limits, cash deposit caps, and whether the bank actually picks up the phone when you have a problem, that's where you either save or hemorrhage money over time.

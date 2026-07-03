@@ -14,15 +14,15 @@ slug: "xero-accounting-guide"
 affiliate_disclosure: true
 faqs:
  - q: "Is Xero good for complete beginners with no accounting background?"
- a: "Yes, genuinely. The interface is more intuitive than QuickBooks Online, and the reconciliation workflow is designed for non-accountants. That said, spending two hours understanding basic bookkeeping concepts before you start will save you months of confusion later."
+   a: "Yes, genuinely. The interface is more intuitive than QuickBooks Online, and the reconciliation workflow is designed for non-accountants. That said, spending two hours understanding basic bookkeeping concepts before you start will save you months of confusion later."
  - q: "Can Xero replace my bookkeeper?"
- a: "For very simple businesses (service-only, one bank account, no employees, low transaction volume), some owners do manage Xero solo. Most businesses with more complexity still benefit from a bookkeeper doing monthly reviews. Xero makes that collaboration easy since your bookkeeper can log in remotely without you sharing passwords via software like Xero's direct advisor access."
+   a: "For very simple businesses (service-only, one bank account, no employees, low transaction volume), some owners do manage Xero solo. Most businesses with more complexity still benefit from a bookkeeper doing monthly reviews. Xero makes that collaboration easy since your bookkeeper can log in remotely without you sharing passwords via software like Xero's direct advisor access."
  - q: "How does Xero handle sales tax?"
- a: "Xero tracks sales tax and can generate a summary report, but it doesn't file returns for you. If you have significant sales tax exposure across multiple states, look at integrating Avalara or TaxJar to automate calculations and filing. Don't try to manage multi-state sales tax manually in a spreadsheet."
+   a: "Xero tracks sales tax and can generate a summary report, but it doesn't file returns for you. If you have significant sales tax exposure across multiple states, look at integrating Avalara or TaxJar to automate calculations and filing. Don't try to manage multi-state sales tax manually in a spreadsheet."
  - q: "What's the difference between Xero and QuickBooks Online?"
- a: "Xero has a cleaner UI, better bank feeds, and a more affordable entry price. QuickBooks Online has a larger accountant network in the U.S., more robust payroll built in, and more third-party integrations overall. For most new small businesses in 2026 starting fresh, I'd pick Xero. If your accountant lives in QuickBooks, match their system."
+   a: "Xero has a cleaner UI, better bank feeds, and a more affordable entry price. QuickBooks Online has a larger accountant network in the U.S., more robust payroll built in, and more third-party integrations overall. For most new small businesses in 2026 starting fresh, I'd pick Xero. If your accountant lives in QuickBooks, match their system."
  - q: "Does Xero work if my business has multiple currencies?"
- a: "Yes, but only on the Established plan. Multi-currency support in Xero is solid: it handles exchange rate tracking, revaluation adjustments, and reporting. If you're regularly billing in euros or CAD, it's worth the upgrade to Established rather than trying to fudge everything into USD manually."
+   a: "Yes, but only on the Established plan. Multi-currency support in Xero is solid: it handles exchange rate tracking, revaluation adjustments, and reporting. If you're regularly billing in euros or CAD, it's worth the upgrade to Established rather than trying to fudge everything into USD manually."
 ---
 
 Most Xero guides spend three paragraphs explaining what "cloud accounting" means. You already know what it means. Let's skip that part.

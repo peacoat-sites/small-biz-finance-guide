@@ -14,15 +14,15 @@ slug: "employee-classification-audit"
 affiliate_disclosure: true
 faqs:
  - q: "Can I just call everyone a 1099 contractor to avoid payroll taxes?"
- a: "No, and this is one of the most expensive assumptions in small business finance. The label on a contract doesn't determine the legal classification. The IRS and DOL look at the actual working relationship, and mislabeling someone to avoid payroll taxes is considered intentional misclassification, which carries harsher penalties than an honest mistake."
+   a: "No, and this is one of the most expensive assumptions in small business finance. The label on a contract doesn't determine the legal classification. The IRS and DOL look at the actual working relationship, and mislabeling someone to avoid payroll taxes is considered intentional misclassification, which carries harsher penalties than an honest mistake."
  - q: "How far back can the IRS go in an employee classification audit?"
- a: "Generally three years for most tax issues, but if the IRS suspects fraud or substantial understatement of taxes, that window extends to six years. There's no statute of limitations on fraud. This is one reason why a self-audit and clean documentation matters: it signals good faith."
+   a: "Generally three years for most tax issues, but if the IRS suspects fraud or substantial understatement of taxes, that window extends to six years. There's no statute of limitations on fraud. This is one reason why a self-audit and clean documentation matters: it signals good faith."
  - q: "What's the difference between an IRS classification audit and a DOL investigation?"
- a: "The IRS audit focuses on payroll tax liability, specifically whether you owe back FICA and unemployment taxes. A DOL investigation is looking at wage and hour violations under the Fair Labor Standards Act, including minimum wage, overtime, and benefits access. You can be subject to both simultaneously, and they use different legal tests to reach their conclusions."
+   a: "The IRS audit focuses on payroll tax liability, specifically whether you owe back FICA and unemployment taxes. A DOL investigation is looking at wage and hour violations under the Fair Labor Standards Act, including minimum wage, overtime, and benefits access. You can be subject to both simultaneously, and they use different legal tests to reach their conclusions."
  - q: "If I reclassify a worker, do I owe them back benefits?"
- a: "Potentially, yes, depending on your benefits structure and how long the misclassification ran. This is one of the less-discussed risks. Workers reclassified as employees may have standing to claim retroactive access to health benefits, retirement contributions, or paid leave. A labor attorney should review this alongside your CPA when you're considering reclassification."
+   a: "Potentially, yes, depending on your benefits structure and how long the misclassification ran. This is one of the less-discussed risks. Workers reclassified as employees may have standing to claim retroactive access to health benefits, retirement contributions, or paid leave. A labor attorney should review this alongside your CPA when you're considering reclassification."
  - q: "Does the type of business I run affect my audit risk?"
- a: "Yes, significantly. The IRS has historically focused on industries where contractor misuse is common: construction, trucking, home health care, staffing, and technology services. That doesn't mean other industries are immune, but if you're in one of those sectors, your baseline risk is higher and your documentation needs to be tighter."
+   a: "Yes, significantly. The IRS has historically focused on industries where contractor misuse is common: construction, trucking, home health care, staffing, and technology services. That doesn't mean other industries are immune, but if you're in one of those sectors, your baseline risk is higher and your documentation needs to be tighter."
 ---
 
 Most business owners I sit down with don't realize they have a classification problem until someone else finds it for them. That someone is usually the IRS.
