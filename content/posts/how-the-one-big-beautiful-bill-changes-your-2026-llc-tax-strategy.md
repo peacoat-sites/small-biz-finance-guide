@@ -11,7 +11,9 @@ author_slug: "amanda-pierce"
 author_title: "Operations Finance Writer"
 author_bio: "Amanda Pierce has run her own small business and knows the difference between profitability on paper and actually having money in the bank. She specializes in the operational side of business finances: invoicing systems, cash flow forecasting, dealing with slow-paying clients, and managing the day-to-day money reality of running a small business. At Small Biz Finance Guide, she covers cash flow tools, payment systems, and operational finance."
 slug: "how-the-one-big-beautiful-bill-changes-your-2026-llc-tax-strategy"
-affiliate_disclosure: true, Most coverage of the One Big Beautiful Bill Act treated it like a Washington story. It's not. It's a cash-flow story, and if you run an LLC or S-corp, the decisions you make in the next few months will determine how much of that cash you actually keep.
+affiliate_disclosure: true
+---
+Most coverage of the One Big Beautiful Bill Act treated it like a Washington story. It's not. It's a cash-flow story, and if you run an LLC or S-corp, the decisions you make in the next few months will determine how much of that cash you actually keep.
 
 The bill was signed on July 4, 2025. Several of its most consequential provisions either activated on January 1, 2026 or carry a hard deadline of July 4, 2026. That makes right now the live window. Not next tax season. Now.
 

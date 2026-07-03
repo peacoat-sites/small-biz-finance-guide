@@ -11,7 +11,9 @@ author_slug: "michael-torres"
 author_title: "Business Loan Writer"
 author_bio: "Michael Torres spent years as a small business banker before moving to the borrower side as a loan consultant. He knows the SBA loan process inside and out, including the parts of the application that most business owners get wrong. At Small Biz Finance Guide, he covers SBA loans, lines of credit, equipment financing, and how to present your business to a lender in the best possible light."
 slug: "how-to-use-100-bonus-depreciation-to-cut-your-2026-tax-bill"
-affiliate_disclosure: true, Most coverage of the One Big Beautiful Bill Act has focused on the income tax rate drama and the debt ceiling politics. The tax provision that will actually move the needle for small business owners got buried in paragraph nine of most articles. That provision: 100% bonus depreciation is back, permanently, and mid-2026 is precisely when you should be acting on it.
+affiliate_disclosure: true
+---
+Most coverage of the One Big Beautiful Bill Act has focused on the income tax rate drama and the debt ceiling politics. The tax provision that will actually move the needle for small business owners got buried in paragraph nine of most articles. That provision: 100% bonus depreciation is back, permanently, and mid-2026 is precisely when you should be acting on it.
 
 ## What Changed and Why It Matters Now
 

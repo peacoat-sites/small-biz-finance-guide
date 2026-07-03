@@ -11,15 +11,15 @@ lastmod: 2026-06-28
 featured_depth: true
 faqs:
  - question: "What's the #1 hidden startup cost?"
- answer: "Working capital, the cash you need to survive the first 3 months when revenue is zero. It's not a one-time expense; it's the monthly burn rate × 3. Most founders underestimate this by 50%."
+   answer: "Working capital, the cash you need to survive the first 3 months when revenue is zero. It's not a one-time expense; it's the monthly burn rate × 3. Most founders underestimate this by 50%."
  - question: "Can I start a business for under $10,000?"
- answer: "Yes. Consulting, freelancing, affiliate blogging, and dropshipping can all launch under $10k. But you're bootstrapped, you have zero buffer for mistakes or slow growth."
+   answer: "Yes. Consulting, freelancing, affiliate blogging, and dropshipping can all launch under $10k. But you're bootstrapped, you have zero buffer for mistakes or slow growth."
  - question: "Why does my industry estimate vary so much?"
- answer: "Because SBA data is national average. Your city, your specific model, and your personal risk tolerance change the number by 20-50%. Use these as starting points, not gospel."
+   answer: "Because SBA data is national average. Your city, your specific model, and your personal risk tolerance change the number by 20-50%. Use these as starting points, not gospel."
  - question: "Do I really need an LLC if I'm starting solo?"
- answer: "Maybe. Liability protection (worth it), tax flexibility (depends on your situation), credibility (helps with customers/lenders). Cost is $500-$2,000 + annual maintenance. Run the numbers for your case."
+   answer: "Maybe. Liability protection (worth it), tax flexibility (depends on your situation), credibility (helps with customers/lenders). Cost is $500-$2,000 + annual maintenance. Run the numbers for your case."
  - question: "When do I break even?"
- answer: "Depends on your industry. Service businesses: 2-4 months. E-commerce: 3-6 months. Retail: 12-18 months. Manufacturing: 12-24 months. These are medians, yours could be faster or slower depending on execution."
+   answer: "Depends on your industry. Service businesses: 2-4 months. E-commerce: 3-6 months. Retail: 12-18 months. Manufacturing: 12-24 months. These are medians, yours could be faster or slower depending on execution."
 categories: ["Business Finance", "Startup Costs", "Business Planning"]
 keywords: ["startup costs by industry", "how much does it cost to start a business", "business startup budget", "small business startup costs"]
 ---

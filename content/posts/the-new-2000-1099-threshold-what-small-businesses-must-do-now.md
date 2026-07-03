@@ -11,7 +11,9 @@ author_slug: "rachel-green"
 author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
 slug: "the-new-2000-1099-threshold-what-small-businesses-must-do-now"
-affiliate_disclosure: true, If you've been running your business for more than a few years, you probably have the $600 number burned into your brain. It's the threshold that triggered a 1099 form. It's what you've been tracking, what your bookkeeper flags, what your accounting software was set to catch. For most small business owners, it became automatic. So when I tell you that number changed on January 1, 2026, the first reaction is usually something between relief and mild panic. Relief because less paperwork. Panic because you're not entirely sure what you've changed, what you haven't, and whether you're quietly building a compliance problem for next January's filing season.
+affiliate_disclosure: true
+---
+If you've been running your business for more than a few years, you probably have the $600 number burned into your brain. It's the threshold that triggered a 1099 form. It's what you've been tracking, what your bookkeeper flags, what your accounting software was set to catch. For most small business owners, it became automatic. So when I tell you that number changed on January 1, 2026, the first reaction is usually something between relief and mild panic. Relief because less paperwork. Panic because you're not entirely sure what you've changed, what you haven't, and whether you're quietly building a compliance problem for next January's filing season.
 
 That's a fair place to be. Here's what you actually need to know.
 
