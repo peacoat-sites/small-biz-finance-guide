@@ -13,16 +13,16 @@ author_bio: "David Kim is a tax strategist who works with self-employed individu
 slug: "errors-and-omissions-insurance"
 affiliate_disclosure: true
 faqs:
-  - q: "What's the difference between E&O insurance and general liability?"
-    a: "General liability covers bodily injury, property damage, and personal injury claims. E&O (professional liability) covers financial harm a client claims resulted from your professional services, advice, or work product. You typically need both if you run a service business, not one or the other."
-  - q: "Is errors and omissions insurance required by law?"
-    a: "Not usually, though some licensed professions (attorneys, certain financial advisors, healthcare providers) are required to carry it by their licensing body or state regulation. More commonly, clients and contracts require it. You may not legally have to have it, but a Fortune 500 client probably won't sign with you without proof of coverage."
-  - q: "What's a 'claims-made' policy and why does it matter?"
-    a: "A claims-made policy covers claims filed while the policy is active, regardless of when the work was done. If you let coverage lapse and a claim comes in later, you're not covered. This is why maintaining continuous coverage, and verifying your retroactive date when you switch carriers, is genuinely important, not fine-print stuff."
-  - q: "How much E&O coverage do I actually need?"
-    a: "Match your limit to your largest realistic contract exposure, not your average project. If your biggest client relationship represents $2 million in potential liability if something goes wrong, a $500K policy isn't doing much work for you. A common starting point for small service businesses is $1 million per-occurrence / $2 million aggregate, but your broker should stress-test that against your actual client contracts."
-  - q: "Can a client sue me even if I didn't do anything wrong?"
-    a: "Yes. That's the part people underestimate. A dissatisfied client can file a claim based on their perception of what went wrong. You may be completely in the right and still spend significant money defending yourself. E&O coverage pays those defense costs whether the claim has merit or not, which is often the more valuable benefit for small businesses."
+ - q: "What's the difference between E&O insurance and general liability?"
+ a: "General liability covers bodily injury, property damage, and personal injury claims. E&O (professional liability) covers financial harm a client claims resulted from your professional services, advice, or work product. You typically need both if you run a service business, not one or the other."
+ - q: "Is errors and omissions insurance required by law?"
+ a: "Not usually, though some licensed professions (attorneys, certain financial advisors, healthcare providers) are required to carry it by their licensing body or state regulation. More commonly, clients and contracts require it. You may not legally have to have it, but a Fortune 500 client probably won't sign with you without proof of coverage."
+ - q: "What's a 'claims-made' policy and why does it matter?"
+ a: "A claims-made policy covers claims filed while the policy is active, regardless of when the work was done. If you let coverage lapse and a claim comes in later, you're not covered. This is why maintaining continuous coverage, and verifying your retroactive date when you switch carriers, is genuinely important, not fine-print stuff."
+ - q: "How much E&O coverage do I actually need?"
+ a: "Match your limit to your largest realistic contract exposure, not your average project. If your biggest client relationship represents $2 million in potential liability if something goes wrong, a $500K policy isn't doing much work for you. A common starting point for small service businesses is $1 million per-occurrence / $2 million aggregate, but your broker should stress-test that against your actual client contracts."
+ - q: "Can a client sue me even if I didn't do anything wrong?"
+ a: "Yes. That's the part people underestimate. A dissatisfied client can file a claim based on their perception of what went wrong. You may be completely in the right and still spend significant money defending yourself. E&O coverage pays those defense costs whether the claim has merit or not, which is often the more valuable benefit for small businesses."
 ---
 
 Most service businesses I've worked with buy E&O insurance after something bad happens. A client claims a mistake cost them money, a lawyer sends a letter, and suddenly everyone's very interested in a policy they could have had for a few hundred dollars a year. I've sat across from enough business owners in that exact position to tell you: buying it after the fact isn't buying it at all.
@@ -138,8 +138,8 @@ If you want to go deeper on contract and liability fundamentals before your next
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22) — Certified pet first aid kit with step-by-step instructions — an essential item for every pet owner.
-- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32) — Vet-approved 95-piece kit for dogs and cats — covers cuts, burns, sprains, and emergencies until you can reach a vet.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Certified Pet First Aid Kit with Guide Book](https://www.amazon.com/dp/B07DYSG92T/?tag=contentportfo-20)** (~$22), Certified pet first aid kit with step-by-step instructions, an essential item for every pet owner.
+- **[EVERLIT 95-Piece Vet-Approved Pet First Aid Kit](https://www.amazon.com/dp/B0DSKJV741/?tag=contentportfo-20)** (~$32), Vet-approved 95-piece kit for dogs and cats, covers cuts, burns, sprains, and emergencies until you can reach a vet.
 

@@ -11,10 +11,7 @@ author_slug: "rachel-green"
 author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
 slug: "business-credit-building-tips"
-affiliate_disclosure: true
----
-
-Most business owners I talk to find out they have no business credit the hard way. They go to apply for a line of credit, or try to get better payment terms with a supplier, and someone on the other end of the phone tells them their business "has no credit profile." That moment is frustrating and a little embarrassing, and it's completely unnecessary, because building business credit isn't complicated. It just requires doing a handful of unglamorous things in the right order.
+affiliate_disclosure: true, Most business owners I talk to find out they have no business credit the hard way. They go to apply for a line of credit, or try to get better payment terms with a supplier, and someone on the other end of the phone tells them their business "has no credit profile." That moment is frustrating and a little embarrassing, and it's completely unnecessary, because building business credit isn't complicated. It just requires doing a handful of unglamorous things in the right order.
 
 You might be wondering whether any of this actually matters if your business is profitable and you've been getting by fine. Fair question. Here's my honest answer: it matters a lot once it matters. Business credit determines whether you can get funding without personally guaranteeing everything, whether you pay deposit premiums with vendors, and whether a bank will even look at you during a rough quarter. I've watched solid businesses get caught flat-footed because the owner never separated their financial identity from the company's. Don't be that person.
 
@@ -124,6 +121,6 @@ I'd be careful here. There are legitimate credit consultants and CPAs who can he
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

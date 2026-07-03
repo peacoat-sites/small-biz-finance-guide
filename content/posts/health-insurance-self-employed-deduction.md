@@ -13,16 +13,16 @@ author_bio: "David Kim is a tax strategist who works with self-employed individu
 slug: "health-insurance-self-employed-deduction"
 affiliate_disclosure: true
 faqs:
-  - q: "Can I deduct health insurance if I have a loss from my self-employment this year?"
-    a: "No. The deduction is limited to your net profit from self-employment. If you had a net loss, you can't claim any health insurance deduction that year. The unused premiums can't be carried forward either."
-  - q: "Does this deduction apply if I buy insurance through the ACA marketplace?"
-    a: "Yes, with a wrinkle. If you receive a Premium Tax Credit (PTC) to help pay your marketplace premiums, only the portion you actually paid out of pocket is deductible. You can't double-dip by deducting premiums that were covered by the credit. IRS Publication 974 covers this interaction in detail."
-  - q: "My spouse is self-employed too. Can we each claim this deduction?"
-    a: "It depends on whose business purchases the coverage. Generally, only one spouse claims the deduction, tied to the business that established the plan. But if each spouse runs a separate business with separate coverage, each may be able to deduct their own premiums. Get a CPA's eyes on this one."
-  - q: "What if I only had health insurance for part of the year?"
-    a: "The deduction is prorated by month. If you were covered under an employer plan through March and then went self-employed in April, you can only deduct premiums from April forward. The months of employer-plan eligibility are excluded even if you weren't enrolled."
-  - q: "Does this work the same for an S-corp owner?"
-    a: "Not exactly. As a more-than-2% S-corp shareholder, your premiums must be run through payroll and included in your W-2 wages first. Then you deduct them personally on Form 1040. If the premiums aren't on your W-2, you likely lose the deduction. This is worth confirming with your accountant every year, not just once."
+ - q: "Can I deduct health insurance if I have a loss from my self-employment this year?"
+ a: "No. The deduction is limited to your net profit from self-employment. If you had a net loss, you can't claim any health insurance deduction that year. The unused premiums can't be carried forward either."
+ - q: "Does this deduction apply if I buy insurance through the ACA marketplace?"
+ a: "Yes, with a wrinkle. If you receive a Premium Tax Credit (PTC) to help pay your marketplace premiums, only the portion you actually paid out of pocket is deductible. You can't double-dip by deducting premiums that were covered by the credit. IRS Publication 974 covers this interaction in detail."
+ - q: "My spouse is self-employed too. Can we each claim this deduction?"
+ a: "It depends on whose business purchases the coverage. Generally, only one spouse claims the deduction, tied to the business that established the plan. But if each spouse runs a separate business with separate coverage, each may be able to deduct their own premiums. Get a CPA's eyes on this one."
+ - q: "What if I only had health insurance for part of the year?"
+ a: "The deduction is prorated by month. If you were covered under an employer plan through March and then went self-employed in April, you can only deduct premiums from April forward. The months of employer-plan eligibility are excluded even if you weren't enrolled."
+ - q: "Does this work the same for an S-corp owner?"
+ a: "Not exactly. As a more-than-2% S-corp shareholder, your premiums must be run through payroll and included in your W-2 wages first. Then you deduct them personally on Form 1040. If the premiums aren't on your W-2, you likely lose the deduction. This is worth confirming with your accountant every year, not just once."
 ---
 Most self-employed people I talk to are leaving hundreds of dollars on the table every single tax year. Not because they're bad at business. Because nobody told them the self-employed health insurance deduction works differently than almost every other deduction they know.
 
@@ -32,12 +32,12 @@ I didn't fully appreciate how many nuances were packed into this one deduction u
 
 
 <div class="value-module">
-  <div class="vm-head">Deduction Eligibility Decision Checklist</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use this checklist to determine whether you can claim the self-employed health insurance deduction and how much qualifies.</p>
-    <table><thead><tr><th>Eligibility Criterion</th><th>Threshold / Rule</th><th>If Not Met</th></tr></thead><tbody><tr><td>Self-employment status</td><td>Must have net self-employment income (Schedule C, partnership K-1, or S-corp wages)</td><td>No deduction available for that tax year</td></tr><tr><td>Spouse employer plan availability</td><td>You (and covered family members) must NOT be eligible for ANY subsidized employer plan-even if you declined enrollment</td><td>Months with eligibility are excluded from deduction</td></tr><tr><td>Premium payment timing</td><td>Policy must be established under your business or in your name; premiums paid during months you had qualifying self-employment</td><td>Only months with both coverage AND self-employment income qualify</td></tr><tr><td>Deduction amount cap</td><td>Cannot exceed your net self-employment earnings (after other business deductions)</td><td>Excess premiums may be deductible as itemized medical expense (subject to AGI floor)</td></tr><tr><td>Premium tax credit coordination</td><td>Cannot deduct premiums that were paid with advance premium tax credits from marketplace plans</td><td>Only deduct the portion you paid out-of-pocket after credits</td></tr><tr><td>Long-term care insurance limits</td><td>Subject to age-based annual caps (e.g., roughly $480 for age 40 and under, scaling to ~$5,960 for age 71+; limits adjust annually)</td><td>Amounts above the limit are not deductible here</td></tr><tr><td>Children under 27 rule</td><td>Premiums for children under 27 qualify even if they are not your tax dependent</td><td>Children 27+ must be claimed as dependents to qualify</td></tr></tbody></table>
-    <p class="vm-note">Illustrative general information, confirm current figures for your situation.</p>
-  </div>
+ <div class="vm-head">Deduction Eligibility Decision Checklist</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use this checklist to determine whether you can claim the self-employed health insurance deduction and how much qualifies.</p>
+ <table><thead><tr><th>Eligibility Criterion</th><th>Threshold / Rule</th><th>If Not Met</th></tr></thead><tbody><tr><td>Self-employment status</td><td>Must have net self-employment income (Schedule C, partnership K-1, or S-corp wages)</td><td>No deduction available for that tax year</td></tr><tr><td>Spouse employer plan availability</td><td>You (and covered family members) must NOT be eligible for ANY subsidized employer plan-even if you declined enrollment</td><td>Months with eligibility are excluded from deduction</td></tr><tr><td>Premium payment timing</td><td>Policy must be established under your business or in your name; premiums paid during months you had qualifying self-employment</td><td>Only months with both coverage AND self-employment income qualify</td></tr><tr><td>Deduction amount cap</td><td>Cannot exceed your net self-employment earnings (after other business deductions)</td><td>Excess premiums may be deductible as itemized medical expense (subject to AGI floor)</td></tr><tr><td>Premium tax credit coordination</td><td>Cannot deduct premiums that were paid with advance premium tax credits from marketplace plans</td><td>Only deduct the portion you paid out-of-pocket after credits</td></tr><tr><td>Long-term care insurance limits</td><td>Subject to age-based annual caps (e.g., roughly $480 for age 40 and under, scaling to ~$5,960 for age 71+; limits adjust annually)</td><td>Amounts above the limit are not deductible here</td></tr><tr><td>Children under 27 rule</td><td>Premiums for children under 27 qualify even if they are not your tax dependent</td><td>Children 27+ must be claimed as dependents to qualify</td></tr></tbody></table>
+ <p class="vm-note">Illustrative general information, confirm current figures for your situation.</p>
+ </div>
 </div>
 
 ## What the Deduction Actually Covers

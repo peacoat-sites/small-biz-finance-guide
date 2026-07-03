@@ -13,16 +13,16 @@ author_bio: "Amanda Pierce has run her own small business and knows the differen
 slug: "business-credit-card-vs-personal-credit-card-for-llc"
 affiliate_disclosure: true
 faqs:
-  - q: "Can I use a personal credit card for my LLC legally?"
-    a: "Yes, there's no law that requires an LLC to use a business credit card. However, using a personal card for business expenses creates accounting headaches, can complicate your tax records, and undermines the financial separation that gives your LLC its liability protection. A dedicated card, business or personal, used only for business is far better than mixing the two."
-  - q: "Will a business credit card affect my personal credit score?"
-    a: "It depends on the issuer. Most major business cards (Chase Ink, Capital One Spark) do not report your account activity to personal credit bureaus during normal use, but they will report a hard inquiry when you apply, and they may report negative information (like a missed payment) to personal bureaus. Amex business cards generally don't appear on your personal report at all under normal circumstances."
-  - q: "Does my LLC need an EIN to get a business credit card?"
-    a: "You should have one, and it's free and easy to get from the IRS website in about five minutes. Some issuers will let you apply with just your SSN if you're a sole-member LLC without employees, but having an EIN makes the application cleaner and reinforces the separation between you and the business."
-  - q: "How long does it take to build business credit with a business card?"
-    a: "Realistically, six to twelve months of consistent on-time payments before you'll see a meaningful business credit profile with Dun & Bradstreet or Experian Business. If you want to accelerate it, pair your credit card use with net-30 vendor accounts that report to business bureaus, like Uline, Grainger, or Quill."
-  - q: "What if I accidentally use my business card for a personal purchase?"
-    a: "It happens. The clean fix is to reimburse the business for that amount right away, treat it as a personal draw or owner contribution in your books, and note it clearly. Don't just ignore it. One uncategorized charge won't sink you, but a pattern of them will make your financial statements meaningless and your accountant frustrated."
+ - q: "Can I use a personal credit card for my LLC legally?"
+ a: "Yes, there's no law that requires an LLC to use a business credit card. However, using a personal card for business expenses creates accounting headaches, can complicate your tax records, and undermines the financial separation that gives your LLC its liability protection. A dedicated card, business or personal, used only for business is far better than mixing the two."
+ - q: "Will a business credit card affect my personal credit score?"
+ a: "It depends on the issuer. Most major business cards (Chase Ink, Capital One Spark) do not report your account activity to personal credit bureaus during normal use, but they will report a hard inquiry when you apply, and they may report negative information (like a missed payment) to personal bureaus. Amex business cards generally don't appear on your personal report at all under normal circumstances."
+ - q: "Does my LLC need an EIN to get a business credit card?"
+ a: "You should have one, and it's free and easy to get from the IRS website in about five minutes. Some issuers will let you apply with just your SSN if you're a sole-member LLC without employees, but having an EIN makes the application cleaner and reinforces the separation between you and the business."
+ - q: "How long does it take to build business credit with a business card?"
+ a: "Realistically, six to twelve months of consistent on-time payments before you'll see a meaningful business credit profile with Dun & Bradstreet or Experian Business. If you want to accelerate it, pair your credit card use with net-30 vendor accounts that report to business bureaus, like Uline, Grainger, or Quill."
+ - q: "What if I accidentally use my business card for a personal purchase?"
+ a: "It happens. The clean fix is to reimburse the business for that amount right away, treat it as a personal draw or owner contribution in your books, and note it clearly. Don't just ignore it. One uncategorized charge won't sink you, but a pattern of them will make your financial statements meaningless and your accountant frustrated."
 ---
 
 Here's a situation I've watched play out dozens of times. Someone forms their LLC, feels great about it, and then keeps right on using their personal Chase Sapphire or their old Citi card for every business purchase because "it's just easier for now." Six months later they're handing their accountant a shoebox of mixed receipts and wondering why their books are a mess and their tax prep bill just doubled. I've seen this cost people real money, and it's almost entirely avoidable.
@@ -112,7 +112,7 @@ One more thing: whatever card you get, set a rule for yourself that the card is 
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-- **[QuickBooks Small Business Bookkeeping Guide](https://www.amazon.com/dp/0692957790/?tag=contentportfo-20)** (~$17) — Compact, practical QuickBooks pocket guide — ideal for new business owners setting up accounting for the first time.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[QuickBooks Small Business Bookkeeping Guide](https://www.amazon.com/dp/0692957790/?tag=contentportfo-20)** (~$17), Compact, practical QuickBooks pocket guide, ideal for new business owners setting up accounting for the first time.
 

@@ -9,16 +9,16 @@ tags: ["equipment", "financing", "explained"]
 slug: "equipment-financing-explained"
 affiliate_disclosure: true
 faqs:
-  - q: "What credit score do I need to get equipment financing?"
-    a: "Most traditional lenders want a personal credit score of 650 or above, though some online lenders will work with scores in the 600 to 620 range at higher rates. Below 600, your options narrow considerably and you're often looking at specialized bad-credit equipment lenders with rates that can make the financing hard to justify."
-  - q: "Is it better to lease or buy equipment for a small business?"
-    a: "It depends heavily on the equipment type, your cash flow, and how long the equipment stays useful. Buying usually costs less over the long run and builds an asset. Leasing can make sense when equipment goes obsolete quickly or you want to preserve cash and don't want ownership responsibilities. Talk to your CPA before deciding, because the tax treatment differs."
-  - q: "Can a startup get equipment financing?"
-    a: "Yes, though it's harder. Startups with little or no business history will rely almost entirely on the owner's personal credit and sometimes a personal guarantee. Some lenders specialize in startup equipment financing, and SBA microloans can be an option. Expect higher rates and smaller loan amounts until you build a track record."
-  - q: "What happens if I can't make my equipment loan payments?"
-    a: "The lender can repossess the equipment since it's collateral for the loan. If the resale value doesn't cover the remaining balance, you could still owe the difference, and your credit takes the hit. If you see trouble coming, call your lender before you miss a payment. Many will work out a modified payment schedule if you get ahead of it."
-  - q: "Do I need a down payment for equipment financing?"
-    a: "Not always, but often yes. Many lenders ask for 10% to 20% down, especially for larger purchases. Some lenders offer 100% financing, but those deals frequently carry higher rates or require very strong credit. A down payment also reduces your total interest cost over the life of the loan, so if you have the cash available, putting some down usually makes financial sense."
+ - q: "What credit score do I need to get equipment financing?"
+ a: "Most traditional lenders want a personal credit score of 650 or above, though some online lenders will work with scores in the 600 to 620 range at higher rates. Below 600, your options narrow considerably and you're often looking at specialized bad-credit equipment lenders with rates that can make the financing hard to justify."
+ - q: "Is it better to lease or buy equipment for a small business?"
+ a: "It depends heavily on the equipment type, your cash flow, and how long the equipment stays useful. Buying usually costs less over the long run and builds an asset. Leasing can make sense when equipment goes obsolete quickly or you want to preserve cash and don't want ownership responsibilities. Talk to your CPA before deciding, because the tax treatment differs."
+ - q: "Can a startup get equipment financing?"
+ a: "Yes, though it's harder. Startups with little or no business history will rely almost entirely on the owner's personal credit and sometimes a personal guarantee. Some lenders specialize in startup equipment financing, and SBA microloans can be an option. Expect higher rates and smaller loan amounts until you build a track record."
+ - q: "What happens if I can't make my equipment loan payments?"
+ a: "The lender can repossess the equipment since it's collateral for the loan. If the resale value doesn't cover the remaining balance, you could still owe the difference, and your credit takes the hit. If you see trouble coming, call your lender before you miss a payment. Many will work out a modified payment schedule if you get ahead of it."
+ - q: "Do I need a down payment for equipment financing?"
+ a: "Not always, but often yes. Many lenders ask for 10% to 20% down, especially for larger purchases. Some lenders offer 100% financing, but those deals frequently carry higher rates or require very strong credit. A down payment also reduces your total interest cost over the life of the loan, so if you have the cash available, putting some down usually makes financial sense."
 author: "David Kim"
 author_slug: "david-kim"
 author_title: "Tax Strategist"
@@ -31,12 +31,12 @@ Equipment financing sounds straightforward. You need a piece of equipment, you d
 
 
 <div class="value-module">
-  <div class="vm-head">Lease vs Loan: Total Cost Comparison</div>
-  <div class="vm-body">
-    <p class="vm-intro">This example shows how identical monthly payments can produce dramatically different five-year outcomes depending on financing structure.</p>
-    <table><caption>$75,000 Commercial Kitchen Equipment, 60-Month Financing Comparison</caption><thead><tr><th>Factor</th><th>Equipment Loan (8% APR)</th><th>Fair Market Value Lease</th><th>$1 Buyout Lease</th></tr></thead><tbody><tr><td>Monthly payment</td><td>$1,520</td><td>$1,420</td><td>$1,680</td></tr><tr><td>Total payments (60 months)</td><td>$91,200</td><td>$85,200</td><td>$100,800</td></tr><tr><td>End-of-term buyout</td><td>$0 (you own it)</td><td>~$15,000–$22,500 (fair market value)</td><td>$1</td></tr><tr><td>Total cost to own</td><td>$91,200</td><td>$100,200–$107,700</td><td>$100,801</td></tr><tr><td>Ownership timing</td><td>Day one</td><td>Month 61 (if purchased)</td><td>Month 61</td></tr><tr><td>Early payoff option</td><td>Usually yes (check for prepayment penalty)</td><td>Rarely; locked to term</td><td>Rarely; locked to term</td></tr><tr><td>Balance sheet treatment</td><td>Asset + liability from start</td><td>Operating expense (with ASC 842 footnote)</td><td>Finance lease (capitalized)</td></tr><tr><td>Best for</td><td>Equipment with 7+ year useful life you plan to keep</td><td>Technology that becomes obsolete in 3–5 years</td><td>When you want lease tax treatment but eventual ownership</td></tr></tbody></table>
-    <p class="vm-note">Illustrative general information, confirm current figures for your situation.</p>
-  </div>
+ <div class="vm-head">Lease vs Loan: Total Cost Comparison</div>
+ <div class="vm-body">
+ <p class="vm-intro">This example shows how identical monthly payments can produce dramatically different five-year outcomes depending on financing structure.</p>
+ <table><caption>$75,000 Commercial Kitchen Equipment, 60-Month Financing Comparison</caption><thead><tr><th>Factor</th><th>Equipment Loan (8% APR)</th><th>Fair Market Value Lease</th><th>$1 Buyout Lease</th></tr></thead><tbody><tr><td>Monthly payment</td><td>$1,520</td><td>$1,420</td><td>$1,680</td></tr><tr><td>Total payments (60 months)</td><td>$91,200</td><td>$85,200</td><td>$100,800</td></tr><tr><td>End-of-term buyout</td><td>$0 (you own it)</td><td>~$15,000–$22,500 (fair market value)</td><td>$1</td></tr><tr><td>Total cost to own</td><td>$91,200</td><td>$100,200–$107,700</td><td>$100,801</td></tr><tr><td>Ownership timing</td><td>Day one</td><td>Month 61 (if purchased)</td><td>Month 61</td></tr><tr><td>Early payoff option</td><td>Usually yes (check for prepayment penalty)</td><td>Rarely; locked to term</td><td>Rarely; locked to term</td></tr><tr><td>Balance sheet treatment</td><td>Asset + liability from start</td><td>Operating expense (with ASC 842 footnote)</td><td>Finance lease (capitalized)</td></tr><tr><td>Best for</td><td>Equipment with 7+ year useful life you plan to keep</td><td>Technology that becomes obsolete in 3–5 years</td><td>When you want lease tax treatment but eventual ownership</td></tr></tbody></table>
+ <p class="vm-note">Illustrative general information, confirm current figures for your situation.</p>
+ </div>
 </div>
 
 ## What Equipment Financing Actually Is (And Isn't)

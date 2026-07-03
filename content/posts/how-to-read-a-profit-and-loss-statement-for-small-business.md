@@ -9,16 +9,16 @@ tags: ["read", "profit", "loss", "statement", "small"]
 slug: "how-to-read-a-profit-and-loss-statement-for-small-business"
 affiliate_disclosure: true
 faqs:
-  - q: "What's the difference between a P&L and a balance sheet?"
-    a: "The P&L shows your income and expenses over a period of time and tells you whether the business made money. The balance sheet is a snapshot of what you own, what you owe, and what's left over (equity) at a single point in time. Both matter, but they answer completely different questions."
-  - q: "How often should I review my P&L?"
-    a: "Monthly is the right cadence for most small businesses. Quarterly is the minimum. Reviewing it only at tax time is like checking your blood pressure once a year and thinking that tells you your health story."
-  - q: "My P&L shows a profit but I have no cash. What's going on?"
-    a: "This is almost always a timing issue (revenue recognized before cash is collected), a debt repayment issue (loan principal payments reduce cash but not net income), or a capital expenditure issue (you bought equipment that doesn't fully hit the P&L at once due to depreciation). Your cash flow statement will show you exactly where the money went."
-  - q: "What's a good net profit margin for a small business?"
-    a: "The research here is genuinely mixed and industry-specific. A 10% net margin is often cited as a healthy target for service businesses, but retail might run 2-5% and software companies can exceed 20%. The more useful question is whether your margin is improving over time and whether it's in line with your industry peers."
-  - q: "Do I need accounting software to generate a P&L?"
-    a: "You don't strictly need it, but trying to build one manually in a spreadsheet is error-prone and time-consuming. QuickBooks Online starts around $35/month for the Simple Start plan. Wave is free. FreshBooks runs $19-$55/month depending on the tier. Any of these will generate a P&L in a few clicks once your transactions are categorized correctly -- and correct categorization is where a bookkeeper earns their fee."
+ - q: "What's the difference between a P&L and a balance sheet?"
+ a: "The P&L shows your income and expenses over a period of time and tells you whether the business made money. The balance sheet is a snapshot of what you own, what you owe, and what's left over (equity) at a single point in time. Both matter, but they answer completely different questions."
+ - q: "How often should I review my P&L?"
+ a: "Monthly is the right cadence for most small businesses. Quarterly is the minimum. Reviewing it only at tax time is like checking your blood pressure once a year and thinking that tells you your health story."
+ - q: "My P&L shows a profit but I have no cash. What's going on?"
+ a: "This is almost always a timing issue (revenue recognized before cash is collected), a debt repayment issue (loan principal payments reduce cash but not net income), or a capital expenditure issue (you bought equipment that doesn't fully hit the P&L at once due to depreciation). Your cash flow statement will show you exactly where the money went."
+ - q: "What's a good net profit margin for a small business?"
+ a: "The research here is genuinely mixed and industry-specific. A 10% net margin is often cited as a healthy target for service businesses, but retail might run 2-5% and software companies can exceed 20%. The more useful question is whether your margin is improving over time and whether it's in line with your industry peers."
+ - q: "Do I need accounting software to generate a P&L?"
+ a: "You don't strictly need it, but trying to build one manually in a spreadsheet is error-prone and time-consuming. QuickBooks Online starts around $35/month for the Simple Start plan. Wave is free. FreshBooks runs $19-$55/month depending on the tier. Any of these will generate a P&L in a few clicks once your transactions are categorized correctly, and correct categorization is where a bookkeeper earns their fee."
 author: "David Kim"
 author_slug: "david-kim"
 author_title: "Tax Strategist"
@@ -34,12 +34,12 @@ So let's fix that right now.
 ---
 
 <div class="value-module">
-  <div class="vm-head">P&L Line-by-Line Health Check</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use these threshold ranges to spot trouble before it drains cash.</p>
-    <table><caption>Key P&L Ratios &amp; Warning Signs for Small Businesses</caption><thead><tr><th>P&amp;L Line Item</th><th>What to Calculate</th><th>Healthy Range</th><th>Warning Sign</th></tr></thead><tbody><tr><td>Gross Profit</td><td>(Revenue − COGS) ÷ Revenue</td><td>50–70% for services; 30–50% for product businesses</td><td>Dropping 5+ points quarter-over-quarter without explanation</td></tr><tr><td>Labor Costs</td><td>Total payroll ÷ Revenue</td><td>25–35% for most small businesses</td><td>Exceeds 40% while gross margin stays flat</td></tr><tr><td>Rent &amp; Occupancy</td><td>Rent + utilities ÷ Revenue</td><td>5–10% of revenue</td><td>Creeping above 12% signals overextension</td></tr><tr><td>Owner Compensation</td><td>Owner pay ÷ Net Profit (before owner pay)</td><td>Varies, but track separately from profit</td><td>Owner draws exceed net profit for 3+ consecutive months</td></tr><tr><td>Net Profit Margin</td><td>Net Income ÷ Revenue</td><td>10–20% for healthy small businesses</td><td>Below 5% with no reinvestment plan</td></tr><tr><td>Revenue Trend</td><td>Compare same period prior year</td><td>Flat or growing</td><td>Declining 10%+ year-over-year without seasonal cause</td></tr></tbody></table>
-    <p class="vm-note">Illustrative general information, confirm current figures for your situation.</p>
-  </div>
+ <div class="vm-head">P&L Line-by-Line Health Check</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use these threshold ranges to spot trouble before it drains cash.</p>
+ <table><caption>Key P&L Ratios &amp; Warning Signs for Small Businesses</caption><thead><tr><th>P&amp;L Line Item</th><th>What to Calculate</th><th>Healthy Range</th><th>Warning Sign</th></tr></thead><tbody><tr><td>Gross Profit</td><td>(Revenue − COGS) ÷ Revenue</td><td>50–70% for services; 30–50% for product businesses</td><td>Dropping 5+ points quarter-over-quarter without explanation</td></tr><tr><td>Labor Costs</td><td>Total payroll ÷ Revenue</td><td>25–35% for most small businesses</td><td>Exceeds 40% while gross margin stays flat</td></tr><tr><td>Rent &amp; Occupancy</td><td>Rent + utilities ÷ Revenue</td><td>5–10% of revenue</td><td>Creeping above 12% signals overextension</td></tr><tr><td>Owner Compensation</td><td>Owner pay ÷ Net Profit (before owner pay)</td><td>Varies, but track separately from profit</td><td>Owner draws exceed net profit for 3+ consecutive months</td></tr><tr><td>Net Profit Margin</td><td>Net Income ÷ Revenue</td><td>10–20% for healthy small businesses</td><td>Below 5% with no reinvestment plan</td></tr><tr><td>Revenue Trend</td><td>Compare same period prior year</td><td>Flat or growing</td><td>Declining 10%+ year-over-year without seasonal cause</td></tr></tbody></table>
+ <p class="vm-note">Illustrative general information, confirm current figures for your situation.</p>
+ </div>
 </div>
 
 ## What a P&L Actually Is (and What It Isn't)

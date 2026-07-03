@@ -11,20 +11,18 @@ author_slug: "amanda-pierce"
 author_title: "Operations Finance Writer"
 author_bio: "Amanda Pierce has run her own small business and knows the difference between profitability on paper and actually having money in the bank. She specializes in the operational side of business finances: invoicing systems, cash flow forecasting, dealing with slow-paying clients, and managing the day-to-day money reality of running a small business. At Small Biz Finance Guide, she covers cash flow tools, payment systems, and operational finance."
 slug: "how-the-one-big-beautiful-bill-changes-your-2026-llc-tax-strategy"
-affiliate_disclosure: true
----
-Most coverage of the One Big Beautiful Bill Act treated it like a Washington story. It's not. It's a cash-flow story, and if you run an LLC or S-corp, the decisions you make in the next few months will determine how much of that cash you actually keep.
+affiliate_disclosure: true, Most coverage of the One Big Beautiful Bill Act treated it like a Washington story. It's not. It's a cash-flow story, and if you run an LLC or S-corp, the decisions you make in the next few months will determine how much of that cash you actually keep.
 
 The bill was signed on July 4, 2025. Several of its most consequential provisions either activated on January 1, 2026 or carry a hard deadline of July 4, 2026. That makes right now the live window. Not next tax season. Now.
 
 
 <div class="value-module">
-  <div class="vm-head">QBI vs Bonus Depreciation: Decision Matrix</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use this matrix to determine which OBBBA provision delivers more immediate value based on your LLC's current situation.</p>
-    <table><caption>Strategic Priority Matrix: QBI Deduction vs 100% Bonus Depreciation</caption><thead><tr><th>Business Situation</th><th>QBI Priority</th><th>Bonus Depreciation Priority</th><th>Recommended First Action</th></tr></thead><tbody><tr><td>Service business (consulting, law, accounting) with income approaching phase-out thresholds</td><td>High</td><td>Low-Medium</td><td>Model W-2 vs distribution split to maximize QBI before threshold</td></tr><tr><td>Product or equipment-based business planning capital purchases</td><td>Medium</td><td>High</td><td>Accelerate equipment purchases into 2026 while 100% depreciation applies</td></tr><tr><td>New LLC considering S-corp election</td><td>High</td><td>Medium</td><td>File Form 2553 by March 15 (new entities) or within 75 days of election decision</td></tr><tr><td>Real estate LLC with cost segregation opportunity</td><td>Low (rental often excluded)</td><td>High</td><td>Commission cost segregation study to identify eligible components</td></tr><tr><td>High-income specified service trade or business (SSTB)</td><td>Low (phased out)</td><td>High</td><td>Shift tax strategy toward depreciation and retirement contributions</td></tr><tr><td>Stable income below $182,100 single / $364,200 joint (illustrative thresholds)</td><td>High</td><td>Situational</td><td>Ensure reasonable compensation documented; QBI calculates automatically</td></tr></tbody></table>
-    <p class="vm-note">Illustrative general information, confirm current figures for your situation.</p>
-  </div>
+ <div class="vm-head">QBI vs Bonus Depreciation: Decision Matrix</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use this matrix to determine which OBBBA provision delivers more immediate value based on your LLC's current situation.</p>
+ <table><caption>Strategic Priority Matrix: QBI Deduction vs 100% Bonus Depreciation</caption><thead><tr><th>Business Situation</th><th>QBI Priority</th><th>Bonus Depreciation Priority</th><th>Recommended First Action</th></tr></thead><tbody><tr><td>Service business (consulting, law, accounting) with income approaching phase-out thresholds</td><td>High</td><td>Low-Medium</td><td>Model W-2 vs distribution split to maximize QBI before threshold</td></tr><tr><td>Product or equipment-based business planning capital purchases</td><td>Medium</td><td>High</td><td>Accelerate equipment purchases into 2026 while 100% depreciation applies</td></tr><tr><td>New LLC considering S-corp election</td><td>High</td><td>Medium</td><td>File Form 2553 by March 15 (new entities) or within 75 days of election decision</td></tr><tr><td>Real estate LLC with cost segregation opportunity</td><td>Low (rental often excluded)</td><td>High</td><td>Commission cost segregation study to identify eligible components</td></tr><tr><td>High-income specified service trade or business (SSTB)</td><td>Low (phased out)</td><td>High</td><td>Shift tax strategy toward depreciation and retirement contributions</td></tr><tr><td>Stable income below $182,100 single / $364,200 joint (illustrative thresholds)</td><td>High</td><td>Situational</td><td>Ensure reasonable compensation documented; QBI calculates automatically</td></tr></tbody></table>
+ <p class="vm-note">Illustrative general information, confirm current figures for your situation.</p>
+ </div>
 </div>
 
 ## The QBI Deduction Is Permanent. Stop Planning Around Its Death.
@@ -85,12 +83,12 @@ The businesses ending 2026 with the best financials and lowest tax bills will be
 
 ## Sources
 
-- [SBA – Working Families Tax Cuts](https://www.sba.gov/working-families-tax-cuts) (published 2026-04-09)
-- [Carr, Riggs & Ingram – OBBBA Small Business Deductions 2026](https://www.criadv.com/insight/obbba-small-business-tax-relief-2026/) (published 2026-05-06)
-- [Westwood Group – One Big Beautiful Bill Act and the Small Business Owner](https://westwoodgroup.com/weeklyfp/one-big-beautiful-bill-act-and-the-small-business-owner/) (published 2025-10-30)
-- [Entrepreneur – How Your Small Business Can Save More Through the OBBBA](https://www.entrepreneur.com/money-finance/how-your-small-business-can-save-more-money-through-the-one/499600) (published 2025-12-24)
-- [IRS – One Big Beautiful Bill Business Tax Provisions Webinar](https://www.irs.gov/node/157871) (published 2026-03-23)
-- [NFIB – The OBBBA Is a Big Beautiful Win for Small Business](https://www.nfib.com/news/press-release/the-one-big-beautiful-bill-act-is-a-big-beautiful-win-for-small-business/) (published 2025-06-06)
+- [SBA, Working Families Tax Cuts](https://www.sba.gov/working-families-tax-cuts) (published 2026-04-09)
+- [Carr, Riggs & Ingram, OBBBA Small Business Deductions 2026](https://www.criadv.com/insight/obbba-small-business-tax-relief-2026/) (published 2026-05-06)
+- [Westwood Group, One Big Beautiful Bill Act and the Small Business Owner](https://westwoodgroup.com/weeklyfp/one-big-beautiful-bill-act-and-the-small-business-owner/) (published 2025-10-30)
+- [Entrepreneur, How Your Small Business Can Save More Through the OBBBA](https://www.entrepreneur.com/money-finance/how-your-small-business-can-save-more-money-through-the-one/499600) (published 2025-12-24)
+- [IRS, One Big Beautiful Bill Business Tax Provisions Webinar](https://www.irs.gov/node/157871) (published 2026-03-23)
+- [NFIB, The OBBBA Is a Big Beautiful Win for Small Business](https://www.nfib.com/news/press-release/the-one-big-beautiful-bill-act-is-a-big-beautiful-win-for-small-business/) (published 2025-06-06)
 
 ## Helpful Resources
 

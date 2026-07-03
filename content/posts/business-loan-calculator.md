@@ -10,14 +10,14 @@ slug: "business-loan-calculator"
 author: "James Okafor"
 affiliate_disclosure: true
 faqs:
-  - q: "How is a business loan monthly payment calculated?"
-    a: "The standard formula is: Payment = P × r / (1 − (1 + r)^−n), where P is the principal, r is the monthly interest rate (annual rate ÷ 12), and n is the number of monthly payments."
-  - q: "What is a factor rate and how does it differ from APR?"
-    a: "A factor rate is a simple multiplier used by merchant cash advance (MCA) lenders. A factor of 1.35 means you repay $1.35 for every $1 borrowed. Unlike APR, it does not account for the time value of money, short repayment terms make factor rates far more expensive than they first appear."
-  - q: "What DSCR do lenders look for on a business loan?"
-    a: "Most traditional lenders require a debt service coverage ratio (DSCR) of at least 1.25x, meaning your monthly revenue covers your loan payment 1.25 times over. A ratio below 1.0x means the business cannot service the debt from current revenue."
-  - q: "Is a 7-year or 10-year term better for a business loan?"
-    a: "Longer terms lower your monthly payment but significantly increase total interest paid. A 10-year term on a $100,000 loan at 8% costs roughly $45,600 in interest vs. about $20,000 on a 5-year term. Choose based on cash flow needs versus total cost."
+ - q: "How is a business loan monthly payment calculated?"
+ a: "The standard formula is: Payment = P × r / (1 − (1 + r)^−n), where P is the principal, r is the monthly interest rate (annual rate ÷ 12), and n is the number of monthly payments."
+ - q: "What is a factor rate and how does it differ from APR?"
+ a: "A factor rate is a simple multiplier used by merchant cash advance (MCA) lenders. A factor of 1.35 means you repay $1.35 for every $1 borrowed. Unlike APR, it does not account for the time value of money, short repayment terms make factor rates far more expensive than they first appear."
+ - q: "What DSCR do lenders look for on a business loan?"
+ a: "Most traditional lenders require a debt service coverage ratio (DSCR) of at least 1.25x, meaning your monthly revenue covers your loan payment 1.25 times over. A ratio below 1.0x means the business cannot service the debt from current revenue."
+ - q: "Is a 7-year or 10-year term better for a business loan?"
+ a: "Longer terms lower your monthly payment but significantly increase total interest paid. A 10-year term on a $100,000 loan at 8% costs roughly $45,600 in interest vs. about $20,000 on a 5-year term. Choose based on cash flow needs versus total cost."
 ---
 Understanding the true cost of a business loan before you sign is one of the most important steps any entrepreneur can take. Whether you are considering an SBA 7(a) loan, a bank term loan, or a merchant cash advance, knowing your monthly payment, total interest burden, and payoff timeline lets you compare offers on a level playing field and negotiate from a position of knowledge.
 

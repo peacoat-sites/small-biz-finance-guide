@@ -11,10 +11,7 @@ author_slug: "michael-torres"
 author_title: "Business Loan Writer"
 author_bio: "Michael Torres spent years as a small business banker before moving to the borrower side as a loan consultant. He knows the SBA loan process inside and out, including the parts of the application that most business owners get wrong. At Small Biz Finance Guide, he covers SBA loans, lines of credit, equipment financing, and how to present your business to a lender in the best possible light."
 slug: "how-to-stack-bonus-depreciation-and-section-179-under-the-obbba"
-affiliate_disclosure: true
----
-
-Most small business owners heard the headline: the One Big Beautiful Bill Act brought back 100% bonus depreciation. What they didn't hear was the fine print that could make a real difference in how much of that benefit they actually keep. I've been digging into the details since the IRS dropped Notice 2026-11 in January, and I'll be honest, the strategy here is more nuanced than the press coverage suggests.
+affiliate_disclosure: true, Most small business owners heard the headline: the One Big Beautiful Bill Act brought back 100% bonus depreciation. What they didn't hear was the fine print that could make a real difference in how much of that benefit they actually keep. I've been digging into the details since the IRS dropped Notice 2026-11 in January, and I'll be honest, the strategy here is more nuanced than the press coverage suggests.
 
 Let me back up for context. Before the OBBBA was signed on July 4, 2025, bonus depreciation was in a painful phase-down triggered by the Tax Cuts and Jobs Act. By 2024, the rate had already fallen to 60%. It was scheduled to drop further and disappear entirely by 2027. The OBBBA reversed all of that permanently, restoring 100% bonus depreciation for qualified property acquired after January 19, 2025. At the same time, the law doubled the Section 179 expensing limit to $2.56 million for 2026, up from $1.22 million in 2024, with a phase-out threshold of $4.09 million. Both figures are now inflation-adjusted annually going forward.
 
@@ -74,12 +71,12 @@ The honest bottom line is this: the OBBBA genuinely expanded what small business
 
 ## Sources
 
-- [OBBBA Section 179 and Bonus Depreciation Updates – Landmark CPAs](https://www.landmarkcpas.com/obbba-section-179-and-bonus-depreciation/) (April 6, 2026)
-- [OBBBA in 2026: Key Business Tax Planning Considerations – Doeren Mayhew](https://www.doeren.com/viewpoint/obbba-in-2026-key-business-tax-planning-considerations) (April 2, 2026)
-- [Restored 100% Bonus Depreciation: IRS Interim Guidance – RSM US](https://rsmus.com/insights/tax-alerts/2026/restored-bonus-depreciation-irs-interim-guidance-obbba-rules.html) (January 28, 2026)
-- [Bonus Depreciation Strategy for 2026 and Beyond – Bloomberg Tax](https://pro.bloombergtax.com/insights/fixed-assets/bonus-depreciation-strategy-for-2026-and-beyond/) (March 26, 2026)
-- [How Bonus Depreciation Works in 2026 Under the OBBBA – Instead](https://www.instead.com/resources/blog/how-bonus-depreciation-works-in-2026-under-the-obbba) (April 26, 2026)
-- [OBBBA Essential Guide for Small Business Owners – Bradley Arant](https://www.bradley.com/insights/publications/2025/10/one-big-beautiful-bill-act-obbba-essential-guide-for-small-business-owners) (October 6, 2025)
+- [OBBBA Section 179 and Bonus Depreciation Updates, Landmark CPAs](https://www.landmarkcpas.com/obbba-section-179-and-bonus-depreciation/) (April 6, 2026)
+- [OBBBA in 2026: Key Business Tax Planning Considerations, Doeren Mayhew](https://www.doeren.com/viewpoint/obbba-in-2026-key-business-tax-planning-considerations) (April 2, 2026)
+- [Restored 100% Bonus Depreciation: IRS Interim Guidance, RSM US](https://rsmus.com/insights/tax-alerts/2026/restored-bonus-depreciation-irs-interim-guidance-obbba-rules.html) (January 28, 2026)
+- [Bonus Depreciation Strategy for 2026 and Beyond, Bloomberg Tax](https://pro.bloombergtax.com/insights/fixed-assets/bonus-depreciation-strategy-for-2026-and-beyond/) (March 26, 2026)
+- [How Bonus Depreciation Works in 2026 Under the OBBBA, Instead](https://www.instead.com/resources/blog/how-bonus-depreciation-works-in-2026-under-the-obbba) (April 26, 2026)
+- [OBBBA Essential Guide for Small Business Owners, Bradley Arant](https://www.bradley.com/insights/publications/2025/10/one-big-beautiful-bill-act-obbba-essential-guide-for-small-business-owners) (October 6, 2025)
 
 ## Helpful Resources
 

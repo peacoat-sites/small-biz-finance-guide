@@ -10,14 +10,14 @@ slug: "break-even-calculator"
 author: "James Okafor"
 affiliate_disclosure: true
 faqs:
-  - q: "What is a break-even point in business?"
-    a: "The break-even point is the level of sales at which total revenue equals total costs, fixed plus variable, and the business neither makes a profit nor a loss. Selling above the break-even point generates profit; selling below it means a loss."
-  - q: "What is contribution margin?"
-    a: "Contribution margin is the selling price minus variable costs per unit. It represents the amount each unit sold 'contributes' toward covering fixed costs. Once fixed costs are covered, each additional unit contributes directly to profit."
-  - q: "How is self-employment tax calculated?"
-    a: "SE tax is 15.3% (12.4% Social Security + 2.9% Medicare) applied to 92.35% of your net self-employment income. The 92.35% factor accounts for the employer-equivalent half that is deductible. You can then deduct half of the total SE tax from your gross income."
-  - q: "How much should I set aside for self-employment taxes?"
-    a: "A conservative rule of thumb is to set aside 25–30% of net profit to cover both SE tax (roughly 14.1% effective rate) and federal income tax. If your income is higher and you are in the 22% or 24% bracket, consider 30–35%."
+ - q: "What is a break-even point in business?"
+ a: "The break-even point is the level of sales at which total revenue equals total costs, fixed plus variable, and the business neither makes a profit nor a loss. Selling above the break-even point generates profit; selling below it means a loss."
+ - q: "What is contribution margin?"
+ a: "Contribution margin is the selling price minus variable costs per unit. It represents the amount each unit sold 'contributes' toward covering fixed costs. Once fixed costs are covered, each additional unit contributes directly to profit."
+ - q: "How is self-employment tax calculated?"
+ a: "SE tax is 15.3% (12.4% Social Security + 2.9% Medicare) applied to 92.35% of your net self-employment income. The 92.35% factor accounts for the employer-equivalent half that is deductible. You can then deduct half of the total SE tax from your gross income."
+ - q: "How much should I set aside for self-employment taxes?"
+ a: "A conservative rule of thumb is to set aside 25–30% of net profit to cover both SE tax (roughly 14.1% effective rate) and federal income tax. If your income is higher and you are in the 22% or 24% bracket, consider 30–35%."
 ---
 Two questions haunt every freelancer and small business owner come tax time: *How much do I need to sell to break even?* and *How much will I actually owe in self-employment taxes?* They're not optional questions. They're the foundation of every pricing decision and every quarterly payment, and getting them wrong creates real financial pain in April.
 

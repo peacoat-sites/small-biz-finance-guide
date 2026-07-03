@@ -13,16 +13,16 @@ author_bio: "Michael Torres spent years as a small business banker before moving
 slug: "commercial-mortgage-for-business"
 affiliate_disclosure: true
 faqs:
-  - q: "What credit score do I need for a commercial mortgage?"
-    a: "Most conventional commercial lenders want to see a personal credit score of 680 or above, though some require 700+. SBA 504 programs are somewhat flexible but generally look for 680 minimum. Below that, you're looking at higher rates, larger down payments, or alternative lenders. Consult a CPA or commercial mortgage broker to understand how your specific profile looks to lenders."
-  - q: "Can I use a commercial mortgage to buy a mixed-use building?"
-    a: "Yes, and it's fairly common. Mixed-use properties (retail on the ground floor, residential units above, for example) are generally financeable with conventional commercial loans or SBA products, but the underwriting is more complex. Lenders will assess both the commercial and residential income streams separately. The owner-occupancy requirement for SBA 504 still applies to the commercial portion."
-  - q: "Are commercial mortgage interest rates fixed or variable?"
-    a: "Both exist. Conventional commercial loans often have a fixed rate for the initial term (5 or 10 years) and then reset, which is different from being truly fixed for the life of the loan. SBA 504 loans offer a fixed rate on the CDC portion for the full term (10 or 25 years), which is one of the reasons they're popular. Always read the fine print on rate adjustment terms, caps, and prepayment penalties."
-  - q: "What is a prepayment penalty on a commercial mortgage?"
-    a: "It's a fee you pay if you pay off the loan early, whether by refinancing or selling the property. Commercial prepayment penalties can be steep. Common structures include a 'step-down' penalty (5% in year one, 4% in year two, etc.) or 'defeasance,' which essentially requires you to substitute Treasury securities for the loan cash flow. Defeasance can cost tens of thousands of dollars and catches people off guard. Know this before you sign."
-  - q: "Do I need a separate LLC or entity to get a commercial mortgage?"
-    a: "Not strictly required, but most attorneys and accountants will recommend buying commercial property in an LLC or other entity for liability protection. Lenders are generally comfortable lending to LLCs as long as the principal owners provide personal guarantees. This is worth a direct conversation with a CPA and a real estate attorney before you structure the purchase, because it affects your tax treatment and personal liability exposure."
+ - q: "What credit score do I need for a commercial mortgage?"
+ a: "Most conventional commercial lenders want to see a personal credit score of 680 or above, though some require 700+. SBA 504 programs are somewhat flexible but generally look for 680 minimum. Below that, you're looking at higher rates, larger down payments, or alternative lenders. Consult a CPA or commercial mortgage broker to understand how your specific profile looks to lenders."
+ - q: "Can I use a commercial mortgage to buy a mixed-use building?"
+ a: "Yes, and it's fairly common. Mixed-use properties (retail on the ground floor, residential units above, for example) are generally financeable with conventional commercial loans or SBA products, but the underwriting is more complex. Lenders will assess both the commercial and residential income streams separately. The owner-occupancy requirement for SBA 504 still applies to the commercial portion."
+ - q: "Are commercial mortgage interest rates fixed or variable?"
+ a: "Both exist. Conventional commercial loans often have a fixed rate for the initial term (5 or 10 years) and then reset, which is different from being truly fixed for the life of the loan. SBA 504 loans offer a fixed rate on the CDC portion for the full term (10 or 25 years), which is one of the reasons they're popular. Always read the fine print on rate adjustment terms, caps, and prepayment penalties."
+ - q: "What is a prepayment penalty on a commercial mortgage?"
+ a: "It's a fee you pay if you pay off the loan early, whether by refinancing or selling the property. Commercial prepayment penalties can be steep. Common structures include a 'step-down' penalty (5% in year one, 4% in year two, etc.) or 'defeasance,' which essentially requires you to substitute Treasury securities for the loan cash flow. Defeasance can cost tens of thousands of dollars and catches people off guard. Know this before you sign."
+ - q: "Do I need a separate LLC or entity to get a commercial mortgage?"
+ a: "Not strictly required, but most attorneys and accountants will recommend buying commercial property in an LLC or other entity for liability protection. Lenders are generally comfortable lending to LLCs as long as the principal owners provide personal guarantees. This is worth a direct conversation with a CPA and a real estate attorney before you structure the purchase, because it affects your tax treatment and personal liability exposure."
 ---
 
 Most business owners I talk to assume a commercial mortgage works roughly like a residential one. Same basic idea, right? You find a property, you apply for a loan, you make monthly payments. That assumption has cost people I know real money, in wasted time, wrong loan structures, and deals that fell apart at the last minute because nobody explained the rules upfront.
@@ -154,6 +154,6 @@ If you're walking into this process cold, the single most valuable thing you can
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

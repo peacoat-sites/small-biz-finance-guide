@@ -13,16 +13,16 @@ author_bio: "Sarah Johnson is a CPA who has worked exclusively with small busine
 slug: "hsa-for-self-employed"
 affiliate_disclosure: true
 faqs:
-  - q: "Can I deduct HSA contributions if I'm self-employed without an LLC?"
-    a: "Yes. Your business structure doesn't affect HSA eligibility or deductibility. Sole proprietors, single-member LLCs, partnerships, and S-corp shareholders all qualify, assuming they have an HDHP and meet the other IRS requirements. The deduction goes on your personal return regardless."
-  - q: "Can I use my HSA for my spouse's medical expenses?"
-    a: "Yes, as long as your spouse isn't covered by a non-HDHP plan of their own. If your spouse has separate employer coverage that isn't an HDHP, that doesn't disqualify you from having an HSA, but you can't use HSA funds for expenses covered by their plan."
-  - q: "What happens to my HSA if I switch from an HDHP to a regular health plan?"
-    a: "The money already in your HSA is yours permanently. You just can't make new contributions once you're no longer on an HDHP. The existing balance can still be used for qualified medical expenses tax-free. A lot of people unnecessarily drain their accounts when they switch plans; don't."
-  - q: "Is there a penalty for using HSA funds for non-medical expenses?"
-    a: "Before age 65, yes: you owe income tax plus a 20% penalty on non-qualified withdrawals. After 65, the penalty disappears and you just pay ordinary income tax, same as a traditional IRA distribution. The 20% penalty is steep enough that you shouldn't treat your HSA as an emergency fund."
-  - q: "Should I max out my HSA before contributing to a SEP-IRA or Solo 401(k)?"
-    a: "Generally, max the HSA first. The contribution limits are lower, the triple-tax advantage is unique, and the break-even math favors the HSA for most people. Then layer in your retirement account on top. That said, if your cash flow is tight and you're choosing between the two, run the numbers with your CPA before deciding, because the right answer depends on your income level, state tax situation, and whether you can cash-flow your medical expenses."
+ - q: "Can I deduct HSA contributions if I'm self-employed without an LLC?"
+ a: "Yes. Your business structure doesn't affect HSA eligibility or deductibility. Sole proprietors, single-member LLCs, partnerships, and S-corp shareholders all qualify, assuming they have an HDHP and meet the other IRS requirements. The deduction goes on your personal return regardless."
+ - q: "Can I use my HSA for my spouse's medical expenses?"
+ a: "Yes, as long as your spouse isn't covered by a non-HDHP plan of their own. If your spouse has separate employer coverage that isn't an HDHP, that doesn't disqualify you from having an HSA, but you can't use HSA funds for expenses covered by their plan."
+ - q: "What happens to my HSA if I switch from an HDHP to a regular health plan?"
+ a: "The money already in your HSA is yours permanently. You just can't make new contributions once you're no longer on an HDHP. The existing balance can still be used for qualified medical expenses tax-free. A lot of people unnecessarily drain their accounts when they switch plans; don't."
+ - q: "Is there a penalty for using HSA funds for non-medical expenses?"
+ a: "Before age 65, yes: you owe income tax plus a 20% penalty on non-qualified withdrawals. After 65, the penalty disappears and you just pay ordinary income tax, same as a traditional IRA distribution. The 20% penalty is steep enough that you shouldn't treat your HSA as an emergency fund."
+ - q: "Should I max out my HSA before contributing to a SEP-IRA or Solo 401(k)?"
+ a: "Generally, max the HSA first. The contribution limits are lower, the triple-tax advantage is unique, and the break-even math favors the HSA for most people. Then layer in your retirement account on top. That said, if your cash flow is tight and you're choosing between the two, run the numbers with your CPA before deciding, because the right answer depends on your income level, state tax situation, and whether you can cash-flow your medical expenses."
 ---
 
 Most articles about HSAs for self-employed people spend three paragraphs explaining what an HSA is and then tell you to "consult a tax professional." You already know what an HSA is. What you need to know is whether it actually pencils out for someone without an employer footing half the premium, how to set one up without a $400 accountant call, and where people quietly leave money on the table year after year.

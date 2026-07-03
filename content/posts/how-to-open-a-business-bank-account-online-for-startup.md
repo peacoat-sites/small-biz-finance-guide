@@ -9,16 +9,16 @@ tags: ["open", "business", "bank", "account", "online"]
 slug: "how-to-open-a-business-bank-account-online-for-startup"
 affiliate_disclosure: true
 faqs:
-  - q: "Can I open a business bank account online before my LLC is officially approved?"
-    a: "Some banks allow it, but most won't finalize the account until you can provide your stamped Articles of Organization and your EIN. You can start the application, but expect a hold until the paperwork is confirmed. If timing is tight, check with the bank directly before applying."
-  - q: "Do I need an EIN to open a business bank account?"
-    a: "Sole proprietors operating under their own name can sometimes use their SSN instead, but almost every bank will ask for an EIN for LLCs and corporations. Get the EIN first. It's free, takes about five minutes at IRS.gov, and you'll need it eventually anyway."
-  - q: "What's the best online bank for a brand-new startup with no revenue yet?"
-    a: "Honestly, Mercury is where I'd start for most early-stage companies. No monthly fees, no minimum balance, clean interface, and it integrates well with tools like QuickBooks and Stripe. Relay is the better pick if you want to implement a profit-first or envelope-style cash management system from the start."
-  - q: "Will opening a business bank account affect my personal credit?"
-    a: "No. Opening a business deposit account doesn't trigger a hard pull on your personal credit. Business credit cards and loans are a different story, but a checking account application is not."
-  - q: "How long does it take to get a business bank account open and usable online?"
-    a: "With a fully formed LLC and all documents ready, Mercury and Novo typically approve accounts within one to three business days. Some applicants get same-day approval. The account number and routing number are usually available immediately after approval, even before your debit card arrives."
+ - q: "Can I open a business bank account online before my LLC is officially approved?"
+ a: "Some banks allow it, but most won't finalize the account until you can provide your stamped Articles of Organization and your EIN. You can start the application, but expect a hold until the paperwork is confirmed. If timing is tight, check with the bank directly before applying."
+ - q: "Do I need an EIN to open a business bank account?"
+ a: "Sole proprietors operating under their own name can sometimes use their SSN instead, but almost every bank will ask for an EIN for LLCs and corporations. Get the EIN first. It's free, takes about five minutes at IRS.gov, and you'll need it eventually anyway."
+ - q: "What's the best online bank for a brand-new startup with no revenue yet?"
+ a: "Honestly, Mercury is where I'd start for most early-stage companies. No monthly fees, no minimum balance, clean interface, and it integrates well with tools like QuickBooks and Stripe. Relay is the better pick if you want to implement a profit-first or envelope-style cash management system from the start."
+ - q: "Will opening a business bank account affect my personal credit?"
+ a: "No. Opening a business deposit account doesn't trigger a hard pull on your personal credit. Business credit cards and loans are a different story, but a checking account application is not."
+ - q: "How long does it take to get a business bank account open and usable online?"
+ a: "With a fully formed LLC and all documents ready, Mercury and Novo typically approve accounts within one to three business days. Some applicants get same-day approval. The account number and routing number are usually available immediately after approval, even before your debit card arrives."
 author: "Rachel Green"
 author_slug: "rachel-green"
 author_title: "CFO Consultant"
@@ -29,12 +29,12 @@ Most articles about opening a business bank account spend 800 words telling you 
 
 
 <div class="value-module">
-  <div class="vm-head">Online Business Bank Account Comparison Matrix</div>
-  <div class="vm-body">
-    <p class="vm-intro">This decision matrix compares the major online-first business banks across criteria that actually matter for startups in their first two years.</p>
-    <table><thead><tr><th>Bank</th><th>Monthly Fee</th><th>APY on Balances</th><th>Sub-Accounts</th><th>Approval Speed</th><th>Best For</th><th>Key Limitation</th></tr></thead><tbody><tr><td>Mercury</td><td>$0</td><td>None on basic</td><td>Unlimited</td><td>1–3 business days</td><td>Tech/product startups planning to raise capital</td><td>No cash deposits; limited integrations with traditional accounting</td></tr><tr><td>Relay</td><td>$0</td><td>None</td><td>Up to 20</td><td>1–2 business days</td><td>Service businesses using profit-first or envelope budgeting</td><td>No interest earnings; no physical branch access</td></tr><tr><td>Bluevine</td><td>$0</td><td>Up to 2%+ (variable; check current rates)</td><td>1 primary</td><td>1–2 business days</td><td>Businesses holding $20K+ in operating reserves</td><td>Fewer sub-accounts; interest tiers require minimum balances</td></tr><tr><td>Novo</td><td>$0</td><td>None</td><td>Reserve buckets</td><td>1–3 business days</td><td>Freelancers and microbusinesses wanting app integrations</td><td>Slower customer support response times reported</td></tr><tr><td>Chase Business Complete</td><td>$15 (waivable)</td><td>None</td><td>1 primary</td><td>Same day (branch) or 3–5 days online</td><td>Businesses planning SBA loans or needing cash deposit access</td><td>Fee requires $2K minimum balance to waive; fewer startup-friendly features</td></tr></tbody></table>
-    <p class="vm-note">Illustrative general information, confirm current figures for your situation.</p>
-  </div>
+ <div class="vm-head">Online Business Bank Account Comparison Matrix</div>
+ <div class="vm-body">
+ <p class="vm-intro">This decision matrix compares the major online-first business banks across criteria that actually matter for startups in their first two years.</p>
+ <table><thead><tr><th>Bank</th><th>Monthly Fee</th><th>APY on Balances</th><th>Sub-Accounts</th><th>Approval Speed</th><th>Best For</th><th>Key Limitation</th></tr></thead><tbody><tr><td>Mercury</td><td>$0</td><td>None on basic</td><td>Unlimited</td><td>1–3 business days</td><td>Tech/product startups planning to raise capital</td><td>No cash deposits; limited integrations with traditional accounting</td></tr><tr><td>Relay</td><td>$0</td><td>None</td><td>Up to 20</td><td>1–2 business days</td><td>Service businesses using profit-first or envelope budgeting</td><td>No interest earnings; no physical branch access</td></tr><tr><td>Bluevine</td><td>$0</td><td>Up to 2%+ (variable; check current rates)</td><td>1 primary</td><td>1–2 business days</td><td>Businesses holding $20K+ in operating reserves</td><td>Fewer sub-accounts; interest tiers require minimum balances</td></tr><tr><td>Novo</td><td>$0</td><td>None</td><td>Reserve buckets</td><td>1–3 business days</td><td>Freelancers and microbusinesses wanting app integrations</td><td>Slower customer support response times reported</td></tr><tr><td>Chase Business Complete</td><td>$15 (waivable)</td><td>None</td><td>1 primary</td><td>Same day (branch) or 3–5 days online</td><td>Businesses planning SBA loans or needing cash deposit access</td><td>Fee requires $2K minimum balance to waive; fewer startup-friendly features</td></tr></tbody></table>
+ <p class="vm-note">Illustrative general information, confirm current figures for your situation.</p>
+ </div>
 </div>
 
 ## Why the Bank You Pick at Month One Usually Stays

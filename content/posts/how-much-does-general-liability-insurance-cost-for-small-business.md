@@ -9,16 +9,16 @@ tags: ["much", "does", "general", "liability", "insurance"]
 slug: "how-much-does-general-liability-insurance-cost-for-small-business"
 affiliate_disclosure: true
 faqs:
-  - q: "Does general liability insurance cost the same for a sole proprietor as for an LLC?"
-    a: "Not always, but the business structure isn't usually the primary pricing factor. Your industry, revenue, and location matter more than whether you're a sole prop or LLC. That said, some carriers do adjust slightly based on entity type, so it's worth being accurate on your application."
-  - q: "Can I get general liability insurance with no upfront cost or monthly billing?"
-    a: "Most carriers offer monthly payment plans, though some add a small installment fee (often $5 to $15 per payment). Annual pay-in-full typically saves you the most over a year. A few carriers like Thimble also offer short-term or pay-per-project policies, which can make sense for very sporadic work."
-  - q: "Will my premium go up if I file a claim?"
-    a: "Almost certainly yes, at least at renewal. A single claim can increase your premium meaningfully and, in some cases, trigger non-renewal from your carrier. It's one reason some business owners with small claims (under $3,000 or so) choose to handle them out of pocket rather than involve the insurer, though you should talk to a professional before making that call in your specific situation."
-  - q: "Is general liability insurance tax-deductible for small businesses?"
-    a: "Generally yes, business insurance premiums are deductible as an ordinary business expense. But deductibility depends on how your business is structured and how the premium is allocated, so confirm with your CPA rather than treating any article (including this one) as tax advice."
-  - q: "How much general liability insurance do I actually need?"
-    a: "The standard $1M per occurrence / $2M aggregate is the starting point and sufficient for most small businesses. But if you work with larger corporate clients, they may require $2M per occurrence in your contract. Check your client contracts and commercial lease before settling on limits, not after."
+ - q: "Does general liability insurance cost the same for a sole proprietor as for an LLC?"
+ a: "Not always, but the business structure isn't usually the primary pricing factor. Your industry, revenue, and location matter more than whether you're a sole prop or LLC. That said, some carriers do adjust slightly based on entity type, so it's worth being accurate on your application."
+ - q: "Can I get general liability insurance with no upfront cost or monthly billing?"
+ a: "Most carriers offer monthly payment plans, though some add a small installment fee (often $5 to $15 per payment). Annual pay-in-full typically saves you the most over a year. A few carriers like Thimble also offer short-term or pay-per-project policies, which can make sense for very sporadic work."
+ - q: "Will my premium go up if I file a claim?"
+ a: "Almost certainly yes, at least at renewal. A single claim can increase your premium meaningfully and, in some cases, trigger non-renewal from your carrier. It's one reason some business owners with small claims (under $3,000 or so) choose to handle them out of pocket rather than involve the insurer, though you should talk to a professional before making that call in your specific situation."
+ - q: "Is general liability insurance tax-deductible for small businesses?"
+ a: "Generally yes, business insurance premiums are deductible as an ordinary business expense. But deductibility depends on how your business is structured and how the premium is allocated, so confirm with your CPA rather than treating any article (including this one) as tax advice."
+ - q: "How much general liability insurance do I actually need?"
+ a: "The standard $1M per occurrence / $2M aggregate is the starting point and sufficient for most small businesses. But if you work with larger corporate clients, they may require $2M per occurrence in your contract. Check your client contracts and commercial lease before settling on limits, not after."
 author: "Michael Torres"
 author_slug: "michael-torres"
 author_title: "Business Loan Writer"
@@ -32,12 +32,12 @@ General liability insurance is one of those topics where the internet cranks out
 Let me give you the real picture.
 
 <div class="value-module">
-  <div class="vm-head">Cost Factors That Actually Move Your Premium</div>
-  <div class="vm-body">
-    <p class="vm-intro">Insurers weight these factors differently, but here's how each typically shifts your quote from baseline industry averages.</p>
-    <table><caption>Premium Impact by Risk Factor</caption><thead><tr><th>Factor</th><th>Low-Cost Scenario</th><th>High-Cost Scenario</th><th>Typical Premium Impact</th></tr></thead><tbody><tr><td>Annual Revenue</td><td>Under $100K</td><td>Over $500K</td><td>+40% to +150% from baseline</td></tr><tr><td>Customer Foot Traffic</td><td>Home-based, no visitors</td><td>Retail with 200+ daily visitors</td><td>+25% to +100%</td></tr><tr><td>Claims History</td><td>Zero claims in 5 years</td><td>2+ claims in 3 years</td><td>+30% to +75% (or declination)</td></tr><tr><td>Work Location</td><td>Office or client sites only</td><td>Construction sites, heights, heavy equipment</td><td>+50% to +200%</td></tr><tr><td>Subcontractor Use</td><td>No subs, employees only</td><td>Regular use of uninsured subs</td><td>+20% to +60%</td></tr><tr><td>Coverage Limits</td><td>$500K per occurrence</td><td>$2M per occurrence</td><td>+30% to +50%</td></tr><tr><td>Deductible Choice</td><td>$2,500 deductible</td><td>$0 or $500 deductible</td><td>+10% to +20% for low deductible</td></tr><tr><td>Geographic Location</td><td>Rural, low-litigation state</td><td>Urban, high-litigation state (CA, FL, NY)</td><td>+15% to +40%</td></tr></tbody></table>
-    <p class="vm-note">Illustrative general information, confirm current figures for your situation.</p>
-  </div>
+ <div class="vm-head">Cost Factors That Actually Move Your Premium</div>
+ <div class="vm-body">
+ <p class="vm-intro">Insurers weight these factors differently, but here's how each typically shifts your quote from baseline industry averages.</p>
+ <table><caption>Premium Impact by Risk Factor</caption><thead><tr><th>Factor</th><th>Low-Cost Scenario</th><th>High-Cost Scenario</th><th>Typical Premium Impact</th></tr></thead><tbody><tr><td>Annual Revenue</td><td>Under $100K</td><td>Over $500K</td><td>+40% to +150% from baseline</td></tr><tr><td>Customer Foot Traffic</td><td>Home-based, no visitors</td><td>Retail with 200+ daily visitors</td><td>+25% to +100%</td></tr><tr><td>Claims History</td><td>Zero claims in 5 years</td><td>2+ claims in 3 years</td><td>+30% to +75% (or declination)</td></tr><tr><td>Work Location</td><td>Office or client sites only</td><td>Construction sites, heights, heavy equipment</td><td>+50% to +200%</td></tr><tr><td>Subcontractor Use</td><td>No subs, employees only</td><td>Regular use of uninsured subs</td><td>+20% to +60%</td></tr><tr><td>Coverage Limits</td><td>$500K per occurrence</td><td>$2M per occurrence</td><td>+30% to +50%</td></tr><tr><td>Deductible Choice</td><td>$2,500 deductible</td><td>$0 or $500 deductible</td><td>+10% to +20% for low deductible</td></tr><tr><td>Geographic Location</td><td>Rural, low-litigation state</td><td>Urban, high-litigation state (CA, FL, NY)</td><td>+15% to +40%</td></tr></tbody></table>
+ <p class="vm-note">Illustrative general information, confirm current figures for your situation.</p>
+ </div>
 </div>
 
 ## What You'll Actually Pay: Ranges That Mean Something

@@ -11,10 +11,7 @@ author_slug: "michael-torres"
 author_title: "Business Loan Writer"
 author_bio: "Michael Torres spent years as a small business banker before moving to the borrower side as a loan consultant. He knows the SBA loan process inside and out, including the parts of the application that most business owners get wrong. At Small Biz Finance Guide, he covers SBA loans, lines of credit, equipment financing, and how to present your business to a lender in the best possible light."
 slug: "how-to-use-100-bonus-depreciation-to-cut-your-2026-tax-bill"
-affiliate_disclosure: true
----
-
-Most coverage of the One Big Beautiful Bill Act has focused on the income tax rate drama and the debt ceiling politics. The tax provision that will actually move the needle for small business owners got buried in paragraph nine of most articles. That provision: 100% bonus depreciation is back, permanently, and mid-2026 is precisely when you should be acting on it.
+affiliate_disclosure: true, Most coverage of the One Big Beautiful Bill Act has focused on the income tax rate drama and the debt ceiling politics. The tax provision that will actually move the needle for small business owners got buried in paragraph nine of most articles. That provision: 100% bonus depreciation is back, permanently, and mid-2026 is precisely when you should be acting on it.
 
 ## What Changed and Why It Matters Now
 
@@ -71,9 +68,9 @@ The permanent restoration of 100% bonus depreciation removes the guessing game t
 ## Sources
 
 - [IRS: One Big Beautiful Bill Act Provisions](https://www.irs.gov/newsroom/one-big-beautiful-bill-provisions) (June 2026)
-- [U.S. Bank: Maximizing Deductions ,  Section 179 and Bonus Depreciation](https://www.usbank.com/corporate-and-commercial-banking/insights/credit-finance/equipment/maximize-deductions-section-179.html) (June 2026)
+- [U.S. Bank: Maximizing Deductions , Section 179 and Bonus Depreciation](https://www.usbank.com/corporate-and-commercial-banking/insights/credit-finance/equipment/maximize-deductions-section-179.html) (June 2026)
 - [Grant Thornton: OBBBA Offers New Ways to Accelerate Depreciation](https://www.grantthornton.com/insights/alerts/tax/2025/insights/obbba-offers-new-ways-to-accelerate-depreciation) (July 2025)
-- [Warren Averett: The One Big Beautiful Bill Act Breakdown ,  Bonus Depreciation](https://warrenaverett.com/insights/one-big-beautiful-bill-bonus-depreciation/) (January 2026)
+- [Warren Averett: The One Big Beautiful Bill Act Breakdown , Bonus Depreciation](https://warrenaverett.com/insights/one-big-beautiful-bill-bonus-depreciation/) (January 2026)
 - [Carr, Riggs & Ingram: Bonus Depreciation is Back! OBBBA Depreciation Changes](https://www.criadv.com/insight/obbba-bonus-depreciation-section-179-changes/) (May 2026)
 - [Anders CPA: Key Changes to Bonus Depreciation, Section 179 and Section 174 from OBBBA](https://anderscpa.com/learn/blog/obbb-bonus-depreciation-section-179-section-174-one-big-beautiful-bill-act/) (February 2026)
 
@@ -98,6 +95,6 @@ The permanent restoration of 100% bonus depreciation removes the guessing game t
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

@@ -9,16 +9,16 @@ tags: ["write", "startup", "financial", "plan", "investors"]
 slug: "how-to-write-a-startup-financial-plan-for-investors"
 affiliate_disclosure: true
 faqs:
-  - q: "How many years of projections should I include?"
-    a: "Three years is the standard for most early-stage investor conversations. Year 1 should be monthly. Years 2 and 3 can be quarterly or annual. Beyond three years, projections for a startup are mostly fiction and experienced investors know it. Extending to five years doesn't make you look more thorough; it usually makes you look naive about uncertainty."
-  - q: "Do I need to be profitable in my projections to raise funding?"
-    a: "No, and showing fake profitability by Year 2 when your business model clearly requires heavy early investment will actually hurt your credibility. Investors in growth-stage startups often expect losses in the early years. What they want to see is a credible path: when you reach contribution margin positive, when operating cash flow turns positive, and what the business looks like when it scales. A realistic loss trajectory with clear inflection points is far better than a suspiciously rosy P&L."
-  - q: "What if my numbers are just educated guesses?"
-    a: "They always are to some degree. The goal isn't certainty; it's defensible reasoning. Document your assumptions, show your math, cite any benchmarks or data you used, and be transparent in your investor conversation about where you have confidence versus where you're estimating. Saying 'this customer acquisition cost assumption is based on our 3-month pilot; we expect it to improve as we optimize our funnel' is honest and credible. Pretending you have precision you don't have is not."
-  - q: "Should I hire someone to build my financial model?"
-    a: "If you genuinely don't have the spreadsheet skills, yes, bring in a fractional CFO or a CPA with startup experience to help you build it. But you need to understand it deeply before you walk into any investor meeting. An investor will ask you to explain your gross margin assumption or justify your headcount growth, and 'my consultant built this' is a credibility killer. Use outside help to build the structure; own the logic yourself."
-  - q: "How is a startup financial plan different from a small business plan?"
-    a: "Mostly in what the audience is expecting. A lender reviewing a small business loan wants to see conservative projections, existing cash flow, and repayment capacity. An investor in a startup is often underwriting future potential and expects some level of ambition in the numbers. You're also typically building around a funding-and-growth model rather than a steady-state profitability model. The components are similar; the framing, the assumptions, and the risk tolerance are quite different."
+ - q: "How many years of projections should I include?"
+ a: "Three years is the standard for most early-stage investor conversations. Year 1 should be monthly. Years 2 and 3 can be quarterly or annual. Beyond three years, projections for a startup are mostly fiction and experienced investors know it. Extending to five years doesn't make you look more thorough; it usually makes you look naive about uncertainty."
+ - q: "Do I need to be profitable in my projections to raise funding?"
+ a: "No, and showing fake profitability by Year 2 when your business model clearly requires heavy early investment will actually hurt your credibility. Investors in growth-stage startups often expect losses in the early years. What they want to see is a credible path: when you reach contribution margin positive, when operating cash flow turns positive, and what the business looks like when it scales. A realistic loss trajectory with clear inflection points is far better than a suspiciously rosy P&L."
+ - q: "What if my numbers are just educated guesses?"
+ a: "They always are to some degree. The goal isn't certainty; it's defensible reasoning. Document your assumptions, show your math, cite any benchmarks or data you used, and be transparent in your investor conversation about where you have confidence versus where you're estimating. Saying 'this customer acquisition cost assumption is based on our 3-month pilot; we expect it to improve as we optimize our funnel' is honest and credible. Pretending you have precision you don't have is not."
+ - q: "Should I hire someone to build my financial model?"
+ a: "If you genuinely don't have the spreadsheet skills, yes, bring in a fractional CFO or a CPA with startup experience to help you build it. But you need to understand it deeply before you walk into any investor meeting. An investor will ask you to explain your gross margin assumption or justify your headcount growth, and 'my consultant built this' is a credibility killer. Use outside help to build the structure; own the logic yourself."
+ - q: "How is a startup financial plan different from a small business plan?"
+ a: "Mostly in what the audience is expecting. A lender reviewing a small business loan wants to see conservative projections, existing cash flow, and repayment capacity. An investor in a startup is often underwriting future potential and expects some level of ambition in the numbers. You're also typically building around a funding-and-growth model rather than a steady-state profitability model. The components are similar; the framing, the assumptions, and the risk tolerance are quite different."
 author: "Michael Torres"
 author_slug: "michael-torres"
 author_title: "Business Loan Writer"
@@ -34,12 +34,12 @@ I've reviewed hundreds of these over the years. Most of the advice floating arou
 ---
 
 <div class="value-module">
-  <div class="vm-head">Unit Economics Sanity-Check Table</div>
-  <div class="vm-body">
-    <p class="vm-intro">Use this worksheet to pressure-test your core numbers before an investor does, if any row lands in the red zone, pause and fix the math before you pitch.</p>
-    <table><thead><tr><th>Metric</th><th>How to Calculate</th><th>Healthy Zone (Illustrative)</th><th>Warning Sign</th></tr></thead><tbody><tr><td>Customer Acquisition Cost (CAC)</td><td>Total sales &amp; marketing spend ÷ new customers acquired</td><td>Recoverable within 12 months of gross profit</td><td>CAC payback &gt; 18 months</td></tr><tr><td>Lifetime Value (LTV)</td><td>Avg. revenue per customer × gross margin % × avg. customer lifespan</td><td>≥ 3× CAC for venture-scale businesses</td><td>LTV:CAC below 2:1</td></tr><tr><td>Gross Margin</td><td>(Revenue − direct costs) ÷ revenue</td><td>Software ≥ 70%; services ≥ 40%; physical goods ≥ 30%</td><td>Margins below industry floor without clear scale path</td></tr><tr><td>Monthly Burn Rate</td><td>Cash out − cash in over a month</td><td>≥ 12 months runway at current burn</td><td>&lt; 6 months runway without funded plan</td></tr><tr><td>Revenue per Employee (at scale)</td><td>Annual revenue ÷ FTEs</td><td>SaaS benchmark: $150K–$300K+ at maturity</td><td>Projecting &lt; $100K/employee in Year 3+</td></tr></tbody></table>
-    <p class="vm-note">Illustrative general information, confirm current figures for your situation.</p>
-  </div>
+ <div class="vm-head">Unit Economics Sanity-Check Table</div>
+ <div class="vm-body">
+ <p class="vm-intro">Use this worksheet to pressure-test your core numbers before an investor does, if any row lands in the red zone, pause and fix the math before you pitch.</p>
+ <table><thead><tr><th>Metric</th><th>How to Calculate</th><th>Healthy Zone (Illustrative)</th><th>Warning Sign</th></tr></thead><tbody><tr><td>Customer Acquisition Cost (CAC)</td><td>Total sales &amp; marketing spend ÷ new customers acquired</td><td>Recoverable within 12 months of gross profit</td><td>CAC payback &gt; 18 months</td></tr><tr><td>Lifetime Value (LTV)</td><td>Avg. revenue per customer × gross margin % × avg. customer lifespan</td><td>≥ 3× CAC for venture-scale businesses</td><td>LTV:CAC below 2:1</td></tr><tr><td>Gross Margin</td><td>(Revenue − direct costs) ÷ revenue</td><td>Software ≥ 70%; services ≥ 40%; physical goods ≥ 30%</td><td>Margins below industry floor without clear scale path</td></tr><tr><td>Monthly Burn Rate</td><td>Cash out − cash in over a month</td><td>≥ 12 months runway at current burn</td><td>&lt; 6 months runway without funded plan</td></tr><tr><td>Revenue per Employee (at scale)</td><td>Annual revenue ÷ FTEs</td><td>SaaS benchmark: $150K–$300K+ at maturity</td><td>Projecting &lt; $100K/employee in Year 3+</td></tr></tbody></table>
+ <p class="vm-note">Illustrative general information, confirm current figures for your situation.</p>
+ </div>
 </div>
 
 ## What Investors Are Actually Looking For

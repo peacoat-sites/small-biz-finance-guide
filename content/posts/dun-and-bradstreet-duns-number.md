@@ -13,16 +13,16 @@ author_bio: "Sarah Johnson is a CPA who has worked exclusively with small busine
 slug: "dun-and-bradstreet-duns-number"
 affiliate_disclosure: true
 faqs:
-  - q: "Is a DUNS number still required for federal government contracts?"
-    a: "No. The federal government replaced the DUNS number with the Unique Entity ID (UEI) in 2022. If you're pursuing federal contracts or grants, you now register through SAM.gov directly, and D&B is not part of that process. You do not need a DUNS number for federal work anymore."
-  - q: "How long does it take to get a DUNS number?"
-    a: "The free registration through D&B typically takes up to 30 business days, though it often processes in 2-3 weeks in practice. D&B offers an expedited paid option if you're on a deadline, currently in the $229-$239 range (verify current pricing on their site before paying)."
-  - q: "Does every business automatically have a DUNS number?"
-    a: "Not automatically, but D&B does compile profiles from public data, so some businesses already have a file without ever registering. Before assuming you need to create a new one, search D&B's database with your business name and address first. If a record exists, you can claim it rather than creating a duplicate."
-  - q: "Will getting a DUNS number affect my personal credit?"
-    a: "No. A DUNS number and your D&B business credit profile are entirely separate from your personal credit reports. Registering for one does not trigger any inquiry or change on your personal Equifax, Experian, or TransUnion files. Business credit and personal credit are different systems."
-  - q: "Do I need a DUNS number if I'm a sole proprietor?"
-    a: "You can get one, and it might help if you're applying for vendor credit accounts or working with corporate clients who check D&B. But if you're a true one-person operation with no employees and you're only working with individual consumers, you probably don't need it yet. Get it when a specific opportunity requires it, not just to have it."
+ - q: "Is a DUNS number still required for federal government contracts?"
+ a: "No. The federal government replaced the DUNS number with the Unique Entity ID (UEI) in 2022. If you're pursuing federal contracts or grants, you now register through SAM.gov directly, and D&B is not part of that process. You do not need a DUNS number for federal work anymore."
+ - q: "How long does it take to get a DUNS number?"
+ a: "The free registration through D&B typically takes up to 30 business days, though it often processes in 2-3 weeks in practice. D&B offers an expedited paid option if you're on a deadline, currently in the $229-$239 range (verify current pricing on their site before paying)."
+ - q: "Does every business automatically have a DUNS number?"
+ a: "Not automatically, but D&B does compile profiles from public data, so some businesses already have a file without ever registering. Before assuming you need to create a new one, search D&B's database with your business name and address first. If a record exists, you can claim it rather than creating a duplicate."
+ - q: "Will getting a DUNS number affect my personal credit?"
+ a: "No. A DUNS number and your D&B business credit profile are entirely separate from your personal credit reports. Registering for one does not trigger any inquiry or change on your personal Equifax, Experian, or TransUnion files. Business credit and personal credit are different systems."
+ - q: "Do I need a DUNS number if I'm a sole proprietor?"
+ a: "You can get one, and it might help if you're applying for vendor credit accounts or working with corporate clients who check D&B. But if you're a true one-person operation with no employees and you're only working with individual consumers, you probably don't need it yet. Get it when a specific opportunity requires it, not just to have it."
 ---
 
 Most business owners find out they need a DUNS number the same way: they're mid-application for something important, a government contract, a bank loan, a vendor account, and there's a field that says "DUNS Number" and they have no idea what to put there. I've watched this happen to clients more times than I can count. The frustration is real. You're trying to move fast, and suddenly you're filling out forms on a website that looks like it was designed in 2003, trying to figure out if you already have a number you didn't know about.
@@ -120,6 +120,6 @@ And yes: for anything touching your actual tax posture or how your business cred
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

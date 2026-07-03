@@ -13,16 +13,16 @@ author_bio: "Amanda Pierce has run her own small business and knows the differen
 slug: "bootstrapping-vs-raising-venture-capital-for-startups"
 affiliate_disclosure: true
 faqs:
-  - q: "Can I raise venture capital if my business is already profitable?"
-    a: "Yes, and you're actually in a stronger negotiating position than most founders. Investors are more interested in profitable businesses than they used to be. That said, if you're already profitable, the first question to ask yourself is whether you actually need outside capital, because the case for taking it gets harder when you've already solved the hardest part on your own."
-  - q: "What's a realistic amount to raise for a first-time founder?"
-    a: "Pre-seed rounds today typically run between $250,000 and $1.5 million, depending heavily on your sector, location, and whether you have a working product. Seed rounds are usually $1 million to $4 million. These numbers move with market conditions, so treat them as rough guides rather than targets. I'd strongly recommend talking to a startup-experienced attorney before accepting any term sheet."
-  - q: "Does bootstrapping mean I can never raise money later?"
-    a: "Not at all. Some of the most successful fundraises I've seen happened after founders had two or three years of organic growth to show. Coming to an investor with real revenue data and a proven model is genuinely advantageous. You're not closing a door by bootstrapping early."
-  - q: "Should I talk to a CPA before deciding?"
-    a: "Yes, actually, more than most founders expect to. The structure of how you take in investment, whether that's debt, equity, convertible notes, or SAFE agreements, has meaningful tax and legal implications. This is one area where spending $500 to $1,000 on a CPA and a startup attorney is easily worth it."
-  - q: "What if I need money now but don't want to give up equity?"
-    a: "Look at revenue-based financing, SBA loans, and business lines of credit before you consider equity. Revenue-based financing in particular has matured significantly and works well for businesses with predictable monthly revenue. You pay back a percentage of revenue until you've repaid a set amount. No equity lost, no board seats given up."
+ - q: "Can I raise venture capital if my business is already profitable?"
+ a: "Yes, and you're actually in a stronger negotiating position than most founders. Investors are more interested in profitable businesses than they used to be. That said, if you're already profitable, the first question to ask yourself is whether you actually need outside capital, because the case for taking it gets harder when you've already solved the hardest part on your own."
+ - q: "What's a realistic amount to raise for a first-time founder?"
+ a: "Pre-seed rounds today typically run between $250,000 and $1.5 million, depending heavily on your sector, location, and whether you have a working product. Seed rounds are usually $1 million to $4 million. These numbers move with market conditions, so treat them as rough guides rather than targets. I'd strongly recommend talking to a startup-experienced attorney before accepting any term sheet."
+ - q: "Does bootstrapping mean I can never raise money later?"
+ a: "Not at all. Some of the most successful fundraises I've seen happened after founders had two or three years of organic growth to show. Coming to an investor with real revenue data and a proven model is genuinely advantageous. You're not closing a door by bootstrapping early."
+ - q: "Should I talk to a CPA before deciding?"
+ a: "Yes, actually, more than most founders expect to. The structure of how you take in investment, whether that's debt, equity, convertible notes, or SAFE agreements, has meaningful tax and legal implications. This is one area where spending $500 to $1,000 on a CPA and a startup attorney is easily worth it."
+ - q: "What if I need money now but don't want to give up equity?"
+ a: "Look at revenue-based financing, SBA loans, and business lines of credit before you consider equity. Revenue-based financing in particular has matured significantly and works well for businesses with predictable monthly revenue. You pay back a percentage of revenue until you've repaid a set amount. No equity lost, no board seats given up."
 ---
 Most people come to this question already leaning one way. Either they've watched too many TechCrunch headlines and think raising a seed round is what makes you a "real" startup, or they've heard some version of "control your destiny" so many times that bootstrapping feels like the only honorable path. Neither instinct is wrong, exactly. But both miss the actual question, which is: what does *your* business need, and what are you genuinely willing to trade?
 

@@ -13,16 +13,16 @@ author_bio: "David Kim is a tax strategist who works with self-employed individu
 slug: "heloc-for-business-funding"
 affiliate_disclosure: true
 faqs:
-  - q: "Can I use a HELOC to start a business with no revenue yet?"
-    a: "Yes, and it's actually one of the more practical options for pre-revenue founders who have home equity. Lenders approve HELOCs based on your personal credit and home equity, not your business financials. Just be clear-eyed about the risk since your home is the collateral."
-  - q: "Will using a HELOC for business affect my ability to deduct the interest?"
-    a: "Potentially yes, in the sense that you likely won't qualify for the mortgage interest deduction, but you may be able to deduct it as a business interest expense instead. The rules are fact-specific. Get a CPA to review your situation before you draw funds."
-  - q: "Does a HELOC show up as business debt or personal debt?"
-    a: "Personal debt, always. It won't appear on your business credit report, and it won't help you build business credit history. If building a business credit profile matters to you, a HELOC won't contribute to that."
-  - q: "What happens to my HELOC if my home value drops?"
-    a: "Lenders can freeze or reduce your line if your home value falls enough to push your loan-to-value ratio above their threshold. This happened to a lot of business owners in 2008-2009 who were mid-draw when lenders pulled lines with little warning. It's a real risk, not a theoretical one."
-  - q: "Is a HELOC better than an SBA loan for small business funding?"
-    a: "Depends entirely on your situation. SBA loans often have longer terms and don't put your home at direct risk in the same immediate way, but they're slower, require more documentation, and aren't accessible to brand-new businesses. A HELOC is faster and more flexible but carries personal collateral risk. Many business owners I've worked with use both at different stages, and the SBA's own website has a solid loan comparison tool worth checking before you decide."
+ - q: "Can I use a HELOC to start a business with no revenue yet?"
+ a: "Yes, and it's actually one of the more practical options for pre-revenue founders who have home equity. Lenders approve HELOCs based on your personal credit and home equity, not your business financials. Just be clear-eyed about the risk since your home is the collateral."
+ - q: "Will using a HELOC for business affect my ability to deduct the interest?"
+ a: "Potentially yes, in the sense that you likely won't qualify for the mortgage interest deduction, but you may be able to deduct it as a business interest expense instead. The rules are fact-specific. Get a CPA to review your situation before you draw funds."
+ - q: "Does a HELOC show up as business debt or personal debt?"
+ a: "Personal debt, always. It won't appear on your business credit report, and it won't help you build business credit history. If building a business credit profile matters to you, a HELOC won't contribute to that."
+ - q: "What happens to my HELOC if my home value drops?"
+ a: "Lenders can freeze or reduce your line if your home value falls enough to push your loan-to-value ratio above their threshold. This happened to a lot of business owners in 2008-2009 who were mid-draw when lenders pulled lines with little warning. It's a real risk, not a theoretical one."
+ - q: "Is a HELOC better than an SBA loan for small business funding?"
+ a: "Depends entirely on your situation. SBA loans often have longer terms and don't put your home at direct risk in the same immediate way, but they're slower, require more documentation, and aren't accessible to brand-new businesses. A HELOC is faster and more flexible but carries personal collateral risk. Many business owners I've worked with use both at different stages, and the SBA's own website has a solid loan comparison tool worth checking before you decide."
 ---
 
 Most small business owners I talk to have never seriously considered the equity in their home as a funding source. They think of HELOCs as something you use to remodel a kitchen. I'll be honest: I used to think the same thing, until I watched a client of mine use a $120,000 HELOC to fund her first year of inventory and working capital for a retail business that's now doing over $800K annually. That reframed the whole question for me.
@@ -108,6 +108,6 @@ The cleanest approach is to open a dedicated personal account for HELOC draws, t
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

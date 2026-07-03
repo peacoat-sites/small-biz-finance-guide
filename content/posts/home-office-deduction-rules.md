@@ -9,16 +9,16 @@ tags: ["home", "office", "deduction", "rules"]
 slug: "home-office-deduction-rules"
 affiliate_disclosure: true
 faqs:
-  - q: "Can I take the home office deduction if I rent my home?"
-    a: "Yes. Renters can absolutely claim this deduction. Instead of mortgage interest and depreciation, you use your rent as the qualifying expense and apply your business-use percentage to it. In high-rent cities, this can produce a meaningful deduction. Keep 12 months of rent receipts or bank statements to document it."
-  - q: "Does the home office deduction increase my audit risk?"
-    a: "It can if it's disproportionate to your income or business type, but a legitimate, well-documented deduction is not something to be afraid of. The IRS has published guidance making clear that working from home is a normal business arrangement. Document everything, calculate it correctly, and file with confidence. The U.S. Small Business Administration has resources on recordkeeping practices that apply here."
-  - q: "Can I claim the home office deduction if I also work at a client's location?"
-    a: "Yes, potentially. The key is whether your home is your principal place of business for administrative and management activities, and whether you have no other fixed location where you perform those functions. A plumber who works at job sites all day but does all their scheduling, invoicing, and bookkeeping from a dedicated home office can still qualify. The IRS specifically carved out this scenario."
-  - q: "What happens to the deduction if I sell my home?"
-    a: "If you used the simplified method, there's no depreciation recapture and the standard home sale exclusion rules apply normally. If you used the regular method and took depreciation deductions, a portion of your home sale gain may be taxable, even if the gain is otherwise under the exclusion limit. This is one of the more complex areas of the deduction, and it's exactly the kind of situation where you want a CPA's input before you list the house."
-  - q: "What records should I keep to support this deduction?"
-    a: "Keep a floor plan or sketch with measurements showing the dedicated office space and total home square footage. Keep all utility bills, insurance statements, rent or mortgage records, and repair invoices for the year. A few photos of the dedicated space are a smart idea too. The Consumer Financial Protection Bureau's small business resources reinforce the importance of consistent recordkeeping as a general financial health practice, and nowhere is that more true than here."
+ - q: "Can I take the home office deduction if I rent my home?"
+ a: "Yes. Renters can absolutely claim this deduction. Instead of mortgage interest and depreciation, you use your rent as the qualifying expense and apply your business-use percentage to it. In high-rent cities, this can produce a meaningful deduction. Keep 12 months of rent receipts or bank statements to document it."
+ - q: "Does the home office deduction increase my audit risk?"
+ a: "It can if it's disproportionate to your income or business type, but a legitimate, well-documented deduction is not something to be afraid of. The IRS has published guidance making clear that working from home is a normal business arrangement. Document everything, calculate it correctly, and file with confidence. The U.S. Small Business Administration has resources on recordkeeping practices that apply here."
+ - q: "Can I claim the home office deduction if I also work at a client's location?"
+ a: "Yes, potentially. The key is whether your home is your principal place of business for administrative and management activities, and whether you have no other fixed location where you perform those functions. A plumber who works at job sites all day but does all their scheduling, invoicing, and bookkeeping from a dedicated home office can still qualify. The IRS specifically carved out this scenario."
+ - q: "What happens to the deduction if I sell my home?"
+ a: "If you used the simplified method, there's no depreciation recapture and the standard home sale exclusion rules apply normally. If you used the regular method and took depreciation deductions, a portion of your home sale gain may be taxable, even if the gain is otherwise under the exclusion limit. This is one of the more complex areas of the deduction, and it's exactly the kind of situation where you want a CPA's input before you list the house."
+ - q: "What records should I keep to support this deduction?"
+ a: "Keep a floor plan or sketch with measurements showing the dedicated office space and total home square footage. Keep all utility bills, insurance statements, rent or mortgage records, and repair invoices for the year. A few photos of the dedicated space are a smart idea too. The Consumer Financial Protection Bureau's small business resources reinforce the importance of consistent recordkeeping as a general financial health practice, and nowhere is that more true than here."
 author: "Sarah Johnson"
 author_slug: "sarah-johnson"
 author_title: "CPA & Lead Editor"
@@ -31,12 +31,12 @@ You set up a dedicated room in your house for your business two years ago. You'v
 
 
 <div class="value-module">
-  <div class="vm-head">Simplified vs. Regular Method Comparison</div>
-  <div class="vm-body">
-    <p class="vm-intro">Choosing the right calculation method can mean hundreds of dollars in tax savings, here's how they stack up.</p>
-    <table><caption>Home Office Deduction: Simplified vs. Regular Method</caption><thead><tr><th>Factor</th><th>Simplified Method</th><th>Regular Method</th></tr></thead><tbody><tr><td>Calculation</td><td>$5 per square foot of office space</td><td>Actual expenses × business-use percentage</td></tr><tr><td>Maximum space allowed</td><td>300 sq ft ($1,500 max deduction)</td><td>No limit on square footage</td></tr><tr><td>Expenses you can include</td><td>None separately, flat rate covers all</td><td>Mortgage interest/rent, utilities, insurance, repairs, depreciation</td></tr><tr><td>Recordkeeping burden</td><td>Minimal: measure space, keep floor plan</td><td>Substantial: save all bills, allocate by percentage, track depreciation schedule</td></tr><tr><td>Depreciation recapture risk</td><td>None</td><td>Yes, claimed depreciation may be taxed at sale</td></tr><tr><td>Best fit</td><td>Small dedicated space (&lt;300 sq ft); simple finances; renters</td><td>Larger office; high housing costs (&gt;$5/sq ft equivalent); homeowners wanting full write-offs</td></tr><tr><td>Illustrative example (150 sq ft office, $18,000 annual housing costs, 10% business use)</td><td>150 × $5 = <strong>$750</strong></td><td>$18,000 × 10% = <strong>$1,800</strong></td></tr></tbody></table>
-    <p class="vm-note">Illustrative general information, confirm current figures for your situation.</p>
-  </div>
+ <div class="vm-head">Simplified vs. Regular Method Comparison</div>
+ <div class="vm-body">
+ <p class="vm-intro">Choosing the right calculation method can mean hundreds of dollars in tax savings, here's how they stack up.</p>
+ <table><caption>Home Office Deduction: Simplified vs. Regular Method</caption><thead><tr><th>Factor</th><th>Simplified Method</th><th>Regular Method</th></tr></thead><tbody><tr><td>Calculation</td><td>$5 per square foot of office space</td><td>Actual expenses × business-use percentage</td></tr><tr><td>Maximum space allowed</td><td>300 sq ft ($1,500 max deduction)</td><td>No limit on square footage</td></tr><tr><td>Expenses you can include</td><td>None separately, flat rate covers all</td><td>Mortgage interest/rent, utilities, insurance, repairs, depreciation</td></tr><tr><td>Recordkeeping burden</td><td>Minimal: measure space, keep floor plan</td><td>Substantial: save all bills, allocate by percentage, track depreciation schedule</td></tr><tr><td>Depreciation recapture risk</td><td>None</td><td>Yes, claimed depreciation may be taxed at sale</td></tr><tr><td>Best fit</td><td>Small dedicated space (&lt;300 sq ft); simple finances; renters</td><td>Larger office; high housing costs (&gt;$5/sq ft equivalent); homeowners wanting full write-offs</td></tr><tr><td>Illustrative example (150 sq ft office, $18,000 annual housing costs, 10% business use)</td><td>150 × $5 = <strong>$750</strong></td><td>$18,000 × 10% = <strong>$1,800</strong></td></tr></tbody></table>
+ <p class="vm-note">Illustrative general information, confirm current figures for your situation.</p>
+ </div>
 </div>
 
 ## Who Actually Qualifies (And Who Doesn't)

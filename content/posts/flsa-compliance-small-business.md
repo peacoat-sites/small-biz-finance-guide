@@ -13,16 +13,16 @@ author_bio: "Michael Torres spent years as a small business banker before moving
 slug: "flsa-compliance-small-business"
 affiliate_disclosure: true
 faqs:
-  - q: "What's the penalty if I misclassify an employee as a contractor?"
-    a: "Back wages, unpaid overtime, and taxes can all come due if the DOL or IRS reclassifies a worker. Civil penalties can be added on top, and in willful cases, criminal liability is possible. The exposure varies, but it adds up fast. Consult a CPA or employment attorney before changing classification status."
-  - q: "Do the FLSA rules apply if I have fewer than 10 employees?"
-    a: "Generally yes, if your business has annual gross sales of $500,000 or more, or if your employees are engaged in interstate commerce (which is interpreted pretty broadly). Even below those thresholds, individual employees may still be covered. Assume it applies unless you've verified otherwise."
-  - q: "Can I pay salaried employees no overtime if they earn more than minimum wage?"
-    a: "No. Salary alone doesn't make someone exempt. They have to meet both the salary threshold ($684/week as of this writing) and pass a duties test. A lot of salaried employees at small businesses don't actually qualify for exemption and should be receiving overtime."
-  - q: "Can I require employees to waive their right to overtime pay?"
-    a: "No. This is non-negotiable under the FLSA. An employee cannot legally waive their right to overtime, even in writing, even if they agree to it willingly. Any such agreement is void."
-  - q: "How far back can an employee go when filing a wage claim?"
-    a: "Two years for standard violations, three years if the violation is found to be willful. That's why your recordkeeping needs to go back at least that far. If you can't show what someone was paid and when, you're defending a claim with nothing in your hands."
+ - q: "What's the penalty if I misclassify an employee as a contractor?"
+ a: "Back wages, unpaid overtime, and taxes can all come due if the DOL or IRS reclassifies a worker. Civil penalties can be added on top, and in willful cases, criminal liability is possible. The exposure varies, but it adds up fast. Consult a CPA or employment attorney before changing classification status."
+ - q: "Do the FLSA rules apply if I have fewer than 10 employees?"
+ a: "Generally yes, if your business has annual gross sales of $500,000 or more, or if your employees are engaged in interstate commerce (which is interpreted pretty broadly). Even below those thresholds, individual employees may still be covered. Assume it applies unless you've verified otherwise."
+ - q: "Can I pay salaried employees no overtime if they earn more than minimum wage?"
+ a: "No. Salary alone doesn't make someone exempt. They have to meet both the salary threshold ($684/week as of this writing) and pass a duties test. A lot of salaried employees at small businesses don't actually qualify for exemption and should be receiving overtime."
+ - q: "Can I require employees to waive their right to overtime pay?"
+ a: "No. This is non-negotiable under the FLSA. An employee cannot legally waive their right to overtime, even in writing, even if they agree to it willingly. Any such agreement is void."
+ - q: "How far back can an employee go when filing a wage claim?"
+ a: "Two years for standard violations, three years if the violation is found to be willful. That's why your recordkeeping needs to go back at least that far. If you can't show what someone was paid and when, you're defending a claim with nothing in your hands."
 ---
 
 Most business owners I've talked to don't find out they've been misclassifying workers or miscalculating overtime until there's already a problem. An employee files a complaint with the Department of Labor, or they get a letter, or they're talking to a lawyer. That's a painful way to learn about the Fair Labor Standards Act. Let's get ahead of it.
@@ -126,6 +126,6 @@ Getting this stuff right isn't glamorous. It doesn't feel like building a busine
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 
