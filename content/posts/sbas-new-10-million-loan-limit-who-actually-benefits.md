@@ -11,10 +11,7 @@ author_slug: "amanda-pierce"
 author_title: "Operations Finance Writer"
 author_bio: "Amanda Pierce has run her own small business and knows the difference between profitability on paper and actually having money in the bank. She specializes in the operational side of business finances: invoicing systems, cash flow forecasting, dealing with slow-paying clients, and managing the day-to-day money reality of running a small business. At Small Biz Finance Guide, she covers cash flow tools, payment systems, and operational finance."
 slug: "sbas-new-10-million-loan-limit-who-actually-benefits"
-affiliate_disclosure: true
----
-
-On July 4, 2026, the SBA officially doubles its combined 7(a) and 504 loan cap to $10 million, the highest lending ceiling in the agency's history. Administrator Kelly Loeffler announced the change on May 18 via Policy Notice 5000-879058, and the headlines have been loud ever since. "Small business lending just got supercharged." "A new era for growth capital." I'll be honest: when I first read through the policy details, my reaction was more complicated than that.
+affiliate_disclosure: true, On July 4, 2026, the SBA officially doubles its combined 7(a) and 504 loan cap to $10 million, the highest lending ceiling in the agency's history. Administrator Kelly Loeffler announced the change on May 18 via Policy Notice 5000-879058, and the headlines have been loud ever since. "Small business lending just got supercharged." "A new era for growth capital." I'll be honest: when I first read through the policy details, my reaction was more complicated than that.
 
 Because here's what the headlines aren't leading with. The vast majority of small business borrowers in this country will never come close to these numbers. And in a year when bankruptcy filings are projected to climb another 20% on top of an already rough 2025, the timing of a major lending expansion deserves a harder look than most coverage is giving it.
 

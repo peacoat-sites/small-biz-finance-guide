@@ -13,16 +13,16 @@ author_bio: "David Kim is a tax strategist who works with self-employed individu
 slug: "point-of-sale-system-guide"
 affiliate_disclosure: true
 faqs:
-  - q: "What's the cheapest POS system for a brand-new small business?"
-    a: "Square's free plan is genuinely free to start: no monthly software fee, just 2.6% + $0.10 per in-person transaction. The free card reader comes with the account. For a new business with low volume and simple needs, it's hard to beat, though the per-transaction fee structure becomes expensive as volume grows."
-  - q: "Do I need a separate merchant account, or is it built into the POS?"
-    a: "Most modern cloud-based POS systems (Square, Toast, Shopify, Clover) bundle payment processing directly, so there's no separate merchant account to set up. This is convenient but means you're accepting their processing rates. If you have high volume, a traditional merchant account through a bank or processor like Stripe or Worldpay can offer lower rates, especially if you negotiate. Talk to your accountant once you're processing over roughly $50,000 a month."
-  - q: "Can I switch POS systems later without losing my data?"
-    a: "Usually yes, but it's rarely seamless. Most systems will export your customer list and product catalog. Historical transaction data is harder to transfer and often stays behind. Plan to run reports and archive key data before you switch. I've seen businesses lose 18 months of transaction history during a migration because nobody thought to export it first."
-  - q: "What's the difference between a POS system and a payment processor?"
-    a: "A payment processor handles the actual movement of money from your customer's card to your bank account. A POS system is the software and hardware that manages the sale (inventory, receipts, employee logins, reports). Many modern POS systems bundle a payment processor in, but they're technically separate functions. Understanding the distinction matters when you're comparing costs."
-  - q: "How long do POS contracts typically run?"
-    a: "Hardware rental agreements and some restaurant POS systems (Toast especially) often run one to three years. Software-only plans from companies like Square are typically month-to-month. Always ask about early termination fees before signing anything. A $500 cancellation fee isn't unusual, and some hardware leases carry penalties in the thousands."
+ - q: "What's the cheapest POS system for a brand-new small business?"
+ a: "Square's free plan is genuinely free to start: no monthly software fee, just 2.6% + $0.10 per in-person transaction. The free card reader comes with the account. For a new business with low volume and simple needs, it's hard to beat, though the per-transaction fee structure becomes expensive as volume grows."
+ - q: "Do I need a separate merchant account, or is it built into the POS?"
+ a: "Most modern cloud-based POS systems (Square, Toast, Shopify, Clover) bundle payment processing directly, so there's no separate merchant account to set up. This is convenient but means you're accepting their processing rates. If you have high volume, a traditional merchant account through a bank or processor like Stripe or Worldpay can offer lower rates, especially if you negotiate. Talk to your accountant once you're processing over roughly $50,000 a month."
+ - q: "Can I switch POS systems later without losing my data?"
+ a: "Usually yes, but it's rarely seamless. Most systems will export your customer list and product catalog. Historical transaction data is harder to transfer and often stays behind. Plan to run reports and archive key data before you switch. I've seen businesses lose 18 months of transaction history during a migration because nobody thought to export it first."
+ - q: "What's the difference between a POS system and a payment processor?"
+ a: "A payment processor handles the actual movement of money from your customer's card to your bank account. A POS system is the software and hardware that manages the sale (inventory, receipts, employee logins, reports). Many modern POS systems bundle a payment processor in, but they're technically separate functions. Understanding the distinction matters when you're comparing costs."
+ - q: "How long do POS contracts typically run?"
+ a: "Hardware rental agreements and some restaurant POS systems (Toast especially) often run one to three years. Software-only plans from companies like Square are typically month-to-month. Always ask about early termination fees before signing anything. A $500 cancellation fee isn't unusual, and some hardware leases carry penalties in the thousands."
 ---
 
 Most small business owners pick their point of sale system the same way they pick a contractor: whoever shows up first with a decent pitch and a confident handshake. I've watched this happen dozens of times, and it almost always costs them money.
@@ -139,6 +139,6 @@ The [Consumer Financial Protection Bureau's small business resources](https://ww
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

@@ -11,10 +11,7 @@ author_slug: "david-kim"
 author_title: "Tax Strategist"
 author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
 slug: "the-july-6-rd-tax-refund-deadline-most-small-businesses-are-missing"
-affiliate_disclosure: true
----
-
-If you did R&D work between 2022 and 2024 and your tax bills felt higher than they should have been, you weren't imagining it. A lot of small business owners I've talked to recently have a vague sense that something changed with how they had to handle research and development costs, but they're fuzzy on the details. Here's the situation: a 2022 rule forced businesses to spread out their R&D deductions over five years instead of writing them off immediately. For many companies, that meant paying taxes on income that their R&D spending had already consumed. The good news is that rule has been reversed. The complicated news is that there's a hard deadline, July 6, 2026, to go back and reclaim what you overpaid. And a lot of businesses are going to miss it.
+affiliate_disclosure: true, If you did R&D work between 2022 and 2024 and your tax bills felt higher than they should have been, you weren't imagining it. A lot of small business owners I've talked to recently have a vague sense that something changed with how they had to handle research and development costs, but they're fuzzy on the details. Here's the situation: a 2022 rule forced businesses to spread out their R&D deductions over five years instead of writing them off immediately. For many companies, that meant paying taxes on income that their R&D spending had already consumed. The good news is that rule has been reversed. The complicated news is that there's a hard deadline, July 6, 2026, to go back and reclaim what you overpaid. And a lot of businesses are going to miss it.
 
 ## What Changed, and Why It Matters Right Now
 
@@ -60,12 +57,12 @@ Talk to a CPA or R&D tax specialist who's familiar with the OBBBA changes. Be up
 
 ## Sources
 
-- [The July 6 Deadline You Can't Afford to Miss: R&D Tax Credits and Amended Returns – CSSI Services](https://cssiservices.com/amended-return-deadline-rd-tax-credit) (June 2026)
-- [2026 R&D Tax Credit Field Guide: OBBBA Changes & Deadlines – Strike Tax](https://www.striketax.com/journal/2026-rd-tax-credit-field-guide) (February 12, 2026)
-- [Filing Deadline 2026: Key R&D Tax Credit Dates – Leyton](https://leyton.com/us/insights/articles/filling-deadline-2026-key-rd-tax-credit-dates/) (January 20, 2026)
-- [OBBBA: R&D Tax Credit Fix – Adams Brown CPA](https://www.adamsbrowncpa.com/blog/research-and-development-rd-tax-credit-fix/) (October 15, 2025)
-- [Should Owners Amend Past Returns to Claim R&D Tax Credits? – JLK Rosenberger](https://jlkrosenberger.com/amend-tax-returns-rd-tax-credit-2026-deadline/) (March 31, 2026)
-- [The R&D Tax Credit in 2026: Key Changes to Be Aware Of – CSSI Services](https://cssiservices.com/rd-tax-credit-in-2026/) (February 13, 2026)
+- [The July 6 Deadline You Can't Afford to Miss: R&D Tax Credits and Amended Returns, CSSI Services](https://cssiservices.com/amended-return-deadline-rd-tax-credit) (June 2026)
+- [2026 R&D Tax Credit Field Guide: OBBBA Changes & Deadlines, Strike Tax](https://www.striketax.com/journal/2026-rd-tax-credit-field-guide) (February 12, 2026)
+- [Filing Deadline 2026: Key R&D Tax Credit Dates, Leyton](https://leyton.com/us/insights/articles/filling-deadline-2026-key-rd-tax-credit-dates/) (January 20, 2026)
+- [OBBBA: R&D Tax Credit Fix, Adams Brown CPA](https://www.adamsbrowncpa.com/blog/research-and-development-rd-tax-credit-fix/) (October 15, 2025)
+- [Should Owners Amend Past Returns to Claim R&D Tax Credits?, JLK Rosenberger](https://jlkrosenberger.com/amend-tax-returns-rd-tax-credit-2026-deadline/) (March 31, 2026)
+- [The R&D Tax Credit in 2026: Key Changes to Be Aware Of, CSSI Services](https://cssiservices.com/rd-tax-credit-in-2026/) (February 13, 2026)
 
 ## Helpful Resources
 
@@ -88,6 +85,6 @@ Talk to a CPA or R&D tax specialist who's familiar with the OBBBA changes. Be up
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

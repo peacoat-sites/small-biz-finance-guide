@@ -13,16 +13,16 @@ author_bio: "Amanda Pierce has run her own small business and knows the differen
 slug: "small-business-employee-benefits"
 affiliate_disclosure: true
 faqs:
-  - q: "Can I offer benefits to some employees but not others?"
-    a: "Yes, but there are rules. You can legally create different benefit eligibility based on employment classification, such as full-time versus part-time, or by job category, but you can't discriminate based on protected characteristics. The IRS and Department of Labor have specific nondiscrimination requirements for certain plan types, including HRAs and retirement plans, so run your structure by a CPA or ERISA attorney before you finalize anything."
-  - q: "Do I have to offer health insurance if I have fewer than 50 employees?"
-    a: "No. The ACA employer mandate applies to businesses with 50 or more full-time equivalent employees. Below that threshold, health insurance is entirely voluntary. That said, voluntary doesn't mean strategically optional in a tight labor market."
-  - q: "Is there a tax break for offering employee benefits?"
-    a: "Yes, in most cases. Employer contributions to health insurance premiums, retirement plans, and certain other benefits are generally deductible as business expenses. Some structures also reduce your payroll tax burden. The specifics depend on plan type and business structure, so talk to your CPA rather than relying on generalities here."
-  - q: "What's the minimum I can offer and still be competitive?"
-    a: "Honestly, it depends heavily on your industry and local market. In most U.S. markets, a combination of health coverage (even partial), 10 or more PTO days, and some form of retirement contribution puts you ahead of a large number of small businesses. That's the floor worth targeting before adding anything else."
-  - q: "How do I find out what my employees actually want?"
-    a: "Ask them. Directly. A short anonymous survey with four or five benefit options and their approximate cost to the employee is more useful than any industry report. Most owners are surprised by the results. Employees often rank things like telecommuting flexibility and clear PTO above perks that cost employers far more."
+ - q: "Can I offer benefits to some employees but not others?"
+ a: "Yes, but there are rules. You can legally create different benefit eligibility based on employment classification, such as full-time versus part-time, or by job category, but you can't discriminate based on protected characteristics. The IRS and Department of Labor have specific nondiscrimination requirements for certain plan types, including HRAs and retirement plans, so run your structure by a CPA or ERISA attorney before you finalize anything."
+ - q: "Do I have to offer health insurance if I have fewer than 50 employees?"
+ a: "No. The ACA employer mandate applies to businesses with 50 or more full-time equivalent employees. Below that threshold, health insurance is entirely voluntary. That said, voluntary doesn't mean strategically optional in a tight labor market."
+ - q: "Is there a tax break for offering employee benefits?"
+ a: "Yes, in most cases. Employer contributions to health insurance premiums, retirement plans, and certain other benefits are generally deductible as business expenses. Some structures also reduce your payroll tax burden. The specifics depend on plan type and business structure, so talk to your CPA rather than relying on generalities here."
+ - q: "What's the minimum I can offer and still be competitive?"
+ a: "Honestly, it depends heavily on your industry and local market. In most U.S. markets, a combination of health coverage (even partial), 10 or more PTO days, and some form of retirement contribution puts you ahead of a large number of small businesses. That's the floor worth targeting before adding anything else."
+ - q: "How do I find out what my employees actually want?"
+ a: "Ask them. Directly. A short anonymous survey with four or five benefit options and their approximate cost to the employee is more useful than any industry report. Most owners are surprised by the results. Employees often rank things like telecommuting flexibility and clear PTO above perks that cost employers far more."
 ---
 
 Most articles about small business employee benefits spend 800 words telling you that "benefits help attract talent" before getting to anything useful. You already know that. What you probably don't know is which benefits actually move the needle for small teams, what you can realistically afford before you're profitable, and where most owners waste money offering things their employees don't actually want.
@@ -116,6 +116,6 @@ Past 20 employees, you're in a different conversation entirely, with more carrie
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

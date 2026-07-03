@@ -11,10 +11,7 @@ author_slug: "sarah-johnson"
 author_title: "CPA & Lead Editor"
 author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
 slug: "the-new-1099-thresholds-small-business-owners-must-know-in-2026"
-affiliate_disclosure: true
----
-
-You're sitting in QuickBooks in June 2026, trying to reconcile your contractor payments, and you realize you have no idea whether to send Maria a 1099-NEC this year. She did $1,400 of work for you. Last year, that was a clear yes. This year? It depends on rules that changed in the middle of your fiscal year, that your accounting software may not have caught up with, and that multiple articles on the first page of Google are still getting wrong.
+affiliate_disclosure: true, You're sitting in QuickBooks in June 2026, trying to reconcile your contractor payments, and you realize you have no idea whether to send Maria a 1099-NEC this year. She did $1,400 of work for you. Last year, that was a clear yes. This year? It depends on rules that changed in the middle of your fiscal year, that your accounting software may not have caught up with, and that multiple articles on the first page of Google are still getting wrong.
 
 I've seen this exact situation unfold a dozen times in the last six months. Two major 1099 thresholds changed at once, they changed in opposite directions from what most people expected, and they conflict with state rules in ways nobody warned small business owners about. Let's fix that.
 
@@ -71,7 +68,7 @@ The bottom line is that 2026 simplified some things and complicated others at th
 ## Sources
 
 - [Form 1099-K Reporting Requirements for 2026 | Tab Service Company](https://www.tabservice.com/blog/form-1099-k-reporting-requirements/) (June 2026)
-- [1099-K Threshold 2026: Venmo, PayPal, Cash App ,  Tax47](https://www.ehm-tech.com/tax-calculator-us/blog/1099-k-threshold-2026-venmo-paypal/) (May 2026)
+- [1099-K Threshold 2026: Venmo, PayPal, Cash App , Tax47](https://www.ehm-tech.com/tax-calculator-us/blog/1099-k-threshold-2026-venmo-paypal/) (May 2026)
 - [Small Business Tax Changes for 2026 | 1-800Accountant](https://1800accountant.com/blog/tax-changes-for-2026) (March 10, 2026)
 - [2026 1099-K Rules for Venmo & PayPal: The $600 Fact-Check | The Data Pulse Hub](https://thedatapulsehub.com/2026/01/27/2026-1099-k-venmo-paypal-rules/) (January 27, 2026)
 - [About Current Tax Laws | Venmo (official)](https://help.venmo.com/cs/articles/about-current-tax-laws-vhel103) (2026)
@@ -97,6 +94,6 @@ The bottom line is that 2026 simplified some things and complicated others at th
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

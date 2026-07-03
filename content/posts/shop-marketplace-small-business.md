@@ -13,16 +13,16 @@ author_bio: "Michael Torres spent years as a small business banker before moving
 slug: "shop-marketplace-small-business"
 affiliate_disclosure: true
 faqs:
-  - q: "Who qualifies for the SHOP small business health care tax credit?"
-    a: "You need fewer than 25 full-time equivalent employees, average annual wages below the IRS threshold (roughly $56,000 per FTE as of 2026, adjusted annually), and you must purchase coverage through a SHOP marketplace plan. The credit phases out as employee count and wages increase, so businesses near the upper limits get a partial credit. Confirm current wage thresholds with your CPA or at the IRS small business tax center before claiming."
-  - q: "Can I use SHOP if I'm self-employed with no employees?"
-    a: "No. Sole proprietors with zero employees don't qualify. SHOP is designed for employers offering coverage to W-2 employees. If you're a solo operator, your options are the individual ACA marketplace or a health sharing plan, neither of which qualifies for the SHOP tax credit."
-  - q: "Is SHOP available in every state?"
-    a: "The federal SHOP marketplace operates in states that use HealthCare.gov. Several states, including California, Colorado, and New York, run their own SHOP-equivalent exchanges with separate enrollment portals and plan inventories. A small number of states have very limited carrier participation, making SHOP less practical in practice regardless of eligibility. Check availability by county before assuming coverage will be competitive."
-  - q: "How does SHOP compare to using a private insurance broker?"
-    a: "A private broker can access a wider range of carriers and plans than SHOP typically offers, especially in smaller markets. The tradeoff is that purchasing outside SHOP disqualifies you from the federal tax credit. Run the numbers: if you qualify for a substantial credit, SHOP's plan options may be worth accepting even if they're not your first choice. If your wage profile puts you at a partial or zero credit, a broker often gets you better value."
-  - q: "Can I offer employees a choice of plans through SHOP?"
-    a: "Yes. The federal SHOP marketplace allows employers to offer employees a choice within a single metal tier (e.g., multiple silver plans from different carriers). Some state exchanges offer similar flexibility. This is one of SHOP's underappreciated features, since traditional small group insurance often locks everyone into a single plan. Check your state exchange rules, as the exact mechanics vary."
+ - q: "Who qualifies for the SHOP small business health care tax credit?"
+ a: "You need fewer than 25 full-time equivalent employees, average annual wages below the IRS threshold (roughly $56,000 per FTE as of 2026, adjusted annually), and you must purchase coverage through a SHOP marketplace plan. The credit phases out as employee count and wages increase, so businesses near the upper limits get a partial credit. Confirm current wage thresholds with your CPA or at the IRS small business tax center before claiming."
+ - q: "Can I use SHOP if I'm self-employed with no employees?"
+ a: "No. Sole proprietors with zero employees don't qualify. SHOP is designed for employers offering coverage to W-2 employees. If you're a solo operator, your options are the individual ACA marketplace or a health sharing plan, neither of which qualifies for the SHOP tax credit."
+ - q: "Is SHOP available in every state?"
+ a: "The federal SHOP marketplace operates in states that use HealthCare.gov. Several states, including California, Colorado, and New York, run their own SHOP-equivalent exchanges with separate enrollment portals and plan inventories. A small number of states have very limited carrier participation, making SHOP less practical in practice regardless of eligibility. Check availability by county before assuming coverage will be competitive."
+ - q: "How does SHOP compare to using a private insurance broker?"
+ a: "A private broker can access a wider range of carriers and plans than SHOP typically offers, especially in smaller markets. The tradeoff is that purchasing outside SHOP disqualifies you from the federal tax credit. Run the numbers: if you qualify for a substantial credit, SHOP's plan options may be worth accepting even if they're not your first choice. If your wage profile puts you at a partial or zero credit, a broker often gets you better value."
+ - q: "Can I offer employees a choice of plans through SHOP?"
+ a: "Yes. The federal SHOP marketplace allows employers to offer employees a choice within a single metal tier (e.g., multiple silver plans from different carriers). Some state exchanges offer similar flexibility. This is one of SHOP's underappreciated features, since traditional small group insurance often locks everyone into a single plan. Check your state exchange rules, as the exact mechanics vary."
 ---
 
 Most articles about the SHOP Marketplace bury the useful stuff under three paragraphs of cheerful overview. Let me skip that part.
@@ -111,6 +111,6 @@ One often-overlooked resource: [SCORE](https://www.score.org/) offers free mento
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

@@ -11,10 +11,7 @@ author_slug: "rachel-green"
 author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
 slug: "sba-doubles-its-combined-loan-cap-to-10-million-this-july"
-affiliate_disclosure: true
----
-
-You're sitting across from your banker in early 2025, trying to finance the acquisition of a manufacturing facility. The business is solid, the deal pencils out, but you keep hitting the same wall: your existing 7(a) balance means you've got almost no room left under the $5 million combined cap. The banker shrugs. The deal dies. I've seen that exact scenario play out more times than I'd like to count, and for years the honest answer was just "the SBA math doesn't work here."
+affiliate_disclosure: true, You're sitting across from your banker in early 2025, trying to finance the acquisition of a manufacturing facility. The business is solid, the deal pencils out, but you keep hitting the same wall: your existing 7(a) balance means you've got almost no room left under the $5 million combined cap. The banker shrugs. The deal dies. I've seen that exact scenario play out more times than I'd like to count, and for years the honest answer was just "the SBA math doesn't work here."
 
 That answer is about to change.
 
@@ -88,6 +85,6 @@ The cap doubled. The opportunity is real. The paperwork still needs to be right.
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

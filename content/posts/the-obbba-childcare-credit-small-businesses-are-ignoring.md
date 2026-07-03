@@ -11,10 +11,7 @@ author_slug: "amanda-pierce"
 author_title: "Operations Finance Writer"
 author_bio: "Amanda Pierce has run her own small business and knows the difference between profitability on paper and actually having money in the bank. She specializes in the operational side of business finances: invoicing systems, cash flow forecasting, dealing with slow-paying clients, and managing the day-to-day money reality of running a small business. At Small Biz Finance Guide, she covers cash flow tools, payment systems, and operational finance."
 slug: "the-obbba-childcare-credit-small-businesses-are-ignoring"
-affiliate_disclosure: true
----
-
-A client called me in March, frustrated. She runs a 22-person marketing agency, pays good salaries, and has been losing junior employees to larger firms that offer better family benefits. She'd heard something about a childcare tax credit but assumed it was for big corporations with on-site daycare centers. "That's not us," she said. She was wrong, and that assumption is costing her real money right now.
+affiliate_disclosure: true, A client called me in March, frustrated. She runs a 22-person marketing agency, pays good salaries, and has been losing junior employees to larger firms that offer better family benefits. She'd heard something about a childcare tax credit but assumed it was for big corporations with on-site daycare centers. "That's not us," she said. She was wrong, and that assumption is costing her real money right now.
 
 The One Big Beautiful Bill Act, signed on July 4, 2025, quietly did something that should have every small business owner paying attention: it quadrupled the Section 45F employer childcare tax credit, effective January 1, 2026. The cap for eligible small businesses jumped from $150,000 to $600,000. The credit rate for those same businesses went from 25% to 50% of qualified childcare expenses. That's not a tweak. That's a complete rebuild of a credit that barely anyone was using before, and most business owners still haven't heard about it.
 
@@ -68,12 +65,12 @@ My client is now talking to her CPA about a pooling arrangement with two other a
 
 ## Sources
 
-- [IRS ,  Employer-provided child care credit: Tax year 2026 and later](https://www.irs.gov/businesses/small-businesses-self-employed/employer-provided-child-care-credit-tax-year-2026-and-later) (June 2026)
-- [selfemployed.com ,  Employer Childcare Credit Quadruples for Small Businesses in 2026](https://www.selfemployed.com/news/employer-childcare-credit-2026/) (April 17, 2026)
-- [Thomson Reuters ,  Understanding OBBB Enhancements to Employer Leave and Childcare Credits](https://tax.thomsonreuters.com/news/understanding-obbb-enhancements-to-employer-leave-and-childcare-credits/) (February 4, 2026)
-- [Jackson Lewis ,  Federal OBBBA Round-Up: What Employers Need to Know Now](https://www.jacksonlewis.com/insights/federal-obbba-round-up-what-employers-need-know-now) (September 2025, updated 2026)
-- [KLR ,  2026 OBBBA Tax Changes for Businesses: Key Credits, QBI, and More](https://kahnlitwin.com/blogs/tax-blog/what-the-obbba-means-for-your-business-in-2026) (December 29, 2025)
-- [Financial Dream Team ,  OBBBA Supercharges the Employer Childcare Credit for 2026](https://www.financialdreamteam.com/tax/obbba-supercharges-the-employer-childcare-credit-for-2026/) (February 17, 2026)
+- [IRS , Employer-provided child care credit: Tax year 2026 and later](https://www.irs.gov/businesses/small-businesses-self-employed/employer-provided-child-care-credit-tax-year-2026-and-later) (June 2026)
+- [selfemployed.com , Employer Childcare Credit Quadruples for Small Businesses in 2026](https://www.selfemployed.com/news/employer-childcare-credit-2026/) (April 17, 2026)
+- [Thomson Reuters , Understanding OBBB Enhancements to Employer Leave and Childcare Credits](https://tax.thomsonreuters.com/news/understanding-obbb-enhancements-to-employer-leave-and-childcare-credits/) (February 4, 2026)
+- [Jackson Lewis , Federal OBBBA Round-Up: What Employers Need to Know Now](https://www.jacksonlewis.com/insights/federal-obbba-round-up-what-employers-need-know-now) (September 2025, updated 2026)
+- [KLR , 2026 OBBBA Tax Changes for Businesses: Key Credits, QBI, and More](https://kahnlitwin.com/blogs/tax-blog/what-the-obbba-means-for-your-business-in-2026) (December 29, 2025)
+- [Financial Dream Team , OBBBA Supercharges the Employer Childcare Credit for 2026](https://www.financialdreamteam.com/tax/obbba-supercharges-the-employer-childcare-credit-for-2026/) (February 17, 2026)
 
 ## Helpful Resources
 
@@ -96,6 +93,6 @@ My client is now talking to her CPA about a pooling arrangement with two other a
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

@@ -11,9 +11,7 @@ author_slug: "rachel-green"
 author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
 slug: "sba-loans-now-require-100-us-citizenship-what-small-business-owners-mu"
-affiliate_disclosure: true
----
-Something most people assumed about SBA loans turned out to be completely wrong. The fallout is hitting right now.
+affiliate_disclosure: true, Something most people assumed about SBA loans turned out to be completely wrong. The fallout is hitting right now.
 
 For decades, lawful permanent residents, the 12.8 million green card holders working and paying taxes in the U.S., could access the SBA's flagship lending programs. That ended on March 1, 2026. The SBA now requires 100% citizenship or national status for all direct and indirect business owners to qualify for 7(a) and 504 loans. Not 51%. Not a controlling stake. Every single owner at every layer. A business where one partner holds a 1% stake and has a green card gets disqualified completely. In April 2026, the SBA extended the same rule to microloans and Surety Bond Guarantees, essentially closing off every lending channel the agency operates.
 

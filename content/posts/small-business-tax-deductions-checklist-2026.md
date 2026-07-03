@@ -13,16 +13,16 @@ author_bio: "David Kim is a tax strategist who works with self-employed individu
 slug: "small-business-tax-deductions-checklist-2026"
 affiliate_disclosure: true
 faqs:
-  - q: "Can I deduct a cell phone I use for both personal and business purposes?"
-    a: "Yes, but only the business-use portion. If you use your phone about 70% for business, you can deduct 70% of the bill. The honest answer is that most people estimate this number rather than tracking it exactly, but keeping some documentation of how you arrived at the percentage is worth the five minutes."
-  - q: "Is the home office deduction really worth the audit risk?"
-    a: "If you genuinely qualify, yes. The simplified method gives you a clean, easy deduction with minimal documentation. The regular method can be significantly larger but requires more record-keeping. Don't skip a legitimate deduction because of an audit risk that's often exaggerated -- but do keep the documentation to support it."
-  - q: "What if I forgot to track expenses throughout the year?"
-    a: "Go through your bank statements and credit card records and reconstruct what you can. It's not ideal, but it's far better than leaving deductions on the table. Going forward, a bookkeeping app like Wave (free) or QuickBooks Self-Employed will make this automatic."
-  - q: "Do I need an LLC to take business deductions?"
-    a: "No. Sole proprietors filing a Schedule C can take all the same deductions. Your legal entity structure affects liability and, in some cases, the tax rate on your income, but it's not a prerequisite for deducting legitimate business expenses."
-  - q: "How do I deduct a business trip that also had personal days mixed in?"
-    a: "The transportation costs (airfare, for example) are generally deductible if the primary purpose was business. Lodging and meals for the personal days are not deductible. Keep your meeting calendar, any conference agendas, and be specific in your records about which days were business and which weren't. This one's genuinely fact-specific, so ask your CPA before you file."
+ - q: "Can I deduct a cell phone I use for both personal and business purposes?"
+ a: "Yes, but only the business-use portion. If you use your phone about 70% for business, you can deduct 70% of the bill. The honest answer is that most people estimate this number rather than tracking it exactly, but keeping some documentation of how you arrived at the percentage is worth the five minutes."
+ - q: "Is the home office deduction really worth the audit risk?"
+ a: "If you genuinely qualify, yes. The simplified method gives you a clean, easy deduction with minimal documentation. The regular method can be significantly larger but requires more record-keeping. Don't skip a legitimate deduction because of an audit risk that's often exaggerated, but do keep the documentation to support it."
+ - q: "What if I forgot to track expenses throughout the year?"
+ a: "Go through your bank statements and credit card records and reconstruct what you can. It's not ideal, but it's far better than leaving deductions on the table. Going forward, a bookkeeping app like Wave (free) or QuickBooks Self-Employed will make this automatic."
+ - q: "Do I need an LLC to take business deductions?"
+ a: "No. Sole proprietors filing a Schedule C can take all the same deductions. Your legal entity structure affects liability and, in some cases, the tax rate on your income, but it's not a prerequisite for deducting legitimate business expenses."
+ - q: "How do I deduct a business trip that also had personal days mixed in?"
+ a: "The transportation costs (airfare, for example) are generally deductible if the primary purpose was business. Lodging and meals for the personal days are not deductible. Keep your meeting calendar, any conference agendas, and be specific in your records about which days were business and which weren't. This one's genuinely fact-specific, so ask your CPA before you file."
 ---
 Most small business tax deduction articles hand you a 47-item checklist with zero context, no priority ranking, and no mention of the documentation you've never actually kept. That's not a checklist. That's asking for trouble.
 

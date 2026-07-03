@@ -13,16 +13,16 @@ author_bio: "David Kim is a tax strategist who works with self-employed individu
 slug: "overtime-rules-small-business"
 affiliate_disclosure: true
 faqs:
-  - q: "Does overtime apply to part-time employees?"
-    a: "Yes, if a part-time nonexempt employee works more than 40 hours in a workweek, they're owed overtime for those excess hours at 1.5 times their regular rate. The FLSA doesn't carve out an exception for part-time status."
-  - q: "Can I give comp time instead of overtime pay?"
-    a: "Private sector employers generally cannot substitute comp time for overtime pay under the FLSA. That option is available for state and local government employers, but not private businesses. Some states have additional rules, so confirm with an employment attorney if you're unsure."
-  - q: "What if my employee agrees to waive overtime?"
-    a: "An employee cannot legally waive their right to overtime under the FLSA, even in writing, even voluntarily. If you owe overtime, you owe it, full stop. An agreement to the contrary is unenforceable."
-  - q: "How far back can an employee sue for unpaid overtime?"
-    a: "Under federal law, the statute of limitations is two years for unintentional violations and three years for willful violations. Some states allow longer lookback periods. This is one reason clean records matter so much."
-  - q: "Are salaried managers automatically exempt from overtime?"
-    a: "No. Salary alone doesn't create exemption. The employee's weekly salary must meet the current federal threshold (verify this currently, as it's been in flux), and their job duties must genuinely meet one of the FLSA's exemption categories. Consult a CPA or employment attorney before classifying any position as exempt."
+ - q: "Does overtime apply to part-time employees?"
+ a: "Yes, if a part-time nonexempt employee works more than 40 hours in a workweek, they're owed overtime for those excess hours at 1.5 times their regular rate. The FLSA doesn't carve out an exception for part-time status."
+ - q: "Can I give comp time instead of overtime pay?"
+ a: "Private sector employers generally cannot substitute comp time for overtime pay under the FLSA. That option is available for state and local government employers, but not private businesses. Some states have additional rules, so confirm with an employment attorney if you're unsure."
+ - q: "What if my employee agrees to waive overtime?"
+ a: "An employee cannot legally waive their right to overtime under the FLSA, even in writing, even voluntarily. If you owe overtime, you owe it, full stop. An agreement to the contrary is unenforceable."
+ - q: "How far back can an employee sue for unpaid overtime?"
+ a: "Under federal law, the statute of limitations is two years for unintentional violations and three years for willful violations. Some states allow longer lookback periods. This is one reason clean records matter so much."
+ - q: "Are salaried managers automatically exempt from overtime?"
+ a: "No. Salary alone doesn't create exemption. The employee's weekly salary must meet the current federal threshold (verify this currently, as it's been in flux), and their job duties must genuinely meet one of the FLSA's exemption categories. Consult a CPA or employment attorney before classifying any position as exempt."
 ---
 Most small business owners I talk to are operating on a version of overtime law that's about five years out of date, half-remembered from when they hired their first employee, and honestly just wrong in a few key places. That's not a criticism. It's genuinely confusing, and the federal government hasn't made it easier.
 

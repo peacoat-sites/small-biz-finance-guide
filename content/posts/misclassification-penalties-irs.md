@@ -13,16 +13,16 @@ author_bio: "David Kim is a tax strategist who works with self-employed individu
 slug: "misclassification-penalties-irs"
 affiliate_disclosure: true
 faqs:
-  - q: "What's the difference between a misclassification penalty and back taxes?"
-    a: "Back taxes are the payroll taxes that should have been withheld and paid but weren't. Penalties are additional amounts imposed on top of those taxes for the violation itself. You'll typically owe both, plus interest."
-  - q: "Can I be personally liable for my company's misclassification penalties?"
-    a: "Yes. The Trust Fund Recovery Penalty allows the IRS to pursue individuals who were responsible for collecting and paying payroll taxes but willfully failed to do so. This can reach through an LLC or corporation and hold you personally liable for a portion of what's owed."
-  - q: "Does using a written independent contractor agreement protect me?"
-    a: "It helps, but it doesn't protect you if the actual working relationship looks like employment. The IRS will look past the contract and examine how the relationship actually functioned. A contract that says 'contractor' while the worker follows your schedule, uses your tools, and works exclusively for you is not a defense."
-  - q: "What if the worker themselves prefers to be a contractor?"
-    a: "The worker's preference is irrelevant for IRS purposes. If the economic reality of the relationship meets the criteria for employment, you're liable for the taxes regardless of what the worker wanted or agreed to."
-  - q: "Should I file Form SS-8 to ask the IRS to determine a worker's status?"
-    a: "Be careful with this one. Form SS-8 is a formal request for a determination, and once filed, it puts the IRS on notice and starts a process you can't easily stop. I'd recommend talking to a CPA before filing it. In most situations, getting professional advice first and making your own defensible classification is a better approach than inviting IRS scrutiny proactively."
+ - q: "What's the difference between a misclassification penalty and back taxes?"
+ a: "Back taxes are the payroll taxes that should have been withheld and paid but weren't. Penalties are additional amounts imposed on top of those taxes for the violation itself. You'll typically owe both, plus interest."
+ - q: "Can I be personally liable for my company's misclassification penalties?"
+ a: "Yes. The Trust Fund Recovery Penalty allows the IRS to pursue individuals who were responsible for collecting and paying payroll taxes but willfully failed to do so. This can reach through an LLC or corporation and hold you personally liable for a portion of what's owed."
+ - q: "Does using a written independent contractor agreement protect me?"
+ a: "It helps, but it doesn't protect you if the actual working relationship looks like employment. The IRS will look past the contract and examine how the relationship actually functioned. A contract that says 'contractor' while the worker follows your schedule, uses your tools, and works exclusively for you is not a defense."
+ - q: "What if the worker themselves prefers to be a contractor?"
+ a: "The worker's preference is irrelevant for IRS purposes. If the economic reality of the relationship meets the criteria for employment, you're liable for the taxes regardless of what the worker wanted or agreed to."
+ - q: "Should I file Form SS-8 to ask the IRS to determine a worker's status?"
+ a: "Be careful with this one. Form SS-8 is a formal request for a determination, and once filed, it puts the IRS on notice and starts a process you can't easily stop. I'd recommend talking to a CPA before filing it. In most situations, getting professional advice first and making your own defensible classification is a better approach than inviting IRS scrutiny proactively."
 ---
 
 A business owner I worked with a few years back got a letter from the IRS that made her physically ill. She'd been paying six contractors for three years. Good people, reliable work, no problems. Except the IRS decided two of them were actually employees, and suddenly she owed back payroll taxes, interest, and penalties that added up to more than she'd made in profit that entire year. She hadn't done anything she thought was wrong. That's the part that still sticks with me.
@@ -116,6 +116,6 @@ The honest answer for most businesses with workers who look and function like em
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

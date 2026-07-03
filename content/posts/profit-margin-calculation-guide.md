@@ -9,16 +9,16 @@ tags: ["profit", "margin", "calculation", "guide"]
 slug: "profit-margin-calculation-guide"
 affiliate_disclosure: true
 faqs:
-  - q: "What's the difference between profit margin and markup?"
-    a: "They sound similar but they measure different things. Markup is calculated on cost. Margin is calculated on revenue. If something costs you $60 and you sell it for $100, your markup is 67% ($40 / $60). Your margin is 40% ($40 / $100). Using markup when you should be using margin is a classic pricing error that makes your profitability look better than it is. Always price using margin if you want an accurate picture of what you're keeping."
-  - q: "How often should I calculate my profit margins?"
-    a: "Monthly, at minimum. Many small business owners only look at this quarterly or annually, which means problems can fester for months before they're caught. Set up a simple monthly routine: pull your revenue, pull your COGS, pull your operating expenses, run the three calculations. It should take you less than 30 minutes once your books are organized."
-  - q: "Can I have a high revenue and a bad profit margin at the same time?"
-    a: "Absolutely, and this is more common than you'd think. Revenue is the top line. Margin is what's left after costs. A business doing $1 million in annual revenue with a 3% net margin is keeping $30,000. A business doing $300,000 with a 25% net margin is keeping $75,000. More revenue doesn't automatically mean more profit. This is why gross revenue alone is a terrible measure of business health."
-  - q: "Should I include my own salary when calculating profit margin?"
-    a: "Yes. If you're working in the business, your compensation should be treated as an operating expense. If it isn't, your margins are overstated. This is especially important when you're evaluating whether the business can eventually support an employee doing your role, or when you're applying for financing. Lenders and buyers will include it whether you do or not."
-  - q: "What should I do if my profit margins are too low?"
-    a: "Start by figuring out which type of margin is the problem. Low gross margin usually means your pricing is too low or your direct costs are too high. Low operating margin usually means overhead is eating you alive. Low net margin might mean debt service or tax exposure. Each diagnosis has a different fix. Don't just raise prices reflexively. Do the math first, find the leak, and fix that specifically."
+ - q: "What's the difference between profit margin and markup?"
+ a: "They sound similar but they measure different things. Markup is calculated on cost. Margin is calculated on revenue. If something costs you $60 and you sell it for $100, your markup is 67% ($40 / $60). Your margin is 40% ($40 / $100). Using markup when you should be using margin is a classic pricing error that makes your profitability look better than it is. Always price using margin if you want an accurate picture of what you're keeping."
+ - q: "How often should I calculate my profit margins?"
+ a: "Monthly, at minimum. Many small business owners only look at this quarterly or annually, which means problems can fester for months before they're caught. Set up a simple monthly routine: pull your revenue, pull your COGS, pull your operating expenses, run the three calculations. It should take you less than 30 minutes once your books are organized."
+ - q: "Can I have a high revenue and a bad profit margin at the same time?"
+ a: "Absolutely, and this is more common than you'd think. Revenue is the top line. Margin is what's left after costs. A business doing $1 million in annual revenue with a 3% net margin is keeping $30,000. A business doing $300,000 with a 25% net margin is keeping $75,000. More revenue doesn't automatically mean more profit. This is why gross revenue alone is a terrible measure of business health."
+ - q: "Should I include my own salary when calculating profit margin?"
+ a: "Yes. If you're working in the business, your compensation should be treated as an operating expense. If it isn't, your margins are overstated. This is especially important when you're evaluating whether the business can eventually support an employee doing your role, or when you're applying for financing. Lenders and buyers will include it whether you do or not."
+ - q: "What should I do if my profit margins are too low?"
+ a: "Start by figuring out which type of margin is the problem. Low gross margin usually means your pricing is too low or your direct costs are too high. Low operating margin usually means overhead is eating you alive. Low net margin might mean debt service or tax exposure. Each diagnosis has a different fix. Don't just raise prices reflexively. Do the math first, find the leak, and fix that specifically."
 author: "David Kim"
 author_slug: "david-kim"
 author_title: "Tax Strategist"
@@ -55,7 +55,7 @@ Let's use a real example throughout. Say you own a small catering business. In a
 
 Your Cost of Goods Sold (COGS) includes food, packaging, and the wages of the people who physically prepared and delivered the food. Let's say that totals $13,500.
 
-Gross Profit = $30,000 - $13,500 = $16,500  
+Gross Profit = $30,000 - $13,500 = $16,500 
 Gross Margin = $16,500 / $30,000 x 100 = **55%**
 
 That 55% is what you have to work with before you pay for anything else. Whether that's good depends entirely on your industry. Restaurants and food service businesses often operate with gross margins between 30% and 70%, so 55% is reasonable here. Software companies might run 70-80%. Grocery stores sometimes operate at 25% or less.
@@ -68,7 +68,7 @@ Operating Income = Gross Profit minus Operating Expenses
 
 Your operating expenses include your kitchen rental, business insurance, your own salary or owner's draw as a business expense, marketing, software, phone bill. Let's say those total $10,000.
 
-Operating Income = $16,500 - $10,000 = $6,500  
+Operating Income = $16,500 - $10,000 = $6,500 
 Operating Margin = $6,500 / $30,000 x 100 = **21.7%**
 
 ### Step 3: Calculate Net Profit Margin
@@ -77,7 +77,7 @@ Operating Margin = $6,500 / $30,000 x 100 = **21.7%**
 
 Net income is what's left after taxes and interest. Say you're paying $400/month on a small business loan, and your estimated tax set-aside is $1,200.
 
-Net Income = $6,500 - $400 - $1,200 = $4,900  
+Net Income = $6,500 - $400 - $1,200 = $4,900 
 Net Margin = $4,900 / $30,000 x 100 = **16.3%**
 
 That's genuinely healthy for a small food service business. But here's the thing: if you hadn't done this math, you might have seen $30,000 come in and felt great, without realizing how much of it was already spoken for.

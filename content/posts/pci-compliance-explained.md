@@ -13,16 +13,16 @@ author_bio: "Sarah Johnson is a CPA who has worked exclusively with small busine
 slug: "pci-compliance-explained"
 affiliate_disclosure: true
 faqs:
-  - q: "Does PCI compliance apply to me if I only accept payments in person?"
-    a: "Yes. PCI DSS covers all merchants who accept card payments regardless of channel, including in-person, phone, and online. The specific requirements and which SAQ you complete will vary, but in-person-only merchants are not exempt."
-  - q: "What happens if I'm not PCI compliant and there's a breach?"
-    a: "Your processor can assess fines against you, the card brands can charge per-card replacement fees, and you'll likely be required to fund a forensic investigation. Non-compliance at the time of a breach removes most of the liability protections you'd otherwise have under your merchant agreement."
-  - q: "How often do I need to renew or certify my compliance?"
-    a: "Annual SAQ completion is the baseline for most small merchants. Some processors also require quarterly network vulnerability scans if your setup crosses certain thresholds. Check your merchant agreement for specifics."
-  - q: "Is there a difference between being PCI compliant and being secure?"
-    a: "Genuinely, yes, and this is an important distinction. PCI DSS sets a minimum standard. You can be technically compliant and still have meaningful security gaps. Compliance is a floor, not a ceiling."
-  - q: "My payment processor says I'm covered under their compliance umbrella. Is that true?"
-    a: "Partially. Your processor's compliance covers their systems and infrastructure. It doesn't cover your network, devices, physical security, or employee practices. You retain responsibility for the parts of the payment environment you control."
+ - q: "Does PCI compliance apply to me if I only accept payments in person?"
+ a: "Yes. PCI DSS covers all merchants who accept card payments regardless of channel, including in-person, phone, and online. The specific requirements and which SAQ you complete will vary, but in-person-only merchants are not exempt."
+ - q: "What happens if I'm not PCI compliant and there's a breach?"
+ a: "Your processor can assess fines against you, the card brands can charge per-card replacement fees, and you'll likely be required to fund a forensic investigation. Non-compliance at the time of a breach removes most of the liability protections you'd otherwise have under your merchant agreement."
+ - q: "How often do I need to renew or certify my compliance?"
+ a: "Annual SAQ completion is the baseline for most small merchants. Some processors also require quarterly network vulnerability scans if your setup crosses certain thresholds. Check your merchant agreement for specifics."
+ - q: "Is there a difference between being PCI compliant and being secure?"
+ a: "Genuinely, yes, and this is an important distinction. PCI DSS sets a minimum standard. You can be technically compliant and still have meaningful security gaps. Compliance is a floor, not a ceiling."
+ - q: "My payment processor says I'm covered under their compliance umbrella. Is that true?"
+ a: "Partially. Your processor's compliance covers their systems and infrastructure. It doesn't cover your network, devices, physical security, or employee practices. You retain responsibility for the parts of the payment environment you control."
 ---
 
 Most small business owners I talk to think PCI compliance is an IT problem. Something for their web developer to handle, or a checkbox their payment processor already took care of. I'll be honest: I believed a version of that myself until I sat with a restaurant owner in 2019 whose processor had quietly shifted liability onto him after a card data breach. He owed over $40,000 in fines and card replacement costs. That was the moment I went deep on this topic, and what I found was messier and more important than I'd expected.
@@ -94,7 +94,7 @@ If you want to go deeper on the technical side, the PCI SSC's own published guid
 - **[AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)**
 
 
-*Photo: [REINER  SCT](https://www.pexels.com/@reiner-sct-140938854) via Pexels*
+*Photo: [REINER SCT](https://www.pexels.com/@reiner-sct-140938854) via Pexels*
 
 ---
 
@@ -115,6 +115,6 @@ If you want to go deeper on the technical side, the PCI SSC's own published guid
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 
