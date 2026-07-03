@@ -13,16 +13,16 @@ author_bio: "David Kim is a tax strategist who works with self-employed individu
 slug: "what-is-a-good-cash-flow-forecast-template-for-startups"
 affiliate_disclosure: true
 faqs:
-  - q: "How far out should a startup cash flow forecast go?"
-    a: "Practically speaking, 13 weeks at weekly granularity for near-term decisions, and 18 months at monthly granularity for planning and fundraising conversations. Anything beyond 18 months is mostly speculative for a startup, though some investors want a 3-year view; just be clear that the outer years are scenario modeling, not projections."
-  - q: "What's the difference between a cash flow forecast and a P&L projection?"
-    a: "Your P&L shows revenue and expenses on an accrual basis, meaning it records a sale when it happens, not when you actually get paid. Your cash flow forecast shows when money physically enters and leaves your bank account. A company can be profitable on paper and still run out of cash. For startups, the cash flow is the more urgent document."
-  - q: "Can I use Excel or Google Sheets, or do I need software?"
-    a: "Sheets or Excel works fine for most startups under $2 million in revenue. The advantage is full transparency and control. The disadvantage is that a broken formula can silently wreck your model. Whatever you use, protect your formula cells and keep an 'inputs only' section so you're not accidentally overwriting calculations."
-  - q: "How often should I update my cash flow forecast?"
-    a: "Weekly for the 13-week tab. Monthly for the longer-range view. After any significant change (a new contract, a key hire, a delayed payment from a major customer), update immediately. The forecast is only useful if it reflects reality, not the plan you made three months ago."
-  - q: "Do investors actually look at cash flow forecasts, or just revenue projections?"
-    a: "Both, but a savvy investor cares more about your cash flow model than your revenue model. Revenue projections tell them your ambition. Cash flow projections tell them whether you understand your own business. If your cash flow shows you running out of money six months before you claim to hit breakeven, that's a red flag, regardless of how compelling the revenue story sounds."
+ - q: "How far out should a startup cash flow forecast go?"
+ a: "Practically speaking, 13 weeks at weekly granularity for near-term decisions, and 18 months at monthly granularity for planning and fundraising conversations. Anything beyond 18 months is mostly speculative for a startup, though some investors want a 3-year view; just be clear that the outer years are scenario modeling, not projections."
+ - q: "What's the difference between a cash flow forecast and a P&L projection?"
+ a: "Your P&L shows revenue and expenses on an accrual basis, meaning it records a sale when it happens, not when you actually get paid. Your cash flow forecast shows when money physically enters and leaves your bank account. A company can be profitable on paper and still run out of cash. For startups, the cash flow is the more urgent document."
+ - q: "Can I use Excel or Google Sheets, or do I need software?"
+ a: "Sheets or Excel works fine for most startups under $2 million in revenue. The advantage is full transparency and control. The disadvantage is that a broken formula can silently wreck your model. Whatever you use, protect your formula cells and keep an 'inputs only' section so you're not accidentally overwriting calculations."
+ - q: "How often should I update my cash flow forecast?"
+ a: "Weekly for the 13-week tab. Monthly for the longer-range view. After any significant change (a new contract, a key hire, a delayed payment from a major customer), update immediately. The forecast is only useful if it reflects reality, not the plan you made three months ago."
+ - q: "Do investors actually look at cash flow forecasts, or just revenue projections?"
+ a: "Both, but a savvy investor cares more about your cash flow model than your revenue model. Revenue projections tell them your ambition. Cash flow projections tell them whether you understand your own business. If your cash flow shows you running out of money six months before you claim to hit breakeven, that's a red flag, regardless of how compelling the revenue story sounds."
 ---
 Most cash flow forecast templates online are built for businesses that actually exist. They assume you've got last quarter's numbers handy, some kind of revenue pattern that's stayed consistent, and maybe a bookkeeper who knows what "accounts receivable aging" even means. For a startup? You're looking at either something so stripped-down it's useless or a spreadsheet so complex it'll take three hours to fill and still won't tell you when you run out of money.
 
