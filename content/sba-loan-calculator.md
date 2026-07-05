@@ -1,5 +1,6 @@
 ---
 title: "SBA Loan Payment & Fee Calculator"
+hide_title: true
 date: 2026-06-10
 slug: "sba-loan-calculator"
 description: "Calculate monthly payments, SBA guarantee fees, and total borrowing costs for 7(a), 504, and Microloan programs."
