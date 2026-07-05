@@ -1,5 +1,6 @@
 ---
 title: "Business Structure Comparison: LLC vs S-Corp vs C-Corp"
+hide_title: true
 date: 2026-01-01
 draft: false
 description: "Compare sole proprietorship, partnership, LLC, S-corp, and C-corp on liability protection, taxes, and setup, so you pick the right structure for your business."
