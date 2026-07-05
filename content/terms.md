@@ -1,5 +1,6 @@
 ---
 title: "Terms of Use"
+hide_title: true
 description: "Terms of Use for Small Biz Finance Guide."
 layout: "page"
 ---
