@@ -1,5 +1,6 @@
 ---
 title: "About James Okafor"
+hide_title: true
 description: "Learn about James Okafor, the Small Business Finance Editor behind smallbizfinanceguide.com."
 ---
 
