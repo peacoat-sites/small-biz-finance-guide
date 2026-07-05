@@ -1,5 +1,6 @@
 ---
 title: "LLC vs. S-Corp: Which Business Structure Is Right for You?"
+hide_title: true
 date: 2026-06-10
 description: "Use our free interactive decision wizard to find out whether an LLC or S-Corp election makes more financial sense for your small business."
 categories: ["Business Structure"]
