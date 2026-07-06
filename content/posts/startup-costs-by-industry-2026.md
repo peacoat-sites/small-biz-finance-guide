@@ -2,10 +2,10 @@
 title: "How Much Does It Cost to Start a Business in 2026? By Industry"
 image: "https://images.pexels.com/photos/8970670/pexels-photo-8970670.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 description: "Complete startup cost breakdown by industry type. From consulting ($8,500) to manufacturing ($500k+). SBA-sourced data with hidden costs breakdown."
-author: "Jamie Rivera"
-author_slug: "jamie-rivera"
-author_title: "Small Business CFO, 18 years financial consulting"
-author_bio: "18 years helping early-stage founders understand their numbers. I've reviewed 500+ startup budgets. Most are wrong in the same way: they miss working capital and overestimate revenue timeline. This guide is the math."
+author: "David Kim"
+author_slug: "david-kim"
+author_title: "Tax Strategist"
+author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
 date: 2026-06-28
 lastmod: 2026-06-28
 featured_depth: true
