@@ -1,5 +1,5 @@
 ---
-title: "Hsa For Self-Employed"
+title: "HSA For Self-Employed"
 date: 2026-06-24T22:52:14.283364+00:00
 draft: false
 description: "Learn how self-employed workers can open and use an HSA to save on taxes and cover medical costs with pretax dollars."
