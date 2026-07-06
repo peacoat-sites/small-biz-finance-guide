@@ -1,5 +1,5 @@
 ---
-title: "Sep Ira Vs Simple Ira"
+title: "SEP IRA Vs Simple IRA"
 date: 2026-06-10T23:17:07.931802+00:00
 draft: false
 description: "Compare SEP IRA vs SIMPLE IRA to find the best retirement plan for your business. Learn contribution limits, eligibility rules, and key differences to maximize "
