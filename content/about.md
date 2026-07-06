@@ -2,7 +2,9 @@
 title: "About James Okafor"
 hide_title: true
 description: "Learn about James Okafor, the Small Business Finance Editor behind smallbizfinanceguide.com."
----
+layout: "about-page"
+author_slug: "james-okafor"
+author_name: "James Okafor"---
 
 # About James Okafor
 
