@@ -5,6 +5,7 @@ description: "Learn about James Okafor, the Small Business Finance Editor behind
 layout: "about-page"
 author_slug: "amanda-pierce"
 author_name: "James Okafor"
+person_name: "James Okafor"
 ---
 
 # About James Okafor
