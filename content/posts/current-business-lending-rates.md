@@ -35,3 +35,14 @@ The spread between the Fed Funds Rate and the 10-Year Treasury is also worth a g
 These figures come straight from a public Federal Reserve dataset and refresh on their own, so the page shows the same live benchmark to every reader and links back to the source. Use it to sanity-check any financing offer: if a lender's "great rate" is several points over the benchmark your loan should track, that gap is the real cost, and it is worth asking about before you sign.
 
 Sarah Johnson is a CPA who writes about small-business financing and cash flow at Small Biz Finance Guide.
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+
