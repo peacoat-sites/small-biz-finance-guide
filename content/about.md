@@ -1,14 +1,14 @@
 ---
-title: "About James Okafor"
+title: "About Amanda Pierce"
 hide_title: true
-description: "Learn about James Okafor, the Small Business Finance Editor behind smallbizfinanceguide.com."
+description: "Learn about Amanda Pierce, the Small Business Finance Editor behind smallbizfinanceguide.com."
 layout: "about-page"
 author_slug: "amanda-pierce"
-author_name: "James Okafor"
-person_name: "James Okafor"
+author_name: "Amanda Pierce"
+person_name: "Amanda Pierce"
 ---
 
-# About James Okafor
+# About Amanda Pierce
 
 I've run small businesses. Not hypothetically,  I've signed leases, made payroll, dealt with slow months, and figured out which loans were worth taking and which weren't. That hands-on experience across two different industries taught me more about small business finance than any book could, and it's the foundation of everything I write here.
 
