@@ -1,0 +1,22 @@
+[
+ {
+  "name": "U.S. Small Business Administration",
+  "url": "https://www.sba.gov/",
+  "note": "Financing and business guidance"
+ },
+ {
+  "name": "Internal Revenue Service",
+  "url": "https://www.irs.gov/",
+  "note": "Business tax rules"
+ },
+ {
+  "name": "SCORE",
+  "url": "https://www.score.org/",
+  "note": "Free small-business mentoring"
+ },
+ {
+  "name": "Consumer Financial Protection Bureau",
+  "url": "https://www.consumerfinance.gov/",
+  "note": "Lending and finance"
+ }
+]
