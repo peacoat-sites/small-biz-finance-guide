@@ -2,21 +2,38 @@
   {
     "label": "Business Structure",
     "url": "/business-structure-comparison/",
-    "icon": "\ud83e\uddee"
+    "icon": "\ud83e\uddee",
+    "match": [
+      "business",
+      "structure"
+    ]
   },
   {
     "label": "Small Business",
     "url": "/small-business-benchmarks/",
-    "icon": "\ud83d\udcc8"
+    "icon": "\ud83d\udcc8",
+    "match": [
+      "small",
+      "business",
+      "benchmarks"
+    ]
   },
   {
     "label": "Llc Vs Scorp Quiz",
     "url": "/llc-vs-scorp-quiz/",
-    "icon": "\ud83e\udded"
+    "icon": "\ud83e\udded",
+    "match": [
+      "llc",
+      "scorp"
+    ]
   },
   {
     "label": "SBA Loan Calc",
     "url": "/sba-loan-calculator/",
-    "icon": "\ud83e\uddee"
+    "icon": "\ud83e\uddee",
+    "match": [
+      "sba",
+      "loan"
+    ]
   }
 ]
