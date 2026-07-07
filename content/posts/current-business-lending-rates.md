@@ -4,7 +4,7 @@ date: 2026-06-15
 draft: false
 slug: "current-business-lending-rates"
 description: "Live Prime Rate, Federal Funds Rate, and 10-Year Treasury benchmarks, refreshed monthly from Federal Reserve data, with a guide to how each one prices your business financing."
-image: "https://images.pexels.com/photos/6929004/pexels-photo-6929004.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/6120252/pexels-photo-6120252.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
 categories: ["Financing"]
 author: "Sarah Johnson"
 author_slug: "sarah-johnson"
