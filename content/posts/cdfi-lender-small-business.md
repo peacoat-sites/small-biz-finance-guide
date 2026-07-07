@@ -21,8 +21,8 @@ faqs:
    a: "CDFIs are still lenders, and defaulting has real consequences including damage to your credit, potential collection actions, and loss of any collateral you pledged. Many CDFIs, however, will work with borrowers facing temporary hardship before escalating to collections. Their mission includes your success, not just your debt recovery. Communicate early if you're in trouble. Don't wait until you've missed three payments."
 author: "Michael Torres"
 author_slug: "michael-torres"
-author_title: "Business Loan Writer"
-author_bio: "Michael Torres spent years as a small business banker before moving to the borrower side as a loan consultant. He knows the SBA loan process inside and out, including the parts of the application that most business owners get wrong. At Small Biz Finance Guide, he covers SBA loans, lines of credit, equipment financing, and how to present your business to a lender in the best possible light."
+author_title: "Small Business Lending Specialist"
+author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
 
 ---
 You're sitting across from a loan officer at your local bank, and you've just heard the word "declined." Your credit score isn't perfect. Your business is two years old. You don't have the collateral they're looking for. The officer is polite about it, but the answer is no.

@@ -8,8 +8,8 @@ categories: ["Insurance"]
 tags: ["insurance", "small", "business"]
 author: "Amanda Pierce"
 author_slug: "amanda-pierce"
-author_title: "Operations Finance Writer"
-author_bio: "Amanda Pierce has run her own small business and knows the difference between profitability on paper and actually having money in the bank. She specializes in the operational side of business finances: invoicing systems, cash flow forecasting, dealing with slow-paying clients, and managing the day-to-day money reality of running a small business. At Small Biz Finance Guide, she covers cash flow tools, payment systems, and operational finance."
+author_title: "Operations Finance Consultant"
+author_bio: "Amanda Pierce consults with small businesses on the day-to-day money mechanics that make or break them: cash flow, invoicing, and getting paid on time. She has cleaned up the books for dozens of owners. At Small Biz Finance Guide she covers cash flow and operational finance."
 slug: "key-man-insurance-small-business"
 affiliate_disclosure: true
 faqs:

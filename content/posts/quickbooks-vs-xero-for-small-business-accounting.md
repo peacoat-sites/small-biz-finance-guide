@@ -21,8 +21,8 @@ faqs:
    a: "Not necessarily, but the honest answer is: most business owners underestimate how much time DIY bookkeeping takes. If your books are behind, your categorization is inconsistent, or you don't actually know what your margins are, that's not a software problem. A part-time bookkeeper running $300 to $600/month is usually worth it once your revenue makes the time cost meaningful. Good software helps. Discipline and consistency are the harder part."
 author: "Michael Torres"
 author_slug: "michael-torres"
-author_title: "Business Loan Writer"
-author_bio: "Michael Torres spent years as a small business banker before moving to the borrower side as a loan consultant. He knows the SBA loan process inside and out, including the parts of the application that most business owners get wrong. At Small Biz Finance Guide, he covers SBA loans, lines of credit, equipment financing, and how to present your business to a lender in the best possible light."
+author_title: "Small Business Lending Specialist"
+author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
 
 ---
 Most small business owners don't pick accounting software. They panic-install whatever their accountant mentioned in passing, or whatever showed up first when they Googled "how to track my business income," and then they spend the next three years either mildly annoyed or deeply confused. I've watched this happen over and over. So let's do this right.

@@ -8,8 +8,8 @@ categories: ["trending"]
 tags: ["100%", "bonus", "depreciation", "your", "2026"]
 author: "Michael Torres"
 author_slug: "michael-torres"
-author_title: "Business Loan Writer"
-author_bio: "Michael Torres spent years as a small business banker before moving to the borrower side as a loan consultant. He knows the SBA loan process inside and out, including the parts of the application that most business owners get wrong. At Small Biz Finance Guide, he covers SBA loans, lines of credit, equipment financing, and how to present your business to a lender in the best possible light."
+author_title: "Small Business Lending Specialist"
+author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
 slug: "how-to-use-100-bonus-depreciation-to-cut-your-2026-tax-bill"
 affiliate_disclosure: true
 ---

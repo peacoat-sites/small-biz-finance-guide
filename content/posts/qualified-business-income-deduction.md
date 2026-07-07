@@ -21,8 +21,8 @@ faqs:
    a: "Possibly, but not without running the full math first. Converting to an S corp solely to capture W-2 wage benefits for the QBI calculation can backfire if the payroll tax costs outweigh the income tax savings. The break-even point varies depending on your income, your state, your health insurance situation, and a dozen other factors. This one genuinely requires a CPA who knows your numbers, not a general rule of thumb."
 author: "Amanda Pierce"
 author_slug: "amanda-pierce"
-author_title: "Operations Finance Writer"
-author_bio: "Amanda Pierce has run her own small business and knows the difference between profitability on paper and actually having money in the bank. She specializes in the operational side of business finances: invoicing systems, cash flow forecasting, dealing with slow-paying clients, and managing the day-to-day money reality of running a small business. At Small Biz Finance Guide, she covers cash flow tools, payment systems, and operational finance."
+author_title: "Operations Finance Consultant"
+author_bio: "Amanda Pierce consults with small businesses on the day-to-day money mechanics that make or break them: cash flow, invoicing, and getting paid on time. She has cleaned up the books for dozens of owners. At Small Biz Finance Guide she covers cash flow and operational finance."
 
 ---
 Most tax advice about the qualified business income deduction starts in the middle. It assumes you already know what it is, skips right past the part where 20% of your income might just disappear from your taxable base, and then spends three paragraphs hedging about whether you qualify. Let me back up.

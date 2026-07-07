@@ -21,8 +21,8 @@ faqs:
    a: "Two places I send people first: SCORE offers free mentorship from retired business professionals, and many of their mentors have deep accounting and operations backgrounds. The Consumer Financial Protection Bureau's small business resources also offer clear, unbiased guidance on financial obligations for business owners. Neither is a substitute for a CPA for your specific situation, but both can help you get oriented before you pay for professional time."
 author: "Michael Torres"
 author_slug: "michael-torres"
-author_title: "Business Loan Writer"
-author_bio: "Michael Torres spent years as a small business banker before moving to the borrower side as a loan consultant. He knows the SBA loan process inside and out, including the parts of the application that most business owners get wrong. At Small Biz Finance Guide, he covers SBA loans, lines of credit, equipment financing, and how to present your business to a lender in the best possible light."
+author_title: "Small Business Lending Specialist"
+author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
 
 ---
 You hired your first employee on a Tuesday. By Friday, you realized you had no idea what you were supposed to withhold from their paycheck, where to send it, or when. And nobody warned you that missing a payroll tax deposit by even a few days can trigger a penalty from the IRS. I've seen this exact situation derail otherwise healthy small businesses, not because the owner was careless, but because payroll taxes are genuinely complicated and the learning curve arrives at the worst possible moment: right when you're excited about growing your team.

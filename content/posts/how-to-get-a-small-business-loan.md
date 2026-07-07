@@ -21,8 +21,8 @@ faqs:
    a: "A broker can save time by shopping your application across multiple lenders, which is genuinely useful if you're not sure where to start. The downside is that brokers are paid by lenders (or charge you a fee), which creates an incentive to place you with whoever pays best, not necessarily whoever's right for you. If you use one, ask upfront how they're compensated and get competing quotes on your own as a check."
 author: "Amanda Pierce"
 author_slug: "amanda-pierce"
-author_title: "Operations Finance Writer"
-author_bio: "Amanda Pierce has run her own small business and knows the difference between profitability on paper and actually having money in the bank. She specializes in the operational side of business finances: invoicing systems, cash flow forecasting, dealing with slow-paying clients, and managing the day-to-day money reality of running a small business. At Small Biz Finance Guide, she covers cash flow tools, payment systems, and operational finance."
+author_title: "Operations Finance Consultant"
+author_bio: "Amanda Pierce consults with small businesses on the day-to-day money mechanics that make or break them: cash flow, invoicing, and getting paid on time. She has cleaned up the books for dozens of owners. At Small Biz Finance Guide she covers cash flow and operational finance."
 
 ---
 You walk into a bank, ask about a small business loan, and leave two hours later with a stack of paperwork, no clear answers, and a vague sense that you probably won't qualify. Sound familiar? Most small business owners don't get turned down because their business is bad. They get rejected because they showed up unprepared, applied to the wrong lender, or didn't understand what the bank was actually looking for. The good news: this is entirely fixable.

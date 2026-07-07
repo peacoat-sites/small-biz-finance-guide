@@ -21,8 +21,8 @@ faqs:
    a: "It's harder, but not impossible. Some buyers purchase businesses for strategic reasons, like a customer list, a technology, a geographic footprint, or a team, even if the business isn't generating profit. Pre-revenue or money-losing businesses typically sell at much lower multiples, and the pool of interested buyers is smaller. If profitability is the challenge, it's worth asking whether a year or two of focused improvement before listing would significantly change what you could receive."
 author: "Amanda Pierce"
 author_slug: "amanda-pierce"
-author_title: "Operations Finance Writer"
-author_bio: "Amanda Pierce has run her own small business and knows the difference between profitability on paper and actually having money in the bank. She specializes in the operational side of business finances: invoicing systems, cash flow forecasting, dealing with slow-paying clients, and managing the day-to-day money reality of running a small business. At Small Biz Finance Guide, she covers cash flow tools, payment systems, and operational finance."
+author_title: "Operations Finance Consultant"
+author_bio: "Amanda Pierce consults with small businesses on the day-to-day money mechanics that make or break them: cash flow, invoicing, and getting paid on time. She has cleaned up the books for dozens of owners. At Small Biz Finance Guide she covers cash flow and operational finance."
 
 ---
 Most business owners spend more time planning their summer vacation than they spend planning how they'll eventually leave their business. That's not a criticism. It's just true. When you're deep in the daily work of running operations, managing cash flow, and keeping customers happy, "exit planning" feels like something you'll get to later. But here's the problem: later usually arrives faster than expected, and without a plan, you often leave significant money on the table, or worse, you end up stuck in a business you're desperate to get out of with no clean way forward.

@@ -21,8 +21,8 @@ faqs:
    a: "Interest on credit cards used exclusively for business is generally deductible as a business expense. However, if you use a card for both personal and business spending, only the business portion is deductible, and you'll need documentation to support that split. This is another reason a dedicated business card, used only for business, makes your life easier. Consult your CPA to confirm what applies to your specific situation."
 author: "Amanda Pierce"
 author_slug: "amanda-pierce"
-author_title: "Operations Finance Writer"
-author_bio: "Amanda Pierce has run her own small business and knows the difference between profitability on paper and actually having money in the bank. She specializes in the operational side of business finances: invoicing systems, cash flow forecasting, dealing with slow-paying clients, and managing the day-to-day money reality of running a small business. At Small Biz Finance Guide, she covers cash flow tools, payment systems, and operational finance."
+author_title: "Operations Finance Consultant"
+author_bio: "Amanda Pierce consults with small businesses on the day-to-day money mechanics that make or break them: cash flow, invoicing, and getting paid on time. She has cleaned up the books for dozens of owners. At Small Biz Finance Guide she covers cash flow and operational finance."
 
 ---
 You opened your personal checking account last month and spent twenty minutes trying to figure out which Amazon charge was a business supply order and which one was the birthday gift you bought your nephew. If that sounds familiar, you're not alone. And the problem is costing you way more than just time.

@@ -21,8 +21,8 @@ faqs:
    a: "Sometimes, yes. If you have a specific, short-term need like buying inventory ahead of a seasonal rush, and the math shows the profit from that inventory more than covers the higher borrowing cost, an online loan can make sense. Speed and accessibility have real value in certain situations. What I'd caution against is using high-rate debt to cover operating shortfalls or ongoing expenses. That's a cycle that's hard to break out of."
 author: "Michael Torres"
 author_slug: "michael-torres"
-author_title: "Business Loan Writer"
-author_bio: "Michael Torres spent years as a small business banker before moving to the borrower side as a loan consultant. He knows the SBA loan process inside and out, including the parts of the application that most business owners get wrong. At Small Biz Finance Guide, he covers SBA loans, lines of credit, equipment financing, and how to present your business to a lender in the best possible light."
+author_title: "Small Business Lending Specialist"
+author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
 
 ---
 You just got off a call with your bank. They quoted you an interest rate of 9.5% on a business term loan. Then a friend mentions her online lender offered her 24%. Another business owner in your Facebook group is bragging about his SBA loan at 6.8%. You're staring at three completely different numbers, and you have no idea if any of them are good, bad, or somewhere in between.

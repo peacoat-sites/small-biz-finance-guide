@@ -21,8 +21,8 @@ faqs:
    a: "Yes, absolutely. QuickBooks, FreshBooks, and Wave all generate cash flow statements and can give you real-time visibility into your position. That said, software is only as good as the data you put into it. Reconcile your accounts regularly, categorize transactions consistently, and don't let months pile up without review. A good bookkeeper, even part-time, can keep your books clean enough for the software to be genuinely useful. For tax-related decisions tied to cash flow management, always loop in a CPA."
 author: "Amanda Pierce"
 author_slug: "amanda-pierce"
-author_title: "Operations Finance Writer"
-author_bio: "Amanda Pierce has run her own small business and knows the difference between profitability on paper and actually having money in the bank. She specializes in the operational side of business finances: invoicing systems, cash flow forecasting, dealing with slow-paying clients, and managing the day-to-day money reality of running a small business. At Small Biz Finance Guide, she covers cash flow tools, payment systems, and operational finance."
+author_title: "Operations Finance Consultant"
+author_bio: "Amanda Pierce consults with small businesses on the day-to-day money mechanics that make or break them: cash flow, invoicing, and getting paid on time. She has cleaned up the books for dozens of owners. At Small Biz Finance Guide she covers cash flow and operational finance."
 
 ---
 You built a profitable business and still can't make payroll. That sentence sounds like a contradiction, but it's one of the most common disasters I watch small business owners walk into. Profit is an accounting concept. Cash is what keeps the lights on. When those two things fall out of sync, even a growing business can collapse. According to the [U.S. Small Business Administration (SBA)](https://www.sba.gov/), cash flow problems are consistently cited among the top reasons small businesses fail, not bad products, not weak demand, not poor management in the traditional sense. Just cash, running out at the wrong moment.

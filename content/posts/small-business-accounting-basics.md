@@ -21,8 +21,8 @@ faqs:
    a: "Start by not making it worse. Stop commingling funds today if you haven't already. Then decide whether you're going to clean it up yourself or hire a bookkeeper to do a 'catch-up' project. For most business owners, the catch-up is worth paying for, especially if you're more than a few months behind. A bookkeeper who does this regularly can often clean up six months of messy books in a few hours. Once it's clean, set up the monthly close process above and keep it that way. A resource like Bookkeeping for Small Business by Max Fallek can also help if you're committed to handling it yourself. (Af"
 author: "Michael Torres"
 author_slug: "michael-torres"
-author_title: "Business Loan Writer"
-author_bio: "Michael Torres spent years as a small business banker before moving to the borrower side as a loan consultant. He knows the SBA loan process inside and out, including the parts of the application that most business owners get wrong. At Small Biz Finance Guide, he covers SBA loans, lines of credit, equipment financing, and how to present your business to a lender in the best possible light."
+author_title: "Small Business Lending Specialist"
+author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
 
 ---
 You opened your business bank account on a Tuesday, landed your first client by Friday, and by the end of the month you have no idea where the money went. Sound familiar? A survey by Clutch found that 60% of small business owners don't feel knowledgeable about accounting or finance. That's not a character flaw. It's a gap in how entrepreneurship gets taught. Most people learn the product, the pitch, the hustle. Nobody hands you a manual for the books.

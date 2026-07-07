@@ -21,8 +21,8 @@ faqs:
    a: "The USDA requires that loans be 'adequately secured,' but unlike some programs, there's no hard minimum collateral ratio written in stone. Real estate and equipment are common forms of collateral. The lender and USDA will assess what's available and what the loan is being used for. Undercollateralized deals don't automatically fail, but they require a stronger case elsewhere, typically in cash flow and management strength."
 author: "Amanda Pierce"
 author_slug: "amanda-pierce"
-author_title: "Operations Finance Writer"
-author_bio: "Amanda Pierce has run her own small business and knows the difference between profitability on paper and actually having money in the bank. She specializes in the operational side of business finances: invoicing systems, cash flow forecasting, dealing with slow-paying clients, and managing the day-to-day money reality of running a small business. At Small Biz Finance Guide, she covers cash flow tools, payment systems, and operational finance."
+author_title: "Operations Finance Consultant"
+author_bio: "Amanda Pierce consults with small businesses on the day-to-day money mechanics that make or break them: cash flow, invoicing, and getting paid on time. She has cleaned up the books for dozens of owners. At Small Biz Finance Guide she covers cash flow and operational finance."
 
 ---
 If you're running a business in a small town or rural community, you've probably hit a wall that urban entrepreneurs rarely think about. The bank is 45 minutes away. The SBA lender you called doesn't work in your area. And every time you search for funding, the results either don't apply to you or feel impossibly complicated. Here's something that might change that picture: the USDA runs a suite of business loan and grant programs specifically designed for rural areas, and most small business owners have never heard of them.
