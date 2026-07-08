@@ -1,5 +1,5 @@
 ---
-title: "How to Stack Bonus Depreciation and Section 179 Under the OBBBA"
+title: "Maximize Tax Deductions by Combining Bonus Depreciation and Section 179"
 date: 2026-06-29T22:41:32.050975+00:00
 draft: false
 description: "Discover how to stack bonus depreciation and Section 179 under the OBBBA to maximize your tax savings and reduce taxable income on qualifying business assets."
@@ -12,7 +12,7 @@ author_title: "Small Business Lending Specialist"
 author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
 slug: "how-to-stack-bonus-depreciation-and-section-179-under-the-obbba"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most small business owners heard the headline: the One Big Beautiful Bill Act brought back 100% bonus depreciation. What they didn't hear was the fine print that could make a real difference in how much of that benefit they actually keep. I've been digging into the details since the IRS dropped Notice 2026-11 in January, and I'll be honest, the strategy here is more nuanced than the press coverage suggests.
 
