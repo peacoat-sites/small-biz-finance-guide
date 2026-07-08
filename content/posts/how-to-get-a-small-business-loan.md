@@ -3,7 +3,7 @@ title: "How To Get A Small Business Loan"
 date: 2026-05-22T11:57:39.053972+00:00
 draft: false
 description: "Learn how to get a small business loan with our step-by-step guide. Explore loan types, eligibility requirements, and tips to boost your approval chances fast."
-image: "https://images.pexels.com/photos/8292888/pexels-photo-8292888.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8292888.jpg"
 categories: ["Financing"]
 tags: ["small", "business", "loan"]
 slug: "how-to-get-a-small-business-loan"

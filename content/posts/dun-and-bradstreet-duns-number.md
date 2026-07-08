@@ -3,7 +3,7 @@ title: "Dun And Bradstreet Duns Number"
 date: 2026-06-28T23:44:01.429317+00:00
 draft: false
 description: "Learn what a Dun and Bradstreet DUNS number is, why your business needs one, and how to register for free to build business credit and credibility."
-image: "https://images.pexels.com/photos/7109314/pexels-photo-7109314.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7109314.jpg"
 categories: ["Credit"]
 tags: ["bradstreet", "duns", "number"]
 author: "Sarah Johnson"

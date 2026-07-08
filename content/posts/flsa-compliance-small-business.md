@@ -3,7 +3,7 @@ title: "Flsa Compliance Small Business"
 date: 2026-06-24T22:54:27.591444+00:00
 draft: false
 description: "Learn how small businesses can stay FLSA compliant with tips on minimum wage, overtime rules, recordkeeping, and employee classification to avoid costly penalti"
-image: "https://images.pexels.com/photos/8117590/pexels-photo-8117590.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8117590.jpg"
 categories: ["HR"]
 tags: ["flsa", "compliance", "small", "business"]
 author: "Michael Torres"

@@ -3,7 +3,7 @@ title: "Business Succession Planning"
 date: 2026-06-12T23:04:16.572716+00:00
 draft: false
 description: "Ensure your business thrives beyond you with expert succession planning strategies. Learn how to protect assets, retain key talent, and secure a smooth leadersh"
-image: "https://images.pexels.com/photos/5668523/pexels-photo-5668523.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5668523.jpg"
 categories: ["Strategy"]
 tags: ["business", "succession", "planning"]
 slug: "business-succession-planning"

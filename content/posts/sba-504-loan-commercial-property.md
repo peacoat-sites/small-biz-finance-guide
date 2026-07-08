@@ -3,7 +3,7 @@ title: "SBA 504 Loan Commercial Property"
 date: 2026-05-24T10:53:15.514614+00:00
 draft: false
 description: "Discover how SBA 504 loans can help you finance commercial property with low down payments, fixed rates, and long terms. Learn eligibility rules and how to appl"
-image: "https://images.pexels.com/photos/33719770/pexels-photo-33719770.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/33719770.jpg"
 categories: ["Financing"]
 tags: ["loan", "commercial", "property"]
 slug: "sba-504-loan-commercial-property"

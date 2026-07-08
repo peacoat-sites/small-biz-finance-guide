@@ -3,7 +3,7 @@ title: "Pricing Strategy Small Business"
 date: 2026-05-26T18:50:00.085298+00:00
 draft: false
 description: "Discover proven pricing strategies for small businesses to boost profits, attract customers, and stay competitive. Learn how to set the right prices for growth."
-image: "https://images.pexels.com/photos/264636/pexels-photo-264636.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/264636.jpg"
 categories: ["Financial Planning"]
 tags: ["pricing", "strategy", "small", "business"]
 slug: "pricing-strategy-small-business"

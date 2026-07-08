@@ -3,7 +3,7 @@ title: "Small Business Audit Risk Factors"
 date: 2026-07-01T22:52:06.173652+00:00
 draft: false
 description: "Discover the top small business audit risk factors that trigger IRS scrutiny and learn how to protect your business with proper recordkeeping and compliance."
-image: "https://images.pexels.com/photos/7821673/pexels-photo-7821673.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7821673.jpg"
 categories: ["Taxes"]
 tags: ["small", "business", "audit", "risk", "factors"]
 author: "Sarah Johnson"

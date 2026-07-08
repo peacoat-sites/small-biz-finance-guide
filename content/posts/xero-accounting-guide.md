@@ -3,7 +3,7 @@ title: "Xero Accounting Guide"
 date: 2026-06-20T22:49:02.811740+00:00
 draft: false
 description: "Master Xero accounting with our complete guide covering invoicing, bank reconciliation, payroll, reporting, and tips to manage your finances efficiently."
-image: "https://images.pexels.com/photos/3770382/pexels-photo-3770382.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/3770382.jpg"
 categories: ["Accounting"]
 tags: ["xero", "accounting", "guide"]
 author: "Rachel Green"

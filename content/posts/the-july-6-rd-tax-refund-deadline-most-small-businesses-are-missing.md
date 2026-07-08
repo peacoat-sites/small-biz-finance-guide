@@ -3,7 +3,7 @@ title: "The July 6 R&D Tax Refund Deadline Most Small Businesses Are Missing"
 date: 2026-06-20T22:51:04.066854+00:00
 draft: false
 description: "Discover the July 6 R&D tax refund deadline small businesses overlook. Learn if you qualify and how to claim valuable relief before time runs out."
-image: "https://images.pexels.com/photos/6863338/pexels-photo-6863338.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6863338.jpg"
 categories: ["trending"]
 tags: ["july", "refund", "deadline", "most", "small"]
 author: "David Kim"

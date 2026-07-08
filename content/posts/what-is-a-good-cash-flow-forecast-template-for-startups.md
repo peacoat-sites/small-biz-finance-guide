@@ -3,7 +3,7 @@ title: "What Is A Good Cash Flow Forecast Template For Startups"
 date: 2026-06-17T23:10:37.368572+00:00
 draft: false
 description: "Discover the best cash flow forecast template for startups to track income, expenses, and runway so you can make smarter financial decisions early."
-image: "https://images.pexels.com/photos/7873576/pexels-photo-7873576.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7873576.jpg"
 categories: ["Cash Flow"]
 tags: ["what", "good", "cash", "flow", "forecast"]
 author: "David Kim"

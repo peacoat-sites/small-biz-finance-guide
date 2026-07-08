@@ -3,7 +3,7 @@ title: "Overtime Rules Small Business"
 date: 2026-06-14T22:50:32.557231+00:00
 draft: false
 description: "Learn how overtime rules affect small businesses, including FLSA requirements, exempt vs nonexempt employees, and how to stay compliant and manage labor costs."
-image: "https://images.pexels.com/photos/1537268/pexels-photo-1537268.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/1537268.jpg"
 categories: ["HR"]
 tags: ["overtime", "rules", "small", "business"]
 author: "David Kim"

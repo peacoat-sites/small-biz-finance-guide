@@ -3,7 +3,7 @@ title: "Business Credit Card Vs Personal Credit Card For LLC"
 date: 2026-06-21T22:48:17.937829+00:00
 draft: false
 description: "Compare business vs personal credit cards for your LLC. Learn which protects liability, builds business credit, and offers the best rewards for owners."
-image: "https://images.pexels.com/photos/6994264/pexels-photo-6994264.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6994264.jpg"
 categories: ["Credit"]
 tags: ["business", "credit", "card", "personal", "credit"]
 author: "Amanda Pierce"

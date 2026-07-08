@@ -3,7 +3,7 @@ title: "Pci Compliance Explained"
 date: 2026-06-21T22:50:33.448815+00:00
 draft: false
 description: "Learn what PCI compliance means, why it matters for businesses handling card payments, and the key steps to meet data security standards."
-image: "https://images.pexels.com/photos/10330114/pexels-photo-10330114.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/10330114.jpg"
 categories: ["Banking"]
 tags: ["compliance", "explained"]
 author: "Sarah Johnson"

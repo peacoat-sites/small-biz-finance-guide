@@ -3,7 +3,7 @@ title: "The New $2,000 1099 Threshold: What Small Businesses Must Do Now"
 date: 2026-07-02T22:46:03.994410+00:00
 draft: false
 description: "Learn how the new $2,000 1099 threshold impacts your small business. Discover what steps to take now to stay compliant and avoid costly IRS penalties."
-image: "https://images.pexels.com/photos/6927355/pexels-photo-6927355.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6927355.jpg"
 categories: ["trending"]
 tags: ["$2,000", "1099", "threshold:", "what", "small"]
 author: "Rachel Green"

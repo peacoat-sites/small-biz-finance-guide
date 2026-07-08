@@ -3,7 +3,7 @@ title: "Bootstrapping Vs Raising Venture Capital For Startups"
 date: 2026-06-18T23:27:13.262418+00:00
 draft: false
 description: "Compare bootstrapping vs venture capital funding to find the best path for your startup. Learn the tradeoffs, risks, and rewards of each approach."
-image: "https://images.pexels.com/photos/4623517/pexels-photo-4623517.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4623517.jpg"
 categories: ["Strategy"]
 tags: ["bootstrapping", "raising", "venture", "capital", "startups"]
 author: "Amanda Pierce"

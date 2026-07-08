@@ -3,7 +3,7 @@ title: "Misclassification Penalties IRS"
 date: 2026-06-23T22:51:48.799479+00:00
 draft: false
 description: "Learn how IRS misclassification penalties work, what fines employers face for treating employees as contractors, and how to avoid costly tax violations."
-image: "https://images.pexels.com/photos/6863527/pexels-photo-6863527.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6863527.jpg"
 categories: ["HR"]
 tags: ["misclassification", "penalties"]
 author: "David Kim"

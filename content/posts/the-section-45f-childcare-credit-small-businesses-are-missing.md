@@ -3,7 +3,7 @@ title: "The Section 45F Childcare Credit Small Businesses Are Missing"
 date: 2026-07-07T22:45:55.082250+00:00
 draft: false
 description: "Discover how the Section 45F employer-provided childcare tax credit can save small businesses thousands annually. Learn eligibility rules and how to claim it."
-image: "https://images.pexels.com/photos/6392988/pexels-photo-6392988.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6392988.jpg"
 categories: ["trending"]
 tags: ["section", "childcare", "credit", "small", "businesses"]
 author: "Amanda Pierce"

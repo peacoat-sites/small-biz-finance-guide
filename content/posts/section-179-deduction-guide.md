@@ -3,7 +3,7 @@ title: "Section 179 Deduction Guide"
 date: 2026-06-16T23:12:49.384092+00:00
 draft: false
 description: "Learn how the Section 179 deduction lets businesses write off equipment costs immediately, saving thousands on taxes in the year of purchase."
-image: "https://images.pexels.com/photos/5239878/pexels-photo-5239878.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5239878.jpg"
 categories: ["Taxes"]
 tags: ["section", "deduction", "guide"]
 author: "Sarah Johnson"

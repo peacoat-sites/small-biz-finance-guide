@@ -3,7 +3,7 @@ title: "Home Office Deduction: Who Qualifies and How Much to Claim"
 date: 2026-07-07T22:43:32.928357+00:00
 draft: false
 description: "Find out if your home office qualifies for a tax deduction, what expenses you can claim, and how to calculate your write-off correctly."
-image: "https://images.pexels.com/photos/7005399/pexels-photo-7005399.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7005399.jpg"
 categories: ["Tax Deductions"]
 tags: ["deduct", "home", "office"]
 author: "David Kim"

@@ -3,7 +3,7 @@ title: "Cdfi Lender Small Business"
 date: 2026-05-25T21:52:10.632914+00:00
 draft: false
 description: "Discover how CDFI lenders support small businesses with affordable loans and flexible financing. Learn eligibility requirements, benefits, and how to apply for "
-image: "https://images.pexels.com/photos/2475273/pexels-photo-2475273.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/2475273.jpg"
 categories: ["Financing"]
 tags: ["CDFI", "lender", "small", "business"]
 slug: "cdfi-lender-small-business"

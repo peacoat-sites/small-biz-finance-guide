@@ -3,7 +3,7 @@ title: "Small Business Grants Available"
 date: 2026-05-24T04:15:41.602284+00:00
 draft: false
 description: "Discover small business grants available to help fund your venture. Explore free funding options, eligibility requirements, and how to apply for grants today."
-image: "https://images.pexels.com/photos/12199407/pexels-photo-12199407.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/12199407.jpg"
 categories: ["Financing"]
 tags: ["small", "business", "grants", "available"]
 slug: "small-business-grants-available"

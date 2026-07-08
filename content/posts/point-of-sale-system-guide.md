@@ -3,7 +3,7 @@ title: "Point Of Sale System Guide"
 date: 2026-07-02T22:48:34.639701+00:00
 draft: false
 description: "Discover how point of sale systems work, key features to look for, top options for small businesses, and tips to choose the right POS system."
-image: "https://images.pexels.com/photos/8422735/pexels-photo-8422735.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8422735.jpg"
 categories: ["Banking"]
 tags: ["point", "sale", "system", "guide"]
 author: "David Kim"

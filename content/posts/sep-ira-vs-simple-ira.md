@@ -3,7 +3,7 @@ title: "SEP IRA Vs Simple IRA"
 date: 2026-06-10T23:17:07.931802+00:00
 draft: false
 description: "Compare SEP IRA vs SIMPLE IRA to find the best retirement plan for your business. Learn contribution limits, eligibility rules, and key differences to maximize "
-image: "https://images.pexels.com/photos/7821474/pexels-photo-7821474.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7821474.jpg"
 categories: ["Benefits"]
 tags: ["SIMPLE"]
 slug: "sep-ira-vs-simple-ira"

@@ -3,7 +3,7 @@ title: "Invoicing Tips For Small Business"
 date: 2026-05-26T22:40:03.354516+00:00
 draft: false
 description: "Learn practical invoicing tips for small business owners to get paid faster, reduce late payments, and keep cash flow healthy with simple, proven strategies."
-image: "https://images.pexels.com/photos/7688524/pexels-photo-7688524.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7688524.jpg"
 categories: ["Cash Flow"]
 tags: ["invoicing", "tips", "small", "business"]
 slug: "invoicing-tips-for-small-business"

@@ -3,7 +3,7 @@ title: "Merchant Cash Advance Risks"
 date: 2026-06-13T22:45:55.256911+00:00
 draft: false
 description: "Discover the hidden dangers of merchant cash advances, including high factor rates, daily repayments, and debt cycles that could seriously damage your business "
-image: "https://images.pexels.com/photos/31916807/pexels-photo-31916807.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/31916807.jpg"
 categories: ["Financing"]
 tags: ["merchant", "cash", "advance", "risks"]
 slug: "merchant-cash-advance-risks"

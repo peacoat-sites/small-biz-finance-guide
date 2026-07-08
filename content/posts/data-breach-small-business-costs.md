@@ -3,7 +3,7 @@ title: "Data Breach Small Business Costs"
 date: 2026-07-04T22:40:55.904337+00:00
 draft: false
 description: "Discover the real costs of a data breach for small businesses, from fines and legal fees to lost customers and recovery expenses."
-image: "https://images.pexels.com/photos/7289707/pexels-photo-7289707.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7289707.jpg"
 categories: ["Insurance"]
 tags: ["data", "breach", "small", "business", "costs"]
 author: "Rachel Green"

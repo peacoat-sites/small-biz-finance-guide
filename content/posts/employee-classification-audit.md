@@ -3,7 +3,7 @@ title: "Employee Classification Audit"
 date: 2026-06-28T23:41:34.132089+00:00
 draft: false
 description: "Learn how to conduct an employee classification audit to ensure workers are correctly categorized, avoid legal risks, and maintain compliance with labor laws."
-image: "https://images.pexels.com/photos/7567485/pexels-photo-7567485.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7567485.jpg"
 categories: ["HR"]
 tags: ["employee", "classification", "audit"]
 author: "Amanda Pierce"

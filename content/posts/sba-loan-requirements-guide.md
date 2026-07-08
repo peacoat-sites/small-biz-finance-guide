@@ -3,7 +3,7 @@ title: "SBA Loan Requirements Guide"
 date: 2026-05-21T19:24:20.961064+00:00
 draft: false
 description: "Learn the key SBA loan requirements including credit scores, business eligibility, financials, and documentation needed to secure funding for your small busines"
-image: "https://images.pexels.com/photos/4386475/pexels-photo-4386475.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4386475.jpg"
 categories: ["Financing"]
 tags: ["loan", "requirements", "guide"]
 slug: "sba-loan-requirements-guide"

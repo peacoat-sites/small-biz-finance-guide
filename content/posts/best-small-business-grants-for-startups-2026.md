@@ -3,7 +3,7 @@ title: "Best Small Business Grants For Startups 2026"
 date: 2026-07-03T22:41:56.754246+00:00
 draft: false
 description: "Discover the best small business grants for startups in 2026. Find free funding opportunities to launch and grow your business without repaying a dime."
-image: "https://images.pexels.com/photos/7876742/pexels-photo-7876742.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7876742.jpg"
 categories: ["Financing"]
 tags: ["best", "small", "business", "grants", "startups"]
 author: "Amanda Pierce"

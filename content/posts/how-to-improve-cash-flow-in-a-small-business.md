@@ -3,7 +3,7 @@ title: "How To Improve Cash Flow In A Small Business"
 date: 2026-06-05T12:23:40.468873+00:00
 draft: false
 description: "Discover practical strategies to improve cash flow in your small business. Learn how to manage expenses, boost revenue, and keep your finances healthy and stabl"
-image: "https://images.pexels.com/photos/27459671/pexels-photo-27459671.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/27459671.jpg"
 categories: ["Cash Flow"]
 tags: ["improve", "cash", "flow", "small", "business"]
 slug: "how-to-improve-cash-flow-in-a-small-business"

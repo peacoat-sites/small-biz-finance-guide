@@ -3,7 +3,7 @@ title: "The OBBBA Childcare Credit Small Businesses Are Ignoring"
 date: 2026-06-30T22:59:08.867597+00:00
 draft: false
 description: "Discover the OBBBA childcare credit many small business owners overlook. Learn how to qualify, what expenses count, and how to claim this valuable tax break."
-image: "https://images.pexels.com/photos/6212574/pexels-photo-6212574.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6212574.jpg"
 categories: ["trending"]
 tags: ["obbba", "childcare", "credit", "small", "businesses"]
 author: "Amanda Pierce"

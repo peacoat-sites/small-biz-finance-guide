@@ -3,7 +3,7 @@ title: "Heloc For Business Funding"
 date: 2026-06-25T23:04:54.533344+00:00
 draft: false
 description: "Learn how to use a HELOC to fund your business. Discover the benefits, risks, and steps to access home equity for startup or growth capital."
-image: "https://images.pexels.com/photos/7877194/pexels-photo-7877194.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7877194.jpg"
 categories: ["Financing"]
 tags: ["heloc", "business", "funding"]
 author: "David Kim"

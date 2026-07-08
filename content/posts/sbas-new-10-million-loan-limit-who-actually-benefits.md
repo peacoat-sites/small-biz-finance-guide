@@ -3,7 +3,7 @@ title: "SBA's New $10 Million Loan Limit: Who Actually Benefits"
 date: 2026-06-23T22:54:31.868530+00:00
 draft: false
 description: "Discover how the SBA's new $10 million loan limit impacts small businesses, which industries qualify, and whether this funding increase truly helps entrepreneur"
-image: "https://images.pexels.com/photos/4386451/pexels-photo-4386451.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4386451.jpg"
 categories: ["trending"]
 tags: ["sba's", "million", "loan", "limit:", "actually"]
 author: "Amanda Pierce"

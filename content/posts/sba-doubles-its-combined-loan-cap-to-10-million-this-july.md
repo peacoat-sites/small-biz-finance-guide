@@ -3,7 +3,7 @@ title: "SBA Doubles Its Combined Loan Cap to $10 Million This July"
 date: 2026-06-25T23:03:10.103797+00:00
 draft: false
 description: "Discover how the SBA's new $10 million combined loan cap taking effect this July could expand your borrowing power and help grow your small business faster."
-image: "https://images.pexels.com/photos/6694481/pexels-photo-6694481.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6694481.jpg"
 categories: ["trending"]
 tags: ["doubles", "combined", "loan", "million", "this"]
 author: "Rachel Green"

@@ -3,7 +3,7 @@ title: "How to Use 100% Bonus Depreciation to Cut Your 2026 Tax Bill"
 date: 2026-06-22T23:07:04.964603+00:00
 draft: false
 description: "Discover how 100% bonus depreciation can dramatically reduce your 2026 tax bill. Learn eligibility rules, qualifying assets, and strategies to maximize your ded"
-image: "https://images.pexels.com/photos/3570239/pexels-photo-3570239.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/3570239.jpg"
 categories: ["trending"]
 tags: ["100%", "bonus", "depreciation", "your", "2026"]
 author: "Michael Torres"

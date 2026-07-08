@@ -3,7 +3,7 @@ title: "Small Business Line Of Credit"
 date: 2026-05-18T10:50:26.341006+00:00
 draft: false
 description: "Small business line of credit offers flexible financing for operational expenses, inventory, and growth. Access funds as needed with competitive rates and quick"
-image: "https://images.pexels.com/photos/11738391/pexels-photo-11738391.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/11738391.jpg"
 categories: ["Financing"]
 tags: ["small", "business", "line", "credit"]
 slug: "small-business-line-of-credit"

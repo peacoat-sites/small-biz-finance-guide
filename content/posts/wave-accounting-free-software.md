@@ -3,7 +3,7 @@ title: "Wave Accounting Free Software"
 date: 2026-06-10T23:15:31.528308+00:00
 draft: false
 description: "Discover how Wave accounting free software helps small businesses manage invoices, expenses, and finances effortlessly. Try this powerful, completely free tool "
-image: "https://images.pexels.com/photos/16695382/pexels-photo-16695382.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/16695382.jpg"
 categories: ["Accounting"]
 tags: ["Wave", "accounting", "free", "software"]
 slug: "wave-accounting-free-software"

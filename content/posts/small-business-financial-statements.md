@@ -3,7 +3,7 @@ title: "Small Business Financial Statements"
 date: 2026-05-24T10:42:58.615109+00:00
 draft: false
 description: "Learn how to read and understand small business financial statements, including balance sheets, income statements, and cash flow reports to track your business "
-image: "https://images.pexels.com/photos/33175651/pexels-photo-33175651.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/33175651.jpg"
 categories: ["Accounting"]
 tags: ["small", "business", "financial", "statements"]
 slug: "small-business-financial-statements"

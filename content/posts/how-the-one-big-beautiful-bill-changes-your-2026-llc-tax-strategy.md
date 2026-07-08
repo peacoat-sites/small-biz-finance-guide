@@ -3,7 +3,7 @@ title: "How the One Big Beautiful Bill Changes Your 2026 LLC Tax Strategy"
 date: 2026-06-16T23:10:36.847681+00:00
 draft: false
 description: "Plan ahead now. The One Big Beautiful Bill reshapes LLC tax strategy for 2026 with new deductions, rate changes, and pass-through rules you need to understand."
-image: "https://images.pexels.com/photos/7247407/pexels-photo-7247407.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7247407.jpg"
 categories: ["trending"]
 tags: ["beautiful", "bill", "changes", "your", "2026"]
 author: "Amanda Pierce"

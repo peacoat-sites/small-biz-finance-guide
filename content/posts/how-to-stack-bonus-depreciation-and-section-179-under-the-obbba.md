@@ -3,7 +3,7 @@ title: "How to Stack Bonus Depreciation and Section 179 Under the OBBBA"
 date: 2026-06-29T22:41:32.050975+00:00
 draft: false
 description: "Discover how to stack bonus depreciation and Section 179 under the OBBBA to maximize your tax savings and reduce taxable income on qualifying business assets."
-image: "https://images.pexels.com/photos/12935042/pexels-photo-12935042.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/12935042.jpg"
 categories: ["trending"]
 tags: ["stack", "bonus", "depreciation", "section", "under"]
 author: "Michael Torres"

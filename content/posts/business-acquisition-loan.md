@@ -3,7 +3,7 @@ title: "Business Acquisition Loan"
 date: 2026-06-08T23:04:08.386104+00:00
 draft: false
 description: "Secure funding to buy an existing business with a business acquisition loan. Explore loan types, eligibility requirements, and tips to get approved fast."
-image: "https://images.pexels.com/photos/33175672/pexels-photo-33175672.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/33175672.jpg"
 categories: ["Financing"]
 tags: ["business", "acquisition", "loan"]
 slug: "business-acquisition-loan"

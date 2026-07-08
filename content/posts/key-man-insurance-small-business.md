@@ -3,7 +3,7 @@ title: "Key Man Insurance Small Business"
 date: 2026-07-05T22:41:14.549644+00:00
 draft: false
 description: "Protect your small business from losing a vital team member. Learn how key man insurance works, what it covers, and why every small business needs it."
-image: "https://images.pexels.com/photos/7731330/pexels-photo-7731330.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7731330.jpg"
 categories: ["Insurance"]
 tags: ["insurance", "small", "business"]
 author: "Amanda Pierce"

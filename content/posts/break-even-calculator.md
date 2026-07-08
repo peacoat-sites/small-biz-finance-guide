@@ -3,7 +3,7 @@ title: "Break-Even Calculator for Small Businesses (Plus SE Tax Estimator)"
 date: 2026-06-10T11:00:00+00:00
 draft: false
 description: "Find your monthly break-even point in units and revenue instantly. Includes a self-employment tax estimator to help freelancers and sole proprietors plan quarterly taxes."
-image: "https://images.pexels.com/photos/7681097/pexels-photo-7681097.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7681097.jpg"
 categories: ["Accounting"]
 tags: ["break-even", "calculator", "self-employment tax", "SE tax", "profitability"]
 slug: "break-even-calculator"

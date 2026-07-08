@@ -3,7 +3,7 @@ title: "Business Checking Account Comparison"
 date: 2026-06-29T22:43:37.971704+00:00
 draft: false
 description: "Compare the best business checking accounts of 2024. Find low fees, high limits, and top perks to keep your company finances running smoothly."
-image: "https://images.pexels.com/photos/7887860/pexels-photo-7887860.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7887860.jpg"
 categories: ["Banking"]
 tags: ["business", "checking", "account", "comparison"]
 author: "Rachel Green"

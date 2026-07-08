@@ -3,7 +3,7 @@ title: "Profit Margin Calculation Guide"
 date: 2026-05-25T14:59:11.705956+00:00
 draft: false
 description: "Learn how to calculate profit margins with our step-by-step guide. Includes formulas, examples, and tips to improve gross, operating, and net profit margins."
-image: "https://images.pexels.com/photos/6779570/pexels-photo-6779570.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6779570.jpg"
 categories: ["Financial Planning"]
 tags: ["profit", "margin", "calculation", "guide"]
 slug: "profit-margin-calculation-guide"

@@ -3,7 +3,7 @@ title: "Cyber Liability Insurance Small Business"
 date: 2026-06-09T23:04:54.658166+00:00
 draft: false
 description: "Protect your small business from costly data breaches and cyberattacks with cyber liability insurance. Compare coverage options, costs, and find the best policy"
-image: "https://images.pexels.com/photos/3949101/pexels-photo-3949101.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/3949101.jpg"
 categories: ["Insurance"]
 tags: ["cyber", "liability", "insurance", "small", "business"]
 slug: "cyber-liability-insurance-small-business"

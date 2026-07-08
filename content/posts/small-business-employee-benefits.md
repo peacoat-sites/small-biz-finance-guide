@@ -3,7 +3,7 @@ title: "Small Business Employee Benefits"
 date: 2026-06-26T22:49:54.200961+00:00
 draft: false
 description: "Discover affordable employee benefits small businesses can offer to attract and retain top talent, from health insurance to flexible work perks."
-image: "https://images.pexels.com/photos/30677596/pexels-photo-30677596.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/30677596.jpg"
 categories: ["HR"]
 tags: ["small", "business", "employee", "benefits"]
 author: "Amanda Pierce"

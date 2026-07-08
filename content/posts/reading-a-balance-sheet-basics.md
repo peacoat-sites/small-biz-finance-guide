@@ -3,7 +3,7 @@ title: "Reading A Balance Sheet Basics"
 date: 2026-05-23T19:58:16.613740+00:00
 draft: false
 description: "Learn how to read a balance sheet with this beginner-friendly guide covering assets, liabilities, and equity to help you understand any companys financial healt"
-image: "https://images.pexels.com/photos/7111590/pexels-photo-7111590.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7111590.jpg"
 categories: ["Accounting"]
 tags: ["reading", "balance", "sheet", "basics"]
 slug: "reading-a-balance-sheet-basics"

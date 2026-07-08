@@ -3,7 +3,7 @@ title: "SBA Loans Now Require 100% U.S. Citizenship: What Small Business Owners 
 date: 2026-06-17T23:08:37.551016+00:00
 draft: false
 description: "Learn how new SBA loan citizenship requirements affect your small business. Discover eligibility rules, what documents you need, and how to prepare your applica"
-image: "https://images.pexels.com/photos/8292879/pexels-photo-8292879.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8292879.jpg"
 categories: ["trending"]
 tags: ["loans", "require", "100%", "u.s.", "citizenship:"]
 author: "Rachel Green"

@@ -3,7 +3,7 @@ title: "Business Credit Building Tips"
 date: 2026-06-22T23:09:13.785896+00:00
 draft: false
 description: "Discover proven business credit building tips to separate personal and business finances, boost your score, and unlock better funding options."
-image: "https://images.pexels.com/photos/8937452/pexels-photo-8937452.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8937452.jpg"
 categories: ["Credit"]
 tags: ["business", "credit", "building", "tips"]
 author: "Rachel Green"

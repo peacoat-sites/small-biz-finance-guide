@@ -3,7 +3,7 @@ title: "SBA 7A Loan Vs SBA 504 Loan For Small Business"
 date: 2026-06-03T14:12:17.560812+00:00
 draft: false
 description: "Compare SBA 7a and SBA 504 loans to find the best fit for your small business. Learn key differences in rates, terms, uses, and eligibility requirements."
-image: "https://images.pexels.com/photos/8970306/pexels-photo-8970306.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8970306.jpg"
 categories: ["Financing"]
 tags: ["loan", "loan", "small", "business"]
 slug: "sba-7a-loan-vs-sba-504-loan-for-small-business"

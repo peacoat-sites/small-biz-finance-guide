@@ -3,7 +3,7 @@ title: "Hiring First Employee Guide"
 date: 2026-05-22T12:54:03.100813+00:00
 draft: false
 description: "Hiring your first employee is a major milestone. Learn essential steps, legal requirements, budgeting tips, and best practices to find and onboard top talent su"
-image: "https://images.pexels.com/photos/7652056/pexels-photo-7652056.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7652056.jpg"
 categories: ["HR"]
 tags: ["hiring", "first", "employee", "guide"]
 slug: "hiring-first-employee-guide"

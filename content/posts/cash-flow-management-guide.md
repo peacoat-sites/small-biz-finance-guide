@@ -3,7 +3,7 @@ title: "Cash Flow Management Guide"
 date: 2026-05-19T07:05:45.201235+00:00
 draft: false
 description: "Master cash flow management with expert tips on forecasting, budgeting, and optimizing income and expenses to keep your business financially healthy and growing"
-image: "https://images.pexels.com/photos/5902919/pexels-photo-5902919.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5902919.jpg"
 categories: ["Cash Flow"]
 tags: ["cash", "flow", "management", "guide"]
 slug: "cash-flow-management-guide"

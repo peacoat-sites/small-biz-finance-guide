@@ -3,7 +3,7 @@ title: "The Fed Signals No Cuts in 2026: What Small Business Borrowers Should Do
 date: 2026-07-06T22:50:29.215878+00:00
 draft: false
 description: "Plan ahead as the Fed holds rates steady through 2026. Discover smart borrowing strategies small business owners can use right now to manage costs and stay fina"
-image: "https://images.pexels.com/photos/7821684/pexels-photo-7821684.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7821684.jpg"
 categories: ["trending"]
 tags: ["signals", "cuts", "2026:", "what", "small"]
 author: "Michael Torres"

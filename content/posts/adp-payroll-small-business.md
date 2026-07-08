@@ -3,7 +3,7 @@ title: "Adp Payroll Small Business"
 date: 2026-07-06T22:48:19.383280+00:00
 draft: false
 description: "Discover how ADP payroll helps small businesses save time, stay compliant, and pay employees accurately with easy-to-use tools and expert support."
-image: "https://images.pexels.com/photos/8475171/pexels-photo-8475171.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8475171.jpg"
 categories: ["Payroll"]
 tags: ["payroll", "small", "business"]
 author: "Sarah Johnson"

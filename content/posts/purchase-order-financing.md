@@ -3,7 +3,7 @@ title: "Purchase Order Financing"
 date: 2026-06-15T23:24:28.563006+00:00
 draft: false
 description: "Learn how purchase order financing works, who qualifies, costs involved, and how it helps businesses fulfill large orders without upfront capital."
-image: "https://images.pexels.com/photos/6169653/pexels-photo-6169653.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6169653.jpg"
 categories: ["Financing"]
 tags: ["purchase", "order", "financing"]
 author: "Rachel Green"

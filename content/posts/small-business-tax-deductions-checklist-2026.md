@@ -3,7 +3,7 @@ title: "Small Business Tax Deductions Checklist 2026"
 date: 2026-06-18T23:24:51.726972+00:00
 draft: false
 description: "Maximize your savings with our small business tax deductions checklist for 2026. Discover every deduction you qualify for and keep more money."
-image: "https://images.pexels.com/photos/7309483/pexels-photo-7309483.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7309483.jpg"
 categories: ["Taxes"]
 tags: ["small", "business", "deductions", "checklist", "2026"]
 author: "David Kim"

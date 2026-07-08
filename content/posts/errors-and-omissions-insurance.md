@@ -3,7 +3,7 @@ title: "Errors And Omissions Insurance"
 date: 2026-06-30T22:56:36.183563+00:00
 draft: false
 description: "Errors and omissions insurance protects professionals from claims of negligence or mistakes. Learn who needs it, what it covers, and how to get a policy."
-image: "https://images.pexels.com/photos/6814526/pexels-photo-6814526.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6814526.jpg"
 categories: ["Insurance"]
 tags: ["errors", "omissions", "insurance"]
 author: "David Kim"

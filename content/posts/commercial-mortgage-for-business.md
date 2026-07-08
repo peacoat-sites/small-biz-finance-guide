@@ -3,7 +3,7 @@ title: "Commercial Mortgage For Business"
 date: 2026-06-27T22:43:06.643347+00:00
 draft: false
 description: "Explore commercial mortgage options for your business. Compare rates, terms, and lenders to secure the right financing for your commercial property purchase."
-image: "https://images.pexels.com/photos/8815877/pexels-photo-8815877.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8815877.jpg"
 categories: ["Financing"]
 tags: ["commercial", "mortgage", "business"]
 author: "Michael Torres"

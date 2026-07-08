@@ -3,7 +3,7 @@ title: "Shop Marketplace Small Business"
 date: 2026-07-01T22:54:04.361414+00:00
 draft: false
 description: "Discover how the SHOP marketplace helps small businesses offer affordable health insurance to employees and maximize tax credits for your company."
-image: "https://images.pexels.com/photos/3894371/pexels-photo-3894371.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/3894371.jpg"
 categories: ["HR"]
 tags: ["shop", "marketplace", "small", "business"]
 author: "Michael Torres"

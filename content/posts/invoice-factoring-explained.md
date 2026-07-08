@@ -3,7 +3,7 @@ title: "Invoice Factoring Explained"
 date: 2026-05-22T05:18:02.442507+00:00
 draft: false
 description: "Invoice factoring explained: Learn how businesses sell unpaid invoices for immediate cash, improve cash flow, and understand fees, benefits, and alternatives."
-image: "https://images.pexels.com/photos/3943726/pexels-photo-3943726.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/3943726.jpg"
 categories: ["Financing"]
 tags: ["invoice", "factoring", "explained"]
 slug: "invoice-factoring-explained"

@@ -3,7 +3,7 @@ title: "How to Stack Section 179 and Bonus Depreciation in 2026"
 date: 2026-07-05T22:39:19.004640+00:00
 draft: false
 description: "Maximize your 2026 tax savings by stacking Section 179 and bonus depreciation. Learn the rules, limits, and smart strategies to deduct more business assets fast"
-image: "https://images.pexels.com/photos/3907161/pexels-photo-3907161.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/3907161.jpg"
 categories: ["trending"]
 tags: ["stack", "section", "bonus", "depreciation", "2026"]
 author: "David Kim"

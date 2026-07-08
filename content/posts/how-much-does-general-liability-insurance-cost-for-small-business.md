@@ -3,7 +3,7 @@ title: "How Much Does General Liability Insurance Cost For Small Business"
 date: 2026-06-05T12:21:44.369650+00:00
 draft: false
 description: "Find out how much general liability insurance costs for small businesses. Get average pricing, key cost factors, and tips to help you find the best coverage at "
-image: "https://images.pexels.com/photos/7731329/pexels-photo-7731329.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7731329.jpg"
 categories: ["Insurance"]
 tags: ["much", "does", "general", "liability", "insurance"]
 slug: "how-much-does-general-liability-insurance-cost-for-small-business"

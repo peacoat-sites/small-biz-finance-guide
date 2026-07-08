@@ -3,7 +3,7 @@ title: "The Small Business Tax Cut Act Wants to Raise Your QBI Deduction to 23%"
 date: 2026-06-26T22:52:02.481174+00:00
 draft: false
 description: "Discover how the Small Business Tax Cut Act proposes raising the QBI deduction from 20% to 23%, potentially saving small business owners thousands in taxes."
-image: "https://images.pexels.com/photos/6929014/pexels-photo-6929014.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6929014.jpg"
 categories: ["trending"]
 tags: ["small", "business", "wants", "raise", "your"]
 author: "Sarah Johnson"

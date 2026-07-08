@@ -3,7 +3,7 @@ title: "Trade Credit For Business"
 date: 2026-06-11T23:10:53.686930+00:00
 draft: false
 description: "Discover how trade credit can boost your business cash flow, build supplier relationships, and fuel growth. Learn types, benefits, and how to qualify today."
-image: "https://images.pexels.com/photos/7821473/pexels-photo-7821473.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7821473.jpg"
 categories: ["Credit"]
 tags: ["trade", "credit", "business"]
 slug: "trade-credit-for-business"

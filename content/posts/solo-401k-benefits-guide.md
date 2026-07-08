@@ -3,7 +3,7 @@ title: "Solo 401K Benefits Guide"
 date: 2026-06-07T22:47:34.287188+00:00
 draft: false
 description: "Discover the powerful tax advantages and high contribution limits of a Solo 401k plan, helping self-employed individuals maximize retirement savings and grow we"
-image: "https://images.pexels.com/photos/7821708/pexels-photo-7821708.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7821708.jpg"
 categories: ["Benefits"]
 tags: ["Solo", "401k", "benefits", "guide"]
 slug: "solo-401k-benefits-guide"

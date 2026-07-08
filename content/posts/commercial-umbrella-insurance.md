@@ -3,7 +3,7 @@ title: "Commercial Umbrella Insurance"
 date: 2026-06-19T22:40:07.731016+00:00
 draft: false
 description: "Commercial umbrella insurance provides extra liability coverage beyond your standard business policies, protecting your company from large claims and lawsuits."
-image: "https://images.pexels.com/photos/8425366/pexels-photo-8425366.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8425366.jpg"
 categories: ["Insurance"]
 tags: ["commercial", "umbrella", "insurance"]
 author: "Michael Torres"

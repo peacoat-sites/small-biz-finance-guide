@@ -3,7 +3,7 @@ title: "How To Write A Startup Financial Plan For Investors"
 date: 2026-06-05T22:50:15.040143+00:00
 draft: false
 description: "Learn how to write a startup financial plan that attracts investors. Discover key components, projections, and tips to build a compelling, fundable financial st"
-image: "https://images.pexels.com/photos/7876664/pexels-photo-7876664.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/7876664.jpg"
 categories: ["Financial Planning"]
 tags: ["write", "startup", "financial", "plan", "investors"]
 slug: "how-to-write-a-startup-financial-plan-for-investors"

@@ -3,7 +3,7 @@ title: "Selling A Small Business Guide"
 date: 2026-05-26T16:34:10.157395+00:00
 draft: false
 description: "Learn how to sell your small business successfully with our step-by-step guide covering valuation, finding buyers, negotiations, and closing the deal for maximu"
-image: "https://images.pexels.com/photos/36812105/pexels-photo-36812105.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/36812105.jpg"
 categories: ["Strategy"]
 tags: ["selling", "small", "business", "guide"]
 slug: "selling-a-small-business-guide"

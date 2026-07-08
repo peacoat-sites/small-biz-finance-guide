@@ -3,7 +3,7 @@ title: "The New 1099 Thresholds Small Business Owners Must Know in 2026"
 date: 2026-06-19T22:37:57.192492+00:00
 draft: false
 description: "Track IRS 1099 reporting changes taking effect in 2026. Learn the new thresholds small business owners must follow to stay compliant and avoid costly penalties."
-image: "https://images.pexels.com/photos/6863190/pexels-photo-6863190.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6863190.jpg"
 categories: ["trending"]
 tags: ["1099", "thresholds", "small", "business", "owners"]
 author: "Sarah Johnson"

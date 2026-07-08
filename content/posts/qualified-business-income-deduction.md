@@ -3,7 +3,7 @@ title: "Qualified Business Income Deduction"
 date: 2026-06-12T23:06:02.378135+00:00
 draft: false
 description: "Learn how the qualified business income deduction lets eligible self-employed and small business owners deduct up to 20% of QBI to reduce their federal tax bill"
-image: "https://images.pexels.com/photos/11069121/pexels-photo-11069121.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/11069121.jpg"
 categories: ["Taxes"]
 tags: ["qualified", "business", "income", "deduction"]
 slug: "qualified-business-income-deduction"

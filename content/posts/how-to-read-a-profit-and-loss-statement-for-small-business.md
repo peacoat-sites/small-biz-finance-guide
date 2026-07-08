@@ -3,7 +3,7 @@ title: "How To Read A Profit And Loss Statement For Small Business"
 date: 2026-06-06T22:43:43.012335+00:00
 draft: false
 description: "Learn how to read a profit and loss statement for your small business. Understand revenue, expenses, and net profit to make smarter financial decisions today."
-image: "https://images.pexels.com/photos/6863518/pexels-photo-6863518.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6863518.jpg"
 categories: ["Accounting"]
 tags: ["read", "profit", "loss", "statement", "small"]
 slug: "how-to-read-a-profit-and-loss-statement-for-small-business"

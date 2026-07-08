@@ -3,7 +3,7 @@ title: "Why Small Business Borrowers Should Lock In Rates Before July 29"
 date: 2026-07-03T22:44:27.116983+00:00
 draft: false
 description: "Discover why small business owners should secure fixed loan rates before the July 29 Fed meeting and how acting now could save thousands in future borrowing cos"
-image: "https://images.pexels.com/photos/3760067/pexels-photo-3760067.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/3760067.jpg"
 categories: ["trending"]
 tags: ["small", "business", "borrowers", "should", "lock"]
 author: "Sarah Johnson"

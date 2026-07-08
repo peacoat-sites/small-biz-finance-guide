@@ -3,7 +3,7 @@ title: "Experian Business Credit"
 date: 2026-07-04T22:39:06.041687+00:00
 draft: false
 description: "Learn how Experian business credit works, how to build your score, and why it matters for securing loans, better terms, and business growth."
-image: "https://images.pexels.com/photos/5717713/pexels-photo-5717713.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/5717713.jpg"
 categories: ["Credit"]
 tags: ["experian", "business", "credit"]
 author: "Michael Torres"

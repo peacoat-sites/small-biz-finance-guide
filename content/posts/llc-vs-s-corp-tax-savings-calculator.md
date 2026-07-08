@@ -3,7 +3,7 @@ title: "LLC Vs S Corp Tax Savings Calculator"
 date: 2026-06-07T22:45:38.463672+00:00
 draft: false
 description: "Compare LLC vs S Corp tax savings with our free calculator. See exactly how much you could save on self-employment taxes and make the smartest choice for your b"
-image: "https://images.pexels.com/photos/8124417/pexels-photo-8124417.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8124417.jpg"
 categories: ["Business Structure"]
 tags: ["corp", "savings", "calculator"]
 slug: "llc-vs-s-corp-tax-savings-calculator"

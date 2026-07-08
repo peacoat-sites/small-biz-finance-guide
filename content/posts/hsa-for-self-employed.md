@@ -3,7 +3,7 @@ title: "HSA For Self-Employed"
 date: 2026-06-24T22:52:14.283364+00:00
 draft: false
 description: "Learn how self-employed workers can open and use an HSA to save on taxes and cover medical costs with pretax dollars."
-image: "https://images.pexels.com/photos/6627938/pexels-photo-6627938.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6627938.jpg"
 categories: ["Benefits"]
 tags: ["self-employed"]
 author: "Sarah Johnson"

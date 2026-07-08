@@ -3,7 +3,7 @@ title: "1099 Vs W2 Explained"
 date: 2026-05-21T22:36:34.751192+00:00
 draft: false
 description: "1099 vs W2 explained: Compare independent contractor and employee classifications. Learn tax differences, benefits, deductions, and which status suits you best."
-image: "https://images.pexels.com/photos/6929004/pexels-photo-6929004.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/6929004.jpg"
 categories: ["HR"]
 tags: ["1099", "explained"]
 slug: "1099-vs-w2-explained"

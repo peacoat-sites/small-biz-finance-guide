@@ -3,7 +3,7 @@ title: "Equipment Financing Explained"
 date: 2026-06-09T23:06:59.384532+00:00
 draft: false
 description: "Discover how equipment financing works, explore loan and lease options, and learn how to fund essential business tools without draining your cash reserves."
-image: "https://images.pexels.com/photos/4968573/pexels-photo-4968573.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/4968573.jpg"
 categories: ["Financing"]
 tags: ["equipment", "financing", "explained"]
 slug: "equipment-financing-explained"

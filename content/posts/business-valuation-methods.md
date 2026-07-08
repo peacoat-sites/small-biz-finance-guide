@@ -3,7 +3,7 @@ title: "Business Valuation Methods"
 date: 2026-05-19T02:50:33.615517+00:00
 draft: false
 description: "Discover the top business valuation methods used by experts. Learn how to accurately determine your companys worth using proven approaches for smarter financial"
-image: "https://images.pexels.com/photos/8292795/pexels-photo-8292795.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8292795.jpg"
 categories: ["Strategy"]
 tags: ["business", "valuation", "methods"]
 slug: "business-valuation-methods"

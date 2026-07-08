@@ -3,7 +3,7 @@ title: "Small Business Bookkeeping Guide"
 date: 2026-05-27T02:11:21.562241+00:00
 draft: false
 description: "Track your small business finances with confidence. This beginner-friendly bookkeeping guide covers records, expenses, taxes, and tools to keep your business on"
-image: "https://images.pexels.com/photos/8927682/pexels-photo-8927682.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "/img/heroes/8927682.jpg"
 categories: ["Accounting"]
 tags: ["small", "business", "bookkeeping", "guide"]
 slug: "small-business-bookkeeping-guide"
