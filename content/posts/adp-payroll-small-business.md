@@ -23,7 +23,7 @@ faqs:
     a: "RUN is designed for small businesses (typically under 50 employees). Workforce Now is a more complex, enterprise-oriented platform with deeper HR functionality. If someone is steering a small business toward Workforce Now, ask hard questions about why."
   - q: "Does ADP integrate with QuickBooks?"
     a: "Yes, ADP RUN has a QuickBooks integration that syncs payroll journal entries into QuickBooks automatically. It works reasonably well, though some users report needing to do occasional manual reconciliation. It's not as seamless as using QuickBooks Payroll natively, but it's functional."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most business owners I talk to come to ADP the same way: someone recommended it, or they Googled "payroll software small business" and ADP kept showing up. They sign up, get a little overwhelmed by the interface, and then aren't totally sure if they're using it right or overpaying for features they don't need. If that's you, good. You're in the right place.
@@ -164,6 +164,6 @@ ADP handles the mechanical filing, but it doesn't replace your CPA. How you clas
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

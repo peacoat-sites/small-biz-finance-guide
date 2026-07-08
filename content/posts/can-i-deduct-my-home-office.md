@@ -23,7 +23,7 @@ faqs:
     a: "The home office deduction can't create a net loss from your business (with some carryforward provisions under the regular method). If your business income is $0, your home office deduction that year is also $0. Unused amounts can carry forward to future years under the regular method."
   - q: "Does taking the home office deduction increase my audit risk?"
     a: "It used to be treated as a red flag, and that reputation lingers. The honest answer is: the IRS has gotten more sophisticated, and a clearly documented, legitimate home office deduction isn't the audit trigger it once was. The risk comes from claiming it when the exclusive-use standard isn't genuinely met, not from claiming it at all."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most coverage of the home office deduction spends three paragraphs explaining what it is, then buries the one thing you actually need to know: the IRS is not playing around with the word "exclusive." That single word has blown up more deductions than any audit I've ever seen.
@@ -148,6 +148,6 @@ This is not a reason to avoid the deduction. The math almost always still favors
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

@@ -23,7 +23,7 @@ faqs:
     a: "It depends on who you're borrowing from or buying from. D&B is dominant with larger suppliers and some government contractors. Experian is widely used by commercial lenders and financial institutions. If you're applying for a bank loan or business credit card, Experian likely matters more. For vendor trade credit, D&B often does. Build both."
   - q: "What's a good Experian Intelliscore for getting business financing?"
     a: "A score of 66 or above puts you in a position to qualify for most standard business financing products, though terms will vary. Scores above 76 start to open up better rates and higher credit limits. Below 50, expect lenders to either decline or require personal guarantees and higher interest. This can shift based on your industry, time in business, and revenue, so no single number is a guarantee either way. Consult with a CPA or business credit advisor for guidance specific to your situation."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most business owners don't think about their Experian business credit file until a lender or vendor pulls it and the number comes back lower than expected. By then, you're already in the negotiation, already explaining yourself. That's the wrong time to find out.
@@ -136,6 +136,6 @@ What you can do: be deliberate about applying for credit products that report on
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 

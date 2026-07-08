@@ -23,7 +23,7 @@ author: "Sarah Johnson"
 author_slug: "sarah-johnson"
 author_title: "CPA & Lead Editor"
 author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most business owners I've worked with can tell me their revenue number almost to the dollar. Ask them their break-even point, and you get a pause, a guess, or a number they clearly just made up. That gap is expensive. You can run a profitable-looking business straight into a cash crisis if you don't know the exact threshold where your revenue stops losing money and starts making it. Break-even analysis is how you find that threshold, and it's one of the few financial tools that pays for itself the first time you use it.
 
@@ -115,13 +115,13 @@ The number itself is only the beginning. The real value is in what you do with i
 
 ## Common Mistakes That Wreck the Analysis
 
-**Underestimating variable costs.** Payment processing (typically 2.5–3%) gets forgotten. Shipping overages. Return rates. Platforms take a cut. Include every cost that scales with a sale.
+**Underestimating variable costs.** Payment processing (typically 2.5-3%) gets forgotten. Shipping overages. Return rates. Platforms take a cut. Include every cost that scales with a sale.
 
 **Using revenue instead of gross profit to assess "coverage."** Revenue above break-even is not profit. You still have variable costs on every unit sold above break-even. This is a surprisingly common confusion.
 
 **Ignoring owner's compensation in fixed costs.** If you're not paying yourself a salary and you haven't included what you should be paying yourself, your break-even analysis is fiction. A real break-even includes a real salary line.
 
-**Treating break-even as a goal.** It's a floor, not a destination. Aim for a healthy margin above it. A 10–15% buffer between your actual revenue and your break-even is a reasonable working target for most small businesses, though your industry and cost structure will determine what's truly adequate. Talk to a CPA about what a healthy margin looks like for your specific situation.
+**Treating break-even as a goal.** It's a floor, not a destination. Aim for a healthy margin above it. A 10-15% buffer between your actual revenue and your break-even is a reasonable working target for most small businesses, though your industry and cost structure will determine what's truly adequate. Talk to a CPA about what a healthy margin looks like for your specific situation.
 
 **Recalculating too infrequently.** Costs change. Prices change. A break-even you ran 18 months ago may be meaningfully wrong today. Rerun it quarterly, or anytime something significant shifts.
 

@@ -12,12 +12,12 @@ author_title: "CPA & Lead Editor"
 author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
 slug: "why-small-business-borrowers-should-lock-in-rates-before-july-29"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most small business coverage right now is still running the "wait for rate cuts" playbook. That playbook is wrong, and if you're planning any financing move in the next six months, acting on outdated assumptions could cost you real money.
 
-Here's what's actually happening: the Federal Reserve held its federal funds target at 3.50%–3.75% at the June 16–17 FOMC meeting, the fourth consecutive hold. The next decision lands July 28–29. And instead of the rate-cut cycle that was widely expected at the start of 2026, markets are now pricing in a 50%–70% chance of at least one quarter-point hike before year-end, according to CNBC. That's not a small shift in probability. That's the whole narrative flipping.
+Here's what's actually happening: the Federal Reserve held its federal funds target at 3.50%-3.75% at the June 16-17 FOMC meeting, the fourth consecutive hold. The next decision lands July 28-29. And instead of the rate-cut cycle that was widely expected at the start of 2026, markets are now pricing in a 50%-70% chance of at least one quarter-point hike before year-end, according to CNBC. That's not a small shift in probability. That's the whole narrative flipping.
 
 If you've been waiting for cheaper borrowing costs before pulling the trigger on equipment, an acquisition, working capital, or a real estate purchase, you may be waiting for a door that's closing, not opening.
 
@@ -25,9 +25,9 @@ If you've been waiting for cheaper borrowing costs before pulling the trigger on
 
 The prime rate sits at 6.75% as of July 2, 2026. That's the floor everything else gets priced off of.
 
-SBA 7(a) fixed-rate loans are currently running 9.75%–14.75%, depending on loan size, term, and lender. The SBA Optional Peg Rate, which caps fixed-rate 7(a) loans, reset for Q3 on July 1, and the 10-year Treasury yield hit 4.44% at the end of June. That Treasury move matters because it pushes the peg rate up, and the peg rate is what limits how good your fixed-rate SBA deal can get. SBA 504 loans, which are typically used for real estate and heavy equipment, are running blended effective rates around 7.0%–8.0%, per Lendio's July 2026 rate data. That 504 range still looks relatively attractive compared to where 7(a) sits.
+SBA 7(a) fixed-rate loans are currently running 9.75%-14.75%, depending on loan size, term, and lender. The SBA Optional Peg Rate, which caps fixed-rate 7(a) loans, reset for Q3 on July 1, and the 10-year Treasury yield hit 4.44% at the end of June. That Treasury move matters because it pushes the peg rate up, and the peg rate is what limits how good your fixed-rate SBA deal can get. SBA 504 loans, which are typically used for real estate and heavy equipment, are running blended effective rates around 7.0%-8.0%, per Lendio's July 2026 rate data. That 504 range still looks relatively attractive compared to where 7(a) sits.
 
-For conventional small-business bank loans, Federal Reserve data from Q1 2026 shows a range of 6.37% to 10.98%. That's a wide band, and your position within it depends heavily on business credit, time in business, collateral, and cash flow. Online lenders are a separate conversation entirely: some charge 20%–99% APR, and those rates get uglier fast if the Fed hikes.
+For conventional small-business bank loans, Federal Reserve data from Q1 2026 shows a range of 6.37% to 10.98%. That's a wide band, and your position within it depends heavily on business credit, time in business, collateral, and cash flow. Online lenders are a separate conversation entirely: some charge 20%-99% APR, and those rates get uglier fast if the Fed hikes.
 
 The point here isn't that rates are good. It's that they're probably not getting better this year, and they might get worse.
 
@@ -37,7 +37,7 @@ The point here isn't that rates are good. It's that they're probably not getting
 
 
 
-The July 28–29 FOMC meeting is meaningful for one specific reason: it's the last scheduled decision before the market-implied probability of a hike becomes either more certain or more remote. If the Fed hikes on July 29, or signals strongly that a hike is coming in September or November, variable-rate loan spreads adjust quickly and fixed-rate deal terms tend to tighten.
+The July 28-29 FOMC meeting is meaningful for one specific reason: it's the last scheduled decision before the market-implied probability of a hike becomes either more certain or more remote. If the Fed hikes on July 29, or signals strongly that a hike is coming in September or November, variable-rate loan spreads adjust quickly and fixed-rate deal terms tend to tighten.
 
 SBA 7(a) variable-rate loans are tied directly to prime. A 25-basis-point hike translates immediately into a 25-basis-point increase in your borrowing cost on any floating-rate balance. On a $500,000 variable-rate loan, that's an extra $1,250 per year. Not catastrophic in isolation, but stack two hikes on top of an already elevated rate environment and the math on your debt service changes in ways that matter for cash flow planning.
 
@@ -49,13 +49,13 @@ NerdWallet's July 2026 SBA rate analysis made the point directly: "for businesse
 
 Not all products respond to rate changes the same way, so prioritization matters.
 
-SBA 504 loans deserve first consideration if your need is real estate or long-lived equipment. The blended 7.0%–8.0% effective rate is the most stable corner of the SBA market right now, and the 504 debenture component carries a fixed rate for the full term. You're not exposed to prime movements on that portion of the debt. The tradeoff is that 504s require owner-occupied commercial real estate and move slower than 7(a) deals, so if this fits your situation, start the process now rather than in August.
+SBA 504 loans deserve first consideration if your need is real estate or long-lived equipment. The blended 7.0%-8.0% effective rate is the most stable corner of the SBA market right now, and the 504 debenture component carries a fixed rate for the full term. You're not exposed to prime movements on that portion of the debt. The tradeoff is that 504s require owner-occupied commercial real estate and move slower than 7(a) deals, so if this fits your situation, start the process now rather than in August.
 
-SBA 7(a) fixed-rate loans make sense if you want rate certainty and your loan amount qualifies. The 9.75%–14.75% range is wide, but creditworthy borrowers with strong financials can land at the lower end. The SBA Optional Peg Rate cap means you can calculate your worst-case rate before you sign. That's a meaningful protection.
+SBA 7(a) fixed-rate loans make sense if you want rate certainty and your loan amount qualifies. The 9.75%-14.75% range is wide, but creditworthy borrowers with strong financials can land at the lower end. The SBA Optional Peg Rate cap means you can calculate your worst-case rate before you sign. That's a meaningful protection.
 
 Variable-rate 7(a) loans are the structure to be most careful about right now. If you're considering one, model your debt service at prime plus 100 and prime plus 150 basis points from current levels. If the numbers stop working at either of those scenarios, a variable structure may be the wrong tool for this rate environment.
 
-Conventional bank loans in the 6.37%–8.00% band are available to well-qualified borrowers with strong bank relationships. If you have that relationship and can move quickly, conventional can beat SBA on speed and cost. The comparison worth making is total cost of capital, not just the stated rate.
+Conventional bank loans in the 6.37%-8.00% band are available to well-qualified borrowers with strong bank relationships. If you have that relationship and can move quickly, conventional can beat SBA on speed and cost. The comparison worth making is total cost of capital, not just the stated rate.
 
 ## What to Actually Do Before July 29
 
@@ -107,7 +107,7 @@ The rate environment of late 2024 and early 2025 trained a lot of small business
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18) — The #1 Amazon bestseller in homebuying — covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.
 

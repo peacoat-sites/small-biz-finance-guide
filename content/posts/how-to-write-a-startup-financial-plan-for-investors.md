@@ -23,7 +23,7 @@ author: "Michael Torres"
 author_slug: "michael-torres"
 author_title: "Small Business Lending Specialist"
 author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most founders I've worked with get this backwards. They spend weeks building a beautiful financial model, then hand it to an investor and wonder why the conversation dies. The problem usually isn't the numbers. It's that the plan reads like a spreadsheet begging for validation instead of a business case looking for a partner.
 
@@ -37,7 +37,7 @@ I've reviewed hundreds of these over the years. Most of the advice floating arou
  <div class="vm-head">Unit Economics Sanity-Check Table</div>
  <div class="vm-body">
  <p class="vm-intro">Use this worksheet to pressure-test your core numbers before an investor does, if any row lands in the red zone, pause and fix the math before you pitch.</p>
- <table><thead><tr><th>Metric</th><th>How to Calculate</th><th>Healthy Zone (Illustrative)</th><th>Warning Sign</th></tr></thead><tbody><tr><td>Customer Acquisition Cost (CAC)</td><td>Total sales &amp; marketing spend ÷ new customers acquired</td><td>Recoverable within 12 months of gross profit</td><td>CAC payback &gt; 18 months</td></tr><tr><td>Lifetime Value (LTV)</td><td>Avg. revenue per customer × gross margin % × avg. customer lifespan</td><td>≥ 3× CAC for venture-scale businesses</td><td>LTV:CAC below 2:1</td></tr><tr><td>Gross Margin</td><td>(Revenue − direct costs) ÷ revenue</td><td>Software ≥ 70%; services ≥ 40%; physical goods ≥ 30%</td><td>Margins below industry floor without clear scale path</td></tr><tr><td>Monthly Burn Rate</td><td>Cash out − cash in over a month</td><td>≥ 12 months runway at current burn</td><td>&lt; 6 months runway without funded plan</td></tr><tr><td>Revenue per Employee (at scale)</td><td>Annual revenue ÷ FTEs</td><td>SaaS benchmark: $150K–$300K+ at maturity</td><td>Projecting &lt; $100K/employee in Year 3+</td></tr></tbody></table>
+ <table><thead><tr><th>Metric</th><th>How to Calculate</th><th>Healthy Zone (Illustrative)</th><th>Warning Sign</th></tr></thead><tbody><tr><td>Customer Acquisition Cost (CAC)</td><td>Total sales &amp; marketing spend ÷ new customers acquired</td><td>Recoverable within 12 months of gross profit</td><td>CAC payback &gt; 18 months</td></tr><tr><td>Lifetime Value (LTV)</td><td>Avg. revenue per customer × gross margin % × avg. customer lifespan</td><td>≥ 3× CAC for venture-scale businesses</td><td>LTV:CAC below 2:1</td></tr><tr><td>Gross Margin</td><td>(Revenue - direct costs) ÷ revenue</td><td>Software ≥ 70%; services ≥ 40%; physical goods ≥ 30%</td><td>Margins below industry floor without clear scale path</td></tr><tr><td>Monthly Burn Rate</td><td>Cash out - cash in over a month</td><td>≥ 12 months runway at current burn</td><td>&lt; 6 months runway without funded plan</td></tr><tr><td>Revenue per Employee (at scale)</td><td>Annual revenue ÷ FTEs</td><td>SaaS benchmark: $150K-$300K+ at maturity</td><td>Projecting &lt; $100K/employee in Year 3+</td></tr></tbody></table>
  <p class="vm-note">Illustrative general information, confirm current figures for your situation.</p>
  </div>
 </div>
@@ -68,7 +68,7 @@ You don't need a 40-tab model. A 40-tab spreadsheet for a pre-revenue company us
 
 **Revenue projections (12 to 36 months).** Go bottoms-up whenever possible. That means you're not saying "the market is $2 billion and we'll capture 1%." You're saying "we expect to sign 8 enterprise clients in Month 6, each paying $2,500/month, based on our current pipeline and a 90-day sales cycle." Bottoms-up projections are more credible and infinitely easier to defend. If you're pre-launch with no data yet, build two scenarios: a base case and a conservative case. Not a hockey stick and a nuclear apocalypse. Two reasonable ones.
 
-**Cost of goods sold and gross margin.** This shows investors how much it actually costs to deliver your product or service. If you're SaaS and your gross margin is 45%, something's wrong. SaaS businesses typically run 65–80%+ margins. Physical products at 35% might be fine, depending on the category. Know your benchmarks. Investors do.
+**Cost of goods sold and gross margin.** This shows investors how much it actually costs to deliver your product or service. If you're SaaS and your gross margin is 45%, something's wrong. SaaS businesses typically run 65-80%+ margins. Physical products at 35% might be fine, depending on the category. Know your benchmarks. Investors do.
 
 **Operating expense forecast.** Salaries, rent, software, marketing spend, legal, accounting. Break it down by category. And be honest about payroll. I've seen founders undercount their own compensation to make numbers look better. An investor will ask if you're paying yourself, and "no, I'm not paying myself anything for 18 months" is sometimes admirable and sometimes a red flag.
 

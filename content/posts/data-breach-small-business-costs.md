@@ -23,7 +23,7 @@ faqs:
     a: "Sometimes, yes. Demonstrated good-faith response, documented pre-incident security practices, and cooperation with investigators all factor in. This is not a guarantee, and the variation between regulators is significant. Don't build your financial plan around hoping for a reduced fine."
   - q: "Should I tell my clients immediately if I think we had a breach?"
     a: "Don't make any public or client-facing statements before you've engaged legal counsel and have at least a preliminary understanding of what happened. Premature or inaccurate disclosures can create additional liability. Get your attorney on the phone first, then your forensic team, then communicate."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 A data breach at a 12-person accounting firm. No ransomware, no dramatic hack. Just one employee clicking a phishing link in what looked like a DocuSign email. The attacker sat quietly in their email system for six weeks before anyone noticed. By the time it was over, that firm had spent just over $340,000 to clean it up. They didn't have cyber insurance. They almost didn't survive it.
@@ -129,8 +129,8 @@ A few other things worth the cost: a written incident response plan (even a basi
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169) — Complete beginner solar kit — 200W monocrystalline panel, charge controller, and mounting hardware included.
-- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99) — Expandable 200W panel set from the most trusted DIY solar brand — used widely in off-grid and home backup systems.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Renogy 200W Solar Starter Kit + 30A Charge Controller](https://www.amazon.com/dp/B00BCRG22A/?tag=contentportfo-20)** (~$169), Complete beginner solar kit, 200W monocrystalline panel, charge controller, and mounting hardware included.
+- **[Renogy 2×100W Monocrystalline Solar Panels](https://www.amazon.com/dp/B07JXYTFF7/?tag=contentportfo-20)** (~$99), Expandable 200W panel set from the most trusted DIY solar brand, used widely in off-grid and home backup systems.
 

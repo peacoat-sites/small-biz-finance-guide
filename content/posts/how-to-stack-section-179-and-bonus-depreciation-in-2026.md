@@ -12,7 +12,7 @@ author_title: "Tax Strategist"
 author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
 slug: "how-to-stack-section-179-and-bonus-depreciation-in-2026"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most small business owners I've talked to this summer are still making equipment decisions based on 60% bonus depreciation. That number isn't just outdated. It's from a different legal reality. The One Big Beautiful Bill Act changed everything, and if you haven't recalibrated your thinking yet, you're probably leaving a serious deduction on the table right now, in the middle of the 2026 tax year.
@@ -73,12 +73,12 @@ The bottom line is this: if you're making equipment decisions in the second half
 
 ## Sources
 
-- [Section 179 Deduction 2026 – Section179.org](https://www.section179.org/section_179_deduction/) (June 10, 2026)
-- [OBBBA Section 179 and Bonus Depreciation Updates – Landmark CPAs](https://www.landmarkcpas.com/obbba-section-179-and-bonus-depreciation/) (April 6, 2026)
-- [How Bonus Depreciation Works in 2026 Under the OBBBA – Instead](https://www.instead.com/resources/blog/how-bonus-depreciation-works-in-2026-under-the-obbba) (April 26, 2026)
-- [OBBBA Bonus Depreciation and Section 179 Changes – Porte Brown CPAs](https://www.portebrown.com/newsblog-archive/update-on-the-first-year-depreciation-tax-rules-for-businesses) (April 10, 2026)
-- [Maximizing Your Deductions: Section 179 and Bonus Depreciation – U.S. Bank](https://www.usbank.com/corporate-and-commercial-banking/insights/credit-finance/equipment/maximize-deductions-section-179.html) (June 2026)
-- [IRS One Big Beautiful Bill Provisions – IRS.gov](https://www.irs.gov/newsroom/one-big-beautiful-bill-provisions) (June 2026)
+- [Section 179 Deduction 2026, Section179.org](https://www.section179.org/section_179_deduction/) (June 10, 2026)
+- [OBBBA Section 179 and Bonus Depreciation Updates, Landmark CPAs](https://www.landmarkcpas.com/obbba-section-179-and-bonus-depreciation/) (April 6, 2026)
+- [How Bonus Depreciation Works in 2026 Under the OBBBA, Instead](https://www.instead.com/resources/blog/how-bonus-depreciation-works-in-2026-under-the-obbba) (April 26, 2026)
+- [OBBBA Bonus Depreciation and Section 179 Changes, Porte Brown CPAs](https://www.portebrown.com/newsblog-archive/update-on-the-first-year-depreciation-tax-rules-for-businesses) (April 10, 2026)
+- [Maximizing Your Deductions: Section 179 and Bonus Depreciation, U.S. Bank](https://www.usbank.com/corporate-and-commercial-banking/insights/credit-finance/equipment/maximize-deductions-section-179.html) (June 2026)
+- [IRS One Big Beautiful Bill Provisions, IRS.gov](https://www.irs.gov/newsroom/one-big-beautiful-bill-provisions) (June 2026)
 
 ## Helpful Resources
 

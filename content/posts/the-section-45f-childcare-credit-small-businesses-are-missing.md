@@ -12,7 +12,7 @@ author_title: "Operations Finance Consultant"
 author_bio: "Amanda Pierce consults with small businesses on the day-to-day money mechanics that make or break them: cash flow, invoicing, and getting paid on time. She has cleaned up the books for dozens of owners. At Small Biz Finance Guide she covers cash flow and operational finance."
 slug: "the-section-45f-childcare-credit-small-businesses-are-missing"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 If you've been running a small business for any length of time, you know that tax credits often look better on paper than they turn out to be in practice. The eligibility rules are narrow, the paperwork is heavy, and the dollar amounts rarely justify the headache. So you might be wondering why I'm making a big deal out of the Section 45F employer childcare credit right now, in the middle of 2026, when most business owners have never heard of it. Here's the honest answer: the One Big Beautiful Budget Act changed the math so dramatically that ignoring this credit is now a real financial mistake, and the window to start documenting for it is open right now.
@@ -115,6 +115,6 @@ Tax credits at this scale, dollar-for-dollar, with a $600,000 ceiling and a 20-y
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) — The most comprehensive QuickBooks 2025 guide — covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) — Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 
