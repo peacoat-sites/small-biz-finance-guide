@@ -23,7 +23,7 @@ author: "David Kim"
 author_slug: "david-kim"
 author_title: "Tax Strategist"
 author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
-
+lastmod: 2026-07-07
 ---
 Most small business owners I've worked with can tell you their bank balance down to the dollar. Ask them to explain their profit and loss statement, though, and they go quiet. That gap is costing them money. Not in some abstract, theoretical way. In real, preventable ways: overestimating profit margins, missing slow bleeds in overhead, taking distributions they can't actually afford.
 
@@ -46,9 +46,9 @@ So let's fix that right now.
 
 A profit and loss statement, also called an income statement, is a financial report showing your revenue, your costs, and what's left over. It covers a specific period: a month, a quarter, a year. That's the first thing people miss. A P&L is a movie, not a photograph. It tells you what happened over time, not what you have right now.
 
-What really surprises owners is what the P&L doesn't show: cash. This trips people up badly. You can show a profit on paper and be overdrawn at the bank. You can show a loss and have cash sitting there. Sounds paradoxical, but it's completely normal. Timing differences (when you invoice versus when you get paid), loan repayments, and capital purchases create the gap. Ever thought "the numbers say I'm profitable but I'm broke"? The answer almost always lives in the difference between your P&L and your cash flow statement.
+What really surprises owners is what the P&L doesn't show: cash. This trips people up badly. You can show a profit on paper and be overdrawn at the bank. You can show a loss and have cash sitting there. Sounds paradoxical, but it's completely normal. Timing differences (when you invoice versus when you get paid), loan repayments, and capital purchases create the gap. Ever thought "the numbers say I'm profitable but I'm broke"? The answer almost always lives in the difference between your P&L and your [cash flow statement](/cash-flow-statement-explained/).
 
-The P&L is one of three core financial statements. The balance sheet and the cash flow statement are the other two. They answer different questions. The P&L answers this: did this business make money during this period?
+The P&L is one of three core financial statements. The [balance sheet](/reading-a-balance-sheet-basics/) and the cash flow statement are the other two. They answer different questions. The P&L answers this: did this business make money during this period?
 
 ---
 

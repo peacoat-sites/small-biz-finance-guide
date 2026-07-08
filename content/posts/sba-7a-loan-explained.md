@@ -23,7 +23,7 @@ author: "Amanda Pierce"
 author_slug: "amanda-pierce"
 author_title: "Operations Finance Consultant"
 author_bio: "Amanda Pierce consults with small businesses on the day-to-day money mechanics that make or break them: cash flow, invoicing, and getting paid on time. She has cleaned up the books for dozens of owners. At Small Biz Finance Guide she covers cash flow and operational finance."
-
+lastmod: 2026-07-07
 ---
 You walk into a bank asking about a small business loan. The banker smiles, nods, and eventually mentions something called an "SBA 7(a) loan" as if you should already know what that means. Maybe you nod back. Most people do. Then they go home, search the internet, and find articles full of bureaucratic language that explain the program without ever explaining what it actually means for *your* business, *your* bank account, and the decision in front of you right now. That's the gap this article closes.
 
@@ -48,7 +48,7 @@ The SBA doesn't approve your loan. The participating lender does. The SBA's guar
 What lenders consistently evaluate:
 
 - **Credit score.** Most want 650 or above. Some preferred SBA lenders want 680+. Below 620 makes this a hard conversation.
-- **Time in business.** Two years is the practical minimum. Less than that, and you're steering toward SBA microloans or alternative lenders.
+- **Time in business.** Two years is the practical minimum. Less than that, and you're steering toward [SBA microloans](/sba-microloan-program/) or alternative lenders.
 - **Debt Service Coverage Ratio (DSCR).** This is net operating income divided by total debt payments. Lenders want to see at least 1.25, meaning the business generates $1.25 for every $1.00 it owes. Below that, the application stalls.
 - **Collateral.** The SBA doesn't require it for loans under $25,000. Above that, lenders are expected to take available collateral, including business and personal assets. An SBA loan does not mean unsecured.
 - **Personal guarantee.** Anyone owning 20% or more of the business is typically required to personally guarantee the loan. That is non-negotiable in most cases.
@@ -57,7 +57,23 @@ I've seen clients with solid businesses get rejected because their personal fina
 
 ## Rates, Terms, and What This Loan Actually Costs
 
-SBA 7(a) loan rates aren't fixed by the SBA outright. They're tied to a base rate, typically the prime rate or the Secured Overnight Financing Rate (SOFR), plus a lender's spread. The SBA caps that spread, which is what keeps rates from getting predatory. In practical terms, current rates tend to run several points above prime, depending on loan size and term. You'll want to check current rates directly with lenders, because they move with the market.
+| Loan Feature | Details |
+| --- | --- |
+| Maximum Loan Amount | $5 million |
+| SBA Guarantee (≤$150,000) | Up to 85% |
+| SBA Guarantee (>$150,000) | Up to 75% |
+| Working Capital & Equipment Term | Up to 10 years |
+| Commercial Real Estate Term | Up to 25 years |
+| Business Acquisition Term | Typically 10 years |
+| Minimum Credit Score | 650 (some lenders prefer 680+) |
+| Minimum Time in Business | 2 years (practical standard) |
+| Minimum Debt Service Coverage Ratio | 1.25x |
+| Collateral Required (loans >$25,000) | Yes, business and personal assets |
+| Personal Guarantee (20%+ ownership) | Required in most cases |
+| Typical Approval Timeline | 60-90 days |
+| Program Start Year | 1953 |
+
+SBA 7(a) loan rates aren't fixed by the SBA outright. They're tied to a base rate, typically the prime rate or the Secured Overnight Financing Rate (SOFR), plus a lender's spread. The SBA caps that spread, which is what keeps rates from getting predatory. In practical terms, current rates tend to run several points above prime, depending on loan size and term. You'll want to check [current rates directly with lenders](/current-business-lending-rates/), because they move with the market.
 
 Terms vary by purpose:
 

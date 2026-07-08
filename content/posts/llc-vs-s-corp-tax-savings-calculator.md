@@ -23,7 +23,7 @@ author: "Rachel Green"
 author_slug: "rachel-green"
 author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
-
+lastmod: 2026-07-07
 ---
 Every year, I watch otherwise sharp business owners lose anywhere from $3,000 to $12,000 in unnecessary self-employment taxes because they never ran the numbers on their entity structure. Not because they're careless. Because nobody sat down with them and showed them how the math actually works.
 
@@ -48,6 +48,14 @@ Gross savings: around $7,775. Before costs.
 And that "before costs" part is where a lot of the breathless "save thousands with an S corp!" content conveniently goes quiet.
 
 ## What the Calculator Misses (And Why It Matters)
+
+| Scenario | Net Profit | Structure | SE/Payroll Tax | Annual S Corp Overhead | Net Tax Savings |
+| --- | --- | --- | --- | --- | --- |
+| Example Business | $120,000 | Single-Member LLC | ~$16,955 | $0 | - |
+| Example Business | $120,000 | S Corp ($60k salary) | ~$9,180 | $1,500-$3,000 | ~$4,775-$6,775 |
+| Break-Even Threshold | $40,000-$50,000 profit* | S Corp | Varies | $1,500-$3,000 | Marginal |
+
+*Above reasonable salary; threshold depends on state and accounting costs.
 
 > **Helpful resource:** [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

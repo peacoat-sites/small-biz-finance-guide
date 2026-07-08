@@ -23,7 +23,7 @@ author: "David Kim"
 author_slug: "david-kim"
 author_title: "Tax Strategist"
 author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
-
+lastmod: 2026-07-07
 ---
 Most business owners stumble onto trade credit by accident. A supplier mentions "net-30 terms" on an invoice, you nod like you understand, and later that night you're quietly googling it. I've had that exact conversation with clients so many times I've lost count.
 
@@ -53,9 +53,16 @@ When you're setting up a new supplier, after the price conversation, say: "Do yo
 
 If you're newer in business without much history, start with smaller suppliers before approaching big distributors. I've watched clients build solid trade credit profiles in 12 to 18 months just by opening accounts with five or six vendors, paying invoices early or on time, and using those relationships as references when applying for terms elsewhere.
 
-Here's what most people miss: those payment histories get reported to commercial credit bureaus like Dun & Bradstreet, Experian Business, and Equifax Business. Your DUNS number (free through Dun & Bradstreet) is the foundation of your business credit. Get it before you do anything else. It's free, takes 10 minutes, and starts your business credit clock.
+Here's what most people miss: those payment histories get reported to commercial credit bureaus like Dun & Bradstreet, Experian Business, and Equifax Business. Your [DUNS number](/dun-and-bradstreet-duns-number/) (free through Dun & Bradstreet) is the foundation of your business credit. Get it before you do anything else. It's free, takes 10 minutes, and starts your business credit clock.
 
 ## The 2/10 Net-30 Math Most People Get Wrong
+
+| Payment Term | Timeline | When to Use | Key Consideration |
+| --- | --- | --- | --- |
+| Net-30 | 30 days from invoice | Standard supplier terms | Pay on time to build credit |
+| Net-60 | 60 days from invoice | Larger purchases or established relationships | Preserves cash longer |
+| Net-90 | 90 days from invoice | Major orders with strong supplier relationships | Maximum cash preservation |
+| 2/10 Net-30 | 2% discount if paid in 10 days; full amount due by day 30 | When you have idle cash available | Equals ~36.7% annualized return; avoid if using borrowed funds |
 
 A lot of business owners ignore "2/10 net-30" discounts or take them without thinking. Let's do the actual math.
 
@@ -71,7 +78,7 @@ Most small business owners treat trade credit like an accident waiting to happen
 
 The [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed) has guidance on keeping business and personal finances separate. Here's why it matters for credit: suppliers and lenders look at your business as its own entity. If business and personal money are mixed together, you can't build a business credit profile that stands alone. Separate checking. Separate EIN. Everything in the business name.
 
-Then it's systematic: Open accounts with suppliers you already use and ask for terms. Pay every invoice before or on the due date. Add two or three more trade accounts over time. Make sure at least some suppliers report to commercial bureaus. Check your Dun & Bradstreet and Experian Business profiles every six months for errors.
+Then it's systematic: Open accounts with suppliers you already use and ask for terms. Pay every invoice before or on the due date. Add two or three more trade accounts over time. Make sure at least some suppliers report to commercial bureaus. Check your Dun & Bradstreet and [Experian Business](/experian-business-credit/) profiles every six months for errors.
 
 Mike Michalowicz's *Profit First* (available on [Amazon](https://amzn.to/3example), note: affiliate link) doesn't cover trade credit specifically but teaches solid cash management habits that make trade credit work better in practice.
 

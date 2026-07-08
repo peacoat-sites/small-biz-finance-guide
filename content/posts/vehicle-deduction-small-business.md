@@ -23,7 +23,7 @@ author: "Sarah Johnson"
 author_slug: "sarah-johnson"
 author_title: "CPA & Lead Editor"
 author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
-
+lastmod: 2026-07-07
 ---
 You bought a truck for your business last year, drove it 14,000 miles for client visits and supply runs, and then left the entire deduction on the table because you weren't sure how to claim it. That scenario plays out thousands of times every tax season. Vehicle deductions are one of the most valuable and most misunderstood write-offs available to small business owners, and getting them wrong costs real money in both directions: either you underclaim and overpay, or you overclaim and invite an audit.
 
@@ -42,6 +42,13 @@ Which one wins? It depends on the vehicle. A heavy-duty truck or SUV with high o
 Here's the catch: the IRS requires that if you want to use standard mileage for a vehicle, you must choose it in the first year the vehicle is placed in service. Start with actual expenses, and you're locked into that method for that vehicle. Also, to use the standard mileage rate, you must own or lease the vehicle. If your business owns multiple vehicles, you can't use standard mileage for a fleet. That's an actual-expense situation by default.
 
 ## Section 179 and Bonus Depreciation: The Big Deductions
+
+| Method | Best For | Key Advantage | Key Requirement |
+| --- | --- | --- | --- |
+| Standard Mileage Rate | Fuel-efficient vehicles with low operating costs | Simpler tracking; no detailed expense receipts needed | Must elect in first year vehicle is in service |
+| Actual Expense Method | Heavy-duty trucks, SUVs, high-cost vehicles | Often produces larger deduction for expensive vehicles | Must track all costs; can switch methods only between vehicles |
+| Section 179 Deduction | Vehicles purchased outright or financed | Full cost deductible in year of purchase (subject to limits and business-use %) | Vehicle must be actively used for business; passenger vehicle caps apply |
+| Bonus Depreciation | New or used business vehicles | Immediate deduction of large percentage of cost in year one | Percentage steps down annually; confirm current rate with tax pro |
 
 > **Helpful resource:** [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -72,7 +79,7 @@ This is where people get into trouble. The IRS definition of business use is spe
 
 The home-office exception is worth knowing. If your home qualifies as your principal place of business (you have a dedicated home office that meets IRS criteria), then trips from your home to see clients or suppliers can count as business miles. That changes the math for a lot of freelancers and home-based businesses.
 
-I've seen clients lose deductions in audits not because they lied about mileage but because they couldn't tell the difference between commuting and business travel in their own records.
+I've seen clients [lose deductions in audits](/small-business-audit-risk-factors/) not because they lied about mileage but because they couldn't tell the difference between commuting and business travel in their own records.
 
 ## Recordkeeping: The Part Nobody Wants to Talk About
 

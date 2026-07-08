@@ -23,6 +23,7 @@ faqs:
    a: "The worker's preference is irrelevant for IRS purposes. If the economic reality of the relationship meets the criteria for employment, you're liable for the taxes regardless of what the worker wanted or agreed to."
  - q: "Should I file Form SS-8 to ask the IRS to determine a worker's status?"
    a: "Be careful with this one. Form SS-8 is a formal request for a determination, and once filed, it puts the IRS on notice and starts a process you can't easily stop. I'd recommend talking to a CPA before filing it. In most situations, getting professional advice first and making your own defensible classification is a better approach than inviting IRS scrutiny proactively."
+lastmod: 2026-07-07
 ---
 
 A business owner I worked with a few years back got a letter from the IRS that made her physically ill. She'd been paying six contractors for three years. Good people, reliable work, no problems. Except the IRS decided two of them were actually employees, and suddenly she owed back payroll taxes, interest, and penalties that added up to more than she'd made in profit that entire year. She hadn't done anything she thought was wrong. That's the part that still sticks with me.
@@ -42,6 +43,12 @@ The agency uses a framework that's evolved over time, most recently condensed in
 What most people don't realize is that no single factor is automatically disqualifying. It's a totality-of-circumstances test, and different IRS examiners can weigh the same facts differently. That ambiguity is both a defense and a risk.
 
 ## The Actual Penalties (And They Stack)
+
+| Scenario | Filing 1099s | Intentionality | Withholding Rate | FICA Rate | Notes |
+| --- | --- | --- | --- | --- | --- |
+| Standard misclassification | Yes | Unintentional | 1.5% of wages | 20% of employee share | Base penalty structure |
+| No 1099s filed | No | Unintentional | 3.0% of wages | 40% of employee share | Rates double without documentation |
+| Willful misclassification | Any | Willful | Full withholding owed | Full employer + employee shares | Most severe; no offsets allowed |
 
 > **Helpful resource:** [The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

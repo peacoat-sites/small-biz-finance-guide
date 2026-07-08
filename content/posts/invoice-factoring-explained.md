@@ -23,7 +23,7 @@ author: "Amanda Pierce"
 author_slug: "amanda-pierce"
 author_title: "Operations Finance Consultant"
 author_bio: "Amanda Pierce consults with small businesses on the day-to-day money mechanics that make or break them: cash flow, invoicing, and getting paid on time. She has cleaned up the books for dozens of owners. At Small Biz Finance Guide she covers cash flow and operational finance."
-
+lastmod: 2026-07-07
 ---
 You sent the invoice on March 3rd. It's now April 18th. Your client, a legitimate company (not a deadbeat), has a 60-day payment term. So you'll see the money around May 3rd. Meanwhile, your supplier wants payment in 15 days, your part-time contractor expects a check Friday, and your business checking account looks like it's on a diet. This cash flow gap kills otherwise healthy businesses. Invoice factoring exists to solve exactly this, and it's more accessible than most small business owners realize.
 
@@ -38,6 +38,12 @@ That fee (the factoring rate or discount rate) typically ranges from 1% to 5% of
 I've seen clients in construction, staffing, trucking, and professional services use factoring effectively because those industries have long payment cycles baked into the business model. If you're billing $50,000 a month and waiting 45 to 60 days to collect, you're essentially carrying a $75,000 to $100,000 float that your bank account can't cover. Factoring closes that gap.
 
 ## Recourse vs. Non-Recourse Factoring: A Critical Distinction
+
+| Factoring Type | Client Notification | Cost Level | Best For |
+| --- | --- | --- | --- |
+| Recourse Factoring | Factor informs client to pay directly | Lower | Businesses comfortable with client disclosure |
+| Non-Recourse Factoring | Factor informs client to pay directly | Higher | Protection against client insolvency (limited) |
+| Non-Notification Factoring | Client pays you, you remit to factor | Highest | Maintaining confidential client relationships |
 
 > **Helpful resource:** [Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -60,7 +66,7 @@ Here's a realistic walk-through of how factoring actually operates:
 
 1. **You complete the work and issue an invoice.** The invoice needs to be clean, undisputed, and owed by a creditworthy business or government entity. Factors won't buy invoices from consumers, and they'll scrutinize the paying company's credit, not yours.
 
-2. **You apply with a factoring company.** Approval focuses heavily on your clients' ability to pay. Factoring is available to businesses that can't qualify for traditional bank credit because the risk assessment is different. Expect to submit your accounts receivable aging report, some client information, and basic business documentation.
+2. **You apply with a factoring company.** Approval focuses heavily on your clients' ability to pay. Factoring is available to businesses that can't qualify for [traditional bank credit](/small-business-line-of-credit/) because the risk assessment is different. Expect to submit your accounts receivable aging report, some client information, and basic business documentation.
 
 3. **The factor verifies the invoice.** They'll confirm with your client that the work was completed and the invoice is legitimate. This is standard.
 

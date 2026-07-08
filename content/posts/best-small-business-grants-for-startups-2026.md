@@ -23,6 +23,7 @@ faqs:
     a: "Some programs specifically target pre-revenue startups, particularly in innovation and research categories. Most programs, though, want to see at least some demonstrated traction. Check eligibility carefully before investing application time."
   - q: "What's the biggest mistake founders make when applying for grants?"
     a: "Applying for grants they don't actually fit. Founders get excited about the dollar amount and ignore the program's stated priorities. Grant committees notice when an application is generic or poorly aligned, and it's the fastest path to rejection. Apply to fewer programs with stronger fit, not every program you can find."
+lastmod: 2026-07-07
 ---
 
 Most startup founders I talk to have the same misconception about grants: that they're basically free money waiting to be claimed, and the only reason they haven't gotten one yet is that they didn't know where to look. I'll be honest, I believed a version of that myself when I first started helping early-stage businesses with their finances. Then I spent a serious chunk of time last spring going deep on what the grant landscape actually looks like in 2026, and what I found was messier, more competitive, and more specific than any "top 10 grants" listicle will tell you.
@@ -63,11 +64,19 @@ A practical example of how this plays out: A food-business founder in Albuquerqu
 
 ## Demographic-Specific and Mission-Driven Grants
 
+| Grant Program | Typical Award Amount | Application Complexity | Competition Level |
+| --- | --- | --- | --- |
+| SBIR Phase I | $275,000-$300,000 | Intensive | High (merit-based) |
+| State Economic Development | $15,000-$22,000 | Moderate | Lower than federal |
+| Amber Grant | $10,000 monthly; $25,000 year-end | Low | Moderate |
+| CDFI Microgrants | Varies by institution | Low to moderate | Lower |
+| Local City Programs | Varies by municipality | Moderate | Lower than federal |
+
 This category has grown significantly, and as of July 2026 it represents a real and active funding channel for founders who qualify.
 
 **For women-owned businesses:** The Amber Grant (awardsmonthly at $10,000, with a $25,000 year-end award) is legitimate and worth the low application friction. Cartier Women's Initiative is more prestigious and substantially larger. The Eileen Fisher grants are specifically for environmentally focused businesses.
 
-**For minority-owned businesses:** The SBA's 8(a) program isn't a grant but it's worth knowing about for federal contracting. The National Minority Supplier Development Council (NMSDC) connects certified businesses to corporate partners who are actively looking to fulfill supplier diversity commitments. Some of those relationships come with grant components.
+**For minority-owned businesses:** The [SBA's 8(a) program](/sba-loan-requirements-guide/) isn't a grant but it's worth knowing about for federal contracting. The National Minority Supplier Development Council (NMSDC) connects certified businesses to corporate partners who are actively looking to fulfill supplier diversity commitments. Some of those relationships come with grant components.
 
 **For veteran-owned businesses:** The StreetShares Foundation has historically offered veteran small business awards. The Hivers and Strivers fund targets military-affiliated startups specifically.
 

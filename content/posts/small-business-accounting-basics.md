@@ -23,7 +23,7 @@ author: "Michael Torres"
 author_slug: "michael-torres"
 author_title: "Small Business Lending Specialist"
 author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
-
+lastmod: 2026-07-07
 ---
 You opened your business bank account on a Tuesday, landed your first client by Friday, and by the end of the month you have no idea where the money went. Sound familiar? A survey by Clutch found that 60% of small business owners don't feel knowledgeable about accounting or finance. That's not a character flaw. It's a gap in how entrepreneurship gets taught. Most people learn the product, the pitch, the hustle. Nobody hands you a manual for the books.
 
@@ -39,7 +39,7 @@ Good financial records do three specific things. They tell you whether the busin
 
 ## The Foundation: Setting Up Your Chart of Accounts
 
-Before you record a single transaction, you need a chart of accounts. Think of it as the filing system for every dollar that moves through your business. Every piece of financial software asks you to set one up, and most people click through it without understanding what they're building.
+Before you record a single transaction, you need a [chart of accounts](/small-business-bookkeeping-guide/). Think of it as the filing system for every dollar that moves through your business. Every piece of financial software asks you to set one up, and most people click through it without understanding what they're building.
 
 A chart of accounts groups your transactions into five categories:
 
@@ -59,6 +59,11 @@ When you open QuickBooks, Wave, or FreshBooks, they'll give you a default chart 
 
 ## Cash Basis vs. Accrual Basis: Pick One and Understand It
 
+| Accounting Method | Income Recording | Expense Recording | Best For | Cash vs. Profit |
+| --- | --- | --- | --- | --- |
+| Cash Basis | When payment received | When payment made | Most small businesses under $25M annual receipts | Matches bank account |
+| Accrual Basis | When invoice issued | When bill received | Larger or inventory-heavy companies | Can differ significantly |
+
 This accounting choice trips up more small business owners than almost anything else. You need to make it, and you need to know what you're choosing.
 
 **Cash basis accounting** records income when you receive payment and expenses when you actually pay them. Simple. Intuitive. Matches your bank account. Most small businesses with under $25 million in annual gross receipts can use this method, and it's what I recommend to most clients starting out.
@@ -71,7 +76,7 @@ Pick one method. Apply it consistently. Understand what your numbers actually te
 
 ## The Three Reports That Actually Run Your Business
 
-Most business owners have heard of a profit and loss statement. Fewer can explain what a balance sheet shows, or why a cash flow statement matters. You need all three.
+Most business owners have heard of a profit and loss statement. Fewer can explain what a balance sheet shows, or why a [cash flow statement](/cash-flow-statement-explained/) matters. You need all three.
 
 **The Profit and Loss Statement (P&L)** (sometimes called an income statement) shows revenue minus expenses over a time period. It tells you whether the business is profitable. Here's the catch: profit on a P&L doesn't mean cash in the bank. Never forget that.
 
@@ -114,7 +119,7 @@ One of the highest-leverage habits you can build is a simple monthly close. This
 
 **Step 4: Review upcoming bills.** Check accounts payable. What's due in the next 30 days? Make sure the cash will be there.
 
-**Step 5: Pull your three core reports.** P&L, balance sheet, cash flow statement for the month. Read them. Compare to the prior month. Look for anything that seems off.
+**Step 5: Pull your three core reports.** P&L, [balance sheet](/reading-a-balance-sheet-basics/), cash flow statement for the month. Read them. Compare to the prior month. Look for anything that seems off.
 
 **Step 6: Set aside estimated taxes.** If you're self-employed or running a profitable business, the IRS expects quarterly estimated tax payments. A rough starting point is 25-30% of net profit in a separate savings account as you go. Your actual percentage depends on your situation and filing status, so consult a CPA to get the right number.
 

@@ -23,7 +23,7 @@ author: "David Kim"
 author_slug: "david-kim"
 author_title: "Tax Strategist"
 author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
-
+lastmod: 2026-07-07
 ---
 You opened your business checking account, you're tracking expenses in a spreadsheet, and someone, maybe your accountant, maybe a mentor, maybe a podcast you half-listened to while doing inventory, told you that you need a business credit card. But nobody really explained *why*, or what happens if you pick the wrong one, or whether your personal credit score is about to take a hit just for applying. If that sounds familiar, you're in the right place.
 
@@ -31,11 +31,11 @@ You opened your business checking account, you're tracking expenses in a spreads
 
 Let me be direct: mixing personal and business expenses on one card is one of the most common and costly mistakes I see small business owners make. It's not just an accounting headache. It can genuinely put your personal assets at risk if you're ever audited, sued, or need to prove your business is a legitimate separate entity.
 
-The IRS takes commingling of funds seriously. If your business structure is an LLC or S-Corp and you're running personal groceries and client dinners through the same card, you are quietly eroding the legal separation that protects you. Lawyers call this "piercing the corporate veil." You don't want to learn what that phrase means the hard way.
+The IRS takes commingling of funds seriously. If your business structure is an [LLC or S-Corp](/business-credit-card-vs-personal-credit-card-for-llc/) and you're running personal groceries and client dinners through the same card, you are quietly eroding the legal separation that protects you. Lawyers call this "piercing the corporate veil." You don't want to learn what that phrase means the hard way.
 
 A dedicated business credit card solves several problems at once: it creates a clean paper trail for deductions, gives you a line of credit that floats short-term cash flow gaps without touching your personal finances, and if it's managed well, starts building a business credit profile separate from your own. That last part matters enormously when you eventually apply for a business loan or a commercial lease.
 
-The U.S. Small Business Administration has resources specifically about building business credit, and their guidance is clear: establishing credit in your business's name early is one of the foundational steps to long-term financial health.
+The U.S. Small Business Administration has resources specifically about [building business credit](/business-credit-building-tips/), and their guidance is clear: establishing credit in your business's name early is one of the foundational steps to long-term financial health.
 
 ## How Business Credit Cards Actually Work (and Where They Differ from Personal Cards)
 

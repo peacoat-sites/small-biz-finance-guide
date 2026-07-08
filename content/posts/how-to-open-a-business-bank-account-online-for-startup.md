@@ -23,7 +23,7 @@ author: "Rachel Green"
 author_slug: "rachel-green"
 author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
-
+lastmod: 2026-07-07
 ---
 Most articles about opening a business bank account spend 800 words telling you to "gather your documents" and then stop. That's not advice. That's a checklist you could've written yourself. So let me cover what actually matters, including the part where most startups make an expensive mistake in the first 90 days.
 
@@ -60,7 +60,7 @@ LLCs and corporations ask for more. You'll need:
 - Articles of Organization (LLC) or Articles of Incorporation (corporation), filed and stamped by your state
 - Your EIN (Employer Identification Number) from the IRS, which you can get free at IRS.gov in about five minutes
 - Your operating agreement (LLC) or bylaws (corporation)
-- Ownership information for anyone with 25% or more stake in the business, per federal beneficial ownership rules
+- Ownership information for anyone with 25% or more stake in the business, per federal [beneficial ownership rules](/business-bank-account-requirements/)
 
 That last one comes from FinCEN (Financial Crimes Enforcement Network) regulations, not the bank being difficult. Every bank has to collect it. The [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/) break down what these rules actually mean if you want the plain-language version.
 

@@ -23,6 +23,7 @@ faqs:
     a: "RUN is designed for small businesses (typically under 50 employees). Workforce Now is a more complex, enterprise-oriented platform with deeper HR functionality. If someone is steering a small business toward Workforce Now, ask hard questions about why."
   - q: "Does ADP integrate with QuickBooks?"
     a: "Yes, ADP RUN has a QuickBooks integration that syncs payroll journal entries into QuickBooks automatically. It works reasonably well, though some users report needing to do occasional manual reconciliation. It's not as seamless as using QuickBooks Payroll natively, but it's functional."
+lastmod: 2026-07-07
 ---
 
 Most business owners I talk to come to ADP the same way: someone recommended it, or they Googled "payroll software small business" and ADP kept showing up. They sign up, get a little overwhelmed by the interface, and then aren't totally sure if they're using it right or overpaying for features they don't need. If that's you, good. You're in the right place.
@@ -45,6 +46,15 @@ Here's what I tell people when they ask which tier to start on: start with Enhan
 
 ## The Pricing Reality (And Why It's Hard to Get a Straight Answer)
 
+| RUN Tier | Base Monthly Cost | Per-Employee Fee (per pay period) | State SUI Filing | Time Tracking | Workers' Comp Integration |
+| --- | --- | --- | --- | --- | --- |
+| Essential | $59-79 | $4-8 | Not all states | No | No |
+| Enhanced | ~$70-99 | $4-8 | Yes | No | No |
+| Complete | Higher | $4-8 | Yes | Yes | Yes |
+| HR Pro | Higher | $4-8 | Yes | Yes | Yes |
+
+*Pricing as of 2025-2026; actual costs vary by state, employee count, and negotiation. Always request a full written fee schedule including year-end charges before signing.*
+
 > **Helpful resource:** [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 
@@ -53,7 +63,7 @@ ADP doesn't publish pricing publicly. I find this obnoxious, frankly, and so do 
 
 Yes, you can negotiate. ADP sales reps have flexibility on the base rate, especially if you mention you're also looking at Gusto or Paychex. I've seen clients get 3-6 months free or a meaningful discount on the monthly base just by asking directly. Don't skip this step.
 
-One thing that catches people off guard: year-end fees. W-2 processing, 1099 filing, and some state reconciliation filings can come with additional charges at year-end, and they're not always prominently disclosed during onboarding. Ask your rep to put the full fee schedule in writing before you sign anything. This is non-negotiable advice.
+One thing that catches people off guard: year-end fees. W-2 processing, 1099 filing, and some state reconciliation filings can come with additional charges at year-end, and they're not always prominently disclosed during onboarding. Ask your rep to put the full fee schedule in writing [before you sign anything](/payroll-basics-small-business/). This is non-negotiable advice.
 
 ---
 
@@ -65,7 +75,7 @@ The setup process is more involved than competitors like Gusto, but it's managea
 **Action taken:** Gathered EIN, state tax IDs, prior-year W-2s, employee I-9s, and bank account info before calling ADP. Used the [SCORE mentorship network](https://www.score.org/) to connect with a retired HR advisor who helped verify the state UI account number.
 **Result:** Setup completed in about 3 hours across two sessions. First payroll ran successfully within 10 days of signing. The owner estimated she saved roughly 4 hours per pay period compared to the manual process.
 
-The single biggest setup mistake I see is not having your state payroll tax account numbers ready. ADP needs these to file on your behalf. If you don't have them (because you're new or you've never set up payroll before), you'll need to apply with your state's department of labor first. That process can take 2-4 weeks, so don't assume you can start payroll next week if you're starting from scratch.
+The single biggest setup mistake I see is not having your state payroll tax account numbers ready. ADP needs these to file on your behalf. If you don't have them (because you're new or you've never set up payroll before), you'll need to apply with your state's department of labor first. That process can take 2-4 weeks, so don't assume you can start payroll next week if you're [starting from scratch](/how-to-set-up-payroll-for-small-business-first-employee/).
 
 A few things you'll need on hand:
 - Your federal EIN (Employer Identification Number)

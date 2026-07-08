@@ -23,11 +23,11 @@ author: "David Kim"
 author_slug: "david-kim"
 author_title: "Tax Strategist"
 author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
-
+lastmod: 2026-07-07
 ---
 Most advice about quarterly estimated taxes starts in the wrong place. It leads with the IRS payment schedule, or maybe a vague warning about penalties, and skips the thing you actually need first: a clear picture of what you're estimating and why the math works the way it does. So let's fix that.
 
-If you're self-employed, the federal government expects you to pay your income taxes and self-employment taxes throughout the year, not all at once in April. When you worked a regular job, your employer handled this automatically, pulling FICA taxes and income tax withholding from every paycheck. Now that you work for yourself, you're both the employee and the employer. That's why self-employment tax exists at a flat 15.3% on your net self-employment income (12.4% for Social Security, 2.9% for Medicare), and it's why the IRS sends nobody a bill in real time. You're on the honor system, with penalties if you get it badly wrong.
+If you're self-employed, the federal government expects you to pay your income taxes and [self-employment tax](/payroll-tax-obligations-small-business/)es throughout the year, not all at once in April. When you worked a regular job, your employer handled this automatically, pulling FICA taxes and income tax withholding from every paycheck. Now that you work for yourself, you're both the employee and the employer. That's why self-employment tax exists at a flat 15.3% on your net self-employment income (12.4% for Social Security, 2.9% for Medicare), and it's why the IRS sends nobody a bill in real time. You're on the honor system, with penalties if you get it badly wrong.
 
 The IRS generally expects quarterly payments if you'll owe $1,000 or more in federal taxes for the year after subtracting any withholding. That $1,000 threshold is the trigger. Most self-employed people hit it quickly.
 
@@ -57,13 +57,13 @@ Practically speaking: if your income is relatively stable, Method 1 is the low-s
 
 Let's do the real math. Say you're a freelance designer who expects to earn $85,000 in net self-employment income this year.
 
-**Step 1: Start with net self-employment income.** This is gross revenue minus legitimate business expenses. Not gross revenue. If you billed $110,000 and spent $25,000 on software, equipment, contractors, and a home office, your net is $85,000. That's your starting number.
+**Step 1: Start with net self-employment income.** This is gross revenue minus legitimate business expenses. Not gross revenue. If you billed $110,000 and spent $25,000 on software, equipment, contractors, and a [home office](/home-office-deduction-rules/), your net is $85,000. That's your starting number.
 
 **Step 2: Calculate self-employment tax.** The IRS lets you multiply net self-employment income by 92.35% first (this accounts for the employer-equivalent deduction). So: $85,000 × 0.9235 = $78,497.50. Then multiply by 15.3%: $78,497.50 × 0.153 = $12,010.12. That's your estimated self-employment tax.
 
 **Step 3: Deduct half of self-employment tax from gross income.** The IRS allows you to deduct half of SE tax as an above-the-line deduction. So: $85,000 minus $6,005.06 (half of $12,010.12) = $78,994.94. This is your adjusted gross income for the purpose of this estimate.
 
-**Step 4: Apply your standard deduction or itemized deductions.** For 2024, the standard deduction for a single filer is $14,600. So: $78,994.94 minus $14,600 = $64,394.94 in estimated taxable income.
+**Step 4: Apply your [standard deduction](/small-business-tax-deductions-checklist-2026/) or itemized deductions.** For 2024, the standard deduction for a single filer is $14,600. So: $78,994.94 minus $14,600 = $64,394.94 in estimated taxable income.
 
 **Step 5: Calculate income tax on that amount.** Using 2024 federal tax brackets for a single filer, the first $11,600 is taxed at 10% ($1,160), income from $11,600 to $47,150 is taxed at 12% ($4,266), and income from $47,150 to $64,394.94 is taxed at 22% ($3,794.89). Total estimated federal income tax: roughly $9,221.
 

@@ -23,7 +23,7 @@ author: "Amanda Pierce"
 author_slug: "amanda-pierce"
 author_title: "Operations Finance Consultant"
 author_bio: "Amanda Pierce consults with small businesses on the day-to-day money mechanics that make or break them: cash flow, invoicing, and getting paid on time. She has cleaned up the books for dozens of owners. At Small Biz Finance Guide she covers cash flow and operational finance."
-
+lastmod: 2026-07-07
 ---
 Most tax advice about the qualified business income deduction starts in the middle. It assumes you already know what it is, skips right past the part where 20% of your income might just disappear from your taxable base, and then spends three paragraphs hedging about whether you qualify. Let me back up.
 
@@ -40,6 +40,11 @@ You also need to be running what the IRS calls a "qualified trade or business." 
 C corporations don't qualify. The deduction was specifically designed for pass-throughs.
 
 ## The Income Thresholds (This Is Where It Gets Real)
+
+| Filing Status | Income Threshold | SSTB Phase-Out Upper Limit |
+| --- | --- | --- |
+| Single | $191,950 | $241,950 |
+| Married Filing Jointly | $383,900 | $483,900 |
 
 For 2024, the thresholds sit at $191,950 for single filers and $383,900 for married filing jointly. Below those numbers, the deduction is relatively straightforward. You multiply your qualified business income by 20%, and that's your deduction, subject to an overall limit tied to taxable income.
 
@@ -59,7 +64,7 @@ One thing I've seen cause real confusion: a business can have an SSTB component 
 
 ## How to Actually Calculate It
 
-Start with your qualified business income. That's your net profit from the business, minus things like self-employment tax deductions, self-employed health insurance, and SEP-IRA contributions. Those adjustments reduce QBI, which reduces the deduction. Counterintuitive but that's the rule.
+Start with your qualified business income. That's your net profit from the business, minus things like [self-employment tax deductions](/payroll-tax-obligations-small-business/), self-employed health insurance, and SEP-IRA contributions. Those adjustments reduce QBI, which reduces the deduction. Counterintuitive but that's the rule.
 
 Multiply QBI by 20%. That's your preliminary deduction.
 

@@ -23,6 +23,7 @@ faqs:
    a: "Under federal law, the statute of limitations is two years for unintentional violations and three years for willful violations. Some states allow longer lookback periods. This is one reason clean records matter so much."
  - q: "Are salaried managers automatically exempt from overtime?"
    a: "No. Salary alone doesn't create exemption. The employee's weekly salary must meet the current federal threshold (verify this currently, as it's been in flux), and their job duties must genuinely meet one of the FLSA's exemption categories. Consult a CPA or employment attorney before classifying any position as exempt."
+lastmod: 2026-07-07
 ---
 Most small business owners I talk to are operating on a version of overtime law that's about five years out of date, half-remembered from when they hired their first employee, and honestly just wrong in a few key places. That's not a criticism. It's genuinely confusing, and the federal government hasn't made it easier.
 
@@ -44,7 +45,7 @@ Exempt status requires two things: the employee meets a salary basis test (curre
 
 I've seen small businesses get hit with back pay claims because they misclassified a customer service manager or an inside sales rep as exempt. These cases are expensive, embarrassing, and almost always avoidable with a 90-minute conversation with someone who knows what they're looking at. [SCORE](https://www.score.org/) offers free mentorship and can connect you with advisors who've been through exactly this.
 
-The other high-risk category is independent contractors. Misclassifying a worker as a 1099 contractor when they functionally operate as an employee doesn't just affect overtime, it creates a cascade of tax, benefits, and liability exposure. The IRS and the DOL both have their own tests for this, and they don't entirely agree with each other, which is its own kind of fun.
+The other high-risk category is [independent contractors](/independent-contractor-vs-employee/). Misclassifying a worker as a 1099 contractor when they functionally operate as an employee doesn't just affect overtime, it creates a cascade of tax, benefits, and liability exposure. The IRS and the DOL both have their own tests for this, and they don't entirely agree with each other, which is its own kind of fun.
 
 ## Calculating Overtime Correctly
 

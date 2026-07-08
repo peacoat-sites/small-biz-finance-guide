@@ -23,6 +23,7 @@ faqs:
    a: "Honestly, it depends heavily on your industry and local market. In most U.S. markets, a combination of health coverage (even partial), 10 or more PTO days, and some form of retirement contribution puts you ahead of a large number of small businesses. That's the floor worth targeting before adding anything else."
  - q: "How do I find out what my employees actually want?"
    a: "Ask them. Directly. A short anonymous survey with four or five benefit options and their approximate cost to the employee is more useful than any industry report. Most owners are surprised by the results. Employees often rank things like telecommuting flexibility and clear PTO above perks that cost employers far more."
+lastmod: 2026-07-07
 ---
 
 Most articles about small business employee benefits spend 800 words telling you that "benefits help attract talent" before getting to anything useful. You already know that. What you probably don't know is which benefits actually move the needle for small teams, what you can realistically afford before you're profitable, and where most owners waste money offering things their employees don't actually want.
@@ -37,13 +38,13 @@ The first thing to understand: you are not competing with Google's benefits pack
 
 If you offer nothing else, offer this. Health insurance is consistently ranked the number-one benefit employees value, and it's one of the few things that can genuinely tip a candidate's decision. A solid job candidate weighing two similar offers will almost always take the one with real health coverage.
 
-The hard truth: group health insurance for small businesses is expensive. Premiums vary dramatically by state, plan type, and workforce age, but for a small group plan you should expect employer costs somewhere in the range of $500 to $800+ per employee per month for a reasonable plan, often more in high-cost states. That's real money. (Consult a licensed insurance broker and your CPA before committing to any plan structure, because the tax treatment matters a lot here.)
+The hard truth: group [health insurance for small businesses](/hiring-first-employee-guide/) is expensive. Premiums vary dramatically by state, plan type, and workforce age, but for a small group plan you should expect employer costs somewhere in the range of $500 to $800+ per employee per month for a reasonable plan, often more in high-cost states. That's real money. (Consult a licensed insurance broker and your CPA before committing to any plan structure, because the tax treatment matters a lot here.)
 
 You have a few realistic paths. A traditional group health plan through a carrier or broker is the most familiar, but not always the best fit for a 4-person team. A Health Reimbursement Arrangement, specifically the Qualified Small Employer HRA (QSEHRA), lets you reimburse employees tax-free for individual health insurance premiums and medical expenses up to IRS-set annual limits. This is wildly underused by small businesses. It gives employees flexibility to pick their own plan, and it gives you a predictable, capped cost. The IRS updates the contribution limits annually, so check the current year's numbers before you set anything up.
 
 Another option gaining traction: the Individual Coverage HRA (ICHRA), which has no contribution caps and more flexibility around employee classes. It's more complex to administer, but for a business with a mix of full-time and part-time workers, it can work better than a one-size-fits-all group plan.
 
-If you're just starting out and can't afford full premiums, contributing even 50% toward employee premiums and offering an employee-paid-only option for dependents is better than nothing. Partial coverage beats "we don't offer benefits" in every hiring conversation.
+If you're just starting out and can't afford full premiums, contributing even 50% toward employee premiums and offering an [employee-paid-only option](/1099-vs-w2-explained/) for dependents is better than nothing. Partial coverage beats "we don't offer benefits" in every hiring conversation.
 
 ---
 

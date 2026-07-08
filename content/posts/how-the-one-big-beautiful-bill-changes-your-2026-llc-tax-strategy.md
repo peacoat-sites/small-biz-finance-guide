@@ -12,6 +12,7 @@ author_title: "Operations Finance Consultant"
 author_bio: "Amanda Pierce consults with small businesses on the day-to-day money mechanics that make or break them: cash flow, invoicing, and getting paid on time. She has cleaned up the books for dozens of owners. At Small Biz Finance Guide she covers cash flow and operational finance."
 slug: "how-the-one-big-beautiful-bill-changes-your-2026-llc-tax-strategy"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Most coverage of the One Big Beautiful Bill Act treated it like a Washington story. It's not. It's a cash-flow story, and if you run an LLC or S-corp, the decisions you make in the next few months will determine how much of that cash you actually keep.
 
@@ -43,7 +44,7 @@ One caveat: the deduction still phases out for certain service businesses above 
 
 This got lost in the QBI conversation, but for asset-heavy operations, it's probably the bigger immediate win.
 
-The OBBBA restored 100% bonus depreciation for qualifying property acquired after January 19, 2025, and made it permanent. It also increased the Section 179 expensing cap from $1.25 million to $2.5 million. They're not the same thing and don't function identically, but the takeaway is straightforward: buy qualifying equipment, machinery, vehicles, or certain software this year, and you can write the whole cost off in 2026 instead of spreading it over five to seven years.
+The OBBBA restored [100% bonus depreciation](/how-to-use-100-bonus-depreciation-to-cut-your-2026-tax-bill/) for qualifying property acquired after January 19, 2025, and made it permanent. It also increased the Section 179 expensing cap from $1.25 million to $2.5 million. They're not the same thing and don't function identically, but the takeaway is straightforward: buy qualifying equipment, machinery, vehicles, or certain software this year, and you can write the whole cost off in 2026 instead of spreading it over five to seven years.
 
 A manufacturing LLC that purchases $400,000 in equipment sees a huge difference. Instead of a standard five-year depreciation schedule, you're looking at roughly $320,000 in deductions accelerated forward. At a 30% effective tax rate, that's close to $96,000 in taxes you don't owe this year.
 

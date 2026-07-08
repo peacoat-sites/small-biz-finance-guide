@@ -23,6 +23,7 @@ faqs:
    a: "Before age 65, yes: you owe income tax plus a 20% penalty on non-qualified withdrawals. After 65, the penalty disappears and you just pay ordinary income tax, same as a traditional IRA distribution. The 20% penalty is steep enough that you shouldn't treat your HSA as an emergency fund."
  - q: "Should I max out my HSA before contributing to a SEP-IRA or Solo 401(k)?"
    a: "Generally, max the HSA first. The contribution limits are lower, the triple-tax advantage is unique, and the break-even math favors the HSA for most people. Then layer in your retirement account on top. That said, if your cash flow is tight and you're choosing between the two, run the numbers with your CPA before deciding, because the right answer depends on your income level, state tax situation, and whether you can cash-flow your medical expenses."
+lastmod: 2026-07-07
 ---
 
 Most articles about HSAs for self-employed people spend three paragraphs explaining what an HSA is and then tell you to "consult a tax professional." You already know what an HSA is. What you need to know is whether it actually pencils out for someone without an employer footing half the premium, how to set one up without a $400 accountant call, and where people quietly leave money on the table year after year.
@@ -42,6 +43,11 @@ If you're buying coverage through the ACA marketplace as a self-employed individ
 One catch worth flagging: if you're also on Medicare, even just Part A, you can't contribute to an HSA. This trips up people who sign up for Medicare early without realizing it closes the HSA window.
 
 ## What the Numbers Actually Look Like
+
+| Coverage Type | Minimum Deductible | Maximum Out-of-Pocket | 2026 Contribution Limit | Age 55+ Catch-Up |
+| --- | --- | --- | --- | --- |
+| Self-Only | $1,650 | $8,300 | $4,300 | $1,000 |
+| Family | $3,300 | $16,600 | $8,550 | $1,000 |
 
 > **Helpful resource:** [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

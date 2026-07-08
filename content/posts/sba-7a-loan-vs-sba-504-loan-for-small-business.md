@@ -23,7 +23,7 @@ author: "Sarah Johnson"
 author_slug: "sarah-johnson"
 author_title: "CPA & Lead Editor"
 author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
-
+lastmod: 2026-07-07
 ---
 Most business owners walk into an SBA loan conversation knowing two things: the loans exist, and they're supposedly hard to get. That's about where the useful public knowledge ends. The 7(a) and the 504 get lumped together constantly, treated like two flavors of the same thing, and that framing costs people real money.
 
@@ -33,7 +33,7 @@ Here's what the distinction actually looks like in practice.
 
 ## What Each Loan Is Actually Built For
 
-The **SBA 7(a)** is the workhorse. It's the most broadly used SBA loan program, and the reason is flexibility. You can use it to buy equipment, cover working capital, acquire a business, refinance existing debt, buy real estate, or fund a dozen other things. The SBA caps the loan amount at $5 million. Terms go up to 10 years for most purposes, 25 years if real estate is involved.
+The **SBA 7(a)** is the workhorse. It's the most broadly used SBA loan program, and the reason is flexibility. You can use it to buy equipment, cover [working capital](/how-to-get-a-small-business-loan/), acquire a business, refinance existing debt, buy real estate, or fund a dozen other things. The SBA caps the loan amount at $5 million. Terms go up to 10 years for most purposes, 25 years if real estate is involved.
 
 The **SBA 504** has one job: fixed assets. Specifically, owner-occupied commercial real estate and large equipment. You're buying a building you'll operate out of, or a $400,000 CNC machine, or both. You cannot use a 504 for working capital. You cannot use it to buy a business. It's purpose-built, and that constraint is a feature, not a bug, because the tradeoff is a significantly lower rate on a very large, long-term asset.
 
@@ -55,13 +55,24 @@ The [U.S. Small Business Administration](https://www.sba.gov/) breaks down both 
 
 ## The Rate and Term Comparison You Actually Need
 
+| Feature | SBA 7(a) | SBA 504 |
+| --- | --- | --- |
+| Primary Use | Working capital, equipment, business acquisition, debt refinance, real estate, multiple purposes | Owner-occupied commercial real estate and large equipment only |
+| Maximum Loan Amount | $5 million | Not specified in article |
+| Loan Term | Up to 10 years (most purposes); up to 25 years (real estate) | 10, 20, or 25 years |
+| Rate Type | Variable (default); some fixed options available | Fixed rate (CDC portion) |
+| Funding Structure | Single lender | Three-party: borrower (10% down), bank (50%), CDC (40%) |
+| Number of Closings | One | Two |
+| SBA Guarantee | Up to 85% (loans under $150k); up to 75% (larger loans) | SBA-backed debenture portion |
+| Typical Current Rate Range | Low double digits to ~10-11% | Generally lower than comparable 7(a); competitive with or below conventional commercial mortgages |
+
 7(a) rates are variable by default, though some lenders offer fixed options. They're pegged to the prime rate or SOFR with a lender spread on top. Right now, in a high-rate environment, that means 7(a) rates for standard loans can land anywhere from the low double digits down to around 10-11% depending on loan size, term, and your credit profile. The SBA caps the spread lenders can charge, which is some protection, but variable is still variable.
 
 504 rates on the CDC portion are fixed. Fully fixed, for the life of the loan, which is 10, 20, or 25 years. The bank portion (the 50%) carries its own rate and terms negotiated separately, which is the piece most people forget about. You're effectively managing two debt instruments. But the total blended cost on a large real estate or equipment purchase with a 504 is usually lower than a comparable 7(a), and much lower than conventional commercial financing.
 
 For real estate specifically, the 504 is almost always the better choice if you qualify. I've seen business owners take 7(a) loans on commercial property purchases because the process felt simpler, and they paid for that convenience for 20 years. Don't do that.
 
-For shorter-term needs, working capital, acquisition financing, revolving credit, the 504 isn't an option anyway. The comparison doesn't apply.
+For shorter-term needs, working capital, [acquisition financing](/business-acquisition-loan/), revolving credit, the 504 isn't an option anyway. The comparison doesn't apply.
 
 ## Eligibility: What Actually Disqualifies People
 

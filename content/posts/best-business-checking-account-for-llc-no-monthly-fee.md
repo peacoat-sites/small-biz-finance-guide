@@ -23,7 +23,7 @@ author: "David Kim"
 author_slug: "david-kim"
 author_title: "Tax Strategist"
 author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
-
+lastmod: 2026-07-07
 ---
 You opened a business checking account two years ago because the bank rep said it was "free," and now you're staring at a $16 monthly fee on a statement wondering when that changed. Or maybe you're brand new to your LLC and you've already been burned once by a personal checking account that bled fees you didn't see coming. Either way, you're here because you want a real business account for your LLC that doesn't charge you just for existing. That's a completely reasonable thing to want, and there are genuinely good options available right now. Let me walk you through what actually matters.
 
@@ -47,11 +47,20 @@ Before you open anything, look for these specific charges:
 - **Transaction fees:** Some accounts allow only 100 or 200 free transactions monthly. For a high-volume business, this adds up fast.
 - **Cash deposit fees:** If your LLC handles physical cash, this one blindsides people. Some no-fee online accounts charge $1.50 to $2.50 per $100 in cash deposited through partner ATMs or retail locations.
 - **Outgoing wire transfer fees:** Often $15 to $25 per wire at online banks. If you pay contractors or vendors by wire regularly, this matters.
-- **ACH transfer limits:** Some accounts limit the number or dollar amount of ACH transfers monthly.
+- **[ACH transfer limits](/ach-payment-processing/):** Some accounts limit the number or dollar amount of ACH transfers monthly.
 
 Read the fee schedule, not the marketing page, before opening. FDIC-insured banks are required to disclose their fee schedules. Take ten minutes to actually find and read it.
 
 ## A Practical Comparison of No-Fee Business Checking Options
+
+| Account | Monthly Fee | Cash Deposits | Transaction Limits | Best For |
+|---|---|---|---|---|
+| **Relay** | $0 (standard tier) | No direct cash deposits | Unlimited | LLCs needing strong bookkeeping integrations |
+| **Bluevine** | $0 | Via Green Dot locations (fees apply) | Unlimited | LLCs that want to earn interest on balances |
+| **Mercury** | $0 | No direct cash deposits | Unlimited | Tech-forward LLCs, startups |
+| **Novo** | $0 | No direct cash deposits | Unlimited | Freelancers, solo LLCs, small service businesses |
+| **Chase Business Complete** | $15 (waivable) | Yes, at branches | 20 free teller/paper transactions | LLCs needing in-person banking |
+| **Lili** | $0 (basic tier) | Via Green Dot (fees apply) | Unlimited | Sole proprietors, freelancers |
 
 The landscape has changed significantly in recent years. Here are some commonly recommended options with their honest trade-offs:
 
@@ -74,7 +83,7 @@ I'd recommend verifying current terms directly on each bank's website before app
 
 This process is more straightforward than most people expect, especially for online banks.
 
-**Step 1: Have your LLC formation documents ready.** You'll need your Articles of Organization (sometimes called Certificate of Organization depending on your state), your Employer Identification Number (EIN) from the IRS, and a copy of your operating agreement if you have one. Don't have an EIN yet? Apply for free at IRS.gov and you'll typically get it immediately.
+**Step 1: Have your LLC formation documents ready.** You'll need your Articles of Organization (sometimes called Certificate of Organization depending on your state), your [Employer Identification Number](/business-bank-account-requirements/) (EIN) from the IRS, and a copy of your operating agreement if you have one. Don't have an EIN yet? Apply for free at IRS.gov and you'll typically get it immediately.
 
 **Step 2: Decide whether you need cash deposit capability.** If yes, filter your options to traditional banks with fee-waiver conditions or fintech accounts that accept cash via retail partners. Account for cash deposit fees in your decision.
 

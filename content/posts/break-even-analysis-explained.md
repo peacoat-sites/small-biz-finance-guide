@@ -23,7 +23,7 @@ author: "Sarah Johnson"
 author_slug: "sarah-johnson"
 author_title: "CPA & Lead Editor"
 author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
-
+lastmod: 2026-07-07
 ---
 Most business owners I've worked with can tell me their revenue number almost to the dollar. Ask them their break-even point, and you get a pause, a guess, or a number they clearly just made up. That gap is expensive. You can run a profitable-looking business straight into a cash crisis if you don't know the exact threshold where your revenue stops losing money and starts making it. Break-even analysis is how you find that threshold, and it's one of the few financial tools that pays for itself the first time you use it.
 
@@ -48,6 +48,17 @@ Where the contribution margin ratio = (Revenue - Variable Costs) / Revenue.
 Both versions give you the same answer approached from different angles.
 
 ## Fixed Costs vs. Variable Costs: Getting the Inputs Right
+
+| Cost Type | Example | Fixed or Variable? | Impact on Break-Even |
+| --- | --- | --- | --- |
+| Rent | $2,000/month | Fixed | Increases break-even point |
+| Equipment loan | $500/month | Fixed | Increases break-even point |
+| Salaries (salaried staff) | $4,000/month | Fixed | Increases break-even point |
+| Software subscriptions | $200/month | Fixed | Increases break-even point |
+| Raw materials | $20 per unit | Variable | Reduces contribution margin |
+| Shipping | Per unit cost | Variable | Reduces contribution margin |
+| Payment processing fees | % of sale | Variable | Reduces contribution margin |
+| Sales commissions | Per unit or % | Variable | Reduces contribution margin |
 
 > **Helpful resource:** [Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

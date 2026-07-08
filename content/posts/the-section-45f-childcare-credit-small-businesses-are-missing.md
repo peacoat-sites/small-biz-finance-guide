@@ -12,6 +12,7 @@ author_title: "Operations Finance Consultant"
 author_bio: "Amanda Pierce consults with small businesses on the day-to-day money mechanics that make or break them: cash flow, invoicing, and getting paid on time. She has cleaned up the books for dozens of owners. At Small Biz Finance Guide she covers cash flow and operational finance."
 slug: "the-section-45f-childcare-credit-small-businesses-are-missing"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 
 If you've been running a small business for any length of time, you know that tax credits often look better on paper than they turn out to be in practice. The eligibility rules are narrow, the paperwork is heavy, and the dollar amounts rarely justify the headache. So you might be wondering why I'm making a big deal out of the Section 45F employer childcare credit right now, in the middle of 2026, when most business owners have never heard of it. Here's the honest answer: the One Big Beautiful Budget Act changed the math so dramatically that ignoring this credit is now a real financial mistake, and the window to start documenting for it is open right now.
@@ -21,6 +22,15 @@ Before the OBBBA took effect on January 1, 2026, Section 45F was essentially a d
 What the OBBBA did is genuinely different. It didn't tweak the credit. It rebuilt it.
 
 ## What Actually Changed, and Why the Numbers Matter Now
+
+| Feature | Pre-2026 (Old 45F) | 2026 Forward (OBBBA) |
+|---|---|---|
+| Credit rate | 25% of qualified expenses | 50% of qualified expenses |
+| Annual cap | $150,000 | $600,000 (inflation-indexed from 2027) |
+| Facility ownership required? | Effectively yes for most | No, third-party contracts qualify |
+| Resource pooling allowed? | No | Yes, small businesses can jointly contract |
+| Gross receipts threshold | N/A | Under $32 million average annual |
+| Carryforward period | 20 years | 20 years |
 
 The headline figure is a fourfold increase in both the credit rate and the cap for eligible small businesses. If your business has average annual gross receipts under $32 million, you can now claim 50% of qualified childcare expenses as a dollar-for-dollar tax credit, up from the old 25%. And the annual ceiling jumped from $150,000 to $600,000, with inflation indexing starting in 2027.
 

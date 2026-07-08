@@ -23,13 +23,14 @@ faqs:
    a: "Match your limit to your largest realistic contract exposure, not your average project. If your biggest client relationship represents $2 million in potential liability if something goes wrong, a $500K policy isn't doing much work for you. A common starting point for small service businesses is $1 million per-occurrence / $2 million aggregate, but your broker should stress-test that against your actual client contracts."
  - q: "Can a client sue me even if I didn't do anything wrong?"
    a: "Yes. That's the part people underestimate. A dissatisfied client can file a claim based on their perception of what went wrong. You may be completely in the right and still spend significant money defending yourself. E&O coverage pays those defense costs whether the claim has merit or not, which is often the more valuable benefit for small businesses."
+lastmod: 2026-07-07
 ---
 
 Most service businesses I've worked with buy E&O insurance after something bad happens. A client claims a mistake cost them money, a lawyer sends a letter, and suddenly everyone's very interested in a policy they could have had for a few hundred dollars a year. I've sat across from enough business owners in that exact position to tell you: buying it after the fact isn't buying it at all.
 
-Errors and omissions insurance, sometimes called professional liability insurance depending on who you're talking to, is the coverage that protects you when a client says your work, your advice, or your service caused them financial harm. Not physical harm (that's general liability's job). Financial harm. The stuff that comes with invoices and depositions attached.
+Errors and omissions insurance, sometimes called professional liability insurance depending on who you're talking to, is the coverage that protects you when a client says your work, your advice, or your service caused them financial harm. Not physical harm (that's [general liability's job](/business-liability-insurance-guide/)). Financial harm. The stuff that comes with invoices and depositions attached.
 
-If you're reading this, you might be wondering whether you actually need it, how much it costs, or whether your general liability policy already covers this. Those are exactly the right questions. Let me work through them.
+If you're reading this, you might be wondering whether you actually need it, how much it costs, or whether your [general liability policy](/how-much-does-general-liability-insurance-cost-for-small-business/) already covers this. Those are exactly the right questions. Let me work through them.
 
 ---
 
@@ -71,6 +72,13 @@ The [Consumer Financial Protection Bureau's small business resources](https://ww
 ---
 
 ## What It Costs and What Moves the Number
+
+| Service Type | Annual Premium Range | Policy Limit Example | Deductible Example |
+| --- | --- | --- | --- |
+| Solo consultant (clean history, <$500K revenue) | $600-$1,800 | $500K / $1M | $2,500 |
+| Freelance graphic designer | $1,800 | Not specified | $2,500 |
+| 5-person IT consulting firm | $4,200 | Not specified | Not specified |
+| 10-person accounting or architecture firm | $8,000-$20,000 | $1M / $2M | Not specified |
 
 Current rates (June 2026) for a solo consultant with a clean claims history and under $500,000 in annual revenue typically run $600 to $1,800 a year. A 10-person firm in a higher-risk profession like accounting or architecture might pay $8,000 to $20,000 annually. Tech companies with large contracts often pay more, because the potential exposure is bigger.
 

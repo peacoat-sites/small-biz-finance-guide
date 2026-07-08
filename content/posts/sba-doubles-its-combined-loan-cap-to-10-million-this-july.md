@@ -12,6 +12,7 @@ author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
 slug: "sba-doubles-its-combined-loan-cap-to-10-million-this-july"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 You're sitting across from your banker in early 2025, trying to finance the acquisition of a manufacturing facility. The business is solid, the deal pencils out, but you keep hitting the same wall: your existing 7(a) balance means you've got almost no room left under the $5 million combined cap. The banker shrugs. The deal dies. I've seen that exact scenario play out more times than I'd like to count, and for years the honest answer was just "the SBA math doesn't work here."
 
@@ -26,6 +27,14 @@ The previous $5 million combined limit sounds straightforward until you're livin
 What most people don't realize is how quietly that cap strangled growth for businesses that used the SBA programs exactly as intended. You bootstrapped with a 7(a), the business grew, and then the same programs that helped you get started blocked your next move. The $5 million cap wasn't designed to be punitive, but in a world where commercial real estate prices have climbed steadily, it functioned that way.
 
 ## How the New Stacking Rules Actually Work
+
+| Scenario | Old Cap ($5M Combined) | New Cap ($10M Combined) | Change |
+| --- | --- | --- | --- |
+| Existing 7(a) loan | $3M | $3M | No change |
+| Remaining 7(a) capacity | $2M | $2M | No change |
+| Available 504 capacity | $2M | $5M | +$3M |
+| Maximum total SBA debt | $5M | $10M | +$5M |
+| Manufacturer with unlimited 504 carve-out | Limited by 7(a) balance | Full $5M 7(a) + unlimited 504 | Decoupled |
 
 > **Helpful resource:** [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -45,7 +54,7 @@ Where this gets genuinely significant is for business buyers and sellers in the 
 
 ## The Closing Complexity You Should Expect
 
-Here's the part most of the coverage glosses over. A stacked 7(a)/504 deal isn't a single-lender transaction. You're coordinating a 7(a) bank lender, a Certified Development Company for the 504 piece, and in many cases a conventional first-mortgage lender. Three parties, three sets of underwriting requirements, three timelines that need to align at closing. That's a legitimate operational challenge, and it's one reason deals like this have historically required experienced SBA lenders rather than whoever happens to offer SBA products at your local bank branch.
+Here's the part most of the coverage glosses over. A [stacked 7(a)/504 deal](/sba-loans-now-require-100-us-citizenship-what-small-business-owners-mu/) isn't a single-lender transaction. You're coordinating a 7(a) bank lender, a Certified Development Company for the 504 piece, and in many cases a conventional first-mortgage lender. Three parties, three sets of underwriting requirements, three timelines that need to align at closing. That's a legitimate operational challenge, and it's one reason deals like this have historically required experienced SBA lenders rather than whoever happens to offer SBA products at your local bank branch.
 
 If you're targeting a transaction that depends on stacking both programs, start those lender conversations now, before July 4. Finding a CDC with 504 experience and a 7(a) lender who has done stacked deals isn't something you want to be doing two weeks before your purchase agreement deadline. The rule change takes effect in weeks. The loan process takes months. Those two timelines don't naturally sync up unless you plan for it.
 

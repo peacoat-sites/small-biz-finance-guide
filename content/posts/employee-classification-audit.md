@@ -23,11 +23,12 @@ faqs:
    a: "Potentially, yes, depending on your benefits structure and how long the misclassification ran. This is one of the less-discussed risks. Workers reclassified as employees may have standing to claim retroactive access to health benefits, retirement contributions, or paid leave. A labor attorney should review this alongside your CPA when you're considering reclassification."
  - q: "Does the type of business I run affect my audit risk?"
    a: "Yes, significantly. The IRS has historically focused on industries where contractor misuse is common: construction, trucking, home health care, staffing, and technology services. That doesn't mean other industries are immune, but if you're in one of those sectors, your baseline risk is higher and your documentation needs to be tighter."
+lastmod: 2026-07-07
 ---
 
 Most business owners I sit down with don't realize they have a classification problem until someone else finds it for them. That someone is usually the IRS.
 
-An employee classification audit is essentially a formal examination of whether the people doing work for your business are labeled correctly: employee versus independent contractor. It sounds administrative. It isn't. Get it wrong and you're looking at back payroll taxes, penalties, and in some cases, benefit liabilities that can run into tens of thousands of dollars. I've seen a single misclassified worker cost a small business owner more than $40,000 in back taxes and penalties after a Department of Labor investigation. Not a big company. A landscaping operation with eleven workers.
+An employee classification audit is essentially a formal examination of whether the people doing work for your business are labeled correctly: [employee versus independent contractor](/independent-contractor-vs-employee/). It sounds administrative. It isn't. Get it wrong and you're looking at back payroll taxes, penalties, and in some cases, benefit liabilities that can run into tens of thousands of dollars. I've seen a single misclassified worker cost a small business owner more than $40,000 in back taxes and penalties after a Department of Labor investigation. Not a big company. A landscaping operation with eleven workers.
 
 You might be wondering: "Am I actually at risk, or is this something that happens to other businesses?" Here's what I tell people: if you have 1099 contractors who work regular hours, use your equipment, follow your processes, and couldn't easily say no to your assignments, at least some of them are probably employees under federal rules. That's not a judgment call. That's the law as it currently stands.
 
@@ -37,7 +38,7 @@ The IRS and the Department of Labor don't always coordinate with each other, whi
 
 The tax exposure alone is worth understanding clearly. When you pay an employee, you split FICA taxes with them (7.65% each, as of current rates). When you pay a contractor, they handle their own self-employment tax. If you reclassify a contractor as an employee after the fact, you owe your half of those FICA taxes retroactively, and potentially the employee's half too if you can't recover it from them. Add interest. Add penalties. That math gets uncomfortable fast.
 
-What most people don't know: there's actually an IRS program called Section 3509 that can reduce your liability if you voluntarily come forward before an audit. I'll get to that.
+What most people don't know: there's actually an IRS program called [Section 3509](/1099-vs-w2-explained/) that can reduce your liability if you voluntarily come forward before an audit. I'll get to that.
 
 ## How Worker Classification Is Actually Determined
 

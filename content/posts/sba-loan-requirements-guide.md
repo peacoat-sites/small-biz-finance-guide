@@ -23,7 +23,7 @@ author: "Michael Torres"
 author_slug: "michael-torres"
 author_title: "Small Business Lending Specialist"
 author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
-
+lastmod: 2026-07-07
 ---
 You fill out the pre-qualification form, wait two weeks, and get back a vague email: "don't quite meet the requirements." No explanation. No roadmap. Just a polite rejection.
 
@@ -59,6 +59,14 @@ The business must also be for-profit, physically located in the United States, a
 
 ## The Most Common SBA Loan Programs, Compared
 
+| Program | Loan Limit | Best For | Typical Term |
+|---|---|---|---|
+| 7(a) Standard | Up to $5 million | General business purposes, working capital, acquisitions | Up to 10 years (25 for real estate) |
+| SBA 504 | Up to $5.5 million (CDC portion) | Major fixed assets: real estate, heavy equipment | 10, 20, or 25 years |
+| SBA Microloan | Up to $50,000 | Startups, very small businesses, underserved borrowers | Up to 6 years |
+| SBA Express | Up to $500,000 | Faster approvals (36-hour turnaround for SBA decision) | Up to 10 years |
+| Community Advantage | Up to $350,000 | Mission-based lenders, underserved markets | Up to 10 years |
+
 Not every SBA loan is the same. Choosing the wrong program is a preventable mistake that costs time.
 
 | Program | Loan Limit | Best For | Typical Term |
@@ -69,7 +77,7 @@ Not every SBA loan is the same. Choosing the wrong program is a preventable mist
 | SBA Express | Up to $500,000 | Faster approvals (36-hour turnaround for SBA decision) | Up to 10 years |
 | Community Advantage | Up to $350,000 | Mission-based lenders, underserved markets | Up to 10 years |
 
-The 7(a) is the most flexible. The 504 is structured specifically for big capital expenditures and involves three parties: you, a bank, and a Certified Development Company (CDC). The Microloan program often works best for businesses under two years old or owners with limited credit history, since the intermediary lenders in that program are often community organizations with built-in coaching.
+The 7(a) is the most flexible. The 504 is structured specifically for big capital expenditures and involves three parties: you, a bank, and a Certified Development Company (CDC). The [Microloan program](/sba-microloan-program/) often works best for businesses under two years old or owners with limited credit history, since the intermediary lenders in that program are often community organizations with built-in coaching.
 
 Business owners trying to buy commercial real estate almost always do better with the 504 than the 7(a), primarily because of the longer amortization and the lower down payment requirements the 504 allows.
 

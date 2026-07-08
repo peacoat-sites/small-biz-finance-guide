@@ -12,6 +12,7 @@ author_title: "Small Business Lending Specialist"
 author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
 slug: "the-fed-signals-no-cuts-in-2026-what-small-business-borrowers-should-d"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 
 A client called me last week, genuinely frustrated. She'd been sitting on an SBA loan application since March, waiting for rates to drop before she pulled the trigger. Her lender had told her in January to expect a cut or two by summer. Now it's July, the Fed just held for the fourth time in a row, the dot plot has shifted, and her equipment isn't getting any cheaper. "Should I just wait a little longer?" she asked. I had to tell her the honest answer: the window she was waiting for may not open this year.
@@ -29,6 +30,12 @@ What pushed the Fed here? The March 2026 CPI report showed headline inflation ju
 For small business owners, this isn't abstract. The prime rate sits at 6.75% as of July 2, 2026. That number flows directly into variable-rate business lines of credit, SBA 7(a) variable loans, and many equipment financing products. If you have variable-rate debt, you're already feeling it. If you're planning to borrow, you're stepping into a market that's repriced significantly from where most people expected it to be this summer.
 
 ## What You're Actually Paying Right Now
+
+| Loan Product | Rate Range | Key Driver | Current Status (July 2026) |
+| --- | --- | --- | --- |
+| SBA 7(a) Fixed | 9.75% to 14.75% | Credit profile, loan size, term | Depends on borrower qualifications |
+| SBA 504 Fixed | Tied to Treasury yields | 10-year Treasury at 4.44%, 5-year at 4.19% | Moving upward for borrowers |
+| Conventional (community banks/credit unions) | Double digits+ | Collateral quality, credit file | Higher for weaker profiles |
 
 > **Helpful resource:** [AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -54,11 +61,11 @@ What most people don't realize is that waiting for rates to fall is itself a fin
 
 This is where I try to be practical rather than just paint a bleak picture.
 
-First, if you have any variable-rate debt, especially a business line of credit or a floating-rate term loan, have a conversation with your lender about whether a fixed-rate conversion or refinance makes sense. It won't always pencil out, but it's worth running the numbers before a potential hike makes it worse.
+First, if you have any variable-rate debt, especially a business line of credit or a floating-rate term loan, have a conversation with your lender about whether a [fixed-rate conversion or refinance](/why-small-business-borrowers-should-lock-in-rates-before-july-29/) makes sense. It won't always pencil out, but it's worth running the numbers before a potential hike makes it worse.
 
-Second, if you've been on the fence about an SBA loan for an investment that genuinely improves your business, stop treating rate timing like a stock trade. NerdWallet's analysis of how the Fed rate impacts small business loans makes a simple but important point: locking a fixed rate when the environment is uncertain is often the more conservative and protective move. Trying to time the bottom on rates is hard even for professional traders. For a business owner with real operational decisions to make, it's a distraction.
+Second, if you've been on the fence about an [SBA loan for an investment](/sbas-new-10-million-loan-limit-who-actually-benefits/) that genuinely improves your business, stop treating rate timing like a stock trade. NerdWallet's analysis of how the Fed rate impacts small business loans makes a simple but important point: locking a fixed rate when the environment is uncertain is often the more conservative and protective move. Trying to time the bottom on rates is hard even for professional traders. For a business owner with real operational decisions to make, it's a distraction.
 
-Third, know your break-even on the borrowing. If you're taking a $200,000 equipment loan at 11% to buy a machine that generates $60,000 in additional annual gross profit, run that math clearly before you walk into the bank. The rate matters, but so does the return. I've seen owners reject a perfectly sensible loan because the rate felt high, then spend the next two years leasing the same equipment at a higher effective cost. The rate headline is not the whole story.
+Third, know your break-even on the borrowing. If you're taking a $200,000 [equipment loan](/how-to-use-100-bonus-depreciation-to-cut-your-2026-tax-bill/) at 11% to buy a machine that generates $60,000 in additional annual gross profit, run that math clearly before you walk into the bank. The rate matters, but so does the return. I've seen owners reject a perfectly sensible loan because the rate felt high, then spend the next two years leasing the same equipment at a higher effective cost. The rate headline is not the whole story.
 
 Fourth, if your credit profile needs work, start now. A 740 credit score and two years of clean financials will get you meaningfully better terms than a 680. That's a lever you control regardless of what the Fed does.
 

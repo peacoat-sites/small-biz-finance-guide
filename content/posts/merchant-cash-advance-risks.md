@@ -23,7 +23,7 @@ author: "Amanda Pierce"
 author_slug: "amanda-pierce"
 author_title: "Operations Finance Consultant"
 author_bio: "Amanda Pierce consults with small businesses on the day-to-day money mechanics that make or break them: cash flow, invoicing, and getting paid on time. She has cleaned up the books for dozens of owners. At Small Biz Finance Guide she covers cash flow and operational finance."
-
+lastmod: 2026-07-07
 ---
 If you're reading this, there's a decent chance someone already pitched you a merchant cash advance. Maybe it was an email, a phone call, or a pop-up ad promising "$50,000 in 24 hours, no credit check required." And part of you was tempted, because you needed the money and the bank said no, or the bank said yes but wanted six weeks and paperwork you didn't have time to gather.
 
@@ -61,13 +61,22 @@ Here's how a lot of MCA funnels work. You take a $30,000 advance. You repay it o
 
 ## When an MCA Might Actually Make Sense
 
+| Financing Option | Typical Cost | Best Use Case | Regulatory Protection |
+| --- | --- | --- | --- |
+| Merchant Cash Advance | 1.1-1.5 factor rate (80%-200%+ effective APR) | Short-term, high-return opportunities only | Minimal; no APR disclosure or usury caps in many states |
+| SBA Microloan | Varies by lender; generally 8%-13% APR | Small businesses under $50,000 need | Full SBA protections; Truth in Lending Act applies |
+| Equipment Financing | Varies; typically 6%-15% APR | Equipment purchase tied to revenue generation | Standard loan regulations apply |
+| Invoice Factoring | 1.5%-5% of invoice value | B2B businesses with outstanding receivables | Regulated as commercial financing |
+| Business Credit Card | 15%-24% APR typical | Short-term operating expenses | Consumer protection frameworks; CARD Act applies |
+| SBA 7(a) Loan | Varies; generally 7%-12% APR | General business needs; up to $5 million | Full Truth in Lending Act; usury protections |
+
 I'm not here to tell you MCAs are never appropriate. That would be dishonest.
 
 If you have a genuinely short-term, high-return opportunity (a big wholesale order you need to fulfill, a piece of equipment that breaks in your busiest season) and you have a clear, specific plan to repay the advance quickly, the math can sometimes work. The faster you repay, the lower your effective cost. That's the one scenario where a factor rate of 1.2 repaid in 90 days starts to look more like expensive credit card debt than a predatory trap.
 
 But that scenario describes a small fraction of MCA borrowers. Most are taking advances to cover operating shortfalls, not recoverable revenue bets. That's borrowing at 100% APR to pay regular bills, and that doesn't end well in most situations.
 
-Before you go the MCA route, look hard at SBA microloans (the SBA 7(a) program goes up to $5 million, though smaller amounts process faster), equipment financing, invoice factoring if you have B2B receivables, and even business credit cards. A business card at 24% APR is expensive. It's a lot less expensive than most MCAs.
+Before you go the MCA route, look hard at [SBA microloans](/sba-microloan-program/) (the SBA 7(a) program goes up to $5 million, though smaller amounts process faster), equipment financing, invoice factoring if you have B2B receivables, and even business credit cards. A business card at 24% APR is expensive. It's a lot less expensive than most MCAs.
 
 Mike Michalowicz's *Profit First* (available [on Amazon](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X)) won't teach you about MCA contracts specifically, but it'll give you a cash management foundation that makes you less likely to end up desperate enough to need one. (The site may earn a commission on that link.)
 

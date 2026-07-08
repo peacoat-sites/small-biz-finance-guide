@@ -23,9 +23,10 @@ faqs:
    a: "No. The umbrella requires underlying coverage to exist and be active. It doesn't respond to claims below your underlying policy limits, that's your general liability's job. These policies work together, not as substitutes for each other. I'd recommend consulting a licensed commercial insurance broker and a CPA to make sure your overall coverage structure fits your business structure and tax situation."
  - q: "What's the difference between a commercial umbrella and a personal umbrella policy?"
    a: "A personal umbrella covers your personal liability exposure, your home, personal auto, personal activities. A commercial umbrella sits over your business policies and covers business-related liability. If you're running a business, especially one with employees or client-facing operations, a personal umbrella alone is almost certainly not sufficient. Many carriers won't let commercial claims flow through a personal umbrella anyway."
+lastmod: 2026-07-07
 ---
 
-Most small business owners I talk to have general liability insurance and think they're covered. They're not wrong, exactly. But they're leaving a significant gap open, and it's the kind of gap that doesn't matter until it suddenly matters enormously.
+Most small business owners I talk to have [general liability insurance](/business-liability-insurance-guide/) and think they're covered. They're not wrong, exactly. But they're leaving a significant gap open, and it's the kind of gap that doesn't matter until it suddenly matters enormously.
 
 Commercial umbrella insurance is the policy that sits on top of your existing coverage and kicks in when those underlying policies hit their limits. That's the standard definition. What people miss is *why* those limits get hit more easily than they expect, and what the cost of not having umbrella coverage actually looks like when a serious claim comes in.
 
@@ -33,9 +34,16 @@ I'll be honest: when I first started working with small business clients, I trea
 
 ## What Commercial Umbrella Insurance Actually Does
 
+| Coverage Type | Typical Limit | Purpose |
+| --- | --- | --- |
+| General Liability | $1 million per-occurrence | Base coverage for bodily injury and property damage |
+| Commercial Auto | $500,000 | Vehicle-related incidents |
+| Commercial Umbrella | $1-5 million | Excess coverage above underlying policies |
+| Annual Cost (Umbrella) | $500-$1,500 | Typical small business premium |
+
 Think of your existing policies as buckets. Your general liability policy might have a $1 million per-occurrence limit. Your commercial auto policy might have $500,000. If a claim exceeds those limits, you're personally (or business-) responsible for the rest, unless you have something sitting above them.
 
-A commercial umbrella policy is that something. It typically adds $1 million to $5 million in additional coverage, layered over your general liability, employer's liability, and commercial auto policies. Some carriers write umbrella policies that sit over hired and non-owned auto coverage too.
+A commercial umbrella policy is that something. It typically adds $1 million to $5 million in additional coverage, layered over your general liability, [employer's liability](/workers-comp-insurance-small-business/), and commercial auto policies. Some carriers write umbrella policies that sit over hired and non-owned auto coverage too.
 
 What surprised me digging into this is how frequently businesses find themselves in excess-limit situations. A single serious bodily injury claim, a multi-vehicle accident involving a company truck, a slip-and-fall with long-term disability consequences, these aren't freak events in industries like construction, food service, or transportation. They're foreseeable. The U.S. Small Business Administration consistently flags inadequate insurance coverage as one of the top risk factors for small business failure, and the umbrella gap is a meaningful part of that story.
 

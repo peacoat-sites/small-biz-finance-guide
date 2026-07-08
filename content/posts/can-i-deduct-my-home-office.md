@@ -23,6 +23,7 @@ faqs:
     a: "The home office deduction can't create a net loss from your business (with some carryforward provisions under the regular method). If your business income is $0, your home office deduction that year is also $0. Unused amounts can carry forward to future years under the regular method."
   - q: "Does taking the home office deduction increase my audit risk?"
     a: "It used to be treated as a red flag, and that reputation lingers. The honest answer is: the IRS has gotten more sophisticated, and a clearly documented, legitimate home office deduction isn't the audit trigger it once was. The risk comes from claiming it when the exclusive-use standard isn't genuinely met, not from claiming it at all."
+lastmod: 2026-07-07
 ---
 
 Most coverage of the home office deduction spends three paragraphs explaining what it is, then buries the one thing you actually need to know: the IRS is not playing around with the word "exclusive." That single word has blown up more deductions than any audit I've ever seen.
@@ -47,13 +48,18 @@ There's a second requirement that gets less attention: the space must be your *p
 
 
 
-Employees. I'll just say it directly: if you're a W-2 employee, you cannot take the home office deduction under current federal tax law. That changed with the Tax Cuts and Jobs Act, and as of July 2026, it hasn't changed back. It doesn't matter that your employer sent you home during a company restructuring. It doesn't matter that you "have to" work from home. Federal deduction, gone.
+Employees. I'll just say it directly: if you're a [W-2 employee](/1099-vs-w2-explained/), you cannot take the home office deduction under current federal tax law. That changed with the Tax Cuts and Jobs Act, and as of July 2026, it hasn't changed back. It doesn't matter that your employer sent you home during a company restructuring. It doesn't matter that you "have to" work from home. Federal deduction, gone.
 
 This surprises people. A reader emailed me last spring, a project manager for a mid-size logistics company, absolutely convinced she could deduct her spare bedroom because her company closed her regional office in 2024. She couldn't. I had to walk her back from filing a return that would've flagged her for sure.
 
 Self-employed individuals, sole proprietors, single-member LLC owners, S-corp shareholders who pay themselves a salary through payroll (this one has extra steps, ask your CPA), partners in a partnership: these people can take it. The deduction lives on Schedule C for most self-employed folks.
 
 ## The Two Methods: Simplified vs. Regular
+
+| Method | How It Works | Max Deduction | Best For |
+|---|---|---|---|
+| **Simplified** | $5 per sq ft of office space | $1,500 (max 300 sq ft) | Small spaces, simple returns, renters |
+| **Regular (Actual Expense)** | % of home costs (mortgage interest, rent, utilities, insurance, depreciation) based on office sq ft / total sq ft | No hard cap | Larger spaces, homeowners, higher actual costs |
 
 Here's where you actually have a choice, and it matters.
 

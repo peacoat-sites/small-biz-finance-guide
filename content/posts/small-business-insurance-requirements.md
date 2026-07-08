@@ -23,7 +23,7 @@ author: "Rachel Green"
 author_slug: "rachel-green"
 author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
-
+lastmod: 2026-07-07
 ---
 A plumber in Ohio gets sued after a pipe repair floods a client's basement. A freelance graphic designer's laptop is stolen from a coffee shop. A retail shop owner's employee slips on a wet floor and breaks a wrist. In each case, the business owner who had the right insurance coverage walked away intact. The one who didn't? They're still paying off the damage years later. Insurance isn't glamorous, but skipping it or getting the wrong kind is one of the fastest ways to destroy a business you've spent years building.
 
@@ -33,7 +33,7 @@ Here's the thing most people don't realize when they start researching this: som
 
 **Legally required insurance** varies by state and business type, but two types show up almost everywhere.
 
-**Workers' Compensation Insurance** is mandatory in most states if you have employees. The threshold varies wildly. Some states require it the moment you hire your first employee. Others allow exceptions for very small employers or certain industries. If you're about to add your first staff member, make sure you understand your state's specific rules before that first paycheck goes out, because getting this wrong doesn't just mean a fine. It means you're personally liable if a worker gets hurt on the job.
+**[Workers' Compensation Insurance](/workers-comp-insurance-small-business/)** is mandatory in most states if you have employees. The threshold varies wildly. Some states require it the moment you hire your first employee. Others allow exceptions for very small employers or certain industries. If you're about to add your first staff member, make sure you understand your state's specific rules before that first paycheck goes out, because getting this wrong doesn't just mean a fine. It means you're personally liable if a worker gets hurt on the job.
 
 **Commercial Auto Insurance** is required if your business owns a vehicle. Personal auto policies don't cover vehicles used primarily for business. A lot of owners miss this one because they drive their personal truck to job sites and assume they're covered. They're not.
 
@@ -49,7 +49,7 @@ Let's go through the main policies without burying you in insurance jargon.
 
 **General Liability Insurance (GL)** is the foundation. It covers third-party bodily injury and property damage claims. If a customer slips and falls in your store, or you accidentally damage a client's property while doing work, GL is what responds. Most small businesses need at least $1 million per occurrence and $2 million aggregate. Service businesses, retail shops, contractors, home-based operations, freelancers, everyone in this category should have it.
 
-**Professional Liability Insurance**, also called Errors and Omissions (E&O), covers claims that your professional advice or service caused financial harm to a client. You're a consultant, accountant, designer, real estate agent, IT professional, or any kind of service provider? This is the one that protects you when a client says "you made a mistake and it cost me money." GL won't cover that. E&O will.
+**[Professional Liability Insurance](/errors-and-omissions-insurance/)**, also called Errors and Omissions (E&O), covers claims that your professional advice or service caused financial harm to a client. You're a consultant, accountant, designer, real estate agent, IT professional, or any kind of service provider? This is the one that protects you when a client says "you made a mistake and it cost me money." GL won't cover that. E&O will.
 
 **Business Owner's Policy (BOP)** bundles General Liability with Commercial Property coverage at a discounted rate. It's specifically designed for small businesses. If you have a physical location, inventory, or equipment, a BOP is often the most cost-efficient way to get core coverage without buying separate policies.
 

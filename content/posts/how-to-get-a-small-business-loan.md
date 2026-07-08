@@ -23,7 +23,7 @@ author: "Amanda Pierce"
 author_slug: "amanda-pierce"
 author_title: "Operations Finance Consultant"
 author_bio: "Amanda Pierce consults with small businesses on the day-to-day money mechanics that make or break them: cash flow, invoicing, and getting paid on time. She has cleaned up the books for dozens of owners. At Small Biz Finance Guide she covers cash flow and operational finance."
-
+lastmod: 2026-07-07
 ---
 You walk into a bank, ask about a small business loan, and leave two hours later with a stack of paperwork, no clear answers, and a vague sense that you probably won't qualify. Sound familiar? Most small business owners don't get turned down because their business is bad. They get rejected because they showed up unprepared, applied to the wrong lender, or didn't understand what the bank was actually looking for. The good news: this is entirely fixable.
 
@@ -53,11 +53,21 @@ Know these five things cold before you walk into any meeting.
 
 ## The Main Types of Small Business Loans (And When to Use Each)
 
+| Loan Type | Best For | Key Feature | Typical Max Amount |
+| --- | --- | --- | --- |
+| SBA 7(a) | Working capital, equipment, real estate | Partially government-guaranteed; lower rates | Up to $5 million |
+| SBA 504 | Major fixed assets, commercial real estate | Longer terms, lower rates | Varies by use |
+| Traditional Bank Term Loan | Established businesses with 2+ years history | Fixed term, lump sum disbursement | Varies |
+| Business Line of Credit | Cash flow gaps, seasonal needs | Draw as needed; pay interest only on used amount | Varies |
+| Equipment Financing | Machinery, vehicles, technology | Equipment serves as collateral | Equipment cost |
+| Invoice Financing/Factoring | Urgent cash needs against receivables | Fast funding; higher cost | Based on receivables |
+| Microloans | Startups, businesses without traditional credit | Nonprofit lenders and CDFIs | Typically under $50,000 |
+
 > **Helpful resource:** [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 Not every loan is the right loan. Picking the wrong product can cost you thousands in interest or saddle you with terms your cash flow can't handle.
 
-**SBA Loans** are partially guaranteed by the federal government, which reduces risk for lenders and typically results in better terms for you. The SBA 7(a) loan is the most common, available up to $5 million, and covers working capital, equipment, real estate, and more. SBA 504 loans are structured specifically for major fixed assets like commercial real estate or heavy equipment. They take longer to close (often 60 to 90 days) but carry lower interest rates and longer repayment periods. If you qualify, the wait is worth it.
+**SBA Loans** are partially guaranteed by the federal government, which reduces risk for lenders and typically results in better terms for you. The SBA 7(a) loan is the most common, available up to $5 million, and covers working capital, equipment, real estate, and more. [SBA 504 loans](/sba-504-loan-commercial-property/) are structured specifically for major fixed assets like commercial real estate or heavy equipment. They take longer to close (often 60 to 90 days) but carry lower interest rates and longer repayment periods. If you qualify, the wait is worth it.
 
 **Traditional Bank Term Loans** are simple: you borrow a lump sum and repay it over a fixed term with interest. Best for businesses with at least two years of operating history, solid revenue, and decent credit. If you have all three, this can be your cheapest option.
 
@@ -65,7 +75,7 @@ Not every loan is the right loan. Picking the wrong product can cost you thousan
 
 **Equipment Financing** ties the loan to a specific piece of equipment, which serves as collateral. That makes approval easier and rates more competitive. If you're buying machinery, vehicles, or technology, this is usually the cleanest structure.
 
-**Invoice Financing / Factoring** lets you borrow against your outstanding receivables. If you have $50,000 in unpaid invoices sitting there while you can't make payroll, this can be a lifeline. It costs more than traditional lending, but it's faster and doesn't always require great credit.
+**[Invoice Financing / Factoring](/invoice-factoring-explained/)** lets you borrow against your outstanding receivables. If you have $50,000 in unpaid invoices sitting there while you can't make payroll, this can be a lifeline. It costs more than traditional lending, but it's faster and doesn't always require great credit.
 
 **Microloans** are small loans (typically under $50,000) offered through nonprofit lenders, community development financial institutions (CDFIs), and SBA intermediaries. Excellent for startups or businesses that don't yet qualify for traditional financing.
 

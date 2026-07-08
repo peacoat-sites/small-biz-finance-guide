@@ -23,7 +23,7 @@ author: "Michael Torres"
 author_slug: "michael-torres"
 author_title: "Small Business Lending Specialist"
 author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
-
+lastmod: 2026-07-07
 ---
 You did everything right. You landed the client, delivered the work, sent the invoice, and then... nothing. Two weeks pass. You follow up. Silence. Week five, you're staring at $14,000 sitting in your accounts receivable column that might as well be Monopoly money. Meanwhile, your rent is due, your supplier wants payment, and your bank account balance tells a completely different story than your profit and loss statement. This is the accounts receivable trap, and it catches good businesses every single day.
 
@@ -47,7 +47,7 @@ If your terms are Net 30 and your DSO is 52, you have a problem. If your DSO is 
 
 Most small business owners accept whatever payment terms the client suggests, or they copy what a competitor does, without thinking through the real cost. That's a mistake.
 
-Your payment terms are a policy, not a courtesy. They set expectations, create legal standing if a dispute arises, and directly control your cash flow. Get them in writing every single time, ideally signed as part of a contract or service agreement.
+Your payment terms are a policy, not a courtesy. They set expectations, create legal standing if a dispute arises, and [directly control your cash flow](/how-to-improve-cash-flow-in-a-small-business/). Get them in writing every single time, ideally signed as part of a contract or service agreement.
 
 Here are the most common structures:
 
@@ -70,7 +70,7 @@ The businesses that collect fastest aren't more aggressive; they're more consist
 
 Here's a step-by-step AR follow-up system you can implement this week:
 
-**Step 1: Invoice immediately.** Don't batch invoices at the end of the month. Invoice the moment a project milestone is hit, the product ships, or the service is delivered. Every day you delay sending an invoice is a day added to your collection timeline.
+**Step 1: [Invoice immediately](/invoicing-tips-for-small-business/).** Don't batch invoices at the end of the month. Invoice the moment a project milestone is hit, the product ships, or the service is delivered. Every day you delay sending an invoice is a day added to your collection timeline.
 
 **Step 2: Send a friendly pre-due reminder.** Five to seven days before an invoice is due, send a short, professional email confirming the invoice is on file and the due date is approaching. This catches lost emails, accounting department delays, and other innocent reasons for slow payment before they become problems.
 

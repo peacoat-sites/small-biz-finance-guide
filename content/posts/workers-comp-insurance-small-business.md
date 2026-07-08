@@ -23,7 +23,7 @@ author: "Rachel Green"
 author_slug: "rachel-green"
 author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
-
+lastmod: 2026-07-07
 ---
 Your part-time delivery driver slips on a wet floor at a client's office three weeks in. Broken wrist. Six weeks without work. The medical bills alone: $14,000. If you don't have workers' comp insurance, that's coming straight out of your pocket, plus his lost wages, plus whatever legal fees pile up when he sues. This happens thousands of times a year to business owners who swore they were too small to worry about it.
 
@@ -86,6 +86,12 @@ Getting a policy is straightforward if you follow the process.
 **Step 6: Build a claims process now.** Before anyone gets hurt, know who gets called, where they go for treatment, and how you'll document it. Fast response keeps claims costs down.
 
 ## Workers' Comp vs. Other Coverage You Might Already Have
+
+| Coverage Type | Protects | Covers |
+|---|---|---|
+| Workers' Comp | Your employees | Work-related injuries and illnesses |
+| General Liability | Customers, vendors, third parties | Bodily injury or property damage claims from non-employees |
+| Business Liability Insurance | Your business operations | Combined general liability and additional protections |
 
 Most business owners think general liability covers employee injuries. It doesn't. General liability handles third-party claims (your customer, a vendor, someone who isn't your employee gets hurt). Workers' comp is strictly for your own people.
 

@@ -23,7 +23,7 @@ author: "Michael Torres"
 author_slug: "michael-torres"
 author_title: "Small Business Lending Specialist"
 author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
-
+lastmod: 2026-07-07
 ---
 Most small business owners I talk to walk in with a number already locked in their head: "I've heard it's like $500 a year, maybe $1,000 tops." Here's the problem. That assumption doesn't always sink you. But it does often enough that when reality hits, it hits hard.
 
@@ -46,7 +46,7 @@ The "$500 to $1,500" figure isn't false. It's just doing too much work. That ran
 
 Here's how I'd actually break it down:
 
-A solo consultant or freelancer in a low-risk field (marketing, writing, bookkeeping) genuinely finds solid coverage for $400 to $700 a year. Sometimes less if you bundle it into a business owner's policy.
+A solo consultant or freelancer in a low-risk field (marketing, writing, bookkeeping) genuinely finds solid coverage for $400 to $700 a year. Sometimes less if you bundle it into a [business owner's policy](/small-business-insurance-requirements/).
 
 Retail shops with foot traffic typically run $800 to $2,000 a year. Square footage, inventory value, and location all move that needle.
 
@@ -64,7 +64,7 @@ Here's what I found when I got into the actual underwriting logic: insurers aren
 
 **Physical location and owned or rented property.** Clients, customers, vendors coming and going. That's slip-and-fall risk. Work from home with no one visiting? That risk disappears. I've seen the same business pay meaningfully different premiums just from moving from a home office to a leased storefront.
 
-**Number of employees.** More people means more things can go wrong. Even if your workers' comp is separate, GL underwriters look at headcount as a proxy for overall exposure.
+**Number of employees.** More people means more things can go wrong. Even if your [workers' comp is separate](/workers-comp-insurance-small-business/), GL underwriters look at headcount as a proxy for overall exposure.
 
 **Claims history.** This one stings. A previous claim, especially within the last three to five years, can push you into a higher-risk tier with some carriers. It might limit how many companies will even quote you.
 

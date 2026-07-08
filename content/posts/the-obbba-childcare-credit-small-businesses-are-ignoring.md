@@ -12,6 +12,7 @@ author_title: "Operations Finance Consultant"
 author_bio: "Amanda Pierce consults with small businesses on the day-to-day money mechanics that make or break them: cash flow, invoicing, and getting paid on time. She has cleaned up the books for dozens of owners. At Small Biz Finance Guide she covers cash flow and operational finance."
 slug: "the-obbba-childcare-credit-small-businesses-are-ignoring"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 A client called me in March, frustrated. She runs a 22-person marketing agency, pays good salaries, and has been losing junior employees to larger firms that offer better family benefits. She'd heard something about a childcare tax credit but assumed it was for big corporations with on-site daycare centers. "That's not us," she said. She was wrong, and that assumption is costing her real money right now.
 
@@ -26,6 +27,15 @@ So fewer than 200 employers per year claimed it nationwide, according to reporti
 The OBBBA changes that math entirely.
 
 ## What the New Numbers Actually Look Like
+
+| Metric | Old Credit (Pre-2026) | New Credit (2026+) |
+| --- | --- | --- |
+| Annual cap | $150,000 | $600,000 |
+| Credit rate (small business) | 25% | 50% |
+| Maximum tax credit (small business) | $37,500 | $300,000 |
+| Credit rate (large business) | 25% | 40% |
+| Dependent care FSA exclusion | $5,000 | $7,500 |
+| Size threshold for small business rate | N/A | $32M avg annual gross receipts |
 
 > **Helpful resource:** [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

@@ -23,6 +23,7 @@ faqs:
     a: "The company owns the policy, so it can lapse it, surrender it for cash value (if it's a permanent policy), or transfer ownership to the departing employee as part of a severance or departure agreement. Term policies with no cash value are usually just cancelled. Have a clear exit plan in your policy documentation from day one."
   - q: "How does a lender know if I have key man insurance?"
     a: "Many SBA loans and bank credit facilities include key person clauses that require you to carry coverage as a loan condition. The lender may ask for proof of the policy as part of closing or annual review. If your loan documents have this language and you've let a policy lapse, you may technically be in default. Check those documents if you're not sure."
+lastmod: 2026-07-07
 ---
 
 Most coverage of key man insurance treats it like a checkbox item. Buy a policy, name the company as beneficiary, done. That framing misses about half of what makes this coverage matter — and almost everything that determines whether a claim actually pays out the way you expect.
@@ -63,13 +64,13 @@ A few frameworks that actually hold up:
 
 **Business valuation protection.** If you'd need to sell the business or attract emergency equity if this person died, think about how much the business's value would drop. That delta is what you're protecting.
 
-**Debt and obligation coverage.** If you have an SBA loan or an investor line that has personal guarantees or key person clauses, the floor for your coverage is the balance of that obligation. Some lenders actually require this — check your loan documents before you assume otherwise.
+**Debt and obligation coverage.** If you have an [SBA loan](/small-business-insurance-requirements/) or an investor line that has personal guarantees or key person clauses, the floor for your coverage is the balance of that obligation. Some lenders actually require this — check your loan documents before you assume otherwise.
 
 A sample scenario: a manufacturing business with $4M in annual revenue and a founder-engineer who holds 12 proprietary patents and manages the three largest customer accounts → loss of that person would likely cost $800K in immediate client runoff, $300K in hiring and onboarding, and threaten a $500K equipment line of credit → recommended coverage: $1.5M to $1.8M life, with a separate disability rider.
 
 ## Life vs. Disability: Don't Buy Only One
 
-I made this mistake myself early in my practice. I helped a client set up a $1M life policy on his technical co-founder. Clean, well-structured. Two years later, the co-founder had a serious stroke. He survived — which was great news for him, and a genuine financial crisis for the business, because they had no key man disability coverage.
+I made this mistake myself early in my practice. I helped a client set up a $1M life policy on his technical co-founder. Clean, well-structured. Two years later, the co-founder had a serious stroke. He survived — which was great news for him, and a genuine financial crisis for the business, because they had no [key man disability coverage](/workers-comp-insurance-small-business/).
 
 The odds back this up. According to the Council for Disability Awareness, a 35-year-old has roughly a 50% chance of suffering a disabling event before age 65. Death is the more emotionally obvious risk. Disability is statistically more likely and, in many ways, financially harder — because the person is still alive, often still drawing a salary, and the business can't simply replace them the way it could if the role were vacant.
 

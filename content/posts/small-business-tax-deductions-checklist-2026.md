@@ -23,6 +23,7 @@ faqs:
    a: "No. Sole proprietors filing a Schedule C can take all the same deductions. Your legal entity structure affects liability and, in some cases, the tax rate on your income, but it's not a prerequisite for deducting legitimate business expenses."
  - q: "How do I deduct a business trip that also had personal days mixed in?"
    a: "The transportation costs (airfare, for example) are generally deductible if the primary purpose was business. Lodging and meals for the personal days are not deductible. Keep your meeting calendar, any conference agendas, and be specific in your records about which days were business and which weren't. This one's genuinely fact-specific, so ask your CPA before you file."
+lastmod: 2026-07-07
 ---
 Most small business tax deduction articles hand you a 47-item checklist with zero context, no priority ranking, and no mention of the documentation you've never actually kept. That's not a checklist. That's asking for trouble.
 
@@ -40,13 +41,23 @@ Here's where people slip up: "regularly and exclusively" means exactly that. A s
 
 **Vehicle expenses.** Two methods again. The IRS standard mileage rate for 2026 is published annually on [IRS.gov](https://www.irs.gov/) and shifts based on fuel costs. The actual expense method lets you deduct a percentage of what you actually spend: gas, insurance, repairs, depreciation. If you drive constantly for work, you need a mileage log. A spreadsheet does the job, but apps like MileIQ or Everlance handle it semi-automatically. Auditors ask for mileage logs every time, and "I estimated it" gets you nowhere.
 
-**Section 179 and bonus depreciation.** You bought equipment, computers, machinery, or qualifying property this year. Instead of depreciating it over five or seven years, Section 179 lets you write off a big chunk immediately. Bonus depreciation stacks on top of that. The rules change annually, so talk to your CPA before year-end. The timing of when you buy something can shift your deduction by thousands of dollars.
+**[Section 179 and bonus depreciation](/section-179-deduction-guide/).** You bought equipment, computers, machinery, or qualifying property this year. Instead of depreciating it over five or seven years, Section 179 lets you write off a big chunk immediately. Bonus depreciation stacks on top of that. The rules change annually, so talk to your CPA before year-end. The timing of when you buy something can shift your deduction by thousands of dollars.
 
 **Qualified Business Income (QBI) deduction.** If you're a sole proprietor, partnership, S-corp, or LLC (not a C-corp), you might deduct up to 20% of your qualified business income. This is the single biggest deduction most small business owners don't understand. It phases out once you hit higher income levels, and certain service businesses (law, finance, consulting) run into limitations faster. Your CPA should calculate this for you. If they're not, ask.
 
 **Health insurance premiums.** Self-employed and not covered through a spouse's plan? You can deduct 100% of health insurance premiums you pay for yourself, your spouse, and your dependents. Solo operators miss this one constantly because they think it only matters at tax time. It doesn't go on Schedule C; it goes on Schedule 1. Your bookkeeper needs to know the difference.
 
 ## What Most People Underestimate
+
+| Deduction Category | Method | Key Requirement | Documentation Needed |
+| --- | --- | --- | --- |
+| Home Office | Simplified | $5/sq ft, max 300 sq ft | Square footage calculation |
+| Home Office | Regular | Dedicated exclusive use | Mortgage/rent, utilities, insurance receipts |
+| Vehicle | Standard Mileage Rate | IRS rate (published annually) | Mileage log |
+| Vehicle | Actual Expense | Calculate percentage of business use | Gas, insurance, repair, depreciation records |
+| Health Insurance | Self-Employed | 100% of premiums (you, spouse, dependents) | Insurance premium statements |
+| Meals | Business Meals | 50% deductible with client/associate | Date, attendees, business purpose |
+| Professional Services | CPA/Attorney/Coach | Legitimate business purpose | Invoices from service providers |
 
 Retirement contributions. This is where business owners leave the most money behind.
 

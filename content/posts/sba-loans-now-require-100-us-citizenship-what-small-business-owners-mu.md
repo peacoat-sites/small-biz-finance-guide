@@ -12,6 +12,7 @@ author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
 slug: "sba-loans-now-require-100-us-citizenship-what-small-business-owners-mu"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Something most people assumed about SBA loans turned out to be completely wrong. The fallout is hitting right now.
 
@@ -28,6 +29,13 @@ In FY2025, the SBA approved 3,358 loans for businesses with at least one lawful 
 The average SBA 7(a) loan in FY2024 was $443,097. A 504 loan averaged $1.1 million. These aren't supplemental credit lines. For most business owners, this is the difference between opening that restaurant, buying a building, hiring a first employee, or not. NPR covered this on June 12, 2026, interviewing entrepreneurs caught mid-application when the rule hit. There's no grace period. No soft landing.
 
 ## What the Rule Actually Says (and the Part That Catches People Off Guard)
+
+| Loan Product | Average Loan Size (FY2024) | Microloans Cap | Citizenship Rule Start Date |
+| --- | --- | --- | --- |
+| 7(a) Loan | $443,097 | N/A | March 1, 2026 |
+| 504 Loan | $1,100,000 | N/A | March 1, 2026 |
+| Microloan | N/A | $50,000 | April 2026 |
+| Surety Bond Guarantee | N/A | N/A | April 2026 |
 
 The SBA's official announcement from March 9, 2026 is blunt: all owners, direct and indirect, must be U.S. citizens or nationals. The indirect ownership piece trips most people up. If your business has investors, silent partners, or sits inside a holding company structure, every natural person with an ownership stake traces through those layers. One green card holder anywhere breaks eligibility.
 

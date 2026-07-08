@@ -23,7 +23,7 @@ author: "Rachel Green"
 author_slug: "rachel-green"
 author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
-
+lastmod: 2026-07-07
 ---
 Most people assume you need revenue to get a business loan. I used to tell clients the same thing. Then I started actually digging into what lenders are approving right now, and here's what surprised me: the market has shifted, especially for pre-revenue startups who show up prepared. You're not locked out. But you do need to understand what you're actually selling to a lender when you have no sales history.
 
@@ -43,17 +43,26 @@ Your personal credit score carries enormous weight at this stage. Most tradition
 
 ## The Loan Types Actually Available to Pre-Revenue Startups
 
+| Loan Type | Maximum Amount | Best For | Key Requirement |
+| --- | --- | --- | --- |
+| SBA Microloans | Up to $50,000 | Early-stage startups | Character and potential evaluation |
+| SBA 7(a) loans | Larger amounts | Established track record | Strong collateral, detailed business plan |
+| Business credit cards | Variable limit | Operating expenses | Business credit profile |
+| Equipment financing | Asset-dependent | Capital equipment purchases | Equipment as collateral |
+| Personal loans | Variable | Bridge capital | Personal credit score |
+| Friends/family/peer lending | Variable | Early funding phase | Written loan terms |
+
 > **Helpful resource:** [Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 Not every loan product is closed to you. Some are explicitly designed for early-stage businesses.
 
-**SBA Microloans.** The U.S. Small Business Administration's microloan program provides up to $50,000 through nonprofit intermediary lenders. These are some of the most startup-friendly loans that exist. Intermediaries often provide technical assistance alongside the capital, and they're more willing to look at character and potential rather than purely historical revenue. Average loan size is closer to $13,000 to $14,000, so it's not replacing a funding round, but it's real money.
+**[SBA Microloans](/sba-microloan-program/).** The U.S. Small Business Administration's microloan program provides up to $50,000 through nonprofit intermediary lenders. These are some of the most startup-friendly loans that exist. Intermediaries often provide technical assistance alongside the capital, and they're more willing to look at character and potential rather than purely historical revenue. Average loan size is closer to $13,000 to $14,000, so it's not replacing a funding round, but it's real money.
 
 **SBA 7(a) loans via community lenders.** Larger SBA loans are harder to get without revenue, but not impossible if you have strong collateral, a detailed business plan, and an industry track record. Community Development Financial Institutions (CDFIs) tend to be more flexible than traditional banks here.
 
 **Business credit cards and lines of credit.** A 0% introductory APR business card used strategically for early operating expenses is real startup capital. Pair it with strict repayment discipline and it costs you nothing upfront.
 
-**Equipment financing.** If your startup needs specific equipment, this type of financing is often available without revenue because the equipment itself serves as collateral. A food truck, commercial oven, or medical device company buying machinery can often qualify.
+**[Equipment financing](/equipment-financing-explained/).** If your startup needs specific equipment, this type of financing is often available without revenue because the equipment itself serves as collateral. A food truck, commercial oven, or medical device company buying machinery can often qualify.
 
 **Personal loans used for business.** Not ideal from a liability standpoint, and you should talk to a CPA and attorney before going this route, but some founders use personal loans as bridge capital while building initial revenue. The risk is all on you personally.
 

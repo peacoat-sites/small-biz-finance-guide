@@ -23,7 +23,7 @@ author: "Sarah Johnson"
 author_slug: "sarah-johnson"
 author_title: "CPA & Lead Editor"
 author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
-
+lastmod: 2026-07-07
 ---
 You set up a dedicated room in your house for your business two years ago. You've been paying rent, utilities, and internet every single month. But at tax time, your accountant tells you that you've never claimed the home office deduction, and you've been leaving real money on the table. That scenario plays out thousands of times every year. The home office deduction is one of the most misunderstood, most feared, and most underutilized deductions available to self-employed people and small business owners. People either skip it entirely because they're afraid of an audit, or they claim it wrong and create a mess. Let's clear that up.
 
@@ -51,7 +51,7 @@ To actually qualify, the IRS wants you to pass two tests:
 
 **Principal place of business.** Either your home office is where you run the entire operation, or it's where you regularly meet with clients, customers, or patients. The first scenario is straightforward. The second one gets messy fast. If you have a separate commercial office and you also work from home sometimes, you'd need to prove that you use the home office strictly for managing the administrative side and have nowhere else to do it.
 
-I've watched clients lose this deduction in audits simply because they had a second desk at a co-working space they were paying for. Document your situation carefully.
+I've watched clients [lose this deduction in audits](/irs-audit-triggers-small-business/) simply because they had a second desk at a co-working space they were paying for. Document your situation carefully.
 
 ---
 

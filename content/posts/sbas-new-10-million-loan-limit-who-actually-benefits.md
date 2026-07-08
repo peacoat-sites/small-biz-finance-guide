@@ -12,6 +12,7 @@ author_title: "Operations Finance Consultant"
 author_bio: "Amanda Pierce consults with small businesses on the day-to-day money mechanics that make or break them: cash flow, invoicing, and getting paid on time. She has cleaned up the books for dozens of owners. At Small Biz Finance Guide she covers cash flow and operational finance."
 slug: "sbas-new-10-million-loan-limit-who-actually-benefits"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 On July 4, 2026, the SBA officially doubles its combined 7(a) and 504 loan cap to $10 million, the highest lending ceiling in the agency's history. Administrator Kelly Loeffler announced the change on May 18 via Policy Notice 5000-879058, and the headlines have been loud ever since. "Small business lending just got supercharged." "A new era for growth capital." I'll be honest: when I first read through the policy details, my reaction was more complicated than that.
 
@@ -24,6 +25,14 @@ The previous $5 million cumulative cap on SBA loans was set back in 2010. What t
 The 7(a) program is the SBA's workhorse, used for working capital, equipment, business acquisitions, and real estate. The 504 program is built specifically for long-term fixed assets, commercial real estate, and heavy equipment, and it runs through Certified Development Companies. Using them together isn't unusual for growing businesses that need both operating flexibility and real estate. The decoupling is genuinely useful for that specific use case. But the key phrase is "specific use case."
 
 ## The Real Numbers Tell a Narrower Story
+
+| Borrower Profile | Average Loan Amount | Percentage of SBA Borrowers | Likely Benefit from $10M Cap |
+| --- | --- | --- | --- |
+| Micro businesses (5 or fewer employees) | $377,192 | Majority | Minimal |
+| All borrowers under $2 million | - | 93.4% | Minimal |
+| Borrowers over $2 million | - | 6.6% | Significant |
+| Manufacturers (with FY2026 incentives) | - | Subset | High |
+| Established growth-stage businesses | - | Small | Significant |
 
 > **Helpful resource:** [Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

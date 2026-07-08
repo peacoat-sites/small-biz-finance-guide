@@ -23,7 +23,7 @@ author: "Sarah Johnson"
 author_slug: "sarah-johnson"
 author_title: "CPA & Lead Editor"
 author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
-
+lastmod: 2026-07-07
 ---
 You get to the end of your first real year running your own business, feeling pretty good about what you've built, and then tax season arrives with a bill you weren't expecting. Not just the tax itself, but a penalty on top of it, because you were supposed to be paying as you went. Nobody told you that. Or maybe somebody mentioned it once and it didn't stick. I've seen this exact scenario knock the confidence out of otherwise sharp business owners who had simply never been self-employed before. Quarterly estimated taxes are one of those things the system assumes you already know, and that assumption costs people real money every year.
 
@@ -33,7 +33,7 @@ You get to the end of your first real year running your own business, feeling pr
 
 When you work a regular job, your employer withholds income tax and payroll taxes from every paycheck. The IRS gets its money in small, steady installments throughout the year. When you run your own business, nobody does that for you. You are the employer now.
 
-The IRS wants its money on roughly the same schedule regardless. So instead of withholding, the government requires self-employed people and business owners to make estimated tax payments four times a year. These payments cover your federal income tax and your self-employment tax, which is how sole proprietors and single-member LLC owners pay into Social Security and Medicare. State estimated taxes are usually a separate obligation on top of that, depending on where you live.
+The IRS wants its money on roughly the same schedule regardless. So instead of withholding, the government requires self-employed people and business owners to make estimated tax payments four times a year. These payments cover your federal income tax and your [self-employment tax](/payroll-tax-obligations-small-business/), which is how sole proprietors and single-member LLC owners pay into Social Security and Medicare. State estimated taxes are usually a separate obligation on top of that, depending on where you live.
 
 If your expected tax liability for the year will be $1,000 or more after credits and withholding, you generally have to make estimated payments. That threshold is low enough that most freelancers, consultants, contractors, shop owners, and service providers hit it quickly. The IRS small business tax center at [https://www.irs.gov/businesses/small-businesses-self-employed](https://www.irs.gov/businesses/small-businesses-self-employed) lays out the core requirements, and it's worth bookmarking if you're just getting started.
 
@@ -68,7 +68,7 @@ The IRS won't penalize you for underpayment if you pay at least as much as you o
 
 One important nuance: if your adjusted gross income last year was above $150,000, you need to pay 110% of last year's liability, not just 100%. That's the high-income safe harbor rule.
 
-The safe harbor method works especially well for business owners whose income is hard to predict month to month, which honestly describes most of us.
+The [safe harbor method](/how-to-calculate-quarterly-estimated-taxes-for-self-employed/) works especially well for business owners whose income is hard to predict month to month, which honestly describes most of us.
 
 **The Annualized Income Method**
 

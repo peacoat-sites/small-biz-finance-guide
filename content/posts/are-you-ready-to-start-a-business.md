@@ -9,15 +9,15 @@ author: "Rachel Green"
 author_slug: "rachel-green"
 author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
-
+lastmod: 2026-07-07
 ---
-Thinking about ditching your steady paycheck for that business idea you can't stop thinking about? Before you file the paperwork or tell your boss you're out, you need to be honest about where you actually stand right now.
+Thinking about ditching your [steady paycheck](/1099-vs-w2-explained/) for that business idea you can't stop thinking about? Before you file the paperwork or tell your boss you're out, you need to be honest about where you actually stand right now.
 
-This quick quiz walks through your habits, your savings buffer, who's got your back, and whether you can handle the chaos that comes with building something real. No judgment. In about two minutes you'll get a straight read on how ready you are today, plus one sensible next move.
+This quick quiz walks through your habits, your [savings buffer](/break-even-calculator/), who's got your back, and whether you can handle the chaos that comes with building something real. No judgment. In about two minutes you'll get a straight read on how ready you are today, plus one sensible next move.
 
 {{< quiz >}}
 
-Here's the thing: readiness isn't something you're born with. It's something you build. I've talked to plenty of founders who started in the "not ready yet" bucket and closed the gaps piece by piece over the next few months. Your score here isn't a verdict. It's a starting point. When you're ready to move forward, our beginner guides are right there.
+Here's the thing: readiness isn't something you're born with. It's something you build. I've talked to plenty of founders who started in the "not ready yet" bucket and closed the gaps piece by piece over the next few months. Your score here isn't a verdict. It's a starting point. When you're ready to move forward, our [beginner guides](/best-small-business-grants-for-startups-2026/) are right there.
 
 ## Recommended Resources
 

@@ -23,9 +23,9 @@ author: "David Kim"
 author_slug: "david-kim"
 author_title: "Tax Strategist"
 author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
-
+lastmod: 2026-07-07
 ---
-Most small business owners think you buy commercial property after you've already made it. Save up a fat down payment, prove success, then *maybe* a bank talks to you. Here's what I found digging into SBA 504 loans: that assumption is completely backwards. The 504 program was built specifically to get businesses into owned real estate sooner, with less cash upfront and at fixed rates that actually let you plan ten or twenty years ahead. After watching clients bleed money to landlords for years, dealing with lease uncertainty and rent hikes they couldn't control, I'll say it plainly: I wish I'd pushed more of them toward ownership earlier.
+Most small business owners think you buy [commercial property](/commercial-mortgage-for-business/) after you've already made it. Save up a fat down payment, prove success, then *maybe* a bank talks to you. Here's what I found digging into SBA 504 loans: that assumption is completely backwards. The 504 program was built specifically to get businesses into owned real estate sooner, with less cash upfront and at fixed rates that actually let you plan ten or twenty years ahead. After watching clients bleed money to landlords for years, dealing with lease uncertainty and rent hikes they couldn't control, I'll say it plainly: I wish I'd pushed more of them toward ownership earlier.
 
 ## What the SBA 504 Loan Actually Is (And What It Isn't)
 
@@ -52,7 +52,7 @@ A few hard requirements:
 - The property must be at least 51% owner-occupied if it's an existing building, 60% for new construction
 - Your business must prove it can repay from operating cash flow
 
-That last one kills a lot of applications. Lenders want a debt service coverage ratio (DSCR) of at least 1.25, meaning your business generates $1.25 in operating income for every $1 of loan payment. If you're pre-revenue or losing money monthly, this tool isn't ready for you yet.
+That last one kills a lot of applications. Lenders want a [debt service coverage ratio](/sba-loan-requirements-guide/) (DSCR) of at least 1.25, meaning your business generates $1.25 in operating income for every $1 of loan payment. If you're pre-revenue or losing money monthly, this tool isn't ready for you yet.
 
 ## Step-by-Step: How to Move From Curious to Closing
 
@@ -66,6 +66,15 @@ Expect 60 to 90 days minimum, sometimes longer. Conventional loans move faster. 
 6. **Get a CPA involved before signing.** Depreciation, interest deductibility, how the property sits on your balance sheet. These all have tax implications worth understanding upfront.
 
 ## 504 vs. SBA 7(a) for Real Estate: A Direct Comparison
+
+| Feature | SBA 504 | SBA 7(a) |
+|---|---|---|
+| Primary use | Fixed assets (real estate, equipment) | Broader: working capital, real estate, acquisition |
+| Loan maximum | $5.5 million (CDC portion) | $5 million total |
+| Down payment | As low as 10% | Typically 10-20% |
+| Rate structure | Fixed (CDC portion) | Fixed or variable |
+| Use for working capital | No | Yes |
+| Processing complexity | Higher | Moderate |
 
 People constantly ask whether a 504 or a 7(a) loan works better for commercial property. Here's the breakdown:
 

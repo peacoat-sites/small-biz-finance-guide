@@ -23,6 +23,7 @@ faqs:
    a: "Xero has a cleaner UI, better bank feeds, and a more affordable entry price. QuickBooks Online has a larger accountant network in the U.S., more robust payroll built in, and more third-party integrations overall. For most new small businesses in 2026 starting fresh, I'd pick Xero. If your accountant lives in QuickBooks, match their system."
  - q: "Does Xero work if my business has multiple currencies?"
    a: "Yes, but only on the Established plan. Multi-currency support in Xero is solid: it handles exchange rate tracking, revaluation adjustments, and reporting. If you're regularly billing in euros or CAD, it's worth the upgrade to Established rather than trying to fudge everything into USD manually."
+lastmod: 2026-07-07
 ---
 
 Most Xero guides spend three paragraphs explaining what "cloud accounting" means. You already know what it means. Let's skip that part.
@@ -33,7 +34,7 @@ What they don't tell you is that Xero is genuinely excellent for about 80% of sm
 
 ## Why Xero Won the Small Business Race (and Where It Still Stumbles)
 
-QuickBooks Online is still the market share leader in the U.S. I'll give it that. But Xero has a cleaner interface, a more logical chart of accounts setup process, and a significantly better experience for business owners who aren't accountants. That matters more than it sounds. If your bookkeeper logs in and your system makes sense when you log in too, you're going to catch problems faster.
+QuickBooks Online is still the market share leader in the U.S. I'll give it that. But Xero has a cleaner interface, a more logical [chart of accounts](/small-business-accounting-basics/) setup process, and a significantly better experience for business owners who aren't accountants. That matters more than it sounds. If your bookkeeper logs in and your system makes sense when you log in too, you're going to catch problems faster.
 
 The bank reconciliation workflow in Xero is the best in its class, full stop. You import your transactions, Xero suggests matches, and you click "OK" or recode when it's wrong. That's it. Most clients I've onboarded are doing their own reconciliation confidently within a week.
 
@@ -70,6 +71,12 @@ The Xero mobile app is fine for sending invoices, approving bills, and checking 
 ---
 
 ## Xero Plans: What You Actually Need
+
+| Plan | Monthly Cost | Invoice Limit | Bill Limit | Multi-Currency | Expense Claims | Project Tracking |
+| --- | --- | --- | --- | --- | --- | --- |
+| Early | $20 | 20 | 5 | No | No | No |
+| Growing | $47 | Unlimited | Unlimited | No | No | No |
+| Established | $80 | Unlimited | Unlimited | Yes | Yes | Yes |
 
 Xero currently offers three plans in the U.S.: Early ($20/month), Growing ($47/month), and Established ($80/month). I'd steer almost everyone toward Growing. Early limits you to 20 invoices and 5 bills per month, which sounds like enough until it isn't. Established adds multi-currency, expense claims, and project tracking. If you're billing international clients or need to track time and costs by project, pay the extra $33.
 

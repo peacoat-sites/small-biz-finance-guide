@@ -23,17 +23,23 @@ author: "Sarah Johnson"
 author_slug: "sarah-johnson"
 author_title: "CPA & Lead Editor"
 author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
-
+lastmod: 2026-07-07
 ---
 You got the business running. Customers are coming in, sales are happening, money is moving. But somewhere between the excitement of early momentum and the reality of actually *running* a company, you hit a wall. Your bookkeeper hands you three reports at the end of the month, or your accountant emails a PDF before tax season, and you stare at the numbers feeling like you're reading a foreign language. If that's where you are right now, you're not behind. You're exactly where most small business owners are when they first start taking their finances seriously. The goal here is simple: by the time you finish reading this, those documents won't feel intimidating anymore.
 
 ## What Financial Statements Actually Are (and Why You Need Them)
 
+| Financial Statement | Time Period | Primary Question | Key Users |
+| --- | --- | --- | --- |
+| Income Statement | Period (month, quarter, year) | Did we make money this period? | Management, investors, lenders |
+| Balance Sheet | Single moment in time | What does the business own and owe right now? | Management, lenders, creditors |
+| Cash Flow Statement | Period (month, quarter, year) | Where did the cash actually go? | Management, lenders, operations |
+
 Financial statements are a set of structured reports that summarize what's happening financially in your business. They're not just for banks or investors. They're for *you*. Think of them as a dashboard. A dashboard doesn't tell you how to drive; it tells you what the car is doing right now so you can make smart decisions before something breaks.
 
 There are three core financial statements every small business owner should know. The **Income Statement** (also called a Profit and Loss statement, or P&L). The **Balance Sheet**. And the **Cash Flow Statement**.
 
-Each one answers a different question. The income statement answers: "Did we make money this period?" The balance sheet answers: "What does the business own and owe right now?" The cash flow statement answers: "Where did the cash actually go?" Together, they tell the complete story of your business's financial health. Separately, each one is only part of the picture. This is why looking at just your bank balance to understand your business is like reading one page of a three-chapter book.
+Each one answers a different question. The income statement answers: "Did we make money this period?" The balance sheet answers: "What does the business own and owe right now?" The [cash flow statement](/cash-flow-statement-explained/) answers: "Where did the cash actually go?" Together, they tell the complete story of your business's financial health. Separately, each one is only part of the picture. This is why looking at just your bank balance to understand your business is like reading one page of a three-chapter book.
 
 ## The Income Statement: Your Business's Report Card
 
@@ -59,7 +65,7 @@ One thing you might be wondering: what's a "good" profit margin? It depends heav
 
 ## The Balance Sheet: A Snapshot of What You Own and Owe
 
-The balance sheet doesn't cover a period of time. It's a snapshot of a single moment, usually the last day of the month or year. It's built on one equation that never changes:
+The [balance sheet](/reading-a-balance-sheet-basics/) doesn't cover a period of time. It's a snapshot of a single moment, usually the last day of the month or year. It's built on one equation that never changes:
 
 **Assets = Liabilities + Owner's Equity**
 

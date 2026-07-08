@@ -23,6 +23,7 @@ faqs:
    a: "Don't panic, and don't respond alone. The type of audit matters: a correspondence audit (a letter requesting specific documentation) is very different from an in-person field audit. In either case, get a CPA or tax attorney involved before you respond. What you say and what you produce in the first response sets the frame for everything that follows."
  - q: "Can I reduce my audit risk by paying a higher tax bill?"
    a: "Not directly, but accuracy matters more than the amount owed. Returns that appear internally consistent, with deductions proportionate to revenue and industry norms, are less likely to be selected. If your numbers are legitimate but look unusual, attaching a brief explanatory statement to your return can reduce the chance of a follow-up inquiry."
+lastmod: 2026-07-07
 ---
 
 Most small business owners I talk to think an audit is something that happens to people who cheat. That assumption is expensive.
@@ -39,7 +40,7 @@ What surprised me, when I looked into how DIF works in practice, is that it's no
 
 A few specific numbers that tend to raise flags, based on what I've seen and what the [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed) makes clear in its examination guidance:
 
-- Meals and entertainment deductions exceeding 1-2% of gross revenue (for most industries)
+- [Meals and entertainment deductions](/small-business-tax-deductions-checklist-2026/) exceeding 1-2% of gross revenue (for most industries)
 - Vehicle use claimed at 100% business, especially on luxury vehicles
 - Home office deductions taken year after year with no variation
 - Losses reported for three or more consecutive years on a Schedule C
@@ -49,6 +50,11 @@ That last one is a big one. The IRS has a "hobby loss" rule baked into the tax c
 Photography side business, four consecutive loss years, no documented marketing or client-acquisition activity → IRS flagged the Schedule C under hobby loss provisions → $6,200 in assessed taxes and penalties after deductions were disallowed on roughly $18,000 in claimed expenses.
 
 ## Cash-Heavy Industries Get Extra Attention
+
+| Scenario | Trigger | Outcome | Professional Cost |
+|---|---|---|---|
+| Photography side business, 4 consecutive loss years, no documented marketing | Hobby loss provisions (Section 183) | $6,200 in assessed taxes and penalties on ~$18,000 claimed expenses | Included in assessment |
+| Restaurant with clean records, income 11% below local median | Statistical review based on industry norms | Five-month examination, no additional tax assessed | $4,500 in CPA fees |
 
 > **Helpful resource:** [Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

@@ -23,13 +23,13 @@ author: "Rachel Green"
 author_slug: "rachel-green"
 author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
-
+lastmod: 2026-07-07
 ---
 Most small business owners I talk to don't think about cyber liability insurance until after something goes wrong. A client's credit card data gets lifted. A ransomware attack freezes the booking system for a week. An employee clicks a phishing email and suddenly the payroll account is drained. By then, it's too late to buy the policy you wish you'd had.
 
 So let's talk about this before you're in that chair.
 
-Cyber liability insurance covers your business when a data breach, cyberattack, or digital security failure causes financial damage, to you, to your customers, or both. It's not the same as your general liability policy, and it's not bundled into your BOP (business owner's policy) by default, even though a lot of people assume it is. That assumption has cost businesses I know real money.
+Cyber liability insurance covers your business when a data breach, cyberattack, or digital security failure causes financial damage, to you, to your customers, or both. It's not the same as your [general liability policy](/business-liability-insurance-guide/), and it's not bundled into your BOP (business owner's policy) by default, even though a lot of people assume it is. That assumption has cost businesses I know real money.
 
 <div class="value-module">
   <div class="vm-head">Cyber Policy Coverage Comparison Matrix</div>
@@ -54,7 +54,7 @@ What won't it cover? Employee theft (that's a crime/fidelity bond situation). Ph
 
 For most small businesses with fewer than 50 employees and no massive customer data footprint, you're looking at $500 to $2,000 a year for a decent policy. Some simpler operations can get in around $400. If you're in healthcare, financial services, or holding sensitive personal data at scale, you'll push north of $3,000 to $5,000 or more. At that point you really need a broker who specializes in this.
 
-Is it worth it? The average data breach cost for a small business has run into the tens of thousands of dollars in recent years. That's before you even count lost customers or reputational damage. I know a boutique accounting firm, eight people, solid little practice, that got hit with ransomware and spent about $60,000 total across recovery costs, downtime, and client notification. They had general liability coverage. No cyber policy. They paid every penny out of pocket.
+Is it worth it? The average [data breach](/data-breach-small-business-costs/) cost for a small business has run into the tens of thousands of dollars in recent years. That's before you even count lost customers or reputational damage. I know a boutique accounting firm, eight people, solid little practice, that got hit with ransomware and spent about $60,000 total across recovery costs, downtime, and client notification. They had general liability coverage. No cyber policy. They paid every penny out of pocket.
 
 People argue they're "too small to be a target." That's not how it works anymore. Automated attacks don't discriminate by business size. You might be small, but you're connected to larger clients, and attackers know it.
 

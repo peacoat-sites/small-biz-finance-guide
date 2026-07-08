@@ -23,11 +23,12 @@ faqs:
    a: "A private broker can access a wider range of carriers and plans than SHOP typically offers, especially in smaller markets. The tradeoff is that purchasing outside SHOP disqualifies you from the federal tax credit. Run the numbers: if you qualify for a substantial credit, SHOP's plan options may be worth accepting even if they're not your first choice. If your wage profile puts you at a partial or zero credit, a broker often gets you better value."
  - q: "Can I offer employees a choice of plans through SHOP?"
    a: "Yes. The federal SHOP marketplace allows employers to offer employees a choice within a single metal tier (e.g., multiple silver plans from different carriers). Some state exchanges offer similar flexibility. This is one of SHOP's underappreciated features, since traditional small group insurance often locks everyone into a single plan. Check your state exchange rules, as the exact mechanics vary."
+lastmod: 2026-07-07
 ---
 
 Most articles about the SHOP Marketplace bury the useful stuff under three paragraphs of cheerful overview. Let me skip that part.
 
-The Small Business Health Options Program, SHOP, is the ACA-created marketplace where businesses with 1 to 50 employees can buy group health and dental insurance. That's the whole concept. What matters is whether it actually saves you money and how to use it without wasting a Saturday.
+The Small Business Health Options Program, SHOP, is the ACA-created marketplace where businesses with 1 to 50 employees can buy [group health and dental insurance](/small-business-employee-benefits/). That's the whole concept. What matters is whether it actually saves you money and how to use it without wasting a Saturday.
 
 Here's what most coverage gets wrong: SHOP isn't primarily about finding cheap coverage. It's about qualifying for a specific federal tax credit that can be worth up to 50% of your premium costs. If you're not eligible for that credit, SHOP may or may not be your best option, and you should know that upfront before you spend time on it.
 
@@ -44,6 +45,11 @@ The credit is also only available for two consecutive tax years per business. Th
 Who benefits most in practice: a cleaning company with 12 employees earning $38,000 per year average. Two years of 50% credits on premiums that might run $4,000 to $6,000 annually per employee adds up fast. A professional services firm with 22 employees earning $75,000 average? The math doesn't work. They'd get a partial or zero credit, and they should probably shop outside SHOP for more plan variety.
 
 ## How the Enrollment Process Actually Works
+
+| Scenario | Employee Count | Avg Annual Wage | Annual Premium Contribution | Tax Credit (2-Year Window) | Net Cost After Credit |
+| --- | --- | --- | --- | --- | --- |
+| Dental practice (Ohio) | 18 | Under $50,000 | ~$52,000 | ~$19,500 | ~$84,500 |
+| Food truck (Tennessee) | 8 | $34,000 | Higher via SHOP | ~$11,200 | Higher overall |
 
 > **Helpful resource:** [Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

@@ -23,7 +23,7 @@ author: "Rachel Green"
 author_slug: "rachel-green"
 author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
-
+lastmod: 2026-07-07
 ---
 Most business owners spend twenty years building something and about twenty minutes thinking about what happens to it when they're gone. I was guilty of the same thing early on. I helped a lot of entrepreneurs get their books clean, their cash flow tight, their tax exposure minimal. Succession planning? That was a conversation for later, always later.
 
@@ -43,7 +43,7 @@ That's not an outlier. That's what happens when there's no plan.
 
 ## What Succession Planning Actually Is (And What It Isn't)
 
-Most people hear "succession planning" and picture a family drama. The oldest kid taking over the hardware store while Dad hovers and second-guesses everything from the sidelines. That's one version. But succession covers any scenario where ownership or leadership changes hands: retirement, death, disability, divorce, a partner buyout, a sale to a competitor, or a strategic exit to a third party. All require a plan. Most require that plan to exist years before the event actually happens.
+Most people hear "[succession planning](/small-business-exit-strategy-planning/)" and picture a family drama. The oldest kid taking over the hardware store while Dad hovers and second-guesses everything from the sidelines. That's one version. But succession covers any scenario where ownership or leadership changes hands: retirement, death, disability, divorce, a partner buyout, a sale to a competitor, or a strategic exit to a third party. All require a plan. Most require that plan to exist years before the event actually happens.
 
 Here's what catches most owners off guard: succession planning is mostly just valuation work and legal documentation dressed up with a timeline. Know what your business is worth. Decide who gets it or buys it and under what terms. Get the legal structures in place to make that transfer clean and tax-efficient. Then build enough management capacity so the whole thing doesn't collapse the moment you step back.
 
@@ -51,13 +51,20 @@ That framework covers 95% of it. Everything else is just execution.
 
 ## Getting Serious About Valuation First
 
+| Scenario | Typical EBITDA Multiple | Business Profile |
+| --- | --- | --- |
+| Main Street Service Company | 2x-4x | Local services, dependent on owner |
+| Local Manufacturer | 2x-4x | Regional market, some operational systems |
+| Retail Shop | 2x-4x | Location-dependent, owner-driven sales |
+| Process-Driven Company | 6x-8x+ | Documented systems, transferable operations, growth trajectory |
+
 > **Helpful resource:** [Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 Here's where owners get tripped up: they think they know what their business is worth because they know their revenue. Revenue isn't value. A $3 million revenue business with 6% net margins, one customer representing 40% of sales, and zero documented processes is worth a fraction of what a $3 million revenue business with 18% margins, diversified accounts, and a management team that runs without you looks like to a buyer.
 
 Businesses trade on multiples of EBITDA (earnings before interest, taxes, depreciation, and amortization), and that multiple depends on industry, risk profile, growth trajectory, and how transferable the business actually is. A Main Street service company, a local manufacturer, a retail shop might go for 2x to 4x EBITDA. Process-driven companies in certain sectors pull 6x, 8x, sometimes more.
 
-Get a formal valuation. Not your accountant's back-of-a-napkin guess, but an actual certified business appraiser (look for CVA or ABV credentials) or an M&A advisor who knows your industry. Expect to pay $3,000 to $10,000 depending on how complicated things are. It's worth every penny because it anchors every conversation after.
+Get a [formal valuation](/business-valuation-methods/). Not your accountant's back-of-a-napkin guess, but an actual certified business appraiser (look for CVA or ABV credentials) or an M&A advisor who knows your industry. Expect to pay $3,000 to $10,000 depending on how complicated things are. It's worth every penny because it anchors every conversation after.
 
 I'd also suggest *Built to Sell* by John Warrillow. You can grab it on [Amazon](https://www.amazon.com/Built-Sell-Creating-Business-Without/dp/1591845823?tag=contentportfo-20). It's one of the clearest books on making a business transferable, and it's written for owners, not bankers.
 

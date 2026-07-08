@@ -12,6 +12,7 @@ author_title: "Tax Strategist"
 author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
 slug: "how-to-stack-section-179-and-bonus-depreciation-in-2026"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 
 Most small business owners I've talked to this summer are still making equipment decisions based on 60% bonus depreciation. That number isn't just outdated. It's from a different legal reality. The One Big Beautiful Bill Act changed everything, and if you haven't recalibrated your thinking yet, you're probably leaving a serious deduction on the table right now, in the middle of the 2026 tax year.
@@ -47,6 +48,12 @@ For businesses that buy equipment through auctions, dealer resales, or from othe
 This is also where professional consultation matters. The rules around what qualifies, what doesn't, and how vehicle deductions interact with luxury auto limits are genuinely complex. What I'm describing here is the framework. Your CPA applies it to your specific circumstances.
 
 ## The Cash Flow Math That Makes This Urgent Right Now
+
+| Scenario | Equipment Cost | Bonus Depreciation Rate | First-Year Deduction | Tax Savings (35% rate) |
+| --- | --- | --- | --- | --- |
+| Old 2026 rules (40%) | $150,000 | 40% | $60,000 | $21,000 |
+| Restored 100% rules | $150,000 | 100% | $150,000 | $52,500 |
+| Difference | - | - | $90,000 | $31,500 |
 
 I want to put some real numbers around this because the abstract concept of "a bigger deduction" doesn't always land until you see what it means in practice.
 

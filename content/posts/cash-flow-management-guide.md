@@ -23,7 +23,7 @@ author: "Amanda Pierce"
 author_slug: "amanda-pierce"
 author_title: "Operations Finance Consultant"
 author_bio: "Amanda Pierce consults with small businesses on the day-to-day money mechanics that make or break them: cash flow, invoicing, and getting paid on time. She has cleaned up the books for dozens of owners. At Small Biz Finance Guide she covers cash flow and operational finance."
-
+lastmod: 2026-07-07
 ---
 You built a profitable business and still can't make payroll. That sentence sounds like a contradiction, but it's one of the most common disasters I watch small business owners walk into. Profit is an accounting concept. Cash is what keeps the lights on. When those two things fall out of sync, even a growing business can collapse. According to the [U.S. Small Business Administration (SBA)](https://www.sba.gov/), cash flow problems are consistently cited among the top reasons small businesses fail, not bad products, not weak demand, not poor management in the traditional sense. Just cash, running out at the wrong moment.
 
@@ -53,7 +53,7 @@ Most small business owners only ever think about operating cash flow, which is w
 
 ## How to Build a Cash Flow Forecast (Step-by-Step)
 
-A cash flow forecast is simply a prediction of when money will come in and when it will go out. It won't be perfect. But even a rough forecast gives you warning time, and warning time is everything.
+A [cash flow forecast](/what-is-a-good-cash-flow-forecast-template-for-startups/) is simply a prediction of when money will come in and when it will go out. It won't be perfect. But even a rough forecast gives you warning time, and warning time is everything.
 
 Here's a practical process you can do in a spreadsheet today:
 
@@ -84,7 +84,7 @@ If you'd rather start with a pre-built tool, [Profit First by Mike Michalowicz](
 Knowing what drains cash faster than expected is half the battle. In my experience, the same handful of culprits show up again and again.
 
 **1. Slow-paying customers.**
-Net-30 terms that actually stretch to net-60 or net-90 are incredibly common. If you don't have a collections process, you're essentially giving your customers an interest-free loan.
+Net-30 terms that actually stretch to net-60 or net-90 are incredibly common. If you don't have a [collections process](/accounts-receivable-management/), you're essentially giving your customers an interest-free loan.
 
 **2. Seasonal revenue swings without reserves.**
 A restaurant that does 40% of its annual revenue in the summer but carries fixed costs all year needs a cash cushion built during peak season. Many don't build it, and February becomes a crisis.

@@ -23,7 +23,7 @@ author: "Rachel Green"
 author_slug: "rachel-green"
 author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
-
+lastmod: 2026-07-07
 ---
 You're sitting across from a banker, a potential investor, or maybe just your own accountant, and someone slides a page of numbers in front of you. Three columns, a bunch of line items, totals at the bottom. Everyone in the room assumes you understand it. You nod. You don't fully understand it. I've watched this exact moment happen to smart, capable business owners more times than I can count, and it never has to go that way.
 
@@ -48,6 +48,13 @@ Your P&L tells you whether you made money. Your balance sheet tells you whether 
 ---
 
 ## The Three Sections: Breaking Down What You're Looking At
+
+| Balance Sheet Section | Timeline | Examples |
+| --- | --- | --- |
+| Current Assets | Within 12 months | Cash, accounts receivable, inventory, prepaid expenses |
+| Non-Current Assets | Beyond 12 months | Property/equipment, intangible assets, long-term investments |
+| Current Liabilities | Within 12 months | Accounts payable, short-term loans, accrued expenses, deferred revenue |
+| Long-Term Liabilities | Beyond 12 months | Business loans, mortgages, long-term leases, deferred tax liabilities |
 
 > **Helpful resource:** [Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -105,7 +112,7 @@ Where is it listed? How much? Cash is oxygen. A business with $400,000 in total 
 **Step 4: Check accounts receivable.**
 If this number is large relative to revenue, ask how old those receivables are. Receivables that sit unpaid past 90 days are often uncollectable. They look like assets on paper, but they may not actually be real value.
 
-**Step 5: Compare current assets to current liabilities.**
+**Step 5: Compare [current assets to current liabilities](/small-business-financial-statements/).**
 This is the quick ratio concept in action. If you have $60,000 in current assets and $90,000 in current liabilities, your business is technically insolvent on a short-term basis, meaning you don't have enough liquid assets to cover what's due soon. That's a red flag.
 
 **Step 6: Look at total debt versus total equity.**

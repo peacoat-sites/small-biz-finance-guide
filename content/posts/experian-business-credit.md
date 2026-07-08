@@ -23,6 +23,7 @@ faqs:
     a: "It depends on who you're borrowing from or buying from. D&B is dominant with larger suppliers and some government contractors. Experian is widely used by commercial lenders and financial institutions. If you're applying for a bank loan or business credit card, Experian likely matters more. For vendor trade credit, D&B often does. Build both."
   - q: "What's a good Experian Intelliscore for getting business financing?"
     a: "A score of 66 or above puts you in a position to qualify for most standard business financing products, though terms will vary. Scores above 76 start to open up better rates and higher credit limits. Below 50, expect lenders to either decline or require personal guarantees and higher interest. This can shift based on your industry, time in business, and revenue, so no single number is a guarantee either way. Consult with a CPA or business credit advisor for guidance specific to your situation."
+lastmod: 2026-07-07
 ---
 
 Most business owners don't think about their Experian business credit file until a lender or vendor pulls it and the number comes back lower than expected. By then, you're already in the negotiation, already explaining yourself. That's the wrong time to find out.
@@ -34,6 +35,12 @@ Let me walk you through how this actually works, because the conventional advice
 ---
 
 ## What Experian Business Credit Actually Is (And How It Differs From Personal Credit)
+
+| Bureau | Primary Score | Scale | Key Data Sources | Audience |
+| --- | --- | --- | --- | --- |
+| Experian | Intelliscore Plus | 1-100 | Payment history, delinquencies, account age, public records | Lenders, suppliers, landlords |
+| Dun & Bradstreet | Paydex | 0-100 | Trade payment data, financial records | Commercial lenders, vendors |
+| Equifax | Business Credit Score | Varies | Payment history, public records, financial data | Lenders, creditors |
 
 Experian is one of three major business credit bureaus, alongside Dun & Bradstreet and Equifax. Each one collects data differently, weights factors differently, and sells that data to different audiences. That's not a bug, it's just how the industry works. Lenders, suppliers, and landlords often pull from one or two bureaus, not all three.
 

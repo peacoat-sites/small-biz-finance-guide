@@ -18,6 +18,7 @@ faqs:
    a: "SE tax is 15.3% (12.4% Social Security + 2.9% Medicare) applied to 92.35% of your net self-employment income. The 92.35% factor accounts for the employer-equivalent half that is deductible. You can then deduct half of the total SE tax from your gross income."
  - q: "How much should I set aside for self-employment taxes?"
    a: "A conservative rule of thumb is to set aside 25–30% of net profit to cover both SE tax (roughly 14.1% effective rate) and federal income tax. If your income is higher and you are in the 22% or 24% bracket, consider 30–35%."
+lastmod: 2026-07-07
 ---
 Two questions haunt every freelancer and small business owner come tax time: *How much do I need to sell to break even?* and *How much will I actually owe in self-employment taxes?* They're not optional questions. They're the foundation of every pricing decision and every quarterly payment, and getting them wrong creates real financial pain in April.
 
@@ -34,11 +35,19 @@ Here's the formula:
 > **Break-Even Units = Fixed Monthly Costs ÷ Contribution Margin per Unit**
 > **Contribution Margin = Price per Unit − Variable Cost per Unit**
 
-Say your monthly fixed costs are $5,000. You're selling a product for $45, and it costs $15 to make. Your contribution margin is $30. You need to sell 167 units to break even. Hit 168 and you're profitable. Drop to 166 and you're bleeding money.
+Say your monthly [fixed costs](/business-expense-categories-guide/) are $5,000. You're selling a product for $45, and it costs $15 to make. Your contribution margin is $30. You need to sell 167 units to break even. Hit 168 and you're profitable. Drop to 166 and you're bleeding money.
 
 The **contribution margin percentage** matters just as much. If your CM is 67%, that means 67 cents of every sales dollar goes toward covering fixed costs and profit. High fixed costs paired with a low CM percentage create a brutal math problem: you need massive sales volume just to stop losing money. That's the real trap many businesses fall into.
 
 ## Self-Employment Tax: What Solo Business Owners Must Know
+
+| Tax/Payment Type | Who Pays | Rate | Frequency | Notes |
+| --- | --- | --- | --- | --- |
+| Social Security & Medicare (Employee portion) | W-2 Employees | 7.65% | Per paycheck | Employer withholds |
+| Social Security & Medicare (Employer portion) | W-2 Employers | 7.65% | Per paycheck | Paid separately |
+| Self-Employment Tax | Solo owners, LLCs, Partnerships | 15.3% | Annual (on 92.35% of net profit) | Both employee + employer sides; 50% deductible |
+| Estimated Federal Income Tax | Self-employed | Varies by bracket | Quarterly (Apr, Jun, Sep, Jan) | Form 1040-ES; required if ≥$1,000 annual tax |
+| Quarterly Estimated Payment Rule of Thumb | Self-employed | 25-30% of gross | Quarterly | Recommended reserve strategy |
 
 Run a sole proprietorship, single-member LLC, or partnership? You're paying both sides of Social Security and Medicare taxes. Employees see 7.65% withheld. Their employer pays another 7.65% invisibly. You pay all 15.3%.
 
@@ -52,7 +61,7 @@ The IRS does give you one break: you only pay SE tax on 92.35% of your net profi
 
 If you're looking at $1,000 or more in federal taxes for the year, the IRS wants payment in four installments (Form 1040-ES), due in April, June, September, and January. Miss these and you'll owe penalties on top of the original bill.
 
-Start with the SE tax number from the calculator. Add your estimated federal income tax based on your bracket. That's your quarterly payment target. One trick that actually works: open a separate savings account and move 25–30% of every payment you receive into it immediately. When the quarterly deadline hits, you're not scrambling or short.
+Start with the SE tax number from the calculator. Add your estimated federal income tax based on your bracket. That's your quarterly payment target. One trick that actually works: open a [separate savings account](/how-to-separate-business-personal-finances/) and move 25–30% of every payment you receive into it immediately. When the quarterly deadline hits, you're not scrambling or short.
 
 More detail on this topic? Check out our guides on [small business tax deductions](/posts/small-business-tax-deductions-guide/) and [bookkeeping basics for entrepreneurs](/posts/bookkeeping-basics-for-small-business/).
 

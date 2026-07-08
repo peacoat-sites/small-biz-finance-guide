@@ -12,6 +12,7 @@ author_title: "Tax Strategist"
 author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
 slug: "the-july-6-rd-tax-refund-deadline-most-small-businesses-are-missing"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 If you did R&D work between 2022 and 2024 and your tax bills felt higher than they should have been, you weren't imagining it. A lot of small business owners I've talked to recently have a vague sense that something changed with how they had to handle research and development costs, but they're fuzzy on the details. Here's the situation: a 2022 rule forced businesses to spread out their R&D deductions over five years instead of writing them off immediately. For many companies, that meant paying taxes on income that their R&D spending had already consumed. The good news is that rule has been reversed. The complicated news is that there's a hard deadline, July 6, 2026, to go back and reclaim what you overpaid. And a lot of businesses are going to miss it.
 
@@ -24,6 +25,13 @@ The One Big Beautiful Bill Act, signed on July 4, 2025, retroactively reversed t
 For a business with $500,000 in qualifying 2023 R&D expenses, the difference is enormous. Instead of deducting $100,000 per year, you can now amend that return to claim the full $500,000 at once. Depending on your tax rate, that could translate to a six-figure refund from a single amended filing. That's real money, and it's sitting out there unclaimed for a lot of small businesses right now.
 
 ## Who Qualifies, and Is Your 2022 Return Already Gone?
+
+| Tax Year | Original Filing Deadline | Amended Return Window Closes | Status for Most Small Businesses |
+| --- | --- | --- | --- |
+| 2022 (S-corps/Partnerships) | March 15, 2023 | March 15, 2026 | **Already Closed** |
+| 2023 | March 15, 2024 | March 15, 2027 | Open |
+| 2024 | March 15, 2025 | March 15, 2028 | Open |
+| 2022 (C-corporations) | October 15, 2023 | October 15, 2026 | Open (but narrowing) |
 
 > **Helpful resource:** [Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

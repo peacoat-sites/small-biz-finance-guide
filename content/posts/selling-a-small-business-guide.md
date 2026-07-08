@@ -23,7 +23,7 @@ author: "David Kim"
 author_slug: "david-kim"
 author_title: "Tax Strategist"
 author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
-
+lastmod: 2026-07-07
 ---
 Most business owners spend years building something valuable, then give away a significant chunk of that value in the final six months before the sale. I've watched it happen more times than I'd like to admit. A seller gets an offer, gets excited, skips the preparation phase, and ends up leaving real money on the table, not because they were careless people, but because they didn't know what buyers actually look for when they open the hood. Selling a business is a completely different skill set than running one. And most people only do it once.
 
@@ -33,7 +33,7 @@ I'll be honest: the valuation conversation is where most sellers get their first
 
 Owners typically anchor their price to what the business means to them, the years invested, the risk they took, the lifestyle it funded. Buyers anchor to something entirely different: transferable earnings, clean documentation, and how much risk they're taking on. Those two starting points are rarely close.
 
-The most common valuation method for small businesses is a multiple of Seller's Discretionary Earnings, or SDE. SDE is essentially your net profit, plus the owner's salary, owner benefits, depreciation, amortization, and any one-time expenses. For most small businesses, buyers pay somewhere between 2x and 4x that number, though the range varies significantly by industry, growth trend, and how dependent the business is on you personally.
+The most common [valuation method for small businesses](/business-valuation-methods/) is a multiple of Seller's Discretionary Earnings, or SDE. SDE is essentially your net profit, plus the owner's salary, owner benefits, depreciation, amortization, and any one-time expenses. For most small businesses, buyers pay somewhere between 2x and 4x that number, though the range varies significantly by industry, growth trend, and how dependent the business is on you personally.
 
 Here's what surprised me: how much the multiple shifts based on factors sellers overlook. A business where you're the key salesperson, the primary relationship with every major client, and the only one who knows how the back-end systems work? That carries a steep discount in a buyer's mind. They're not just buying a business, they're buying a job they don't fully understand yet. A business with documented processes, a capable management layer, and diversified revenue across 10-15 clients? That trades at the higher end of the range.
 
@@ -67,7 +67,7 @@ Month-to-month verbal agreements with clients are a liability in a sale. Written
 
 This is the hard one. Delegate. Promote from within. Let someone else handle the client relationships. Every month you spend doing this before the sale is worth more than almost anything else you can do.
 
-**Step 5: Get a professional valuation.**
+**Step 5: [Get a professional valuation](/business-valuation-methods/).**
 
 Not a back-of-napkin calculation. A formal business valuation from a certified business appraiser or a business broker gives you an independent reference point and strengthens your negotiating position.
 

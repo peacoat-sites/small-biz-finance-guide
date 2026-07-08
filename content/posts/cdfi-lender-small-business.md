@@ -23,7 +23,7 @@ author: "Michael Torres"
 author_slug: "michael-torres"
 author_title: "Small Business Lending Specialist"
 author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
-
+lastmod: 2026-07-07
 ---
 You're sitting across from a loan officer at your local bank, and you've just heard the word "declined." Your credit score isn't perfect. Your business is two years old. You don't have the collateral they're looking for. The officer is polite about it, but the answer is no.
 
@@ -37,7 +37,7 @@ They're not charities. They're not grants. They're real lenders with real underw
 
 The Treasury's CDFI Fund was created in 1994. Today there are more than 1,400 certified CDFIs operating across the country. Some focus on specific geographies: rural Appalachia, inner-city neighborhoods, post-industrial towns. Some focus on specific borrower types: minority-owned businesses, women entrepreneurs, returning citizens trying to rebuild after incarceration. Some lend across the board to anyone who can't get a conventional loan.
 
-I've seen clients come in convinced their only options were a high-interest online lender or a credit card cash advance. When we found the right CDFI for their situation, the difference in terms was significant enough to change their entire business trajectory. The gap between a 24% merchant cash advance and a 12% CDFI term loan isn't just better math. It's the difference between treading water and actually growing.
+I've seen clients come in convinced their only options were a high-interest online lender or a credit card cash advance. When we found the right CDFI for their situation, the difference in terms was significant enough to change their entire business trajectory. The gap between a 24% [merchant cash advance](/merchant-cash-advance-risks/) and a 12% CDFI term loan isn't just better math. It's the difference between treading water and actually growing.
 
 ## How CDFI Loans Differ From Bank Loans
 
@@ -77,7 +77,7 @@ Most guides tell you CDFIs exist but don't tell you how to find a specific one. 
 
 2. **Search Opportunity Finance Network (OFN).** OFN is the national trade association for CDFIs, and their member directory at ofn.org is searchable and current. Many members list their loan products and focus areas directly.
 
-3. **Ask your local SBA district office.** SBA staff often have direct relationships with CDFIs in your area, especially those approved for SBA microloan program partnerships.
+3. **Ask your local SBA district office.** SBA staff often have direct relationships with CDFIs in your area, especially those approved for [SBA microloan program partnerships](/sba-microloan-program/).
 
 4. **Call your city or county economic development office.** Smaller, hyper-local CDFIs don't always have strong online presences. Economic development staff usually know who's active in your market.
 

@@ -23,7 +23,7 @@ author: "Sarah Johnson"
 author_slug: "sarah-johnson"
 author_title: "CPA & Lead Editor"
 author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
-
+lastmod: 2026-07-07
 ---
 You hired your first employee last Tuesday. By Friday, you realized you have absolutely no idea how payroll works. What do you withhold? When do you send the money to the government? What happens if you get it wrong? If that scenario sounds familiar, you're not alone. Payroll is one of the most common places small business owners get tripped up, not because it's impossibly complex, but because nobody ever sat down and explained it clearly. Let's fix that.
 
@@ -38,6 +38,13 @@ That's a lot of moving parts. And it all starts the moment you have your first W
 Independent contractors are a different story. If you pay a 1099 contractor, you don't withhold anything. They handle their own taxes. But misclassifying an employee as a contractor is a serious and expensive mistake. The IRS has clear rules about this, and they audit it. When in doubt, consult a CPA before you make that call.
 
 ## The Tax Obligations You Need to Understand
+
+| Payroll Component | Rate | Who Pays | Notes |
+| --- | --- | --- | --- |
+| Social Security | 12.4% | Split evenly (employer 6.2%, employee 6.2%) | Applied to wages up to annual wage base limit |
+| Medicare | 2.9% | Split evenly (employer 1.45%, employee 1.45%) | Additional 0.9% surtax on high earners (withheld from employee only) |
+| FUTA | 0.6% | Employer only | Effectively 0.6% after state unemployment tax credit in most cases |
+| Federal Income Tax | Varies | Withheld from employee | Based on W-4 form and IRS withholding tables |
 
 > **Helpful resource:** [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

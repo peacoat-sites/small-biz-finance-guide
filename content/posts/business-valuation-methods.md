@@ -23,11 +23,11 @@ author: "David Kim"
 author_slug: "david-kim"
 author_title: "Tax Strategist"
 author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
-
+lastmod: 2026-07-07
 ---
 You just got an offer to buy your business. The number on the table either makes you feel robbed or handed the lottery. The problem? You have no idea which one it is. I've watched owners accept offers 40% below actual value because they never bothered learning valuation. I've also seen owners walk away from genuinely fair deals anchored to a number they'd pulled from nowhere. Both are avoidable. That's what this is for.
 
-Valuation isn't just for exits. You need it when bringing on a partner, seeking a bank loan, raising outside investment, settling a divorce, buying out a co-founder, or doing estate planning. The moment you need a real number and don't have one, you're already behind.
+Valuation isn't just for exits. You need it when bringing on a partner, seeking a bank loan, raising outside investment, settling a divorce, [buying out a co-founder](/business-succession-planning/), or doing estate planning. The moment you need a real number and don't have one, you're already behind.
 
 ---
 
@@ -72,6 +72,15 @@ The market approach is especially useful as a cross-check. If your income approa
 ---
 
 ## The Asset Approach: The Floor, Not the Ceiling
+
+| Valuation Method | Best Use Case | Key Metric | Typical Range/Notes |
+| --- | --- | --- | --- |
+| Seller's Discretionary Earnings (SDE) Multiple | Small businesses, owner-operator dependent | SDE × multiple | 1.5x to 3.5x SDE; varies by industry, growth, and owner dependency |
+| EBITDA Multiple | Larger, more established businesses | EBITDA × multiple | 4x to 7x or higher; typically $1M+ EBITDA |
+| Discounted Cash Flow (DCF) | Formal appraisals, longer-term projections | Projected cash flows discounted to present value | Highly sensitive to discount rate and growth assumptions |
+| Market Approach (Comps) | Cross-check against actual sales | Recent comparable business sale prices | Use as reference range; geography, customer concentration, and lease terms affect comparability |
+| Asset-Based (Book Value) | Balance sheet analysis | Total assets minus liabilities | Often misleads for operating businesses; does not reflect market values |
+| Liquidation Value | Worst-case scenario, floor valuation | Quick-sale proceeds from assets | Lowest valuation; accounts for time pressure and collection risk |
 
 The asset-based approach calculates your business worth based on net assets: total assets minus total liabilities. Two main flavors exist.
 

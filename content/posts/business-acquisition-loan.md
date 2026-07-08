@@ -23,7 +23,7 @@ author: "Michael Torres"
 author_slug: "michael-torres"
 author_title: "Small Business Lending Specialist"
 author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
-
+lastmod: 2026-07-07
 ---
 Most people who want to buy a business think the hard part is finding the right one. I thought that too, until I spent six months watching a client lose a deal he'd been chasing for two years because he didn't understand how acquisition financing actually works before he needed it. The business was solid, the seller was motivated, and my client had decent credit. None of that mattered when the bank came back with a term sheet that required 30% down and a personal guarantee on his house. He walked. The seller sold to someone else.
 
@@ -34,7 +34,7 @@ That's why I'm giving you a real, honest picture of business acquisition loans, 
  <div class="vm-head">Acquisition Loan Comparison by Source</div>
  <div class="vm-body">
  <p class="vm-intro">Different financing sources impose vastly different requirements; this matrix shows what to expect before you start negotiating.</p>
- <table><thead><tr><th>Loan Source</th><th>Typical Down Payment</th><th>Interest Rate Range</th><th>Max Term</th><th>Personal Guarantee</th><th>Time to Funding</th><th>Best Fit Scenario</th></tr></thead><tbody><tr><td>SBA 7(a)</td><td>10–15%</td><td>Prime + 2.25–2.75%</td><td>10 years (goodwill) / 25 years (real estate)</td><td>Required for 20%+ owners</td><td>60–90 days</td><td>Acquiring profitable business under $5M with limited capital</td></tr><tr><td>Conventional Bank Loan</td><td>20–30%</td><td>Prime + 1–3%</td><td>5–7 years typical</td><td>Almost always required</td><td>30–60 days</td><td>Strong buyer financials, faster close needed than SBA allows</td></tr><tr><td>Seller Financing</td><td>10–50% (negotiable)</td><td>6–10% (negotiated)</td><td>3–7 years typical</td><td>Varies by negotiation</td><td>As fast as closing docs allow</td><td>Seller motivated, buyer short on bank-qualifying equity</td></tr><tr><td>Hybrid (SBA + Seller Note)</td><td>5–10% buyer equity</td><td>Blended rate</td><td>Mixed terms</td><td>Required on SBA portion</td><td>75–100 days</td><td>Maximizing leverage when seller will carry 10–15% on standby</td></tr><tr><td>Private Equity / Search Fund Capital</td><td>0% from buyer (but equity dilution)</td><td>Target 20–30% IRR to investors</td><td>3–7 year hold</td><td>Rarely personal; equity at risk</td><td>60–120 days</td><td>Larger deals ($2M+ EBITDA), buyer trades ownership for capital</td></tr></tbody></table>
+ <table><thead><tr><th>Loan Source</th><th>Typical Down Payment</th><th>Interest Rate Range</th><th>Max Term</th><th>Personal Guarantee</th><th>Time to Funding</th><th>Best Fit Scenario</th></tr></thead><tbody><tr><td>SBA 7(a)</td><td>10–15%</td><td>Prime + 2.25–2.75%</td><td>10 years (goodwill) / 25 years (real estate)</td><td>Required for 20%+ owners</td><td>60–90 days</td><td>Acquiring profitable business under $5M with limited capital</td></tr><tr><td>Conventional Bank Loan</td><td>20–30%</td><td>Prime + 1–3%</td><td>5–7 years typical</td><td>Almost always required</td><td>30–60 days</td><td>Strong buyer financials, faster close needed than SBA allows</td></tr><tr><td>[Seller Financing](/how-to-get-a-small-business-loan/)</td><td>10–50% (negotiable)</td><td>6–10% (negotiated)</td><td>3–7 years typical</td><td>Varies by negotiation</td><td>As fast as closing docs allow</td><td>Seller motivated, buyer short on bank-qualifying equity</td></tr><tr><td>Hybrid (SBA + Seller Note)</td><td>5–10% buyer equity</td><td>Blended rate</td><td>Mixed terms</td><td>Required on SBA portion</td><td>75–100 days</td><td>Maximizing leverage when seller will carry 10–15% on standby</td></tr><tr><td>Private Equity / Search Fund Capital</td><td>0% from buyer (but equity dilution)</td><td>Target 20–30% IRR to investors</td><td>3–7 year hold</td><td>Rarely personal; equity at risk</td><td>60–120 days</td><td>Larger deals ($2M+ EBITDA), buyer trades ownership for capital</td></tr></tbody></table>
  <p class="vm-note">Illustrative general information, confirm current figures for your situation.</p>
  </div>
 </div>
@@ -45,7 +45,7 @@ A business acquisition loan is financing you use to purchase an existing company
 
 When you buy an existing business, the lender's math changes. They're looking at the cash flow history of the company you're buying, what tangible assets come with it, your personal finances, and the deal structure. You're not pitching a dream. You're buying something with a track record, which is actually an advantage if you know how to use it.
 
-The most common options are SBA 7(a) loans, conventional bank loans, seller financing, and sometimes a combination of all three. Each carries different risk, timelines, and costs.
+The most common options are [SBA 7(a) loans](/sba-7a-loan-explained/), conventional bank loans, seller financing, and sometimes a combination of all three. Each carries different risk, timelines, and costs.
 
 ## SBA 7(a) Loans: The Default Starting Point for Most Buyers
 
@@ -59,7 +59,7 @@ The timeline is where friction happens. A clean SBA 7(a) deal can close in 60 to
 
 ## Conventional Bank Loans: When They Work and When They Don't
 
-If the business has strong hard assets (equipment, real estate, inventory), a conventional commercial loan might actually beat SBA. The rate could be lower, fees are typically less (SBA charges a guarantee fee that can run 3% or more on larger loans), and you might close faster.
+If the business has strong hard assets (equipment, real estate, inventory), a [conventional commercial loan](/business-loan-interest-rates-comparison/) might actually beat SBA. The rate could be lower, fees are typically less (SBA charges a guarantee fee that can run 3% or more on larger loans), and you might close faster.
 
 The trade-off is the down payment. Without a government guarantee, conventional lenders want more of your money at risk. Expect 20% to 30% down, tighter cash flow requirements, and less flexibility on goodwill. Buying a service business whose main asset is client relationships and the owner's reputation? Conventional financing becomes difficult.
 

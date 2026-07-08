@@ -23,7 +23,7 @@ author: "Michael Torres"
 author_slug: "michael-torres"
 author_title: "Small Business Lending Specialist"
 author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
-
+lastmod: 2026-07-07
 ---
 $25,000. No loan. No debt. No equity traded away. That's what your competitor down the street just got, and they did it by applying for a small business grant.
 
@@ -69,7 +69,7 @@ Eligibility filters aren't obstacles. They're your friend. Don't chase grants yo
 
 **Veteran-owned businesses** have the Hivers and Strivers Angel Fund, the StreetShares Foundation, and state veterans' affairs office grants.
 
-**Rural businesses** often qualify for USDA Rural Development grants targeting agricultural businesses, rural broadband, infrastructure, and rural entrepreneurship.
+**Rural businesses** often qualify for [USDA Rural Development grants](/usda-business-loans-rural/) targeting agricultural businesses, rural broadband, infrastructure, and rural entrepreneurship.
 
 **Specific industries** have their own funding ecosystems. Arts, food systems, education, clean energy, healthcare, each one different. In creative fields, the National Endowment for the Arts administers grants applicable to small arts-adjacent businesses. Sustainable agriculture has the USDA's Sustainable Agriculture Research and Education (SARE) program.
 

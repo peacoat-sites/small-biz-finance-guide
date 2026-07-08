@@ -23,7 +23,7 @@ author: "Rachel Green"
 author_slug: "rachel-green"
 author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
-
+lastmod: 2026-07-07
 ---
 You've got a business idea, a solid plan, and maybe $8,000 in the bank. The bank says no. The credit card limit won't cover what you need. And every SBA loan guide you find online talks about $250,000 minimums and two years of tax returns like you're already a mid-size operation. If that's where you are right now, the SBA Microloan program is probably the most relevant funding option you haven't looked at closely enough.
 
@@ -49,9 +49,17 @@ What you do need is a business plan or at least a clear explanation of what the 
 
 ## Interest Rates, Terms, and the Numbers You Need to Know
 
+| Loan Type | Interest Rate Range | Loan Amount | Best For |
+| --- | --- | --- | --- |
+| SBA Microloan | 8-13% annually | Up to $50,000 | Startups and micro-enterprises with minimal revenue history |
+| Merchant Cash Advance | 50%+ effective annual rate | Varies | High-risk borrowers (not recommended for most) |
+| Business Credit Card | 20-29% annually | Limited by issuer | Short-term working capital |
+| SBA 7(a) Loan | Typically 7-10% annually | Up to $5 million | Established small businesses with proven history |
+| SBA 504 Loan | Typically 5-9% annually | Up to $5 million | Real estate and equipment purchases |
+
 Microloan interest rates run between 8% and 13% annually in most cases, though rates are set by the individual intermediary and can vary. Loan terms max out at six years. The shorter the term and lower the amount, the faster you're back to operating without debt service.
 
-Put that against a merchant cash advance, which can carry an effective annual rate north of 50%, or a business credit card at 20% to 29%. The Microloan isn't cheap money. But it's clean money with a fixed schedule and no surprise fees hiding in the fine print.
+Put that against a [merchant cash advance](/merchant-cash-advance-risks/), which can carry an effective annual rate north of 50%, or a business credit card at 20% to 29%. The Microloan isn't cheap money. But it's clean money with a fixed schedule and no surprise fees hiding in the fine print.
 
 Interest paid on business loans is generally deductible for tax purposes. The [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed) is worth bookmarking now. Run the specifics by your CPA before assuming anything, but it's a real cost offset worth understanding.
 
@@ -65,7 +73,7 @@ This is where most guides fail you. They say "find a lender" and leave it at tha
 
 3. **Prepare your documents.** Most intermediaries will want: a business plan or executive summary, personal and business tax returns (one to two years if you have them, not required for true startups), a personal financial statement, a description of how the funds will be used, and any relevant licenses or registrations.
 
-4. **Complete their application.** Each intermediary has its own form and process. Expect it to take longer than a bank's online portal but move faster than a conventional SBA 7(a) loan.
+4. **Complete their application.** Each intermediary has its own form and process. Expect it to take longer than a bank's online portal but move faster than a [conventional SBA 7(a) loan](/sba-7a-loan-explained/).
 
 5. **Attend required training.** Many intermediaries require business training or counseling as part of the deal. Don't resist this. The organizations running these programs often have excellent resources, and some run their own small business development networks.
 

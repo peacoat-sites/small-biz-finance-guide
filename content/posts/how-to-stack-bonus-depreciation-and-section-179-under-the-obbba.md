@@ -12,6 +12,7 @@ author_title: "Small Business Lending Specialist"
 author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
 slug: "how-to-stack-bonus-depreciation-and-section-179-under-the-obbba"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Most small business owners heard the headline: the One Big Beautiful Bill Act brought back 100% bonus depreciation. What they didn't hear was the fine print that could make a real difference in how much of that benefit they actually keep. I've been digging into the details since the IRS dropped Notice 2026-11 in January, and I'll be honest, the strategy here is more nuanced than the press coverage suggests.
 
@@ -32,6 +33,17 @@ Bonus depreciation has no annual dollar cap. It's applied automatically to all q
 What surprised me when I worked through this is how often business owners apply one when they should be using the other, or use both without thinking about the order. The IRS requires Section 179 to be applied first, before bonus depreciation. That sequencing matters a lot in practice.
 
 ## When Section 179 Should Come First
+
+| Feature | Section 179 | Bonus Depreciation |
+| --- | --- | --- |
+| Annual Dollar Cap | $2.56 million (2026) | No annual cap |
+| Phase-out Threshold | $4.09 million | N/A |
+| Can Create NOL | No | Yes (up to 80% of future income) |
+| Asset Selection | Pick and choose | All-or-nothing per asset class |
+| Requires Taxable Income | Yes, cannot exceed business income | No |
+| Applies to Used Property | Yes | Yes (if new to your business) |
+| Applied First | Yes (IRS-required sequencing) | After Section 179 |
+| State Conformity | Varies by state | Non-conforming in CA, NY, NJ, PA |
 
 > **Helpful resource:** [QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

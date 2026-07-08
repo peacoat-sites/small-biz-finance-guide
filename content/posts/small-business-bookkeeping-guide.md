@@ -23,7 +23,7 @@ author: "Rachel Green"
 author_slug: "rachel-green"
 author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
-
+lastmod: 2026-07-07
 ---
 Most small business owners don't realize they have a bookkeeping problem until tax season hits and their accountant sends back a panicked email asking why there are eighteen months of unreconciled bank transactions. I've seen it happen to restaurant owners, freelance designers, contractors, even a dentist with a six-figure practice. The books were a mess, the CPA bill doubled because of cleanup work, and the owner had no real idea whether the business had been profitable for the past year. That's not a tax problem. It's a bookkeeping problem, and it starts long before April.
 
@@ -41,7 +41,7 @@ Bookkeeping isn't optional once you start taking money in. The IRS expects you t
 
 ## Setting Up Your Chart of Accounts the Right Way
 
-The chart of accounts is the skeleton of your entire bookkeeping system. Get it right from the start and everything else becomes easier. Get it wrong and you'll be untangling category errors for years.
+The [chart of accounts](/small-business-accounting-basics/) is the skeleton of your entire bookkeeping system. Get it right from the start and everything else becomes easier. Get it wrong and you'll be untangling category errors for years.
 
 A chart of accounts is simply a list of all the financial "buckets" where transactions get sorted. It breaks into five major categories:
 
@@ -51,13 +51,21 @@ A chart of accounts is simply a list of all the financial "buckets" where transa
 4. **Revenue** - Money coming in from sales or services
 5. **Expenses** - Money going out to operate the business
 
-Most small businesses don't need a complex chart of accounts. A service-based business with 30 to 50 accounts is usually plenty. The mistake I see constantly is over-complicating it. Someone creates 12 different expense categories for marketing, five categories for travel, and then can't figure out why pulling a simple profit and loss report takes an hour. Keep it simple enough that you can actually use it.
+Most small businesses don't need a complex chart of accounts. A service-based business with 30 to 50 accounts is usually plenty. The mistake I see constantly is over-complicating it. Someone creates 12 different expense categories for marketing, five categories for travel, and then can't figure out why pulling a simple [profit and loss report](/how-to-read-a-profit-and-loss-statement-for-small-business/) takes an hour. Keep it simple enough that you can actually use it.
 
-If you're using QuickBooks, Xero, or Wave, these platforms give you a default chart of accounts when you set up. You can customize it, but don't gut the structure entirely. The defaults exist for good reason.
+If you're using [QuickBooks, Xero, or Wave](/quickbooks-vs-xero-for-small-business-accounting/), these platforms give you a default chart of accounts when you set up. You can customize it, but don't gut the structure entirely. The defaults exist for good reason.
 
 Here's something that rarely gets taught: never use "miscellaneous" or "other" as a dumping ground. If you can't figure out what a transaction is, that's a signal you need to understand the purchase better, not hide it.
 
 ## Cash vs. Accrual Accounting: Choosing the Right Method
+
+| Scenario | Cash Basis | Accrual Basis |
+|---|---|---|
+| You invoice a client $5,000 in December, they pay in January | Revenue recorded in January | Revenue recorded in December |
+| You receive a $2,000 supply bill in November, pay in December | Expense recorded in December | Expense recorded in November |
+| Year-end picture | Shows actual cash position | Shows true earnings/obligations |
+| Complexity | Lower | Higher |
+| Best for | Service businesses, sole props | Inventory-based, growing companies |
 
 This is a decision that affects how your entire financial picture looks, and most small business owners pick a method without understanding what they're actually choosing.
 

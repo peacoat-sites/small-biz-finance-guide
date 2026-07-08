@@ -12,6 +12,7 @@ author_title: "CPA & Lead Editor"
 author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
 slug: "the-small-business-tax-cut-act-wants-to-raise-your-qbi-deduction-to-23"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 If you run an LLC, file as an S-corp, or report business income on a Schedule C, there's a bill working its way through Congress right now that could directly affect how much of your income you never pay tax on. Rep. David Kustoff (R-TN) introduced H.R. 8415, the Small Business Tax Cut Act of 2026, on April 21, 2026, with a simple but meaningful goal: push the Section 199A qualified business income deduction from 20% to 23%. It has six House co-sponsors, the backing of the NFIB and the S Corporation Association, and according to analysts at Frazier & Deeter, Republican committee members are calling themselves "optimistic" about broad support. It hasn't passed yet, and there are real hurdles ahead. But if you own a pass-through business, this is the tax proposal you should be watching right now.
 
@@ -19,11 +20,16 @@ If you run an LLC, file as an S-corp, or report business income on a Schedule C,
 
 You might be wondering whether this even applies to you. Here's the short version: if your business income flows through to your personal tax return, which it does for sole proprietors, partnerships, S-corps, and most LLCs, the QBI deduction lets you exclude a portion of that income from federal taxation entirely. You don't have to do anything special to claim it. It just reduces your taxable income.
 
-The deduction started at 20% back in 2018 and was always scheduled to expire after 2025. That uncertainty is over. The One Big Beautiful Bill Act, signed on July 4, 2025 and effective January 1, 2026, made the 20% deduction permanent. The OBBBA also added a $400 minimum deduction for anyone with at least $1,000 of qualified business income, which matters for smaller operations that didn't always see a meaningful benefit. And it widened the phase-in income ranges to $201,750 to $276,750 for single filers (double that for joint filers), up from the tighter 2025 bands. That means more owners are now eligible for the full deduction than were before.
+The deduction started at 20% back in 2018 and was always scheduled to expire after 2025. That uncertainty is over. The [One Big Beautiful Bill Act](/how-the-one-big-beautiful-bill-changes-your-2026-llc-tax-strategy/), signed on July 4, 2025 and effective January 1, 2026, made the 20% deduction permanent. The OBBBA also added a $400 minimum deduction for anyone with at least $1,000 of qualified business income, which matters for smaller operations that didn't always see a meaningful benefit. And it widened the phase-in income ranges to $201,750 to $276,750 for single filers (double that for joint filers), up from the tighter 2025 bands. That means more owners are now eligible for the full deduction than were before.
 
 So if you were worried about the deduction going away, that worry is gone. What H.R. 8415 is proposing is building on that foundation.
 
 ## What a 3-Point Jump Actually Means for Your Bottom Line
+
+| Scenario | QBI Amount | Deduction at 20% | Deduction at 23% | Tax Savings at 24% Rate |
+| --- | --- | --- | --- | --- |
+| Small business | $200,000 | $40,000 | $46,000 | $1,440 |
+| Medium business | $400,000 | $80,000 | $92,000 | $2,880 |
 
 > **Helpful resource:** [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

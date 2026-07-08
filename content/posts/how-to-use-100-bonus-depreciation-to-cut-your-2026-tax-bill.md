@@ -12,6 +12,7 @@ author_title: "Small Business Lending Specialist"
 author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
 slug: "how-to-use-100-bonus-depreciation-to-cut-your-2026-tax-bill"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Most coverage of the One Big Beautiful Bill Act has focused on the income tax rate drama and the debt ceiling politics. The tax provision that will actually move the needle for small business owners got buried in paragraph nine of most articles. That provision: 100% bonus depreciation is back, permanently, and mid-2026 is precisely when you should be acting on it.
 
@@ -24,6 +25,12 @@ The OBBBA reversed all of that. Signed on July 4, 2025, the law permanently rest
 The reason mid-2026 is a critical window: equipment you buy and put into service before December 31, 2026 generates a full first-year deduction on your 2026 tax return. You're not spreading this over five or seven years. You take it all at once, in the year you start using the asset.
 
 ## Bonus Depreciation vs. Section 179: Know Which Tool to Use
+
+| Deduction Type | Rate/Limit | Phase-Out Threshold | Key Advantage |
+| --- | --- | --- | --- |
+| Bonus Depreciation (Section 168(k)) | 100% of asset cost | N/A | Can create net operating loss; applies automatically to qualifying property |
+| Section 179 Expensing (2026) | Up to $2,560,000 | $4,090,000 equipment spend | Capped by taxable income; elective; recognized by most states |
+| Section 179 Phase-Out | N/A | Disappears around $6,650,000 | Dollar-for-dollar reduction above threshold |
 
 > **Helpful resource:** [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

@@ -12,6 +12,7 @@ author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
 slug: "the-new-2000-1099-threshold-what-small-businesses-must-do-now"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 If you've been running your business for more than a few years, you probably have the $600 number burned into your brain. It's the threshold that triggered a 1099 form. It's what you've been tracking, what your bookkeeper flags, what your accounting software was set to catch. For most small business owners, it became automatic. So when I tell you that number changed on January 1, 2026, the first reaction is usually something between relief and mild panic. Relief because less paperwork. Panic because you're not entirely sure what you've changed, what you haven't, and whether you're quietly building a compliance problem for next January's filing season.
 
@@ -38,6 +39,15 @@ Your accounting software almost certainly had a $600 alert trigger built in, and
 The same logic applies to your W-9 collection process. Some business owners use the $600 threshold as the trigger for requesting a W-9 from a new vendor. If your internal policy still says "get a W-9 for anyone you might pay over $600," you can update that to $2,000, though I'd be careful about loosening this too aggressively. There's nothing wrong with collecting W-9s early and often. They don't expire, they don't cost you anything, and having a vendor's tax information on file before you need it is always better than chasing it down in December.
 
 ## The State-Level Wrinkle Most People Are Missing
+
+| Jurisdiction | 1099 Threshold | Notes |
+| --- | --- | --- |
+| Federal (1099-NEC/MISC) | $2,000 | Effective January 1, 2026; indexed for inflation in $100 increments starting 2027 |
+| Massachusetts | $600 | State threshold unchanged |
+| Vermont | $600 | State threshold unchanged |
+| Maryland | $600 | State threshold unchanged |
+| Virginia | $600 | State threshold unchanged |
+| 1099-K (Payment Platforms) | $20,000 and 200 transactions | Separate threshold; applies to PayPal, Venmo, Stripe, etc. |
 
 This is the part of the conversation where business owners usually go quiet for a second, because it catches a lot of people off guard.
 

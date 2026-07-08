@@ -23,7 +23,7 @@ author: "David Kim"
 author_slug: "david-kim"
 author_title: "Tax Strategist"
 author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
-
+lastmod: 2026-07-07
 ---
 A restaurant owner I worked with a few years back almost signed a $94,000 equipment lease for commercial kitchen appliances because the monthly payment "felt manageable." She hadn't read the buyout clause. At the end of a 60-month term, she'd have paid nearly $112,000 total and still wouldn't own the equipment without writing another check. That's the kind of thing nobody warns you about until it's too late.
 
@@ -43,7 +43,7 @@ Equipment financing sounds straightforward. You need a piece of equipment, you d
 
 There are two completely different things that people call "equipment financing," and the confusion between them costs small business owners real money.
 
-The first is an **equipment loan**. You borrow money, you buy the equipment, the equipment itself serves as collateral, and you own it from day one. You make fixed monthly payments over a set term, typically 24 to 84 months, and at the end you have an asset on your balance sheet. Interest rates right now generally run anywhere from around 6% to 20%+ depending on your credit profile, business age, and lender. The equipment depreciates, sure, but you own it.
+The first is an **[equipment loan](/business-acquisition-loan/)**. You borrow money, you buy the equipment, the equipment itself serves as collateral, and you own it from day one. You make fixed monthly payments over a set term, typically 24 to 84 months, and at the end you have an asset on your balance sheet. Interest rates right now generally run anywhere from around 6% to 20%+ depending on your credit profile, business age, and lender. The equipment depreciates, sure, but you own it.
 
 The second is an **equipment lease**. You're not buying anything. You're paying for the right to use the equipment for a set period. At the end, you might return it, renew the lease, or buy it at fair market value or a fixed price, depending on what your contract says. Leases come in two flavors: operating leases (like renting, kept off your balance sheet under older accounting standards, though new FASB rules have changed this) and finance leases, which are closer to ownership in structure.
 

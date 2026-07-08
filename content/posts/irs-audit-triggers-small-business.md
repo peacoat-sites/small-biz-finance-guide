@@ -23,7 +23,7 @@ author: "Michael Torres"
 author_slug: "michael-torres"
 author_title: "Small Business Lending Specialist"
 author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
-
+lastmod: 2026-07-07
 ---
 Most small business owners who get audited didn't do anything wrong. That's the part nobody tells you. They just looked wrong on paper, and that distinction matters enormously.
 
@@ -33,7 +33,7 @@ That's actually good news, because it means most audit triggers are predictable,
 
 ## The Deductions That Wave a Red Flag
 
-Home office deductions are the most over-warned-about trigger in the world, and honestly, the warnings are overblown at this point. What I'd actually watch more carefully is the *ratio* of deductions to income. If your Schedule C shows $95,000 in revenue and $88,000 in deductions, you need spotless documentation. Not because deductions are wrong, but because that ratio looks unusual statistically, and DIF will notice.
+[Home office deductions](/home-office-deduction-rules/) are the most over-warned-about trigger in the world, and honestly, the warnings are overblown at this point. What I'd actually watch more carefully is the *ratio* of deductions to income. If your Schedule C shows $95,000 in revenue and $88,000 in deductions, you need spotless documentation. Not because deductions are wrong, but because that ratio looks unusual statistically, and DIF will notice.
 
 Meals and entertainment is where I see people genuinely create problems for themselves. The Tax Cuts and Jobs Act of 2017 eliminated most entertainment deductions entirely and cut the meals deduction to 50 percent in most cases. I still see business owners deducting 100 percent of every dinner they had with anyone remotely professional. That's an error, not a gray area, and errors cluster. One misclassification often means there are more.
 

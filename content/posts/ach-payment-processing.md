@@ -23,6 +23,7 @@ faqs:
    a: "You don't need a special account type, but you do need a business bank account and you'll likely need to go through an underwriting process with your ACH processor, similar to merchant account approval. Your processor will look at your business type, monthly volume, and sometimes your chargeback/return history."
  - q: "What's the difference between ACH and Zelle for business payments?"
    a: "Zelle moves money almost instantly by pushing between bank accounts, but it's primarily designed for lower-value consumer transactions. ACH handles higher volume, larger amounts, and gives you programmable recurring billing that Zelle doesn't support well. Most processors also offer more robust reporting and reconciliation tools for ACH than Zelle provides."
+lastmod: 2026-07-07
 ---
 
 Most small business owners set up ACH payments the same way they set up their email: they pick whatever's easiest, click through the setup screens, and never think about it again. That's a mistake that quietly costs them money every month.
@@ -46,6 +47,13 @@ As Sara Spivey, a payments industry consultant with over 20 years advising finte
 Check out [ACH processing benchmarks and setup guides on SCORE](https://www.score.org/) to see how other small businesses in your industry are handling payment infrastructure.
 
 ## Why the Fees Are So Different From Credit Cards
+
+| Payment Method | Typical Fee | Fee Type | Settlement Speed |
+| --- | --- | --- | --- |
+| Credit Card | 1.5% - 3.5% | Percentage | 1-3 business days |
+| Wire Transfer | $15 - $50 | Flat | Real-time |
+| ACH | $0.25 - $1.50 | Flat | Same-day or 1-2 business days |
+| ACH (Stripe) | 0.8% (capped at $5) | Percentage | 1-2 business days |
 
 > **Helpful resource:** [The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

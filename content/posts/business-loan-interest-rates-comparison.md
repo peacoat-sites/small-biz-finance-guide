@@ -23,7 +23,7 @@ author: "Michael Torres"
 author_slug: "michael-torres"
 author_title: "Small Business Lending Specialist"
 author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
-
+lastmod: 2026-07-07
 ---
 You just got off a call with your bank. They quoted you an interest rate of 9.5% on a business term loan. Then a friend mentions her online lender offered her 24%. Another business owner in your Facebook group is bragging about his SBA loan at 6.8%. You're staring at three completely different numbers, and you have no idea if any of them are good, bad, or somewhere in between.
 
@@ -51,9 +51,17 @@ Understanding where you fit starts with knowing which product you're actually co
 
 **Business Lines of Credit** are revolving and typically carry higher rates than term loans given the flexible draw structure. Rates here vary widely by lender and your profile.
 
-**Merchant Cash Advances** aren't technically loans, but many business owners treat them like one. They use a "factor rate" instead of an interest rate. A factor rate of 1.3 means you repay $1.30 for every $1.00 borrowed. Translated to an APR, these products can reach triple digits. I've seen clients take these without understanding the true cost, and it rarely ends well. Use them only if you have a very specific, short-term need and you understand exactly what you're paying.
+**[Merchant Cash Advances](/merchant-cash-advance-risks/)** aren't technically loans, but many business owners treat them like one. They use a "factor rate" instead of an interest rate. A factor rate of 1.3 means you repay $1.30 for every $1.00 borrowed. Translated to an APR, these products can reach triple digits. I've seen clients take these without understanding the true cost, and it rarely ends well. Use them only if you have a very specific, short-term need and you understand exactly what you're paying.
 
 ## How to Actually Compare Rates Across Lenders
+
+| Loan Type | Typical APR Range | Speed to Funding | Best For |
+|---|---|---|---|
+| SBA 7(a) Loan | ~10% to 16%+ | 2 to 8 weeks | Established businesses needing long-term capital |
+| Conventional Bank Loan | ~7% to 14% | 1 to 4 weeks | Creditworthy businesses with collateral |
+| Online Business Loan | ~10% to 60%+ | 1 to 3 days | Businesses needing speed over rate |
+| Business Line of Credit | ~8% to 30%+ | 1 to 4 weeks | Flexible, ongoing capital needs |
+| Merchant Cash Advance | 1.2x to 1.5x factor (40% to 150%+ APR equivalent) | Same day to 2 days | Very short-term cash flow only |
 
 This is where most small business owners make mistakes, and honestly I get it. Lenders don't always present costs the same way.
 

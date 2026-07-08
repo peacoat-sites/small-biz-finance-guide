@@ -23,6 +23,7 @@ faqs:
    a: "It's a fee you pay if you pay off the loan early, whether by refinancing or selling the property. Commercial prepayment penalties can be steep. Common structures include a 'step-down' penalty (5% in year one, 4% in year two, etc.) or 'defeasance,' which essentially requires you to substitute Treasury securities for the loan cash flow. Defeasance can cost tens of thousands of dollars and catches people off guard. Know this before you sign."
  - q: "Do I need a separate LLC or entity to get a commercial mortgage?"
    a: "Not strictly required, but most attorneys and accountants will recommend buying commercial property in an LLC or other entity for liability protection. Lenders are generally comfortable lending to LLCs as long as the principal owners provide personal guarantees. This is worth a direct conversation with a CPA and a real estate attorney before you structure the purchase, because it affects your tax treatment and personal liability exposure."
+lastmod: 2026-07-07
 ---
 
 Most business owners I talk to assume a commercial mortgage works roughly like a residential one. Same basic idea, right? You find a property, you apply for a loan, you make monthly payments. That assumption has cost people I know real money, in wasted time, wrong loan structures, and deals that fell apart at the last minute because nobody explained the rules upfront.
@@ -39,7 +40,7 @@ A few concrete differences that catch people off guard:
 
 The loan terms are shorter. Most commercial mortgages run 5 to 20 years, often with a balloon payment at the end. So you might have a 20-year amortization but a 10-year term, which means after 10 years you owe whatever's left and you need to refinance or pay it off. This is standard. It still surprises people.
 
-Down payments are bigger. Expect 20% to 35% down for most conventional commercial loans. SBA 504 loans can get you down to 10%, but there are restrictions on that (more in a minute).
+Down payments are bigger. Expect 20% to 35% down for most conventional commercial loans. [SBA 504 loans](/sba-504-loan-commercial-property/) can get you down to 10%, but there are restrictions on that (more in a minute).
 
 Rates are generally higher than residential rates and float more. As of this year, commercial mortgage rates from conventional lenders are running roughly 6.5% to 9% depending on the property type, your creditworthiness, and the loan structure. That range is wide on purpose because it actually is that variable.
 
@@ -51,6 +52,13 @@ That quote matters. If you're buying a property your business will fully occupy,
 
 ## The Main Loan Types You'll Actually Use
 
+| Loan Type | Down Payment | Term Length | Best For | Key Requirement |
+| --- | --- | --- | --- | --- |
+| Conventional Commercial | 20-35% | 5-20 years | Owner-occupied or investment | 2-3 years business tax returns |
+| SBA 504 | 10% | Fixed-rate CDC portion tied to Treasury | Owner-occupied property | 51% owner-occupied minimum |
+| SBA 7(a) | Flexible | Up to $5 million max | Smaller purchases, mixed-use | Guarantee fee applies |
+| CMBS | Typically 20%+ | Varies | Larger properties, investors | Not recommended for first-time small business owners |
+
 > **Helpful resource:** [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 
@@ -61,7 +69,7 @@ There's a lot of noise about commercial real estate financing options. I'm going
 
 **SBA 504 loans** are the workhorse for owner-occupied commercial real estate. The structure is a little unusual: a bank or credit union covers 50% of the project cost, a Certified Development Company (CDC) covers 40% backed by an SBA debenture, and you bring 10% down. The fixed-rate portion (the CDC piece) is tied to Treasury rates and has been one of the better deals out there for owner-occupied property. The catch is the property must be at least 51% owner-occupied, and the process is slower and more paperwork-heavy than a conventional loan. The SBA's own small business resources page (sba.gov) has the current CDC list and eligibility requirements, but I'd also point you toward the IRS small business tax center for understanding how the loan structure affects your depreciation and interest deductions.
 
-**SBA 7(a) loans** can be used for real estate but are better suited to smaller purchases or mixed-use financing (equipment plus real estate, for example). The max is $5 million, and the terms are flexible, but you'll pay a guarantee fee.
+**[SBA 7(a) loans](/sba-7a-loan-explained/)** can be used for real estate but are better suited to smaller purchases or mixed-use financing (equipment plus real estate, for example). The max is $5 million, and the terms are flexible, but you'll pay a guarantee fee.
 
 **CMBS loans** (Commercial Mortgage-Backed Securities) are for larger properties and investors. If you're a small business owner buying your first commercial property, this probably isn't your path.
 

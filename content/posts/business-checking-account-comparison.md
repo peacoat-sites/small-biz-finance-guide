@@ -23,6 +23,7 @@ faqs:
    a: "Yes, provided the bank or its partner bank is FDIC-insured up to $250,000 per depositor. Verify this before opening. The FDIC's BankFind tool at banks.data.fdic.gov will confirm it in about 30 seconds."
  - q: "Should I have more than one business checking account?"
    a: "For most small businesses, two accounts is the practical sweet spot: one operating account and one tax reserve account. Some business owners add a third for payroll. Beyond that, you're usually creating complexity without proportional benefit unless you have a specific allocation strategy you're actually committed to following."
+lastmod: 2026-07-07
 ---
 
 Most advice on business checking accounts focuses on monthly fees and stops there. That's like buying a car based only on the color. The fee is one line item. The account structure, transaction limits, cash deposit caps, and whether the bank actually picks up the phone when you have a problem, that's where you either save or hemorrhage money over time.
@@ -84,13 +85,23 @@ If you're a service-based business with digital-first revenue, no cash, moderate
 
 If you have cash revenue, need SBA loan access, want overdraft protection with a human on the phone, or are building a relationship for future credit: a traditional bank or credit union wins. Not because the apps are better (they're not) but because the product suite is deeper and the lending relationship matters.
 
-The SBA explicitly works through approved lender networks, and most fintech banks are not SBA-preferred lenders. If an SBA 7(a) loan is in your 3-year plan, you want to build that banking relationship now. The SBA's lender matching tool at sba.gov can help you identify preferred lenders in your area.
+The SBA explicitly works through approved lender networks, and most fintech banks are not SBA-preferred lenders. If an [SBA 7(a) loan](/business-bank-account-requirements/) is in your 3-year plan, you want to build that banking relationship now. The SBA's lender matching tool at sba.gov can help you identify preferred lenders in your area.
 
 One thing I'll add: the FDIC insurance question matters more for fintech accounts than people realize. Mercury holds funds at Choice Financial Group and Evolve Bank. Relay uses Thread Bank. Your money is FDIC-insured through the partner bank, but you're not a direct customer of that bank. In a hypothetical partner bank failure scenario, you'd be a depositor through an intermediary. Most people are fine with this. Worth knowing before you park $400,000 in a Mercury account. (Mercury does offer extended FDIC coverage up to $5 million through sweep programs, which addresses this for larger balances.)
 
 ---
 
 ## The Accounts Worth Knowing, as of June 2026
+
+| Account | Monthly Fee | Cash Deposit | Transaction Limits | Best For |
+|---------|-------------|--------------|--------------------|-----------|
+| Mercury | $0 | Not accepted directly | Unlimited | Digital-first, no cash |
+| Relay | $0 | Not accepted directly | Unlimited | Digital-first, no cash |
+| Novo | $0 | Not accepted directly | Unlimited | Digital-first, no cash |
+| Chase Business Complete Checking | $15 (waivable) | Per-deposit fees apply | Varies | Traditional banking |
+| Bank of America Business Advantage Fundamentals | $16 (waivable) | Per-deposit fees apply | Varies | Traditional banking |
+| Wells Fargo Initiate Business Checking | Varies | $0.30 per $100 over $5,000/month | Varies | Traditional banking |
+| Local Credit Union (example) | $10/month flat | Flat fee up to $50,000 | Up to 200/month | Cash-heavy businesses |
 
 Current as of June 2026, based on publicly posted fee schedules. Always verify before opening.
 

@@ -23,7 +23,7 @@ author: "Michael Torres"
 author_slug: "michael-torres"
 author_title: "Small Business Lending Specialist"
 author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
-
+lastmod: 2026-07-07
 ---
 You hired your first employee on a Tuesday. By Friday, you realized you had no idea what you were supposed to withhold from their paycheck, where to send it, or when. And nobody warned you that missing a payroll tax deposit by even a few days can trigger a penalty from the IRS. I've seen this exact situation derail otherwise healthy small businesses, not because the owner was careless, but because payroll taxes are genuinely complicated and the learning curve arrives at the worst possible moment: right when you're excited about growing your team.
 
@@ -32,6 +32,15 @@ Here's what I want you to know before we go any further. Payroll taxes are not o
 ---
 
 ## What Payroll Taxes Actually Are (And Why There Are So Many of Them)
+
+| Tax Type | Who Pays | Rate/Amount | Frequency | Notes |
+| --- | --- | --- | --- | --- |
+| Federal Income Tax Withholding | Employee | Varies by W-4 | Per paycheck | IRS acts as collection agent |
+| Social Security (FICA) | Employee + Employer | 6.2% each | Per paycheck | Capped at annual wage base |
+| Medicare (FICA) | Employee + Employer | 1.45% each | Per paycheck | No wage cap |
+| Federal Unemployment Tax (FUTA) | Employer only | 6% on first $7,000 | Per employee annually | Effective rate lower with state tax credit |
+| State Income Tax Withholding | Employee | Varies by state | Per paycheck | Depends on state; some states have no income tax |
+| State Unemployment Insurance (SUI) | Employer | Varies by state/industry | Per paycheck | New employer rates adjust over time |
 
 Payroll taxes aren't a single thing. They're a bundle of obligations that kick in the moment you pay an employee, and each piece has its own rate, its own deadline, and sometimes its own form.
 

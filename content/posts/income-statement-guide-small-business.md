@@ -23,7 +23,7 @@ author: "Rachel Green"
 author_slug: "rachel-green"
 author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
-
+lastmod: 2026-07-07
 ---
 Most small business owners I've worked with over the years can tell me their bank balance to the dollar. Ask them what their net profit margin was last quarter, though, and you get a long pause. That gap, right there, is exactly why the income statement exists, and exactly why so many business owners are flying blind without realizing it.
 
@@ -31,7 +31,7 @@ Most small business owners I've worked with over the years can tell me their ban
 
 I'll be honest: the name "income statement" isn't even universally agreed upon. You'll also hear it called a profit and loss statement, a P&L, or a statement of operations. They all refer to the same document. It's a financial report that shows your revenue, your expenses, and what's left over after you subtract one from the other, across a specific period of time. That last part matters: a week, a month, a quarter, a fiscal year. The period is the whole point.
 
-What surprises most people is what it doesn't show. An income statement doesn't tell you how much cash you actually have. It doesn't show what you owe or what's owed to you. Those are the jobs of your cash flow statement and your balance sheet, respectively. The income statement answers one specific question: was your business profitable during this window of time?
+What surprises most people is what it doesn't show. An income statement doesn't tell you how much cash you actually have. It doesn't show what you owe or what's owed to you. Those are the jobs of your [cash flow statement](/cash-flow-statement-explained/) and your balance sheet, respectively. The income statement answers one specific question: was your business profitable during this window of time?
 
 This distinction trips up a lot of entrepreneurs, especially in the early years. A business can show a profit on paper and still run out of cash. A business can burn through reserves while technically posting a loss. The income statement is one lens, not the whole picture, and you need to understand it before you can use it well.
 

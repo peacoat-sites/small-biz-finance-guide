@@ -23,7 +23,7 @@ author: "Amanda Pierce"
 author_slug: "amanda-pierce"
 author_title: "Operations Finance Consultant"
 author_bio: "Amanda Pierce consults with small businesses on the day-to-day money mechanics that make or break them: cash flow, invoicing, and getting paid on time. She has cleaned up the books for dozens of owners. At Small Biz Finance Guide she covers cash flow and operational finance."
-
+lastmod: 2026-07-07
 ---
 You opened your personal checking account last month and spent twenty minutes trying to figure out which Amazon charge was a business supply order and which one was the birthday gift you bought your nephew. If that sounds familiar, you're not alone. And the problem is costing you way more than just time.
 
@@ -47,7 +47,7 @@ You need, at minimum, a dedicated business checking account. Open it under your 
 
 When choosing a bank, think practically:
 
-- **Online business banks** like Relay, Mercury, or Bluevine typically have no monthly fees and good integrations with accounting software. Good for lean early-stage businesses.
+- **Online business banks** like Relay, Mercury, or Bluevine typically have no monthly fees and good integrations with [accounting software](/small-business-accounting-basics/). Good for lean early-stage businesses.
 - **Traditional banks** like Chase or Bank of America offer in-person service and can be useful if you handle cash or need a more established banking relationship for future lending.
 - **Credit unions** sometimes offer better rates and lower fees, and many have dedicated small business services.
 
@@ -58,6 +58,12 @@ You'll also want a dedicated business credit card. A card tied to your EIN (or e
 A business savings account is worth adding once cash flow allows. Keep a reserve there, typically one to three months of operating expenses, separate from your working capital.
 
 ## How to Pay Yourself Correctly
+
+| Business Structure | Payment Method | Tax Forms Required | Key Requirement |
+| --- | --- | --- | --- |
+| Sole Proprietor or Single-Member LLC | Owner's Draw | None (reported on personal 1040) | Document all transfers; avoid random personal spending from business account |
+| S-Corp or C-Corp | W-2 Salary + Distributions | W-2, payroll withholding | Reasonable salary requirement; IRS scrutinizes compensation |
+| Partnership | Draws Against Ownership Share | K-1 (partnership return) | Partnership agreement must specify draw terms and timing |
 
 This is where business owners get confused. You've separated the accounts, but now money needs to move from business to personal. How you do that depends on your business structure.
 
@@ -75,13 +81,13 @@ Opening the right accounts is step one. Keeping them clean is the ongoing work.
 
 ### Step-by-Step: Building a Clean Financial System
 
-1. **Get accounting software.** QuickBooks Self-Employed, Wave (free), or FreshBooks are all solid for small businesses. Connect your business bank account and credit card directly. Transactions import automatically.
+1. **Get accounting software.** [QuickBooks Self-Employed, Wave](/wave-accounting-free-software/) (free), or FreshBooks are all solid for small businesses. Connect your business bank account and credit card directly. Transactions import automatically.
 
 2. **Categorize weekly, not yearly.** Spend 15 minutes every Friday reviewing that week's transactions in your software. Fix any miscategorizations before you forget what a charge was for. Don't let this pile up.
 
 3. **Set a payroll or draw schedule.** Pay yourself on the 1st and 15th, or monthly. Whatever fits your cash flow. The point is consistency. A regular transfer looks intentional. Random withdrawals look like disorganization (or worse, in an audit).
 
-4. **Create a simple expense policy.** Write down what counts as a business expense versus personal. If you work from home, what percentage of your internet bill is business? If you take a client to lunch, what do you need to document? These don't need to be elaborate. A one-page document you actually follow is worth more than a 20-page policy you ignore.
+4. **Create a simple expense policy.** Write down what counts as a [business expense versus personal](/business-expense-categories-guide/). If you work from home, what percentage of your internet bill is business? If you take a client to lunch, what do you need to document? These don't need to be elaborate. A one-page document you actually follow is worth more than a 20-page policy you ignore.
 
 5. **Use a dedicated email for business receipts.** Forward or filter every business purchase confirmation into one folder. Takes 30 seconds and saves hours at tax time.
 

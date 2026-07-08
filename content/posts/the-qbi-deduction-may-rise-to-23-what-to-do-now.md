@@ -12,12 +12,18 @@ author_title: "Operations Finance Consultant"
 author_bio: "Amanda Pierce consults with small businesses on the day-to-day money mechanics that make or break them: cash flow, invoicing, and getting paid on time. She has cleaned up the books for dozens of owners. At Small Biz Finance Guide she covers cash flow and operational finance."
 slug: "the-qbi-deduction-may-rise-to-23-what-to-do-now"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Most coverage of H.R. 8415 reads like a press release. "Deduction goes up, pass-through owners win, stay tuned." That doesn't help you make a decision in June 2026, when the tax year is halfway done and your strategy needs to catch up. Here's what actually matters.
 
 Rep. David Kustoff (R-TN) introduced the Small Business Tax Cut Act in April 2026, proposing to raise the Section 199A qualified business income deduction from 20% to 23%. This sits on top of the One Big Beautiful Bill Act, signed July 4, 2025, which already made the QBI deduction permanent. If H.R. 8415 passes, roughly 33 million pass-through businesses (sole proprietors, S-corps, partnerships, LLCs) get a slightly bigger tax break on qualified income. That 3-percentage-point difference sounds trivial. It's not.
 
 ## What the Math Actually Looks Like
+
+| Income Level | QBI Deduction at 20% | Tax Savings at 20% | QBI Deduction at 23% | Tax Savings at 23% | Difference |
+| --- | --- | --- | --- | --- | --- |
+| $300,000 | $60,000 | $19,200 | $69,000 | $22,080 | ~$2,880 |
+| $500,000 | $100,000 | $32,000 | $115,000 | $36,800 | ~$4,800 |
 
 Run the real numbers. A $300,000 qualified business income generates a $60,000 deduction at 20%, which saves you roughly $19,200 in taxes at a 32% marginal rate. Bump it to 23% and you're deducting $69,000, landing you around $22,080 in savings. That's nearly $3,000 more on the same revenue without changing anything.
 
@@ -31,7 +37,7 @@ Before H.R. 8415 even gets voted on, 2026 already brought meaningful changes wor
 
 That minimum deduction protects newer businesses, part-time entrepreneurs, and anyone in a specified service trade squeezed by the rules. It won't move the needle for high-revenue operations, but if you've been told you don't qualify, revisit that assumption with your CPA.
 
-The 1099-NEC reporting threshold shifted too. You now file for contractors paid $2,000 or more, up from $600. If your accounts payable was built around $600, update it now rather than scrambling in January.
+[The 1099-NEC reporting threshold shifted](/the-new-1099-thresholds-small-business-owners-must-know-in-2026/) too. You now file for contractors paid $2,000 or more, up from $600. If your accounts payable was built around $600, update it now rather than scrambling in January.
 
 ## What "Gaining Momentum" Actually Means Legislatively
 

@@ -23,7 +23,7 @@ author: "Amanda Pierce"
 author_slug: "amanda-pierce"
 author_title: "Operations Finance Consultant"
 author_bio: "Amanda Pierce consults with small businesses on the day-to-day money mechanics that make or break them: cash flow, invoicing, and getting paid on time. She has cleaned up the books for dozens of owners. At Small Biz Finance Guide she covers cash flow and operational finance."
-
+lastmod: 2026-07-07
 ---
 If you're running a business in a small town or rural community, you've probably hit a wall that urban entrepreneurs rarely think about. The bank is 45 minutes away. The SBA lender you called doesn't work in your area. And every time you search for funding, the results either don't apply to you or feel impossibly complicated. Here's something that might change that picture: the USDA runs a suite of business loan and grant programs specifically designed for rural areas, and most small business owners have never heard of them.
 
@@ -56,6 +56,18 @@ A helpful resource if you're building financial projections: [Profit First by Mi
 
 ## Loan Sizes, Terms, and What to Expect
 
+| Loan Size | USDA Guarantee % | Maximum Guarantee Amount |
+| --- | --- | --- |
+| Up to $5 million | 80% | $4 million |
+| $5 million to $10 million | 70% | $7 million |
+| Above $10 million | 60% | Varies |
+
+| Loan Purpose | Typical Term |
+| --- | --- |
+| Real estate | Up to 30 years |
+| Equipment | Up to 15 years |
+| Working capital | Up to 7 years |
+
 The B&I program can guarantee loans from relatively modest amounts up to $25 million, though the guarantee percentage decreases as the loan size increases. For loans up to $5 million, the USDA can guarantee up to 80 percent of the loan. From $5 million to $10 million, it drops to 70 percent, and above $10 million, it's 60 percent.
 
 Interest rates are negotiated between you and your lender, not set by the USDA directly. They can be fixed or variable. Repayment terms generally run up to 30 years for real estate, 15 years for equipment, and 7 years for working capital.
@@ -82,7 +94,7 @@ The application process has real teeth to it.
 
 **Step 4: Lender submits to USDA.** Once your lender approves your application internally, they submit a request for the guarantee to the USDA. This review process takes the bulk of the time.
 
-**Step 5: Conditional commitment and closing.** The USDA issues a conditional commitment letter. Your lender and attorney handle the closing documents, similar to a commercial real estate closing.
+**Step 5: Conditional commitment and closing.** The USDA issues a conditional commitment letter. Your lender and attorney handle the closing documents, similar to a [commercial real estate closing](/commercial-mortgage-for-business/).
 
 If you haven't put together a formal business plan before, [Tim Berry's *Lean Business Planning*](https://www.amazon.com/dp/1599186071?tag=contentportfo-20) can help you build projections that actually make sense to a lender without overcomplicating it.
 

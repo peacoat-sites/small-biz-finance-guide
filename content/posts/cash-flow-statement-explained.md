@@ -23,11 +23,11 @@ author: "Sarah Johnson"
 author_slug: "sarah-johnson"
 author_title: "CPA & Lead Editor"
 author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
-
+lastmod: 2026-07-07
 ---
 You can run a profitable business and still bounce a payroll check. I've seen it happen more than once, and it's always the same story: the P&L looks fine, the owner feels fine, and then one Thursday morning the bank account says otherwise. The culprit, almost every time, is that the owner was watching the wrong number. They were watching profit. They should have been watching cash flow.
 
-The cash flow statement is the financial report that tells you the truth your income statement politely avoids.
+The cash flow statement is the financial report that tells you the truth your [income statement](/how-to-read-a-profit-and-loss-statement-for-small-business/) politely avoids.
 
 ## What a Cash Flow Statement Actually Is (and Why It's Not the P&L)
 
@@ -40,6 +40,13 @@ The cash flow statement fixes that gap. It tracks actual cash flowing in and out
 Here's the useful frame: your income statement tells you if you're winning. Your cash flow statement tells you if you can stay on the field to finish the game.
 
 ## The Three Sections and What Each One Reveals
+
+| Section | Key Question It Answers | Healthy Sign |
+|---|---|---|
+| Operating Activities | Is the core business generating cash? | Consistently positive |
+| Investing Activities | What are we spending on long-term assets? | Negative but purposeful |
+| Financing Activities | How are we funding the business? | Not perpetually dependent on debt |
+| Net Change in Cash | Did we end up with more or less cash? | Positive or intentionally managed |
 
 > **Helpful resource:** [QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
@@ -61,7 +68,7 @@ Loans taken, loans paid back, owner draws, equity investments. Borrowed $50,000 
 
 ## How to Read It: A Step-by-Step Walkthrough
 
-You don't need accounting software to understand this. Five minutes and you're through it.
+You don't need [accounting software](/small-business-accounting-basics/) to understand this. Five minutes and you're through it.
 
 **Step 1: Start with net income at the top of the operating section.**
 Pulled straight from your P&L. The "before adjustments" number.

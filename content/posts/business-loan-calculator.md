@@ -18,10 +18,19 @@ faqs:
    a: "Most traditional lenders require a debt service coverage ratio (DSCR) of at least 1.25x, meaning your monthly revenue covers your loan payment 1.25 times over. A ratio below 1.0x means the business cannot service the debt from current revenue."
  - q: "Is a 7-year or 10-year term better for a business loan?"
    a: "Longer terms lower your monthly payment but significantly increase total interest paid. A 10-year term on a $100,000 loan at 8% costs roughly $45,600 in interest vs. about $20,000 on a 5-year term. Choose based on cash flow needs versus total cost."
+lastmod: 2026-07-07
 ---
 Understanding the true cost of a business loan before you sign is one of the most important steps any entrepreneur can take. Whether you are considering an SBA 7(a) loan, a bank term loan, or a merchant cash advance, knowing your monthly payment, total interest burden, and payoff timeline lets you compare offers on a level playing field and negotiate from a position of knowledge.
 
 ## How Business Loan Interest Works
+
+| Loan Type | Typical Term | Key Characteristic | APR Range (Approximate) |
+| --- | --- | --- | --- |
+| SBA 7(a) Loan | 7-10 years | Amortizing, government-backed | Varies by lender |
+| Bank Term Loan | 3-5 years | Amortizing, fixed payments | Varies by lender |
+| Equipment Loan | 3-7 years | Amortizing, secured by asset | Varies by lender |
+| Merchant Cash Advance (MCA) | 6-12 months | Factor rate, daily/weekly repayment | 40%-200%+ (equivalent) |
+| Working Capital Line | Variable | Interest-only or amortizing | Varies by lender |
 
 Traditional business loans use an **amortizing** structure, where each monthly payment covers both interest and a portion of the principal. Early on, most of your payment goes toward interest. As the balance shrinks, more goes toward principal. This is why loan term matters so much: a longer term lowers monthly payments but dramatically increases what you pay over the life of the loan.
 
@@ -44,7 +53,7 @@ The calculator below lets you enter any factor rate and repayment term to see th
 
 ## How to Use These Results
 
-Once you have your monthly payment figure, run it against your current cash flow. A solid rule: your total monthly debt payments (all business loans combined) should not exceed **10–15% of gross monthly revenue** for a stable business. Fast-growing businesses with predictable revenue can handle higher ratios, but you're taking on more risk when revenue dips.
+Once you have your monthly payment figure, run it against your current cash flow. A solid rule: your [total monthly debt payments](/break-even-analysis-explained/) (all business loans combined) should not exceed **10–15% of gross monthly revenue** for a stable business. Fast-growing businesses with predictable revenue can handle higher ratios, but you're taking on more risk when revenue dips.
 
 If the total interest figure looks high, consider making extra principal payments when cash flow allows. Even one extra payment per year on a 5-year loan can cut months off the term and save hundreds in interest.
 

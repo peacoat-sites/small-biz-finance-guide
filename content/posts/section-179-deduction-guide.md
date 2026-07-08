@@ -12,6 +12,7 @@ author_title: "CPA & Lead Editor"
 author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
 slug: "section-179-deduction-guide"
 affiliate_disclosure: true
+lastmod: 2026-07-07
 ---
 Most small business owners hear "Section 179" for the first time from their accountant in December, usually right before they make a panicked equipment purchase they half-regret by February. I've watched this happen more times than I can count. And honestly, the scramble is usually unnecessary, if you understood how this deduction actually works, you'd plan for it in January instead of racing to a dealer lot on December 28th.
 
@@ -22,6 +23,17 @@ Section 179 is a provision in the U.S. tax code that lets you deduct the full pu
 Here's the thing nobody tells you: most business owners don't realize they have a choice. And the ones who do often get the rules wrong.
 
 ## What Actually Qualifies (and What Doesn't)
+
+| Item | Section 179 Eligible? | Key Limitation |
+| --- | --- | --- |
+| Tangible personal property (equipment, machinery) | Yes | Must be used >50% for business; placed in service during tax year |
+| Off-the-shelf software | Yes | Must be placed in service during tax year |
+| Building improvements (HVAC, roofing, fire protection) | Yes | Only certain improvements to non-residential buildings qualify |
+| Vehicles (standard passenger automobile) | Limited | Subject to specific IRS caps on deduction amount |
+| SUVs (GVWR >6,000 lbs) | Yes | Currently ~$28,900 deduction limit |
+| Real property (buildings, land) | No | Not eligible under Section 179 |
+| Property used outside the U.S. | No | Not eligible |
+| Property purchased from related party | No | Not eligible |
 
 The list is broader than most people think, but it has real boundaries.
 
@@ -43,7 +55,7 @@ What this means practically: if your business is in a down year, or if you're a 
 
 You'll file IRS Form 4562 with your tax return. That's where all depreciation and amortization gets reported, and Section 179 goes in Part I.
 
-The practical process: First, confirm the property qualifies and was placed in service during the tax year. Second, calculate your business taxable income to make sure you don't hit the income limitation. Third, decide whether to take the full Section 179 deduction, take a partial amount, or mix it with bonus depreciation. Fourth, complete Form 4562 and attach it to your business return (Schedule C, Form 1065 for a partnership, or Form 1120-S for an S-corp).
+The practical process: First, confirm the property qualifies and was placed in service during the tax year. Second, calculate your business taxable income to make sure you don't hit the income limitation. Third, decide whether to take the full Section 179 deduction, take a partial amount, or mix it with [bonus depreciation](/small-business-tax-deductions/). Fourth, complete Form 4562 and attach it to your business return (Schedule C, Form 1065 for a partnership, or Form 1120-S for an S-corp).
 
 If you use QuickBooks or Xero, you'll still need to manually enter fixed assets and flag them for Section 179 treatment. The software doesn't know what you want unless you tell it. A lot of business owners skip this step and wonder why their numbers look wrong at year-end.
 

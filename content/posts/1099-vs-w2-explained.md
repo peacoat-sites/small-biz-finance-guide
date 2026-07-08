@@ -23,7 +23,7 @@ author: "Sarah Johnson"
 author_slug: "sarah-johnson"
 author_title: "CPA & Lead Editor"
 author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
-
+lastmod: 2026-07-07
 ---
 You hired a web developer last spring. She worked 30 hours a week for four months, used your equipment, followed your schedule, and you paid her a flat rate every two weeks. Come January, you sent her a 1099. Now she's saying you should have been withholding taxes the whole time, and your accountant is giving you a look you don't like.
 
@@ -45,7 +45,7 @@ The difference between a 1099 contractor and a W-2 employee isn't just HR trivia
 
 ## What the Two Classifications Actually Mean
 
-**"You need to incorporate before you can legally work as a 1099 contractor"**: Most people think forming an LLC or corporation is a prerequisite to independent contracting. But the IRS has no incorporation requirement for 1099 work. According to the Small Business Administration, over 27 million self-employed individuals operate as sole proprietors without any business entity, and they're completely compliant. You can file a 1099 as an unincorporated individual, report income on Schedule C, and pay self-employment taxes. Incorporation offers liability protection and potential tax advantages, but it's optional, not mandatory. The misconception costs aspiring entrepreneurs thousands in unnecessary legal fees.
+**"You need to incorporate before you can legally work as a 1099 contractor"**: Most people think forming an LLC or corporation is a prerequisite to independent contracting. But the IRS has no incorporation requirement for 1099 work. According to the [Small Business Administration](/hiring-first-employee-guide/), over 27 million self-employed individuals operate as sole proprietors without any business entity, and they're completely compliant. You can file a 1099 as an unincorporated individual, report income on Schedule C, and pay self-employment taxes. Incorporation offers liability protection and potential tax advantages, but it's optional, not mandatory. The misconception costs aspiring entrepreneurs thousands in unnecessary legal fees.
 
 
 A W-2 employee works directly for your business. You withhold federal and state income taxes from their paycheck. You pay half their Social Security and Medicare taxes (FICA). You handle unemployment taxes. At year's end, you issue a W-2 showing what got withheld.

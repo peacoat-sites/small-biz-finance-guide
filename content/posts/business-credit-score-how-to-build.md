@@ -23,11 +23,17 @@ author: "David Kim"
 author_slug: "david-kim"
 author_title: "Tax Strategist"
 author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
-
+lastmod: 2026-07-07
 ---
 You applied for a small business loan last month. The bank came back and said your business credit score was too low, or worse, they couldn't find one at all. You assumed your solid personal credit would carry you through. It didn't. That's one of the most common gut-punch moments I see entrepreneurs face, and it's entirely preventable if you know how business credit actually works.
 
 ## What Business Credit Is (And Why It's Not Your Personal Score)
+
+| Bureau | Score Range | Reporting Name | Key Detail |
+| --- | --- | --- | --- |
+| Dun & Bradstreet | 0-100 | PAYDEX Score | 80+ signals on-time payment; 90+ for early payment |
+| Experian Business | 0-100 | Intelliscore Plus | Does not map to FICO scale |
+| Equifax Business | Varies | Different range & methodology | Does not map to FICO scale |
 
 Most business owners treat their personal and business finances like one big pile. Understandable, especially early on. But the credit system doesn't see it that way.
 
@@ -51,17 +57,17 @@ Get a dedicated business phone number and a physical business address, even if y
 
 Open a business checking account and use it exclusively for business transactions. This creates a paper trail of your business's cash flow, which matters when applying for credit lines and SBA-backed loans.
 
-Get a D-U-N-S number. This is the unique identifier Dun & Bradstreet uses to track your business. Request one for free at Dun & Bradstreet's website. It can take up to 30 business days, so do this early. Without it, you have no PAYDEX score.
+Get a [D-U-N-S number](/dun-and-bradstreet-duns-number/). This is the unique identifier Dun & Bradstreet uses to track your business. Request one for free at Dun & Bradstreet's website. It can take up to 30 business days, so do this early. Without it, you have no PAYDEX score.
 
 ## How Business Credit Scores Are Actually Built: The Mechanics
 
-Once your foundation is set, scores are built through trade lines. A trade line is any account that reports your payment activity to the business credit bureaus. Here's the critical difference from personal credit: most business accounts do NOT automatically report to the bureaus. You have to seek out vendors and creditors who do.
+Once your foundation is set, scores are built through [trade lines](/trade-credit-for-business/). A trade line is any account that reports your payment activity to the business credit bureaus. Here's the critical difference from personal credit: most business accounts do NOT automatically report to the bureaus. You have to seek out vendors and creditors who do.
 
 The easiest entry point is vendor credit, sometimes called "net terms" accounts. These are suppliers who let you buy now and pay in 30, 60, or 90 days. Some report to D&B and other bureaus even when you're brand new with no credit history. Uline (shipping supplies), Quill (office supplies), and Grainger (industrial products) are commonly used. They don't all report to every bureau, and policies change, so verify before applying.
 
 Early on, aim for three to five accounts reporting payment history. Pay every single one early, ideally five days before the due date. On the PAYDEX scale, paying on time gets you an 80. Paying early pushes you toward 90 and above. That distinction matters to lenders.
 
-From vendor credit, you work up to business credit cards. Look for cards that report to the business bureaus, not just personal ones. American Express, Capital One, and Brex are commonly used, though their reporting practices vary by product. Keep utilization low, ideally below 20 to 25 percent of your limit.
+From vendor credit, you work up to [business credit cards](/small-business-credit-card-guide/). Look for cards that report to the business bureaus, not just personal ones. American Express, Capital One, and Brex are commonly used, though their reporting practices vary by product. Keep utilization low, ideally below 20 to 25 percent of your limit.
 
 After six to twelve months of clean payment history across multiple trade lines, a meaningful business credit profile typically emerges. At that point, you can approach lenders for revolving credit lines or equipment financing with a real credit file behind you.
 

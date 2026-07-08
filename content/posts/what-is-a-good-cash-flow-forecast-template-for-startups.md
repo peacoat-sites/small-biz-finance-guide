@@ -23,8 +23,9 @@ faqs:
    a: "Weekly for the 13-week tab. Monthly for the longer-range view. After any significant change (a new contract, a key hire, a delayed payment from a major customer), update immediately. The forecast is only useful if it reflects reality, not the plan you made three months ago."
  - q: "Do investors actually look at cash flow forecasts, or just revenue projections?"
    a: "Both, but a savvy investor cares more about your cash flow model than your revenue model. Revenue projections tell them your ambition. Cash flow projections tell them whether you understand your own business. If your cash flow shows you running out of money six months before you claim to hit breakeven, that's a red flag, regardless of how compelling the revenue story sounds."
+lastmod: 2026-07-07
 ---
-Most cash flow forecast templates online are built for businesses that actually exist. They assume you've got last quarter's numbers handy, some kind of revenue pattern that's stayed consistent, and maybe a bookkeeper who knows what "accounts receivable aging" even means. For a startup? You're looking at either something so stripped-down it's useless or a spreadsheet so complex it'll take three hours to fill and still won't tell you when you run out of money.
+Most cash flow forecast templates online are built for businesses that actually exist. They assume you've got last quarter's numbers handy, some kind of revenue pattern that's stayed consistent, and maybe a bookkeeper who knows what "[accounts receivable aging](/accounts-receivable-management/)" even means. For a startup? You're looking at either something so stripped-down it's useless or a spreadsheet so complex it'll take three hours to fill and still won't tell you when you run out of money.
 
 Here's what actually works.
 
@@ -69,6 +70,14 @@ Here's what I tell founders: build best case, base case, worst case. Not separat
 The [U.S. Small Business Administration](https://www.sba.gov/) has planning resources and a business plan tool with basic cash flow structure. It won't give you a founder-specific template, but it grounds you on how the pieces connect.
 
 ## Where to Get a Template (and What Actually Works)
+
+| Template Option | Type | Best For | Cost |
+| --- | --- | --- | --- |
+| Google Sheets Built-in | Spreadsheet | Existing companies, basic needs | Free |
+| SCORE Cash Flow Template | Spreadsheet | Startups, practical setup | Free |
+| Finmark (Jirav) | SaaS Tool | Founded startups with real complexity | Paid subscription |
+| ProjectionHub | SaaS Tool | Investor-ready financials | $79-$249 |
+| Custom built spreadsheet | Spreadsheet | Full control, custom scenarios | Time investment |
 
 Google Sheets has a few built-in templates under "Business." Better than nothing, but designed for existing companies.
 

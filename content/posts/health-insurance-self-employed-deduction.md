@@ -23,10 +23,11 @@ faqs:
    a: "The deduction is prorated by month. If you were covered under an employer plan through March and then went self-employed in April, you can only deduct premiums from April forward. The months of employer-plan eligibility are excluded even if you weren't enrolled."
  - q: "Does this work the same for an S-corp owner?"
    a: "Not exactly. As a more-than-2% S-corp shareholder, your premiums must be run through payroll and included in your W-2 wages first. Then you deduct them personally on Form 1040. If the premiums aren't on your W-2, you likely lose the deduction. This is worth confirming with your accountant every year, not just once."
+lastmod: 2026-07-07
 ---
 Most self-employed people I talk to are leaving hundreds of dollars on the table every single tax year. Not because they're bad at business. Because nobody told them the self-employed health insurance deduction works differently than almost every other deduction they know.
 
-Here's what I mean. Most deductions live on your Schedule C. They reduce your business income, which in turn reduces your self-employment tax AND your income tax. The health insurance deduction? It only reduces your income tax. It comes off on Schedule 1 of your Form 1040, not Schedule C. That distinction sounds technical, but it has real dollar consequences. And it changes the math on how valuable this deduction actually is for you specifically.
+Here's what I mean. Most deductions live on your Schedule C. They reduce your business income, which in turn reduces your [self-employment tax](/how-to-calculate-quarterly-estimated-taxes-for-self-employed/) AND your income tax. The health insurance deduction? It only reduces your income tax. It comes off on Schedule 1 of your Form 1040, not Schedule C. That distinction sounds technical, but it has real dollar consequences. And it changes the math on how valuable this deduction actually is for you specifically.
 
 I didn't fully appreciate how many nuances were packed into this one deduction until a client of mine, a freelance graphic designer who'd been self-employed for six years, showed me three years of returns prepared by a well-meaning but overworked tax preparer. She was deducting her premiums. Great. But she'd been doing it wrong in a way that cost her money. That conversation sent me down a long rabbit hole.
 
@@ -54,7 +55,7 @@ What doesn't qualify: coverage available through a spouse's employer plan. This 
 
 Here's the rule I think is most misunderstood: you can only deduct up to your net profit from self-employment. If your business lost money, or if your health insurance premiums exceed your net profit, your deduction caps at that net profit number.
 
-What surprised me when I dug deeper is how the calculation gets circular with a solo 401(k) or SEP-IRA. Your self-employed retirement contribution also reduces your net profit, which affects how much health insurance you can deduct. The IRS even acknowledges this creates a loop requiring an iterative calculation. There are worksheets in IRS Publication 535 for exactly this reason. Most tax software handles it automatically, but if you're doing this by hand, get the worksheet or hire a CPA who knows it cold.
+What surprised me when I dug deeper is how the calculation gets circular with a [solo 401(k) or SEP-IRA](/qualified-business-income-deduction/). Your self-employed retirement contribution also reduces your net profit, which affects how much health insurance you can deduct. The IRS even acknowledges this creates a loop requiring an iterative calculation. There are worksheets in IRS Publication 535 for exactly this reason. Most tax software handles it automatically, but if you're doing this by hand, get the worksheet or hire a CPA who knows it cold.
 
 For self-employed people with multiple income streams, only the profit from the business under which the insurance is established counts toward the ceiling. You can't blend profits from three different Schedule C businesses to create more deduction room. Sole proprietors, partners, LLC members, and S-corp shareholders get treated slightly differently here, which is exactly why anyone with a more complex structure should see a CPA, not just a chain tax prep store.
 

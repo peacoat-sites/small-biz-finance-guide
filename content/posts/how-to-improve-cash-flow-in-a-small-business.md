@@ -23,7 +23,7 @@ author: "Michael Torres"
 author_slug: "michael-torres"
 author_title: "Small Business Lending Specialist"
 author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
-
+lastmod: 2026-07-07
 ---
 Most cash flow advice stops at "invoice faster and cut costs." That's not wrong, but it's roughly as useful as telling someone with a broken arm to "move it less." Technically correct. Completely misses the point.
 
@@ -45,7 +45,7 @@ So let's talk about what actually moves the needle.
 
 Before you fix anything, you need to know what your cash position looks like 8 to 12 weeks out, not just today. Most small business owners run on gut feel and their checking account balance. That's a recipe for surprises.
 
-Build a rolling cash flow forecast. Nothing fancy required. A simple spreadsheet with expected cash in (by week, by source) and expected cash out (fixed expenses, variable costs, debt payments, taxes) gives you something the bank balance never will: warning time. Six weeks out, you have options. On Tuesday when payroll runs Friday, you don't.
+Build a [rolling cash flow forecast](/what-is-a-good-cash-flow-forecast-template-for-startups/). Nothing fancy required. A simple spreadsheet with expected cash in (by week, by source) and expected cash out (fixed expenses, variable costs, debt payments, taxes) gives you something the bank balance never will: warning time. Six weeks out, you have options. On Tuesday when payroll runs Friday, you don't.
 
 [Profit First by Mike Michalowicz](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=contentportfo-20) *(affiliate link)* won't teach you GAAP accounting, but it introduced a lot of owners to the idea that cash management is a discipline, not a reaction. Worth reading if you've never structured your accounts around cash flow intentionally.
 

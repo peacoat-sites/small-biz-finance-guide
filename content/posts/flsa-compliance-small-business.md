@@ -23,6 +23,7 @@ faqs:
    a: "No. This is non-negotiable under the FLSA. An employee cannot legally waive their right to overtime, even in writing, even if they agree to it willingly. Any such agreement is void."
  - q: "How far back can an employee go when filing a wage claim?"
    a: "Two years for standard violations, three years if the violation is found to be willful. That's why your recordkeeping needs to go back at least that far. If you can't show what someone was paid and when, you're defending a claim with nothing in your hands."
+lastmod: 2026-07-07
 ---
 
 Most business owners I've talked to don't find out they've been misclassifying workers or miscalculating overtime until there's already a problem. An employee files a complaint with the Department of Labor, or they get a letter, or they're talking to a lawyer. That's a painful way to learn about the Fair Labor Standards Act. Let's get ahead of it.
@@ -39,7 +40,7 @@ If someone works set hours you control, uses your equipment, does work that's ce
 
 This is where I'll say something that might push back a little: a lot of small businesses are running misclassified workers right now, confidently. The "we have a signed contractor agreement" defense falls apart in a DOL audit. The agreement is evidence, not a shield.
 
-Beyond contractor vs. employee, there's another classification question: exempt vs. non-exempt. This one catches more people off guard.
+Beyond [contractor vs. employee](/independent-contractor-vs-employee/), there's another classification question: exempt vs. non-exempt. This one catches more people off guard.
 
 Non-exempt employees must receive at least minimum wage and overtime (1.5x their regular rate) for hours over 40 in a workweek. Exempt employees are not entitled to overtime. To qualify for the most common exemption (executive, administrative, or professional), an employee generally has to meet both a duties test AND a salary threshold. Currently, that salary threshold sits at $684 per week ($35,568 annually). You can look up the current figures at the [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed) and through the Department of Labor's Wage and Hour Division, since these thresholds do get adjusted.
 

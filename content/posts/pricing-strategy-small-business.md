@@ -23,7 +23,7 @@ author: "Rachel Green"
 author_slug: "rachel-green"
 author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
-
+lastmod: 2026-07-07
 ---
 Most small business owners set their prices once, early on, usually in a panic, and then never touch them again. I've watched this happen repeatedly. A new owner checks what competitors charge, cuts their rate by 10% to "win business," and treats that number like it's been etched in stone. Two years later they're grinding 60-hour weeks, their costs have climbed, and they can't understand why the business feels like a treadmill. The price was the problem from day one. They just didn't realize it.
 
@@ -73,7 +73,7 @@ Here's a practical framework:
 
 **Step 3: Divide total costs by capacity.** If your monthly costs are $8,000 and you can handle 10 clients per month, your cost-per-client floor is $800. Charge less and you're losing money, period.
 
-**Step 4: Add your profit margin.** Covering costs isn't success, it's just survival. Decide what margin you need to build a real business, reinvest, and have financial stability. A minimum of 20% is reasonable for most service businesses; 30-40% is where you can actually start to breathe.
+**Step 4: [Add your profit margin](/profit-margin-calculation-guide/).** Covering costs isn't success, it's just survival. Decide what margin you need to build a real business, reinvest, and have financial stability. A minimum of 20% is reasonable for most service businesses; 30-40% is where you can actually start to breathe.
 
 **Step 5: Compare to the market, but don't surrender to it.** If your floor is $1,000 per client and most competitors charge $600, you have a positioning problem to solve, not a reason to charge below your actual costs.
 
