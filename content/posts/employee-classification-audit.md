@@ -1,5 +1,5 @@
 ---
-title: "Employee Classification Audit"
+title: "Misclassifying Employees Could Cost Your Business"
 date: 2026-06-28T23:41:34.132089+00:00
 draft: false
 description: "Learn how to conduct an employee classification audit to ensure workers are correctly categorized, avoid legal risks, and maintain compliance with labor laws."
@@ -23,7 +23,7 @@ faqs:
    a: "Potentially, yes, depending on your benefits structure and how long the misclassification ran. This is one of the less-discussed risks. Workers reclassified as employees may have standing to claim retroactive access to health benefits, retirement contributions, or paid leave. A labor attorney should review this alongside your CPA when you're considering reclassification."
  - q: "Does the type of business I run affect my audit risk?"
    a: "Yes, significantly. The IRS has historically focused on industries where contractor misuse is common: construction, trucking, home health care, staffing, and technology services. That doesn't mean other industries are immune, but if you're in one of those sectors, your baseline risk is higher and your documentation needs to be tighter."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most business owners I sit down with don't realize they have a classification problem until someone else finds it for them. That someone is usually the IRS.

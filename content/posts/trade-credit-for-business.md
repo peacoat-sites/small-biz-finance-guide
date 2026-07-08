@@ -1,5 +1,5 @@
 ---
-title: "Trade Credit For Business"
+title: "How Trade Credit Unlocks Cash Flow for Small Businesses"
 date: 2026-06-11T23:10:53.686930+00:00
 draft: false
 description: "Discover how trade credit can boost your business cash flow, build supplier relationships, and fuel growth. Learn types, benefits, and how to qualify today."
@@ -23,7 +23,7 @@ author: "David Kim"
 author_slug: "david-kim"
 author_title: "Tax Strategist"
 author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most business owners stumble onto trade credit by accident. A supplier mentions "net-30 terms" on an invoice, you nod like you understand, and later that night you're quietly googling it. I've had that exact conversation with clients so many times I've lost count.
 

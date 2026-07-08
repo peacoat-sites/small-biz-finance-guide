@@ -1,5 +1,5 @@
 ---
-title: "Small Business Bookkeeping Guide"
+title: "Bookkeeping Basics: Run Your Business Without an Accountant"
 date: 2026-05-27T02:11:21.562241+00:00
 draft: false
 description: "Track your small business finances with confidence. This beginner-friendly bookkeeping guide covers records, expenses, taxes, and tools to keep your business on"
@@ -23,7 +23,7 @@ author: "Rachel Green"
 author_slug: "rachel-green"
 author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most small business owners don't realize they have a bookkeeping problem until tax season hits and their accountant sends back a panicked email asking why there are eighteen months of unreconciled bank transactions. I've seen it happen to restaurant owners, freelance designers, contractors, even a dentist with a six-figure practice. The books were a mess, the CPA bill doubled because of cleanup work, and the owner had no real idea whether the business had been profitable for the past year. That's not a tax problem. It's a bookkeeping problem, and it starts long before April.
 

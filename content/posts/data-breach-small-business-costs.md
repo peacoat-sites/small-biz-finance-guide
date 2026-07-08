@@ -1,5 +1,5 @@
 ---
-title: "Data Breach Small Business Costs"
+title: "What A Data Breach Really Costs Your Small Business"
 date: 2026-07-04T22:40:55.904337+00:00
 draft: false
 description: "Discover the real costs of a data breach for small businesses, from fines and legal fees to lost customers and recovery expenses."

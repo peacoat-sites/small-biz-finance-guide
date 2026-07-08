@@ -1,5 +1,5 @@
 ---
-title: "Qualified Business Income Deduction"
+title: "Maximize Your QBI Deduction: A Small Business Guide"
 date: 2026-06-12T23:06:02.378135+00:00
 draft: false
 description: "Learn how the qualified business income deduction lets eligible self-employed and small business owners deduct up to 20% of QBI to reduce their federal tax bill"
@@ -23,7 +23,7 @@ author: "Amanda Pierce"
 author_slug: "amanda-pierce"
 author_title: "Operations Finance Consultant"
 author_bio: "Amanda Pierce consults with small businesses on the day-to-day money mechanics that make or break them: cash flow, invoicing, and getting paid on time. She has cleaned up the books for dozens of owners. At Small Biz Finance Guide she covers cash flow and operational finance."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most tax advice about the qualified business income deduction starts in the middle. It assumes you already know what it is, skips right past the part where 20% of your income might just disappear from your taxable base, and then spends three paragraphs hedging about whether you qualify. Let me back up.
 

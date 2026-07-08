@@ -1,5 +1,5 @@
 ---
-title: "Business Liability Insurance Guide"
+title: "Protect Your Business: Essential Liability Insurance Policies"
 date: 2026-05-19T04:11:32.869647+00:00
 draft: false
 description: "Comprehensive guide to business liability insurance. Learn coverage types, costs, requirements, and how to choose the right policy for your business needs."
@@ -23,7 +23,7 @@ author: "Sarah Johnson"
 author_slug: "sarah-johnson"
 author_title: "CPA & Lead Editor"
 author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Your catering business is three months old. A guest slips on a wet floor at an event you managed, breaks their wrist, and the medical bills hit $18,000. Then the lawsuit arrives. Without general liability insurance, that $18,000 plus legal fees comes straight out of your pocket, potentially your personal savings if you haven't properly separated your finances. I've watched this destroy businesses that were otherwise doing well.
 

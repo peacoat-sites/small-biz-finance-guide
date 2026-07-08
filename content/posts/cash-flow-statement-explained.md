@@ -1,5 +1,5 @@
 ---
-title: "Cash Flow Statement Explained"
+title: "Why Your Cash Flow Statement Matters More Than Profit"
 date: 2026-05-29T11:07:25.052211+00:00
 draft: false
 description: "Learn what a cash flow statement is, how it works, and why it matters for your business finances. Understand operating, investing, and financing activities easi"
@@ -23,7 +23,7 @@ author: "Sarah Johnson"
 author_slug: "sarah-johnson"
 author_title: "CPA & Lead Editor"
 author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You can run a profitable business and still bounce a payroll check. I've seen it happen more than once, and it's always the same story: the P&L looks fine, the owner feels fine, and then one Thursday morning the bank account says otherwise. The culprit, almost every time, is that the owner was watching the wrong number. They were watching profit. They should have been watching cash flow.
 

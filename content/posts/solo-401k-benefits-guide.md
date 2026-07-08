@@ -1,5 +1,5 @@
 ---
-title: "Solo 401K Benefits Guide"
+title: "Solo 401k: The Self-Employed Retirement Plan That Cuts Taxes"
 date: 2026-06-07T22:47:34.287188+00:00
 draft: false
 description: "Discover the powerful tax advantages and high contribution limits of a Solo 401k plan, helping self-employed individuals maximize retirement savings and grow we"
@@ -23,7 +23,7 @@ author: "Michael Torres"
 author_slug: "michael-torres"
 author_title: "Small Business Lending Specialist"
 author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most small business owners I work with are leaving somewhere between $5,000 and $30,000 a year in tax deductions on the table. Not because they're doing anything wrong. Because nobody told them the Solo 401(k) existed.
 

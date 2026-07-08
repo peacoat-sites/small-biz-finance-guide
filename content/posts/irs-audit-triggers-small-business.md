@@ -1,5 +1,5 @@
 ---
-title: "IRS Audit Triggers Small Business"
+title: "IRS Audit Red Flags Every Small Business Owner Should Know"
 date: 2026-06-11T23:12:40.842659+00:00
 draft: false
 description: "Avoid costly IRS audits by learning the top small business red flags that trigger scrutiny, from excessive deductions to unreported income and filing errors."
@@ -23,7 +23,7 @@ author: "Michael Torres"
 author_slug: "michael-torres"
 author_title: "Small Business Lending Specialist"
 author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most small business owners who get audited didn't do anything wrong. That's the part nobody tells you. They just looked wrong on paper, and that distinction matters enormously.
 

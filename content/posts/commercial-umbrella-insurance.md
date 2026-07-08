@@ -1,5 +1,5 @@
 ---
-title: "Commercial Umbrella Insurance"
+title: "Why Your Business Needs Umbrella Insurance Coverage"
 date: 2026-06-19T22:40:07.731016+00:00
 draft: false
 description: "Commercial umbrella insurance provides extra liability coverage beyond your standard business policies, protecting your company from large claims and lawsuits."
@@ -23,7 +23,7 @@ faqs:
    a: "No. The umbrella requires underlying coverage to exist and be active. It doesn't respond to claims below your underlying policy limits, that's your general liability's job. These policies work together, not as substitutes for each other. I'd recommend consulting a licensed commercial insurance broker and a CPA to make sure your overall coverage structure fits your business structure and tax situation."
  - q: "What's the difference between a commercial umbrella and a personal umbrella policy?"
    a: "A personal umbrella covers your personal liability exposure, your home, personal auto, personal activities. A commercial umbrella sits over your business policies and covers business-related liability. If you're running a business, especially one with employees or client-facing operations, a personal umbrella alone is almost certainly not sufficient. Many carriers won't let commercial claims flow through a personal umbrella anyway."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most small business owners I talk to have [general liability insurance](/business-liability-insurance-guide/) and think they're covered. They're not wrong, exactly. But they're leaving a significant gap open, and it's the kind of gap that doesn't matter until it suddenly matters enormously.

@@ -1,5 +1,5 @@
 ---
-title: "Commercial Mortgage For Business"
+title: "Commercial Mortgages: Your Complete Financing Guide"
 date: 2026-06-27T22:43:06.643347+00:00
 draft: false
 description: "Explore commercial mortgage options for your business. Compare rates, terms, and lenders to secure the right financing for your commercial property purchase."
@@ -23,7 +23,7 @@ faqs:
    a: "It's a fee you pay if you pay off the loan early, whether by refinancing or selling the property. Commercial prepayment penalties can be steep. Common structures include a 'step-down' penalty (5% in year one, 4% in year two, etc.) or 'defeasance,' which essentially requires you to substitute Treasury securities for the loan cash flow. Defeasance can cost tens of thousands of dollars and catches people off guard. Know this before you sign."
  - q: "Do I need a separate LLC or entity to get a commercial mortgage?"
    a: "Not strictly required, but most attorneys and accountants will recommend buying commercial property in an LLC or other entity for liability protection. Lenders are generally comfortable lending to LLCs as long as the principal owners provide personal guarantees. This is worth a direct conversation with a CPA and a real estate attorney before you structure the purchase, because it affects your tax treatment and personal liability exposure."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most business owners I talk to assume a commercial mortgage works roughly like a residential one. Same basic idea, right? You find a property, you apply for a loan, you make monthly payments. That assumption has cost people I know real money, in wasted time, wrong loan structures, and deals that fell apart at the last minute because nobody explained the rules upfront.

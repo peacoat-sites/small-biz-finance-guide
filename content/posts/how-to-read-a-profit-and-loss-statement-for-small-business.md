@@ -1,5 +1,5 @@
 ---
-title: "How To Read A Profit And Loss Statement For Small Business"
+title: "Decode Your P&L Statement: A Guide for Business Owners"
 date: 2026-06-06T22:43:43.012335+00:00
 draft: false
 description: "Learn how to read a profit and loss statement for your small business. Understand revenue, expenses, and net profit to make smarter financial decisions today."

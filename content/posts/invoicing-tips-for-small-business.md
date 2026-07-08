@@ -1,5 +1,5 @@
 ---
-title: "Invoicing Tips For Small Business"
+title: "Invoice Like A Pro: The Small Business Guide"
 date: 2026-05-26T22:40:03.354516+00:00
 draft: false
 description: "Learn practical invoicing tips for small business owners to get paid faster, reduce late payments, and keep cash flow healthy with simple, proven strategies."
@@ -23,7 +23,7 @@ author: "Sarah Johnson"
 author_slug: "sarah-johnson"
 author_title: "CPA & Lead Editor"
 author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
-
+lastmod: 2026-07-08
 ---
 You send the invoice. Then you wait. A week goes by. Then two. You follow up, feeling awkward about it, and the client responds with "Oh, I didn't get that" or "We'll process it next cycle." Meanwhile, your rent is due and your cash flow looks like a heart monitor after a sprint. If you've been in business more than six months, you know this feeling. And the frustrating part is that most of the pain is preventable.
 

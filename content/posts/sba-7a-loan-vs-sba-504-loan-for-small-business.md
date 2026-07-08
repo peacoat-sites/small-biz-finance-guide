@@ -1,5 +1,5 @@
 ---
-title: "SBA 7A Loan Vs SBA 504 Loan For Small Business"
+title: "Which SBA Loan Fits Your Business Best"
 date: 2026-06-03T14:12:17.560812+00:00
 draft: false
 description: "Compare SBA 7a and SBA 504 loans to find the best fit for your small business. Learn key differences in rates, terms, uses, and eligibility requirements."
@@ -23,7 +23,7 @@ author: "Sarah Johnson"
 author_slug: "sarah-johnson"
 author_title: "CPA & Lead Editor"
 author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most business owners walk into an SBA loan conversation knowing two things: the loans exist, and they're supposedly hard to get. That's about where the useful public knowledge ends. The 7(a) and the 504 get lumped together constantly, treated like two flavors of the same thing, and that framing costs people real money.
 

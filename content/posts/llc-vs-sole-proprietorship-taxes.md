@@ -1,5 +1,5 @@
 ---
-title: "LLC Vs Sole Proprietorship Taxes"
+title: "LLC Or Sole Proprietor: Which Cuts Your Tax Bill"
 date: 2026-05-20T16:41:21.898894+00:00
 draft: false
 description: "Compare LLC vs sole proprietorship taxes to find the best structure for your business. Learn how each impacts self-employment tax, deductions, and your bottom l"
@@ -23,7 +23,7 @@ author: "David Kim"
 author_slug: "david-kim"
 author_title: "Tax Strategist"
 author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
-
+lastmod: 2026-07-08
 ---
 Last April you filed taxes as a sole proprietor, watched that self-employment tax line hit 15.3% stacked on top of income tax, and thought: wait, wouldn't an LLC have been cheaper? Maybe a friend told you to "just form one." Maybe you read something online that made it sound bulletproof. The reality's messier, and getting it wrong costs real money either way.
 

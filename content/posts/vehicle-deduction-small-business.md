@@ -1,5 +1,5 @@
 ---
-title: "Vehicle Deduction Small Business"
+title: "Maximize Your Vehicle Write-Off As A Small Business Owner"
 date: 2026-05-26T03:12:22.683704+00:00
 draft: false
 description: "Maximize your small business taxes with vehicle deductions. Learn IRS rules, calculate mileage, and claim depreciation to reduce your tax liability today."
@@ -23,7 +23,7 @@ author: "Sarah Johnson"
 author_slug: "sarah-johnson"
 author_title: "CPA & Lead Editor"
 author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You bought a truck for your business last year, drove it 14,000 miles for client visits and supply runs, and then left the entire deduction on the table because you weren't sure how to claim it. That scenario plays out thousands of times every tax season. Vehicle deductions are one of the most valuable and most misunderstood write-offs available to small business owners, and getting them wrong costs real money in both directions: either you underclaim and overpay, or you overclaim and invite an audit.
 

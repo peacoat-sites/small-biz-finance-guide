@@ -1,5 +1,5 @@
 ---
-title: "SBA 7A Loan Explained"
+title: "How SBA 7a Loans Work For Small Business"
 date: 2026-05-18T02:45:12.299619+00:00
 draft: false
 description: "Learn how the SBA 7a loan works, who qualifies, how much you can borrow, and how to apply. Find out if this popular small business loan is right for you."
@@ -23,7 +23,7 @@ author: "Amanda Pierce"
 author_slug: "amanda-pierce"
 author_title: "Operations Finance Consultant"
 author_bio: "Amanda Pierce consults with small businesses on the day-to-day money mechanics that make or break them: cash flow, invoicing, and getting paid on time. She has cleaned up the books for dozens of owners. At Small Biz Finance Guide she covers cash flow and operational finance."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You walk into a bank asking about a small business loan. The banker smiles, nods, and eventually mentions something called an "SBA 7(a) loan" as if you should already know what that means. Maybe you nod back. Most people do. Then they go home, search the internet, and find articles full of bureaucratic language that explain the program without ever explaining what it actually means for *your* business, *your* bank account, and the decision in front of you right now. That's the gap this article closes.
 

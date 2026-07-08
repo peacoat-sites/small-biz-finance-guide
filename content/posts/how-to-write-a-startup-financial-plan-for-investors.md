@@ -1,5 +1,5 @@
 ---
-title: "How To Write A Startup Financial Plan For Investors"
+title: "The Financial Plan Investors Actually Want To See"
 date: 2026-06-05T22:50:15.040143+00:00
 draft: false
 description: "Learn how to write a startup financial plan that attracts investors. Discover key components, projections, and tips to build a compelling, fundable financial st"

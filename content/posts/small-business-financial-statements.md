@@ -1,5 +1,5 @@
 ---
-title: "Small Business Financial Statements"
+title: "Why Your Financial Statements Don't Match Reality"
 date: 2026-05-24T10:42:58.615109+00:00
 draft: false
 description: "Learn how to read and understand small business financial statements, including balance sheets, income statements, and cash flow reports to track your business "
@@ -23,7 +23,7 @@ author: "Sarah Johnson"
 author_slug: "sarah-johnson"
 author_title: "CPA & Lead Editor"
 author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You got the business running. Customers are coming in, sales are happening, money is moving. But somewhere between the excitement of early momentum and the reality of actually *running* a company, you hit a wall. Your bookkeeper hands you three reports at the end of the month, or your accountant emails a PDF before tax season, and you stare at the numbers feeling like you're reading a foreign language. If that's where you are right now, you're not behind. You're exactly where most small business owners are when they first start taking their finances seriously. The goal here is simple: by the time you finish reading this, those documents won't feel intimidating anymore.
 

@@ -1,5 +1,5 @@
 ---
-title: "Quarterly Estimated Taxes Small Business"
+title: "Stop Underpaying Quarterly Taxes This Year"
 date: 2026-05-28T06:58:35.434952+00:00
 draft: false
 description: "Pay quarterly estimated taxes on time and avoid IRS penalties. Learn how small business owners calculate, schedule, and submit payments to stay compliant year-r"
@@ -23,7 +23,7 @@ author: "Sarah Johnson"
 author_slug: "sarah-johnson"
 author_title: "CPA & Lead Editor"
 author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You get to the end of your first real year running your own business, feeling pretty good about what you've built, and then tax season arrives with a bill you weren't expecting. Not just the tax itself, but a penalty on top of it, because you were supposed to be paying as you went. Nobody told you that. Or maybe somebody mentioned it once and it didn't stick. I've seen this exact scenario knock the confidence out of otherwise sharp business owners who had simply never been self-employed before. Quarterly estimated taxes are one of those things the system assumes you already know, and that assumption costs people real money every year.
 

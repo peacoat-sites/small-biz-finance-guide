@@ -1,5 +1,5 @@
 ---
-title: "Shop Marketplace Small Business"
+title: "Where To Sell Small Business Products Online"
 date: 2026-07-01T22:54:04.361414+00:00
 draft: false
 description: "Discover how the SHOP marketplace helps small businesses offer affordable health insurance to employees and maximize tax credits for your company."
@@ -23,7 +23,7 @@ faqs:
    a: "A private broker can access a wider range of carriers and plans than SHOP typically offers, especially in smaller markets. The tradeoff is that purchasing outside SHOP disqualifies you from the federal tax credit. Run the numbers: if you qualify for a substantial credit, SHOP's plan options may be worth accepting even if they're not your first choice. If your wage profile puts you at a partial or zero credit, a broker often gets you better value."
  - q: "Can I offer employees a choice of plans through SHOP?"
    a: "Yes. The federal SHOP marketplace allows employers to offer employees a choice within a single metal tier (e.g., multiple silver plans from different carriers). Some state exchanges offer similar flexibility. This is one of SHOP's underappreciated features, since traditional small group insurance often locks everyone into a single plan. Check your state exchange rules, as the exact mechanics vary."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most articles about the SHOP Marketplace bury the useful stuff under three paragraphs of cheerful overview. Let me skip that part.

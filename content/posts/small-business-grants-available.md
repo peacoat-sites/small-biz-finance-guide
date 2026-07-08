@@ -1,5 +1,5 @@
 ---
-title: "Small Business Grants Available"
+title: "Funding Your Small Business Without a Bank Loan"
 date: 2026-05-24T04:15:41.602284+00:00
 draft: false
 description: "Discover small business grants available to help fund your venture. Explore free funding options, eligibility requirements, and how to apply for grants today."
@@ -23,7 +23,7 @@ author: "Michael Torres"
 author_slug: "michael-torres"
 author_title: "Small Business Lending Specialist"
 author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 $25,000. No loan. No debt. No equity traded away. That's what your competitor down the street just got, and they did it by applying for a small business grant.
 

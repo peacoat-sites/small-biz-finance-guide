@@ -1,5 +1,5 @@
 ---
-title: "How To Open A Business Bank Account Online For Startup"
+title: "Open Your Startup Bank Account in Minutes Online"
 date: 2026-06-08T23:05:55.521505+00:00
 draft: false
 description: "Learn how to open a business bank account online for your startup with our step-by-step guide covering requirements, top banks, and tips to get approved fast."

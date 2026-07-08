@@ -1,5 +1,5 @@
 ---
-title: "Dun And Bradstreet Duns Number"
+title: "Your DUNS Number Checklist: Get Business Credit Fast"
 date: 2026-06-28T23:44:01.429317+00:00
 draft: false
 description: "Learn what a Dun and Bradstreet DUNS number is, why your business needs one, and how to register for free to build business credit and credibility."
@@ -23,7 +23,7 @@ faqs:
    a: "No. A DUNS number and your D&B business credit profile are entirely separate from your personal credit reports. Registering for one does not trigger any inquiry or change on your personal Equifax, Experian, or TransUnion files. Business credit and personal credit are different systems."
  - q: "Do I need a DUNS number if I'm a sole proprietor?"
    a: "You can get one, and it might help if you're applying for vendor credit accounts or working with corporate clients who check D&B. But if you're a true one-person operation with no employees and you're only working with individual consumers, you probably don't need it yet. Get it when a specific opportunity requires it, not just to have it."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most business owners find out they need a DUNS number the same way: they're mid-application for something important, a government contract, a bank loan, a vendor account, and there's a field that says "DUNS Number" and they have no idea what to put there. I've watched this happen to clients more times than I can count. The frustration is real. You're trying to move fast, and suddenly you're filling out forms on a website that looks like it was designed in 2003, trying to figure out if you already have a number you didn't know about.

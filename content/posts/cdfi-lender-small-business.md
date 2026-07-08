@@ -1,5 +1,5 @@
 ---
-title: "Cdfi Lender Small Business"
+title: "How CDFI Lenders Help Small Businesses Grow"
 date: 2026-05-25T21:52:10.632914+00:00
 draft: false
 description: "Discover how CDFI lenders support small businesses with affordable loans and flexible financing. Learn eligibility requirements, benefits, and how to apply for "
@@ -23,7 +23,7 @@ author: "Michael Torres"
 author_slug: "michael-torres"
 author_title: "Small Business Lending Specialist"
 author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're sitting across from a loan officer at your local bank, and you've just heard the word "declined." Your credit score isn't perfect. Your business is two years old. You don't have the collateral they're looking for. The officer is polite about it, but the answer is no.
 

@@ -1,5 +1,5 @@
 ---
-title: "Experian Business Credit"
+title: "Build Business Credit Without Affecting Personal Credit"
 date: 2026-07-04T22:39:06.041687+00:00
 draft: false
 description: "Learn how Experian business credit works, how to build your score, and why it matters for securing loans, better terms, and business growth."

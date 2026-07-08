@@ -1,5 +1,5 @@
 ---
-title: "How To Separate Business Personal Finances"
+title: "Keep Business and Personal Money Completely Separate"
 date: 2026-05-27T20:05:37.937967+00:00
 draft: false
 description: "Learn how to separate business and personal finances with simple steps. Open a business account, track expenses, and protect your financial health today."
@@ -23,7 +23,7 @@ author: "Amanda Pierce"
 author_slug: "amanda-pierce"
 author_title: "Operations Finance Consultant"
 author_bio: "Amanda Pierce consults with small businesses on the day-to-day money mechanics that make or break them: cash flow, invoicing, and getting paid on time. She has cleaned up the books for dozens of owners. At Small Biz Finance Guide she covers cash flow and operational finance."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You opened your personal checking account last month and spent twenty minutes trying to figure out which Amazon charge was a business supply order and which one was the birthday gift you bought your nephew. If that sounds familiar, you're not alone. And the problem is costing you way more than just time.
 

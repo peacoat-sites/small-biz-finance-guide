@@ -1,5 +1,5 @@
 ---
-title: "Home Office Deduction Rules"
+title: "Home Office Tax Deductions: What You Can Actually Claim"
 date: 2026-05-29T16:31:01.975961+00:00
 draft: false
 description: "Home office deduction rules: Learn how to qualify, calculate expenses, and maximize tax savings with the IRS simplified and regular methods."
@@ -23,7 +23,7 @@ author: "Sarah Johnson"
 author_slug: "sarah-johnson"
 author_title: "CPA & Lead Editor"
 author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You set up a dedicated room in your house for your business two years ago. You've been paying rent, utilities, and internet every single month. But at tax time, your accountant tells you that you've never claimed the home office deduction, and you've been leaving real money on the table. That scenario plays out thousands of times every year. The home office deduction is one of the most misunderstood, most feared, and most underutilized deductions available to self-employed people and small business owners. People either skip it entirely because they're afraid of an audit, or they claim it wrong and create a mess. Let's clear that up.
 

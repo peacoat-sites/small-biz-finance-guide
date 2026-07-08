@@ -1,5 +1,5 @@
 ---
-title: "Small Business Insurance Requirements"
+title: "Insurance Policies Your Small Business Actually Needs"
 date: 2026-05-21T18:17:25.331309+00:00
 draft: false
 description: "Small business insurance requirements vary by industry and location. Learn about liability, workers comp, property insurance and legal obligations for your busi"
@@ -23,7 +23,7 @@ author: "Rachel Green"
 author_slug: "rachel-green"
 author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 A plumber in Ohio gets sued after a pipe repair floods a client's basement. A freelance graphic designer's laptop is stolen from a coffee shop. A retail shop owner's employee slips on a wet floor and breaks a wrist. In each case, the business owner who had the right insurance coverage walked away intact. The one who didn't? They're still paying off the damage years later. Insurance isn't glamorous, but skipping it or getting the wrong kind is one of the fastest ways to destroy a business you've spent years building.
 

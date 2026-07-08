@@ -1,5 +1,5 @@
 ---
-title: "Profit Margin Calculation Guide"
+title: "How to Calculate Profit Margin and Boost Your Bottom Line"
 date: 2026-05-25T14:59:11.705956+00:00
 draft: false
 description: "Learn how to calculate profit margins with our step-by-step guide. Includes formulas, examples, and tips to improve gross, operating, and net profit margins."
@@ -23,7 +23,7 @@ author: "David Kim"
 author_slug: "david-kim"
 author_title: "Tax Strategist"
 author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You just quoted a client $850 for a job, they paid on the spot, and it felt like a win. But by the time you bought materials, drove to the site, paid your helper for three hours, and covered your share of that month's software subscription, you walked away with maybe $90. That's not a margin. That's a near-miss. And if you're running a business where that's happening regularly, you're not really making money, you're just staying busy.
 

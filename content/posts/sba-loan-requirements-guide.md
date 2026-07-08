@@ -1,5 +1,5 @@
 ---
-title: "SBA Loan Requirements Guide"
+title: "What SBA Lenders Actually Look For In Your Application"
 date: 2026-05-21T19:24:20.961064+00:00
 draft: false
 description: "Learn the key SBA loan requirements including credit scores, business eligibility, financials, and documentation needed to secure funding for your small busines"
@@ -23,7 +23,7 @@ author: "Michael Torres"
 author_slug: "michael-torres"
 author_title: "Small Business Lending Specialist"
 author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You fill out the pre-qualification form, wait two weeks, and get back a vague email: "don't quite meet the requirements." No explanation. No roadmap. Just a polite rejection.
 

@@ -1,5 +1,5 @@
 ---
-title: "Business Acquisition Loan"
+title: "How To Qualify For A Business Acquisition Loan"
 date: 2026-06-08T23:04:08.386104+00:00
 draft: false
 description: "Secure funding to buy an existing business with a business acquisition loan. Explore loan types, eligibility requirements, and tips to get approved fast."

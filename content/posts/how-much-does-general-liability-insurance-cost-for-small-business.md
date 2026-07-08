@@ -1,5 +1,5 @@
 ---
-title: "How Much Does General Liability Insurance Cost For Small Business"
+title: "What Small Business Liability Insurance Really Costs"
 date: 2026-06-05T12:21:44.369650+00:00
 draft: false
 description: "Find out how much general liability insurance costs for small businesses. Get average pricing, key cost factors, and tips to help you find the best coverage at "
@@ -23,7 +23,7 @@ author: "Michael Torres"
 author_slug: "michael-torres"
 author_title: "Small Business Lending Specialist"
 author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most small business owners I talk to walk in with a number already locked in their head: "I've heard it's like $500 a year, maybe $1,000 tops." Here's the problem. That assumption doesn't always sink you. But it does often enough that when reality hits, it hits hard.
 

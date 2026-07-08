@@ -1,5 +1,5 @@
 ---
-title: "Pci Compliance Explained"
+title: "PCI Compliance Checklist: What Your Small Business Needs"
 date: 2026-06-21T22:50:33.448815+00:00
 draft: false
 description: "Learn what PCI compliance means, why it matters for businesses handling card payments, and the key steps to meet data security standards."
@@ -23,7 +23,7 @@ faqs:
    a: "Genuinely, yes, and this is an important distinction. PCI DSS sets a minimum standard. You can be technically compliant and still have meaningful security gaps. Compliance is a floor, not a ceiling."
  - q: "My payment processor says I'm covered under their compliance umbrella. Is that true?"
    a: "Partially. Your processor's compliance covers their systems and infrastructure. It doesn't cover your network, devices, physical security, or employee practices. You retain responsibility for the parts of the payment environment you control."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most small business owners I talk to think PCI compliance is an IT problem. Something for their web developer to handle, or a checkbox their payment processor already took care of. I'll be honest: I believed a version of that myself until I sat with a restaurant owner in 2019 whose processor had quietly shifted liability onto him after a card data breach. He owed over $40,000 in fines and card replacement costs. That was the moment I went deep on this topic, and what I found was messier and more important than I'd expected.

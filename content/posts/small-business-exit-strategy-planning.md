@@ -1,5 +1,5 @@
 ---
-title: "Small Business Exit Strategy Planning"
+title: "Plan Your Small Business Exit: A Step-by-Step Guide"
 date: 2026-05-25T09:17:09.916303+00:00
 draft: false
 description: "Plan your small business exit strategy with confidence. Explore key options like selling, merging, or succession planning to maximize value and secure your futu"
@@ -23,7 +23,7 @@ author: "Amanda Pierce"
 author_slug: "amanda-pierce"
 author_title: "Operations Finance Consultant"
 author_bio: "Amanda Pierce consults with small businesses on the day-to-day money mechanics that make or break them: cash flow, invoicing, and getting paid on time. She has cleaned up the books for dozens of owners. At Small Biz Finance Guide she covers cash flow and operational finance."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most business owners spend more time planning their summer vacation than they spend planning how they'll eventually leave their business. That's not a criticism. It's just true. When you're deep in the daily work of running operations, managing cash flow, and keeping customers happy, "exit planning" feels like something you'll get to later. But here's the problem: later usually arrives faster than expected, and without a plan, you often leave significant money on the table, or worse, you end up stuck in a business you're desperate to get out of with no clean way forward.
 

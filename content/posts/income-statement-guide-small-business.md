@@ -1,5 +1,5 @@
 ---
-title: "Income Statement Guide Small Business"
+title: "How to Read Your Income Statement Like a Pro"
 date: 2026-05-29T05:53:21.727812+00:00
 draft: false
 description: "Learn how to read and create an income statement for your small business. Track revenue, expenses, and profit to make smarter financial decisions today."
@@ -23,7 +23,7 @@ author: "Rachel Green"
 author_slug: "rachel-green"
 author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most small business owners I've worked with over the years can tell me their bank balance to the dollar. Ask them what their net profit margin was last quarter, though, and you get a long pause. That gap, right there, is exactly why the income statement exists, and exactly why so many business owners are flying blind without realizing it.
 

@@ -1,5 +1,5 @@
 ---
-title: "How To Set Up Payroll For Small Business First Employee"
+title: "Your First Employee Payroll Checklist: Setup Steps That Work"
 date: 2026-06-04T12:23:19.269828+00:00
 draft: false
 description: "Learn how to set up payroll for your small business first employee with our step-by-step guide covering taxes, forms, and compliance requirements."
@@ -23,7 +23,7 @@ author: "Sarah Johnson"
 author_slug: "sarah-johnson"
 author_title: "CPA & Lead Editor"
 author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
-
+lastmod: 2026-07-08
 ---
 Hiring your first employee is one of the most exciting things you'll do as a business owner. It's also the moment a lot of people quietly panic and open seventeen browser tabs at once.
 

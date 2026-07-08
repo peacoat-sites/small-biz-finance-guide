@@ -1,5 +1,5 @@
 ---
-title: "Reading A Balance Sheet Basics"
+title: "Balance Sheet Basics Every Owner Should Know"
 date: 2026-05-23T19:58:16.613740+00:00
 draft: false
 description: "Learn how to read a balance sheet with this beginner-friendly guide covering assets, liabilities, and equity to help you understand any companys financial healt"
@@ -23,7 +23,7 @@ author: "Rachel Green"
 author_slug: "rachel-green"
 author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You're sitting across from a banker, a potential investor, or maybe just your own accountant, and someone slides a page of numbers in front of you. Three columns, a bunch of line items, totals at the bottom. Everyone in the room assumes you understand it. You nod. You don't fully understand it. I've watched this exact moment happen to smart, capable business owners more times than I can count, and it never has to go that way.
 

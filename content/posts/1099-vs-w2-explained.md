@@ -1,5 +1,5 @@
 ---
-title: "1099 Vs W2 Explained"
+title: "1099 vs W2: Which Status Costs You Less"
 date: 2026-05-21T22:36:34.751192+00:00
 draft: false
 description: "1099 vs W2 explained: Compare independent contractor and employee classifications. Learn tax differences, benefits, deductions, and which status suits you best."
@@ -23,7 +23,7 @@ author: "Sarah Johnson"
 author_slug: "sarah-johnson"
 author_title: "CPA & Lead Editor"
 author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You hired a web developer last spring. She worked 30 hours a week for four months, used your equipment, followed your schedule, and you paid her a flat rate every two weeks. Come January, you sent her a 1099. Now she's saying you should have been withholding taxes the whole time, and your accountant is giving you a look you don't like.
 

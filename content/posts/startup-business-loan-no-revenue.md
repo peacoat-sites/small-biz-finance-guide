@@ -1,5 +1,5 @@
 ---
-title: "Startup Business Loan No Revenue"
+title: "Get Your First Business Loan With Zero Revenue"
 date: 2026-05-21T04:08:32.115251+00:00
 draft: false
 description: "Get a startup business loan with no revenue. Explore top lenders, funding options, and tips to secure financing even before your business generates income."
@@ -23,7 +23,7 @@ author: "Rachel Green"
 author_slug: "rachel-green"
 author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most people assume you need revenue to get a business loan. I used to tell clients the same thing. Then I started actually digging into what lenders are approving right now, and here's what surprised me: the market has shifted, especially for pre-revenue startups who show up prepared. You're not locked out. But you do need to understand what you're actually selling to a lender when you have no sales history.
 

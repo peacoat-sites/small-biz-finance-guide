@@ -1,5 +1,5 @@
 ---
-title: "Business Expense Categories Guide"
+title: "Deduct Everything: The Complete Business Expense Breakdown"
 date: 2026-05-24T07:22:48.129344+00:00
 draft: false
 description: "Track and organize all your business expenses with our comprehensive guide to expense categories. Learn tax deductions, accounting best practices, and more."
@@ -23,7 +23,7 @@ author: "Amanda Pierce"
 author_slug: "amanda-pierce"
 author_title: "Operations Finance Consultant"
 author_bio: "Amanda Pierce consults with small businesses on the day-to-day money mechanics that make or break them: cash flow, invoicing, and getting paid on time. She has cleaned up the books for dozens of owners. At Small Biz Finance Guide she covers cash flow and operational finance."
-
+lastmod: 2026-07-08
 ---
 You're sitting at your kitchen table in early April with a shoebox full of receipts, staring at your laptop, wondering: does that client lunch go under "meals," "marketing," or "entertainment"? The printer ink from Target, is that "office supplies" or "equipment"? And your phone bill, the business portion, where does that live?
 

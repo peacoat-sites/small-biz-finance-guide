@@ -1,5 +1,5 @@
 ---
-title: "Hiring First Employee Guide"
+title: "Your First Hire: A Finance Checklist for Founders"
 date: 2026-05-22T12:54:03.100813+00:00
 draft: false
 description: "Hiring your first employee is a major milestone. Learn essential steps, legal requirements, budgeting tips, and best practices to find and onboard top talent su"

@@ -1,5 +1,5 @@
 ---
-title: "HSA For Self-Employed"
+title: "HSAs for Self-Employed: Your Tax-Free Savings Guide"
 date: 2026-06-24T22:52:14.283364+00:00
 draft: false
 description: "Learn how self-employed workers can open and use an HSA to save on taxes and cover medical costs with pretax dollars."
@@ -23,7 +23,7 @@ faqs:
    a: "Before age 65, yes: you owe income tax plus a 20% penalty on non-qualified withdrawals. After 65, the penalty disappears and you just pay ordinary income tax, same as a traditional IRA distribution. The 20% penalty is steep enough that you shouldn't treat your HSA as an emergency fund."
  - q: "Should I max out my HSA before contributing to a SEP-IRA or Solo 401(k)?"
    a: "Generally, max the HSA first. The contribution limits are lower, the triple-tax advantage is unique, and the break-even math favors the HSA for most people. Then layer in your retirement account on top. That said, if your cash flow is tight and you're choosing between the two, run the numbers with your CPA before deciding, because the right answer depends on your income level, state tax situation, and whether you can cash-flow your medical expenses."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most articles about HSAs for self-employed people spend three paragraphs explaining what an HSA is and then tell you to "consult a tax professional." You already know what an HSA is. What you need to know is whether it actually pencils out for someone without an employer footing half the premium, how to set one up without a $400 accountant call, and where people quietly leave money on the table year after year.

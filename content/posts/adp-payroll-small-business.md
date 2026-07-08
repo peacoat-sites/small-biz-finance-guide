@@ -1,5 +1,5 @@
 ---
-title: "Adp Payroll Small Business"
+title: "ADP Payroll For Small Business: Setup Guide"
 date: 2026-07-06T22:48:19.383280+00:00
 draft: false
 description: "Discover how ADP payroll helps small businesses save time, stay compliant, and pay employees accurately with easy-to-use tools and expert support."

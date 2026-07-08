@@ -1,5 +1,5 @@
 ---
-title: "Cyber Liability Insurance Small Business"
+title: "Cyber Liability Insurance: What Small Businesses Need"
 date: 2026-06-09T23:04:54.658166+00:00
 draft: false
 description: "Protect your small business from costly data breaches and cyberattacks with cyber liability insurance. Compare coverage options, costs, and find the best policy"

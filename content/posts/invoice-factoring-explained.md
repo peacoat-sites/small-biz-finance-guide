@@ -1,5 +1,5 @@
 ---
-title: "Invoice Factoring Explained"
+title: "How Invoice Factoring Helps Small Businesses Get Cash Fast"
 date: 2026-05-22T05:18:02.442507+00:00
 draft: false
 description: "Invoice factoring explained: Learn how businesses sell unpaid invoices for immediate cash, improve cash flow, and understand fees, benefits, and alternatives."
@@ -23,7 +23,7 @@ author: "Amanda Pierce"
 author_slug: "amanda-pierce"
 author_title: "Operations Finance Consultant"
 author_bio: "Amanda Pierce consults with small businesses on the day-to-day money mechanics that make or break them: cash flow, invoicing, and getting paid on time. She has cleaned up the books for dozens of owners. At Small Biz Finance Guide she covers cash flow and operational finance."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You sent the invoice on March 3rd. It's now April 18th. Your client, a legitimate company (not a deadbeat), has a 60-day payment term. So you'll see the money around May 3rd. Meanwhile, your supplier wants payment in 15 days, your part-time contractor expects a check Friday, and your business checking account looks like it's on a diet. This cash flow gap kills otherwise healthy businesses. Invoice factoring exists to solve exactly this, and it's more accessible than most small business owners realize.
 

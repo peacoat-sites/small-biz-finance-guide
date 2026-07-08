@@ -1,5 +1,5 @@
 ---
-title: "Small Business Tax Deductions Checklist 2026"
+title: "Tax Deductions You're Probably Missing on Your Business Return"
 date: 2026-06-18T23:24:51.726972+00:00
 draft: false
 description: "Maximize your savings with our small business tax deductions checklist for 2026. Discover every deduction you qualify for and keep more money."
@@ -23,7 +23,7 @@ faqs:
    a: "No. Sole proprietors filing a Schedule C can take all the same deductions. Your legal entity structure affects liability and, in some cases, the tax rate on your income, but it's not a prerequisite for deducting legitimate business expenses."
  - q: "How do I deduct a business trip that also had personal days mixed in?"
    a: "The transportation costs (airfare, for example) are generally deductible if the primary purpose was business. Lodging and meals for the personal days are not deductible. Keep your meeting calendar, any conference agendas, and be specific in your records about which days were business and which weren't. This one's genuinely fact-specific, so ask your CPA before you file."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most small business tax deduction articles hand you a 47-item checklist with zero context, no priority ranking, and no mention of the documentation you've never actually kept. That's not a checklist. That's asking for trouble.
 

@@ -1,5 +1,5 @@
 ---
-title: "Small Business Accounting Basics"
+title: "Essential Accounting Tasks Every Small Business Needs"
 date: 2026-05-26T13:32:00.329247+00:00
 draft: false
 description: "Learn the essential small business accounting basics, from tracking expenses and managing cash flow to understanding financial statements and staying tax ready."
@@ -23,7 +23,7 @@ author: "Michael Torres"
 author_slug: "michael-torres"
 author_title: "Small Business Lending Specialist"
 author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You opened your business bank account on a Tuesday, landed your first client by Friday, and by the end of the month you have no idea where the money went. Sound familiar? A survey by Clutch found that 60% of small business owners don't feel knowledgeable about accounting or finance. That's not a character flaw. It's a gap in how entrepreneurship gets taught. Most people learn the product, the pitch, the hustle. Nobody hands you a manual for the books.
 

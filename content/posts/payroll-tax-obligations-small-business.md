@@ -1,5 +1,5 @@
 ---
-title: "Payroll Tax Obligations Small Business"
+title: "Payroll Taxes: The Compliance Checklist Every Owner Needs"
 date: 2026-05-26T07:03:11.616242+00:00
 draft: false
 description: "Learn how to manage payroll tax obligations as a small business owner. Discover key deadlines, filing requirements, and tips to stay compliant and avoid costly "
@@ -23,7 +23,7 @@ author: "Michael Torres"
 author_slug: "michael-torres"
 author_title: "Small Business Lending Specialist"
 author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 You hired your first employee on a Tuesday. By Friday, you realized you had no idea what you were supposed to withhold from their paycheck, where to send it, or when. And nobody warned you that missing a payroll tax deposit by even a few days can trigger a penalty from the IRS. I've seen this exact situation derail otherwise healthy small businesses, not because the owner was careless, but because payroll taxes are genuinely complicated and the learning curve arrives at the worst possible moment: right when you're excited about growing your team.
 

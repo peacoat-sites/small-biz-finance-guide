@@ -1,5 +1,5 @@
 ---
-title: "Business Credit Building Tips"
+title: "Build Business Credit Without Personal Guarantees"
 date: 2026-06-22T23:09:13.785896+00:00
 draft: false
 description: "Discover proven business credit building tips to separate personal and business finances, boost your score, and unlock better funding options."
@@ -12,7 +12,7 @@ author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
 slug: "business-credit-building-tips"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most business owners I talk to find out they have no business credit the hard way. They go to apply for a line of credit, or try to get better payment terms with a supplier, and someone on the other end of the phone tells them their business "has no credit profile." That moment is frustrating and a little embarrassing, and it's completely unnecessary, because building business credit isn't complicated. It just requires doing a handful of unglamorous things in the right order.
 

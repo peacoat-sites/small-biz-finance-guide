@@ -1,5 +1,5 @@
 ---
-title: "Business Succession Planning"
+title: "Protect Your Business: The Succession Plan Checklist"
 date: 2026-06-12T23:04:16.572716+00:00
 draft: false
 description: "Ensure your business thrives beyond you with expert succession planning strategies. Learn how to protect assets, retain key talent, and secure a smooth leadersh"
@@ -23,7 +23,7 @@ author: "Rachel Green"
 author_slug: "rachel-green"
 author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most business owners spend twenty years building something and about twenty minutes thinking about what happens to it when they're gone. I was guilty of the same thing early on. I helped a lot of entrepreneurs get their books clean, their cash flow tight, their tax exposure minimal. Succession planning? That was a conversation for later, always later.
 

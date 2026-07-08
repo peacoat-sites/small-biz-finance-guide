@@ -1,5 +1,5 @@
 ---
-title: "Break Even Analysis Explained"
+title: "When Your Business Breaks Even: A Practical Guide"
 date: 2026-05-25T03:53:49.530690+00:00
 draft: false
 description: "Learn what break even analysis is, how to calculate your break even point, and why it matters for making smarter business and pricing decisions."

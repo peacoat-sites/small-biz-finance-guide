@@ -1,5 +1,5 @@
 ---
-title: "SEP IRA Vs Simple IRA"
+title: "Which Retirement Plan Cuts Your Small Business Taxes More?"
 date: 2026-06-10T23:17:07.931802+00:00
 draft: false
 description: "Compare SEP IRA vs SIMPLE IRA to find the best retirement plan for your business. Learn contribution limits, eligibility rules, and key differences to maximize "
@@ -12,7 +12,7 @@ author: "Amanda Pierce"
 author_slug: "amanda-pierce"
 author_title: "Operations Finance Consultant"
 author_bio: "Amanda Pierce consults with small businesses on the day-to-day money mechanics that make or break them: cash flow, invoicing, and getting paid on time. She has cleaned up the books for dozens of owners. At Small Biz Finance Guide she covers cash flow and operational finance."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most articles comparing SEP IRAs and SIMPLE IRAs spend three paragraphs explaining what an IRA is before telling you anything useful. You already know what an IRA is. Let's skip straight to the part that actually matters for your business.
 

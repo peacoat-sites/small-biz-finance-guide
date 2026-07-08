@@ -1,5 +1,5 @@
 ---
-title: "Key Man Insurance Small Business"
+title: "Protect Your Business When Your Best Person Leaves"
 date: 2026-07-05T22:41:14.549644+00:00
 draft: false
 description: "Protect your small business from losing a vital team member. Learn how key man insurance works, what it covers, and why every small business needs it."

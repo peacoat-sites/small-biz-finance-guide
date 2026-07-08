@@ -1,5 +1,5 @@
 ---
-title: "Health Insurance Self-Employed Deduction"
+title: "Health Insurance Deductions Self-Employed Can Claim"
 date: 2026-06-15T23:26:15.140122+00:00
 draft: false
 description: "Learn how self-employed individuals can deduct health insurance premiums to reduce taxable income and save money on their annual tax return."
@@ -23,7 +23,7 @@ faqs:
    a: "The deduction is prorated by month. If you were covered under an employer plan through March and then went self-employed in April, you can only deduct premiums from April forward. The months of employer-plan eligibility are excluded even if you weren't enrolled."
  - q: "Does this work the same for an S-corp owner?"
    a: "Not exactly. As a more-than-2% S-corp shareholder, your premiums must be run through payroll and included in your W-2 wages first. Then you deduct them personally on Form 1040. If the premiums aren't on your W-2, you likely lose the deduction. This is worth confirming with your accountant every year, not just once."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 Most self-employed people I talk to are leaving hundreds of dollars on the table every single tax year. Not because they're bad at business. Because nobody told them the self-employed health insurance deduction works differently than almost every other deduction they know.
 

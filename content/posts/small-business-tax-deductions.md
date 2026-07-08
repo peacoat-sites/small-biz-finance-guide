@@ -1,5 +1,5 @@
 ---
-title: "Small Business Tax Deductions"
+title: "Tax Deductions Your Small Business Might Be Missing"
 date: 2026-05-29T12:02:51.213263+00:00
 draft: false
 description: "Discover the top small business tax deductions you could be claiming to reduce your tax bill and keep more money in your pocket. Start saving today."

@@ -1,5 +1,5 @@
 ---
-title: "Flsa Compliance Small Business"
+title: "Stop Losing Money To Wage And Hour Violations"
 date: 2026-06-24T22:54:27.591444+00:00
 draft: false
 description: "Learn how small businesses can stay FLSA compliant with tips on minimum wage, overtime rules, recordkeeping, and employee classification to avoid costly penalti"
@@ -23,7 +23,7 @@ faqs:
    a: "No. This is non-negotiable under the FLSA. An employee cannot legally waive their right to overtime, even in writing, even if they agree to it willingly. Any such agreement is void."
  - q: "How far back can an employee go when filing a wage claim?"
    a: "Two years for standard violations, three years if the violation is found to be willful. That's why your recordkeeping needs to go back at least that far. If you can't show what someone was paid and when, you're defending a claim with nothing in your hands."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most business owners I've talked to don't find out they've been misclassifying workers or miscalculating overtime until there's already a problem. An employee files a complaint with the Department of Labor, or they get a letter, or they're talking to a lawyer. That's a painful way to learn about the Fair Labor Standards Act. Let's get ahead of it.

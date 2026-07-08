@@ -1,5 +1,5 @@
 ---
-title: "Equipment Financing Explained"
+title: "Equipment Financing for Small Business: Complete Guide"
 date: 2026-06-09T23:06:59.384532+00:00
 draft: false
 description: "Discover how equipment financing works, explore loan and lease options, and learn how to fund essential business tools without draining your cash reserves."

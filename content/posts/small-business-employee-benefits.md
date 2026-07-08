@@ -1,5 +1,5 @@
 ---
-title: "Small Business Employee Benefits"
+title: "Employee Benefits That Actually Work for Small Budgets"
 date: 2026-06-26T22:49:54.200961+00:00
 draft: false
 description: "Discover affordable employee benefits small businesses can offer to attract and retain top talent, from health insurance to flexible work perks."
@@ -23,7 +23,7 @@ faqs:
    a: "Honestly, it depends heavily on your industry and local market. In most U.S. markets, a combination of health coverage (even partial), 10 or more PTO days, and some form of retirement contribution puts you ahead of a large number of small businesses. That's the floor worth targeting before adding anything else."
  - q: "How do I find out what my employees actually want?"
    a: "Ask them. Directly. A short anonymous survey with four or five benefit options and their approximate cost to the employee is more useful than any industry report. Most owners are surprised by the results. Employees often rank things like telecommuting flexibility and clear PTO above perks that cost employers far more."
-lastmod: 2026-07-07
+lastmod: 2026-07-08
 ---
 
 Most articles about small business employee benefits spend 800 words telling you that "benefits help attract talent" before getting to anything useful. You already know that. What you probably don't know is which benefits actually move the needle for small teams, what you can realistically afford before you're profitable, and where most owners waste money offering things their employees don't actually want.

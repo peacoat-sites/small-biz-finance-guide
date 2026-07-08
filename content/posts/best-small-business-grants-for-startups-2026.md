@@ -1,5 +1,5 @@
 ---
-title: "Best Small Business Grants For Startups 2026"
+title: "Funding Your Startup: Grants You Can Actually Win"
 date: 2026-07-03T22:41:56.754246+00:00
 draft: false
 description: "Discover the best small business grants for startups in 2026. Find free funding opportunities to launch and grow your business without repaying a dime."
