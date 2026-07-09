@@ -7,19 +7,19 @@ author_slug: "david-kim"
 author_title: "Tax Strategist"
 author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
 date: 2026-06-28
-lastmod: 2026-07-07
+lastmod: 2026-07-09
 featured_depth: true
 faqs:
- - question: "What's the #1 hidden startup cost?"
-   answer: "Working capital, the cash you need to survive the first 3 months when revenue is zero. It's not a one-time expense; it's the monthly burn rate × 3. Most founders underestimate this by 50%."
- - question: "Can I start a business for under $10,000?"
-   answer: "Yes. Consulting, freelancing, affiliate blogging, and dropshipping can all launch under $10k. But you're bootstrapped, you have zero buffer for mistakes or slow growth."
- - question: "Why does my industry estimate vary so much?"
-   answer: "Because SBA data is national average. Your city, your specific model, and your personal risk tolerance change the number by 20-50%. Use these as starting points, not gospel."
- - question: "Do I really need an LLC if I'm starting solo?"
-   answer: "Maybe. Liability protection (worth it), tax flexibility (depends on your situation), credibility (helps with customers/lenders). Cost is $500-$2,000 + annual maintenance. Run the numbers for your case."
- - question: "When do I break even?"
-   answer: "Depends on your industry. Service businesses: 2-4 months. E-commerce: 3-6 months. Retail: 12-18 months. Manufacturing: 12-24 months. These are medians, yours could be faster or slower depending on execution."
+ - q: "What's the #1 hidden startup cost?"
+   a: "Working capital, the cash you need to survive the first 3 months when revenue is zero. It's not a one-time expense; it's the monthly burn rate × 3. Most founders underestimate this by 50%."
+ - q: "Can I start a business for under $10,000?"
+   a: "Yes. Consulting, freelancing, affiliate blogging, and dropshipping can all launch under $10k. But you're bootstrapped, you have zero buffer for mistakes or slow growth."
+ - q: "Why does my industry estimate vary so much?"
+   a: "Because SBA data is national average. Your city, your specific model, and your personal risk tolerance change the number by 20-50%. Use these as starting points, not gospel."
+ - q: "Do I really need an LLC if I'm starting solo?"
+   a: "Maybe. Liability protection (worth it), tax flexibility (depends on your situation), credibility (helps with customers/lenders). Cost is $500-$2,000 + annual maintenance. Run the numbers for your case."
+ - q: "When do I break even?"
+   a: "Depends on your industry. Service businesses: 2-4 months. E-commerce: 3-6 months. Retail: 12-18 months. Manufacturing: 12-24 months. These are medians, yours could be faster or slower depending on execution."
 categories: ["Business Finance", "Startup Costs", "Business Planning"]
 keywords: ["startup costs by industry", "how much does it cost to start a business", "business startup budget", "small business startup costs"]
 ---
