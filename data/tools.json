@@ -2,38 +2,42 @@
   {
     "label": "Business Structure",
     "url": "/business-structure-comparison/",
-    "icon": "\ud83e\uddee",
+    "icon": "🧮",
     "match": [
       "business",
       "structure"
-    ]
+    ],
+    "desc": "Compare LLC, S-corp, and sole proprietor side by side for your business."
   },
   {
     "label": "Small Business",
     "url": "/small-business-benchmarks/",
-    "icon": "\ud83d\udcc8",
+    "icon": "📈",
     "match": [
       "small",
       "business",
       "benchmarks"
-    ]
+    ],
+    "desc": "Benchmark your revenue and costs against typical businesses in your industry."
   },
   {
     "label": "Llc Vs Scorp Quiz",
     "url": "/llc-vs-scorp-quiz/",
-    "icon": "\ud83e\udded",
+    "icon": "🧭",
     "match": [
       "llc",
       "scorp"
-    ]
+    ],
+    "desc": "Answer a few questions to see whether an LLC or S-corp fits you."
   },
   {
     "label": "SBA Loan Calc",
     "url": "/sba-loan-calculator/",
-    "icon": "\ud83e\uddee",
+    "icon": "🧮",
     "match": [
       "sba",
       "loan"
-    ]
+    ],
+    "desc": "Estimate your SBA loan payments and total cost before you apply."
   }
 ]
