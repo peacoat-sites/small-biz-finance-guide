@@ -5,8 +5,8 @@ date: 2026-01-01
 draft: false
 description: "Compare sole proprietorship, partnership, LLC, S-corp, and C-corp on liability protection, taxes, and setup, so you pick the right structure for your business."
 image: "https://images.pexels.com/photos/3184603/pexels-photo-3184603.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
-author: "Rachel Torres"
-author_slug: "rachel-torres"
+author: "Sarah Johnson"
+author_slug: "sarah-johnson"
 categories: ["structure", "strategy"]
 ---
 

@@ -4,7 +4,8 @@ hide_title: true
 date: 2026-06-10
 description: "Use our free interactive decision wizard to find out whether an LLC or S-Corp election makes more financial sense for your small business."
 categories: ["Business Structure"]
-author: "James Okafor"
+author: "Michael Torres"
+author_slug: "michael-torres"
 slug: "llc-vs-scorp-quiz"
 image: "https://images.pexels.com/photos/3449351/pexels-photo-3449351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
 ---

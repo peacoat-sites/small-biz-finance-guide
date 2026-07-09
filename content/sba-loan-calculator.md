@@ -5,7 +5,8 @@ date: 2026-06-10
 slug: "sba-loan-calculator"
 description: "Calculate monthly payments, SBA guarantee fees, and total borrowing costs for 7(a), 504, and Microloan programs."
 categories: ["Business Financing"]
-author: "James Okafor"
+author: "Rachel Green"
+author_slug: "rachel-green"
 faqs:
   - q: "What are current SBA loan interest rates?"
     a: "SBA 7(a) loan rates are tied to the WSJ Prime Rate plus a spread of 2.25–4.75% depending on loan size and term. As of 2024, typical all-in rates range from 10.5% to 13.5%. The SBA sets maximum rates, but approved lenders can offer lower. Use our calculator above with your quoted rate to see exact payment estimates."
