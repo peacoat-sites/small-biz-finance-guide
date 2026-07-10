@@ -1,0 +1,21 @@
+{
+  "question": "What's your biggest cash-flow headache?",
+  "options": [
+    {
+      "label": "Late-paying clients",
+      "votes": 218
+    },
+    {
+      "label": "Taxes",
+      "votes": 187
+    },
+    {
+      "label": "Seasonal dips",
+      "votes": 134
+    },
+    {
+      "label": "Payroll",
+      "votes": 91
+    }
+  ]
+}
