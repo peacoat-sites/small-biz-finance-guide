@@ -4,7 +4,8 @@ date: 2026-06-10
 slug: "small-business-benchmarks"
 description: "Industry-by-industry profit margins, revenue per employee, and startup costs for 30+ small business types, sourced from SCORE, BizMiner, and RMA data."
 categories: ["Business Finance"]
-author: "James Okafor"
+author: "David Kim"
+author_slug: "david-kim"
 faqs:
   - q: "What is a good profit margin for a small business?"
     a: "A 'good' profit margin depends heavily on industry. Service businesses like consulting and professional services can achieve 25–50% net margins. Food and retail businesses typically run 2–10%. A general benchmark: under 5% net margin is lean (tight cash flow), 5–15% is moderate (sustainable with discipline), above 15% is healthy (reinvestment capacity). Compare against your specific industry, not a universal number."
