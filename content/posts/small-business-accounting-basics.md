@@ -129,14 +129,6 @@ The whole process takes 30-90 minutes per month for most small businesses. It's 
 
 The businesses that survive long-term aren't always the ones with the best product or the biggest marketing budget. They're the ones where the owner actually understands what's happening with the money. You don't need to become an accountant. You need to understand your numbers well enough to make good decisions, spot problems early, and have an honest conversation with the professionals who help you. That starts with getting the basics right, and there's no reason to wait.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20)**
-- **[AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)**
-- **[Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [IRS, Small Business and Self-Employed Tax Center](https://www.irs.gov/businesses/small-businesses-self-employed), Supports IRS record-keeping requirements for small businesses
@@ -149,10 +141,3 @@ The businesses that survive long-term aren't always the ones with the best produ
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.

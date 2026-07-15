@@ -122,23 +122,11 @@ Personal readiness matters too. I've watched clients negotiate themselves out of
 
 The honest truth about exit planning is that it asks you to hold two things at once: total commitment to building something great right now, and enough perspective to know you won't be doing this forever. Those aren't in conflict. The best-run businesses and the most valuable ones are usually the same businesses. Start there, build well, and your exit will take care of itself far more easily than if you try to plan it all at the end.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)**
-- **[The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20)**
-- **[The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20)**
-
-*Photo: [James Thomas](https://www.pexels.com/@digitaljames) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

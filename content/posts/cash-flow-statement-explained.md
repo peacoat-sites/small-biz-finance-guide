@@ -139,23 +139,11 @@ Talk to a CPA before you make major financial decisions based on your statements
 
 The cash flow statement isn't glamorous. Nobody prints it and frames it. But the owners who read it monthly, understand what it's saying, and act early? They're the ones who make it through the rough years. That matters.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20)**
-- **[The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20)**
-- **[Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)**
-
-*Photo: [Bia Limova](https://www.pexels.com/@bia-limova-1908542654) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

@@ -95,14 +95,6 @@ It's available to most business structures: sole proprietors, partnerships, S-co
 
 No, they work differently. Bonus depreciation can create a loss (Section 179 can't), but Section 179 gives you more control over how much you deduct and which assets you apply it to. Many business owners use both in the same year, applied to different assets or layered strategically. The rules here have shifted several times in recent years, so get current guidance before assuming anything.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)**
-- **[Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20)**
-- **[Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [SBA, Tax Benefits for Businesses](https://www.sba.gov/business-guide/manage-your-business/pay-taxes), SBA overview of small business tax deductions
@@ -115,10 +107,3 @@ No, they work differently. Bonus depreciation can create a loss (Section 179 can
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.

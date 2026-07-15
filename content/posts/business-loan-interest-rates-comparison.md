@@ -119,14 +119,6 @@ Consider collateral offers. Securing a loan with business assets or even real es
 
 The honest truth is that the number you see isn't the number that matters most. What matters is what that financing actually costs you in real dollars, how it fits your cash flow, and whether the thing you're funding with it actually generates a return. Do that math first. Then shop for the best rate you can find.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)**
-- **[Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20)**
-- **[AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)**
-
 ---
 
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
@@ -136,11 +128,3 @@ The honest truth is that the number you see isn't the number that matters most. 
 - [SBA, Loan Programs](https://www.sba.gov/funding-programs/loans), SBA loan types and current rate structure info
 - [Federal Reserve, Small Business Credit Survey](https://www.fedsmallbusiness.org/), Data on small business lending rates and approval
 - [CFPB, Small Business Lending](https://www.consumerfinance.gov/compliance/compliance-resources/small-business-lending-resources/), Small business lending regulations and disclosures
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-- **[First-Time Home Buyer: The Complete Playbook](https://www.amazon.com/dp/0997584785/?tag=contentportfo-20)** (~$18), The #1 Amazon bestseller in homebuying, covers down payment strategies, mortgage pre-approval, and avoiding rookie mistakes.

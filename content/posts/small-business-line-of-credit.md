@@ -108,14 +108,6 @@ Letting the balance creep up and only paying minimums is another trap. Unlike a 
 
 Applying when you're already in trouble is the third big mistake. Lenders smell desperation in your financials. A cash flow crisis, a run of overdrafts, three months of declining revenue, these show up in your bank statements and kill applications. The right time to apply is when your business looks healthy. If you want to understand how to build toward that stronger financial position, the [cash flow management guide](/cash-flow-management-guide/) is one of the better places to start.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20)**
-- **[Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20)**
-- **[Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [SBA, Lines of Credit](https://www.sba.gov/funding-programs/loans), explains SBA-backed credit options for small businesses
@@ -128,10 +120,3 @@ Applying when you're already in trouble is the third big mistake. Lenders smell 
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.

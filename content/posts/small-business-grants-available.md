@@ -127,14 +127,6 @@ I've reviewed countless grant applications. The same mistakes keep showing up.
 
 The business owner who gets the grant isn't always the one with the best business. They're the one who researched, matched their application to the right opportunity, and wrote specifically to what the funder cared about. That's learnable. It takes time and honest self-assessment about where your business fits in the funding landscape. But it's not out of reach. Start with one or two real opportunities that match your profile. Build your core documents now. Don't wait for the "perfect" grant. Apply.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20)**
-- **[The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20)**
-- **[AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [SBA, Grants overview](https://www.sba.gov/funding-programs/grants), Federal small business grant programs and eligibility
@@ -147,10 +139,3 @@ The business owner who gets the grant isn't always the one with the best busines
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.

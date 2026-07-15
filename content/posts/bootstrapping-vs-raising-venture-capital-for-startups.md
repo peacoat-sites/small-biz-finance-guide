@@ -83,23 +83,11 @@ Second: what kind of life are you trying to build? This sounds soft. It isn't. I
 
 There's no shame in either answer. The mistake is taking on VC because it feels more legitimate, or staying bootstrapped because you're afraid to ask for money. Both of those are ego decisions dressed up as strategy.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)**
-- **[Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20)**
-- **[The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20)**
-
-*Photo: [Ketut Subiyanto](https://www.pexels.com/@ketut-subiyanto) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

@@ -159,23 +159,11 @@ If you want a solid companion to the basics covered here, [Financial Intelligenc
 
 The balance sheet isn't something to hand off entirely to your accountant and never look at again. It's your business in a single frame. Once you know how to read it, you start seeing things early: the debt that's creeping up, the cash that's tighter than the profit numbers suggest, the equity you've actually built. That knowledge doesn't just help you in a meeting. It changes how you run the business every day.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20)**
-- **[Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)**
-- **[AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)**
-
-*Photo: [Tara Winstead](https://www.pexels.com/@tara-winstead) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

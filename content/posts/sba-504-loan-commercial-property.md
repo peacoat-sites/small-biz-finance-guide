@@ -93,21 +93,11 @@ If you're purely focused on real estate and want that fixed rate protection, 504
 
 The 504 isn't perfect for every situation. Whether these loans actually close in 60 days versus dragging past 90 varies wildly depending on your lender and deal complexity. But for a business owner tired of writing rent checks every month and watching that money vanish, someone with solid cash flow to support ownership, this program deserves a serious look. Get a CPA in early, find a CDC in your area, and run honest numbers. Owning your building might be closer than you think. Before diving into these conversations, something like [Profit First by Mike Michalowicz](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=contentportfo-20) (Amazon, commission may apply) helps you think clearly about cash flow structure before taking on long-term debt.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)**
-- **[Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20)**
-- **[Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)**
-
 ---
 
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

@@ -108,14 +108,6 @@ The [IRS small business tax center](https://www.irs.gov/businesses/small-busines
 
 If you're running a business in a rural area and you've been told no too many times by conventional lenders, the USDA's programs deserve a serious look. They're not the fastest or simplest path to capital, but they exist precisely for situations where other options fall short. Start with your local USDA Rural Development office, which you can find through the USDA's state office directory, and have an honest conversation about whether your project fits. That first call costs nothing, and it might open a door you didn't know was there.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20)**
-- **[Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20)**
-- **[QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20)**
-
 ---
 
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
@@ -128,11 +120,3 @@ If you're running a business in a rural area and you've been told no too many ti
 - [SBA, Rural Lender Advantage](https://www.sba.gov/partners/lenders/7a-loan-program), Context on SBA rural lending partnerships
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-- **[How to Buy Your Perfect First Home](https://www.amazon.com/dp/1731350120/?tag=contentportfo-20)** (~$14), Practical step-by-step guide to qualifying for a mortgage, budgeting correctly, and navigating the full homebuying process.

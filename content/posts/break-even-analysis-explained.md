@@ -141,21 +141,9 @@ The reason a restaurant is one of the most financially punishing business types 
 
 Knowing your break-even number won't save a bad business model, but not knowing it will silently damage a good one. It's twenty minutes of honest math that sharpens every other financial decision you'll make. Pull your cost data, run the formula, and keep that number somewhere you'll actually see it. The floor isn't there to limit you. It's there so you know exactly where you're standing.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20)**
-- **[Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)**
-- **[AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)**
-
-*Photo: [Lukas Blazek](https://www.pexels.com/@goumbik) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
-
-## Recommended Resources
 
 ## Sources
 

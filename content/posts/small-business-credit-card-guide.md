@@ -105,23 +105,11 @@ Getting the card is the easy part. Using it in a way that actually helps your bu
 
 A business credit card is one of the simplest tools available to you, but only when it fits your actual situation and you use it with intention. Take the time to match the card to your spending before you apply, understand what you're agreeing to, and treat it as a cash flow management tool rather than an emergency fund. Get that right, and it becomes one of the most practical financial decisions you'll make for your business.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20)**
-- **[Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20)**
-- **[Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20)**
-
-*Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

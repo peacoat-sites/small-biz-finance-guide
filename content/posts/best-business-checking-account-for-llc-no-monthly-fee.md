@@ -125,14 +125,6 @@ SCORE, the nonprofit mentorship organization for small business owners, offers f
 
 Your LLC's bank account isn't exciting. It's one of the most practical decisions you'll make for your business. Getting a clean, no-fee account open, connected to your bookkeeping, and used consistently is more valuable than a sophisticated financial strategy you don't actually follow. Start simple, stay consistent, and talk to a CPA at least once a year about whether your current setup still makes sense as your business grows. The boring fundamentals are what hold everything else together.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20)**
-- **[The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20)**
-- **[Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [SBA, Choose a business bank account](https://www.sba.gov/business-guide/launch-your-business/open-business-bank-account), Supports need for separate LLC bank account
@@ -146,11 +138,3 @@ Your LLC's bank account isn't exciting. It's one of the most practical decisions
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-- **[QuickBooks Small Business Bookkeeping Guide](https://www.amazon.com/dp/0692957790/?tag=contentportfo-20)** (~$17), Compact, practical QuickBooks pocket guide, ideal for new business owners setting up accounting for the first time.

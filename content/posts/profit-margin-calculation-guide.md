@@ -142,14 +142,6 @@ If you don't yet have a clean system for tracking these numbers monthly, [this a
 
 Profit margin isn't a vanity metric. It's the most honest signal your business can give you about whether what you're building is actually working. Once you start calculating it regularly, you'll find it changes the way you price, hire, spend, and grow. Not because you suddenly became a numbers person, but because you finally have the right question to ask before making a decision: what does this do to my margin?
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)**
-- **[Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20)**
-- **[Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [SBA, Understanding Financial Statements](https://www.sba.gov/business-guide/manage-your-business/manage-your-finances), Explains profit margins and financial management for small businesses
@@ -158,10 +150,3 @@ Profit margin isn't a vanity metric. It's the most honest signal your business c
 *Photo: [Artem Podrez](https://www.pexels.com/@artempodrez) via Pexels*
 
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.

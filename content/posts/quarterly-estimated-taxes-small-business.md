@@ -117,14 +117,6 @@ One thing I always tell new clients: your tax obligation is a function of your s
 
 The quarterly estimated tax system isn't complicated once you've done it a year or two. It becomes routine, like paying rent or invoicing a client. The hard part is the first time, when you're piecing together rules nobody handed you a manual for. If you're in that early stage right now, the most useful thing you can do is run a simple projection, open that dedicated savings account, and put the four due dates in your calendar today. Get a CPA involved if the numbers feel murky or your business structure has layers to it. The IRS has no interest in penalizing people who are genuinely trying to get it right, and paying on time is the most reliable way to stay on their good side.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20)**
-- **[Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20)**
-- **[Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [IRS, Estimated Taxes](https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes), Explains who must pay, due dates, and $1,000 threshold
@@ -138,10 +130,3 @@ The quarterly estimated tax system isn't complicated once you've done it a year 
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.

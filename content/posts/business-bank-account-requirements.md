@@ -152,14 +152,6 @@ Banks don't approve every application, and knowing the friction points saves tim
 
 Getting this right early is one of the highest-leverage things you can do for your business. A clean business account feeds clean books, clean books feed good decisions, and good decisions compound over time. Whether you're pre-revenue or already a few years in, the right time to set this up properly is today. And if you're unsure how your entity type affects your tax obligations or financial structure, bring a CPA into the conversation before you make any major moves. That conversation costs far less than fixing a mistake later.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)**
-- **[Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20)**
-- **[The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [SBA, Open a business bank account](https://www.sba.gov/business-guide/launch-your-business/open-business-bank-account), Explains why business accounts are necessary and basic requirements
@@ -172,10 +164,3 @@ Getting this right early is one of the highest-leverage things you can do for yo
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.

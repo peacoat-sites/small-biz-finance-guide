@@ -105,21 +105,9 @@ For a solid framework on setting up these systems, Mike Piper's *Taxes Made Simp
 
 Then, before year-end, meet with a CPA, not a tax preparer, a CPA, and review what you've gathered. Ask specifically about Section 179, retirement contribution options, and whether your entity structure still fits your income level. That conversation itself is deductible.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20)**
-- **[Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20)**
-- **[AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)**
-
-*Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
-
-## Recommended Resources
 
 ## Sources
 

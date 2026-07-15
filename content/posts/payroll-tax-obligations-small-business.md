@@ -132,14 +132,6 @@ For most small businesses with even one employee, a payroll service pays for its
 
 Payroll taxes are one of those areas where the cost of ignorance is genuinely higher than the cost of getting help. You don't need to become a tax expert. You need to understand the basic mechanics, build a system that keeps you compliant, and know when to call a professional. If you're just starting out, book an hour with a CPA before your first payroll runs. That one conversation is almost always worth more than any article you'll read, including this one.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20)**
-- **[Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20)**
-- **[QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20)**
-
 ---
 
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
@@ -154,10 +146,3 @@ Payroll taxes are one of those areas where the cost of ignorance is genuinely hi
 - [IRS, Understanding Employment Taxes](https://www.irs.gov/businesses/small-businesses-self-employed/understanding-employment-taxes), Breaks down FICA rates and wage base thresholds
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.

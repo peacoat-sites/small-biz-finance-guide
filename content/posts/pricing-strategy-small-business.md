@@ -131,23 +131,11 @@ The other packaging move: retainers over one-time projects. Retainers smooth cas
 
 Pricing isn't a set-it-and-forget-it decision, and it's not something you should set by instinct. It's a system that connects your costs, your value, your market position, and your ideal client into a coherent story about what your business is. Getting it right doesn't require an MBA. It requires honesty about your numbers, clarity about what you actually deliver, and the willingness to charge accordingly. That last part is harder than it sounds, but the business you're trying to build depends on it.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20)**
-- **[The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20)**
-- **[Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20)**
-
-*Photo: [Pixabay](https://www.pexels.com/@pixabay) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

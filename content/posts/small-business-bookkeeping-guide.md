@@ -142,14 +142,6 @@ One honest note: software won't fix bad habits. The best accounting platform in 
 
 Clean books don't make your business successful on their own, but they give you the clarity to make decisions that do. You can't fix what you can't measure, and you can't measure what you haven't recorded. The businesses that come to me with the worst financial stress almost always have the same thing in common: they ignored the numbers until ignoring them became impossible. You don't have to wait for that moment. Fifteen minutes a week and a monthly close routine are enough to stay ahead of it.
 
-## Recommended Resources
-
-**Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32) - The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14) - Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-- **[QuickBooks Small Business Bookkeeping Guide](https://www.amazon.com/dp/0692957790/?tag=contentportfo-20)** (~$17) - Compact, practical QuickBooks pocket guide, ideal for new business owners setting up accounting for the first time.
-
 ## Sources & References
 
 - [IRS, Recordkeeping for Small Business](https://www.irs.gov/businesses/small-businesses-self-employed/recordkeeping) - IRS requirements for maintaining adequate business records

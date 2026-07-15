@@ -124,14 +124,6 @@ Get a CPA. Not just a tax preparer who fills in boxes on a form. A CPA who works
 
 Getting your finances separated isn't something you do one afternoon and forget about. It's a discipline you build. But once the accounts are open, the software is connected, and you have a weekly habit of reviewing your numbers, it stops feeling like a burden. You'll know what your business is actually making, what it's actually spending, and whether the thing you're building is working. That's not just accounting hygiene. That's how you run a real business.
 
-## Recommended Resources
-
-*As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-- **[QuickBooks Small Business Bookkeeping Guide](https://www.amazon.com/dp/0692957790/?tag=contentportfo-20)** (~$17), Compact, practical QuickBooks pocket guide, ideal for new business owners setting up accounting for the first time.
-
 ## Sources & References
 
 - [SBA, Manage your finances](https://www.sba.gov/business-guide/manage-your-business/manage-your-finances), Covers separating business and personal finances for small businesses

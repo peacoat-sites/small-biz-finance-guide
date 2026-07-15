@@ -132,16 +132,6 @@ If you want a more structured approach to this, [*Profit First* by Mike Michalow
 
 The hardest part of all of this isn't the math. It's building the habit of looking at the numbers regularly, before you need to, not just when something feels wrong. Financial statements aren't a report card handed to you by someone else. They're a tool you own. The business owners I've watched grow successfully are the ones who stopped avoiding the reports and started treating them like the decision-making instrument they actually are. You don't have to become an accountant. You just have to become someone who understands their own business.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20)**
-- **[The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20)**
-- **[Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20)**
-
-## Recommended Resources
-
 ## Sources
 
 - [*Financial Intelligence for Entrepreneurs* by Karen Berman and Joe Knight](https://www.amazon.com/Financial-Intelligence-Entrepreneurs-Knowing-Numbers/dp/1422119157?tag=contentportfo-20)

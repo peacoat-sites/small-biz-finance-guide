@@ -71,8 +71,6 @@ This tool is for educational purposes only and does not constitute tax or financ
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)

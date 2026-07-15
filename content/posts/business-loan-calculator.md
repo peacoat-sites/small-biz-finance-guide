@@ -65,8 +65,6 @@ This calculator is for informational and educational purposes only. It does not 
 
 ---
 
-## Recommended Resources
-
 ## Sources
 
 - [Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)

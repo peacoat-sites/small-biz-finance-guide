@@ -132,14 +132,6 @@ Always consult a CPA before finalizing any financing decision that affects your 
 
 The SBA 7(a) is not a magic door. It's a well-structured, government-backed loan program that genuinely gives small businesses access to capital on reasonable terms, if you meet the requirements, prepare your documents properly, and choose the right lender. The businesses that get these loans aren't special. They're prepared. Start there.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20)**
-- **[Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20)**
-- **[AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)**
-
 ---
 
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
@@ -149,10 +141,3 @@ The SBA 7(a) is not a magic door. It's a well-structured, government-backed loan
 - [SBA, 7(a) Loans](https://www.sba.gov/funding-programs/loans/7a-loans), Official program details, amounts, guarantee percentages, eligible uses
 - [SBA, Lender Match](https://www.sba.gov/funding-programs/loans/lender-match), Explains how to find SBA-approved lenders
 - [SBA, 504 Loans](https://www.sba.gov/funding-programs/loans/504-loans), Supports comparison with 504 loan program mentioned
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.

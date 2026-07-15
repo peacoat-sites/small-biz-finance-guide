@@ -71,23 +71,11 @@ The moment you have even one nonexempt employee working irregular hours, manual 
 
 The overtime rules aren't especially complicated once you sit with them, but the gaps between what most small business owners think they know and what the law actually says can get expensive fast. Get your classifications audited, get your recordkeeping automated, and don't let a misunderstanding that costs $200 to fix now turn into a back pay claim that costs $20,000 later.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)**
-- **[Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20)**
-- **[Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)**
-
-*Photo: [Stas Knop](https://www.pexels.com/@stasknop) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

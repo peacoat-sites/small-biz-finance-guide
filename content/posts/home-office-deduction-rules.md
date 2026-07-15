@@ -148,17 +148,6 @@ And because this deduction ties directly to your business structure, it's worth 
 
 The home office deduction is legitimate, valuable, and completely doable if you have accurate information and clean records. It's not a loophole and it's not a trap. It's a tax code provision that exists because real businesses run out of real spaces in real homes. If you qualify, claim it. If you're unsure, talk to a CPA before you pass on it entirely. Leaving money on the table year after year because of vague anxiety isn't a strategy.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20)**
-- **[QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20)**
-- **[Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)**
-
-
-*Photo: [Alpha En](https://www.pexels.com/@alphaen) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
@@ -166,8 +155,6 @@ The home office deduction is legitimate, valuable, and completely doable if you 
 ---
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

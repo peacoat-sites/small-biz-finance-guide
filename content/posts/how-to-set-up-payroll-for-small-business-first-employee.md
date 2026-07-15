@@ -138,14 +138,6 @@ One more: talk to a CPA before you hire, especially if you're unsure about your 
 
 You don't need to get this perfect on day one. You do need to get the foundation right: EIN, state registrations, correct worker classification, and a deposit schedule you actually follow. Lock those four things in and the rest becomes manageable. Most people who've been through this tell me the same thing: it's not as bad as they expected. The first time is just harder because everything is new.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)**
-- **[Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20)**
-- **[Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20)**
-
 ## Sources & References
 
 - [IRS, Employer ID Numbers](https://www.irs.gov/businesses/small-businesses-self-employed/employer-id-numbers), EIN requirements and online application process
@@ -160,10 +152,3 @@ You don't need to get this perfect on day one. You do need to get the foundation
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.

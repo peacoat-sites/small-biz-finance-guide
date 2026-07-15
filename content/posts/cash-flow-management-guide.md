@@ -142,23 +142,11 @@ For a deeper read on working capital and funding structures, [The Small Business
 
 Cash flow management isn't a complex skill reserved for finance professionals. It's mostly about paying attention to timing, building simple habits, and catching problems with enough runway to actually fix them. The businesses I've watched thrive over the long run aren't always the most profitable ones. They're the ones where the owner knows exactly how much cash they have, when it's coming in, and what's going out. That knowledge is the real foundation of financial stability. Start with a simple 13-week forecast, update it weekly, and the rest gets easier from there.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20)**
-- **[Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20)**
-- **[The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20)**
-
-*Photo: [www.kaboompics.com](https://www.pexels.com/@karola-g) via Pexels*
-
 ---
 
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

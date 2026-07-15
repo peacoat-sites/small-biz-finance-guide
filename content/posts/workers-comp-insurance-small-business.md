@@ -127,21 +127,11 @@ For broader reading on keeping costs down as a small employer, books like [Worke
 
 Workers' comp feels like wasted money right up until the moment it isn't. The business owners I've seen crater financially weren't careless. They were just caught off guard by something they never thought would happen. Get your state requirements nailed down, get quotes from at least three carriers, and talk to a CPA or insurance professional before you decide. Your future self will thank you.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20)**
-- **[Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)**
-- **[AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)**
-
 ---
 
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
 
 ---
-
-## Recommended Resources
 
 ## Sources
 

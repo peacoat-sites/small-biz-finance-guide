@@ -115,14 +115,6 @@ The smoother your due diligence process, the more confidence buyers have, and co
 
 Selling a business you've built is one of the most significant financial events of your life. Done well, it's the culmination of everything you put into the company. Done poorly, it's an expensive lesson in how different the selling process is from the running one. The owners who get the best outcomes aren't always the ones with the best businesses. They're the ones who started preparing early, got honest about their numbers, and treated the sale like the high-stakes transaction it actually is. You built the thing. Make sure you get full credit for it.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20)**
-- **[Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)**
-- **[Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20)**
-
 ---
 
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
@@ -135,10 +127,3 @@ Selling a business you've built is one of the most significant financial events 
 - [IRS, Sale of a Business](https://www.irs.gov/businesses/small-businesses-self-employed/sale-of-a-business), Tax implications and reporting for business sales
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.

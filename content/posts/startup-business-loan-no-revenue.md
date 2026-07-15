@@ -116,14 +116,6 @@ Always compare APR, not the monthly payment. A lower monthly payment stretched o
 
 Getting a business loan with no revenue is harder than you might've been told, but it's not a dead end. The founders I've watched succeed at this stage do one thing consistently: they build the case a lender needs before walking in the door. Not after. Know your numbers, know your credit, know exactly what you're asking for and why. The conversation changes. If you're unsure how to structure your financials or assess which loan type fits your risk profile, talk to a CPA who works with startups before you sign anything. It's worth every dollar.
 
-## Helpful Resources
-
-*As an Amazon Associate this site earns from qualifying purchases.*
-
-- **[Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20)**
-- **[The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20)**
-- **[QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20)**
-
 ---
 
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
@@ -136,10 +128,3 @@ Getting a business loan with no revenue is harder than you might've been told, b
 - [SBA, Microloans](https://www.sba.gov/funding-programs/loans/microloans), Supports microloan credit requirements discussion
 
 ---
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.

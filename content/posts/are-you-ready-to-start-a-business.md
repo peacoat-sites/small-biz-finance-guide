@@ -19,8 +19,6 @@ This quick quiz walks through your habits, your [savings buffer](/break-even-cal
 
 Here's the thing: readiness isn't something you're born with. It's something you build. I've talked to plenty of founders who started in the "not ready yet" bucket and closed the gaps piece by piece over the next few months. Your score here isn't a verdict. It's a starting point. When you're ready to move forward, our [beginner guides](/best-small-business-grants-for-startups-2026/) are right there.
 
-## Recommended Resources
-
 ## Sources
 
 - [Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)
