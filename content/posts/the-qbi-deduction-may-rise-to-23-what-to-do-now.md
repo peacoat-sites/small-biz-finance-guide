@@ -68,3 +68,13 @@ The QBI landscape in mid-2026 is genuinely better than three years ago, and it c
 - [Small Business Deductions and Limits You Need to Know, Carr, Riggs & Ingram](https://www.criadv.com/insight/obbba-small-business-tax-relief-2026/) (May 6, 2026)
 - [Small Business Tax Deductions: Complete 2025-2026 Guide, SD CPA](https://www.sdocpa.com/small-business-tax-deductions/) (February 14, 2026)
 - [Small Business Tax Changes for 2026, 1-800Accountant](https://1800accountant.com/blog/tax-changes-for-2026) (March 10, 2026)
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+

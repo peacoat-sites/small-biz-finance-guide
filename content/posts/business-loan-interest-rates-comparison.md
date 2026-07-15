@@ -128,3 +128,13 @@ The honest truth is that the number you see isn't the number that matters most. 
 - [SBA, Loan Programs](https://www.sba.gov/funding-programs/loans), SBA loan types and current rate structure info
 - [Federal Reserve, Small Business Credit Survey](https://www.fedsmallbusiness.org/), Data on small business lending rates and approval
 - [CFPB, Small Business Lending](https://www.consumerfinance.gov/compliance/compliance-resources/small-business-lending-resources/), Small business lending regulations and disclosures
+
+---
+
+## Recommended Resources
+
+> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
+
+- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
+- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
+
