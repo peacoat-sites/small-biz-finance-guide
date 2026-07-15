@@ -1,11 +1,11 @@
 ---
 title: "Privacy Policy"
-hide_title: true
 description: "Privacy Policy for Small Biz Finance Guide,  how we collect, use, and protect your information."
 layout: "page"
+lastmod: 2026-07-15
 ---
 
-**Effective Date: January 1, 2025**
+**Effective date: March 1, 2026 · Last updated: July 15, 2026**
 
 Small Biz Finance Guide ("we," "us," or "our") operates smallbizfinanceguide.com (the "Site"). This Privacy Policy explains what information we collect, how we use it, and your rights regarding that information.
 
@@ -76,6 +76,10 @@ We retain any personal information you provide only as long as necessary to fulf
 **CCPA (California residents):** You have the right to know what personal information we collect, request deletion, and opt out of sale (we do not sell personal information).
 
 ---
+
+### California and EU/UK residents
+
+If you are a California resident, the California Consumer Privacy Act (CCPA/CPRA) gives you the right to request access to or deletion of the personal information we hold about you, and to opt out of the sale or sharing of personal information. We do not sell personal information. If you are in the European Economic Area or the United Kingdom, the GDPR gives you rights of access, rectification, erasure, portability, and objection to processing. To exercise any of these rights, contact us using the details below.
 
 ## 9. Changes to This Policy
 
