@@ -9,3 +9,6 @@
 
 # 2026-07-18 structural cleanup 301s
 /author/ /about/ 301
+
+# 2026-07-18 duplicate-topic merges
+/the-obbba-childcare-credit-small-businesses-are-ignoring/ /the-obbba-childcare-credit-most-small-businesses-are-ignoring/ 301
