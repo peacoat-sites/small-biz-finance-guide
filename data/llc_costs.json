@@ -1,0 +1,445 @@
+{
+ "title": "LLC Formation and Maintenance Costs by State (2026)",
+ "note": "State filing and report fees as of 2026, compiled from Secretary of State fee schedules. The 5-year total assumes formation plus five annual filings (or two biennial filings) at current rates. It excludes registered agent service, business licenses, publication costs (noted where required), and taxes on income. Fees change; confirm on your state's Secretary of State site before filing.",
+ "search_placeholder": "Search your state…",
+ "filters": [
+  {
+   "key": "freq",
+   "label": "Report frequency"
+  }
+ ],
+ "columns": [
+  {
+   "key": "state",
+   "label": "State",
+   "primary": true
+  },
+  {
+   "key": "filing",
+   "label": "Filing fee"
+  },
+  {
+   "key": "annual",
+   "label": "Ongoing fee"
+  },
+  {
+   "key": "five_year",
+   "label": "5-year total"
+  },
+  {
+   "key": "note",
+   "label": "Watch out for",
+   "wide": true
+  }
+ ],
+ "rows": [
+  {
+   "state": "Alabama",
+   "filing": "$200",
+   "annual": "$50/yr",
+   "freq": "Annual",
+   "five_year": "$450",
+   "note": "The $50 is the Business Privilege Tax minimum; larger LLCs owe more."
+  },
+  {
+   "state": "Alaska",
+   "filing": "$250",
+   "annual": "$100 every 2 yrs",
+   "freq": "Every 2 years",
+   "five_year": "$450",
+   "note": ""
+  },
+  {
+   "state": "Arizona",
+   "filing": "$50",
+   "annual": "None",
+   "freq": "None",
+   "five_year": "$50",
+   "note": "LLCs outside Maricopa and Pima counties must publish formation notice, roughly $60-$120 one time."
+  },
+  {
+   "state": "Arkansas",
+   "filing": "$45",
+   "annual": "$150/yr",
+   "freq": "Annual",
+   "five_year": "$795",
+   "note": ""
+  },
+  {
+   "state": "California",
+   "filing": "$70",
+   "annual": "$800/yr + $20 every 2 yrs",
+   "freq": "Annual",
+   "five_year": "$4,110",
+   "note": "The $800 franchise tax is owed every year even at $0 income, plus a $20 Statement of Information every 2 years."
+  },
+  {
+   "state": "Colorado",
+   "filing": "$50",
+   "annual": "$25/yr",
+   "freq": "Annual",
+   "five_year": "$175",
+   "note": ""
+  },
+  {
+   "state": "Connecticut",
+   "filing": "$120",
+   "annual": "$80/yr",
+   "freq": "Annual",
+   "five_year": "$520",
+   "note": ""
+  },
+  {
+   "state": "Delaware",
+   "filing": "$110",
+   "annual": "$400/yr",
+   "freq": "Annual",
+   "five_year": "$2,110",
+   "note": "Flat annual LLC tax; the famous benefits mostly matter to venture-backed corporations, not small LLCs."
+  },
+  {
+   "state": "District of Columbia",
+   "filing": "$99",
+   "annual": "$300 every 2 yrs",
+   "freq": "Every 2 years",
+   "five_year": "$699",
+   "note": ""
+  },
+  {
+   "state": "Florida",
+   "filing": "$125",
+   "annual": "$138.75/yr",
+   "freq": "Annual",
+   "five_year": "$818.75",
+   "note": ""
+  },
+  {
+   "state": "Georgia",
+   "filing": "$110",
+   "annual": "$60/yr",
+   "freq": "Annual",
+   "five_year": "$410",
+   "note": ""
+  },
+  {
+   "state": "Hawaii",
+   "filing": "$50",
+   "annual": "$15/yr",
+   "freq": "Annual",
+   "five_year": "$125",
+   "note": ""
+  },
+  {
+   "state": "Idaho",
+   "filing": "$100",
+   "annual": "Free report required",
+   "freq": "Annual (free)",
+   "five_year": "$100",
+   "note": "The report is free, but forgetting it leads to administrative dissolution."
+  },
+  {
+   "state": "Illinois",
+   "filing": "$150",
+   "annual": "$75/yr",
+   "freq": "Annual",
+   "five_year": "$525",
+   "note": ""
+  },
+  {
+   "state": "Indiana",
+   "filing": "$95",
+   "annual": "$31 every 2 yrs",
+   "freq": "Every 2 years",
+   "five_year": "$157",
+   "note": ""
+  },
+  {
+   "state": "Iowa",
+   "filing": "$50",
+   "annual": "$30 every 2 yrs",
+   "freq": "Every 2 years",
+   "five_year": "$110",
+   "note": ""
+  },
+  {
+   "state": "Kansas",
+   "filing": "$160",
+   "annual": "$50/yr",
+   "freq": "Annual",
+   "five_year": "$410",
+   "note": ""
+  },
+  {
+   "state": "Kentucky",
+   "filing": "$40",
+   "annual": "$15/yr",
+   "freq": "Annual",
+   "five_year": "$115",
+   "note": ""
+  },
+  {
+   "state": "Louisiana",
+   "filing": "$125",
+   "annual": "$35/yr",
+   "freq": "Annual",
+   "five_year": "$300",
+   "note": ""
+  },
+  {
+   "state": "Maine",
+   "filing": "$175",
+   "annual": "$85/yr",
+   "freq": "Annual",
+   "five_year": "$600",
+   "note": ""
+  },
+  {
+   "state": "Maryland",
+   "filing": "$100",
+   "annual": "$300/yr",
+   "freq": "Annual",
+   "five_year": "$1,600",
+   "note": ""
+  },
+  {
+   "state": "Massachusetts",
+   "filing": "$500",
+   "annual": "$500/yr",
+   "freq": "Annual",
+   "five_year": "$3,000",
+   "note": "Highest fees in the country on both ends: $500 to file and $500 every year after."
+  },
+  {
+   "state": "Michigan",
+   "filing": "$50",
+   "annual": "$25/yr",
+   "freq": "Annual",
+   "five_year": "$175",
+   "note": ""
+  },
+  {
+   "state": "Minnesota",
+   "filing": "$155",
+   "annual": "Free report required",
+   "freq": "Annual (free)",
+   "five_year": "$155",
+   "note": "The report is free, but forgetting it leads to administrative dissolution."
+  },
+  {
+   "state": "Mississippi",
+   "filing": "$50",
+   "annual": "Free report required",
+   "freq": "Annual (free)",
+   "five_year": "$50",
+   "note": "The report is free, but forgetting it leads to administrative dissolution."
+  },
+  {
+   "state": "Missouri",
+   "filing": "$50",
+   "annual": "None",
+   "freq": "None",
+   "five_year": "$50",
+   "note": "No annual report at all, one of the cheapest states to maintain an LLC."
+  },
+  {
+   "state": "Montana",
+   "filing": "$35",
+   "annual": "$20/yr",
+   "freq": "Annual",
+   "five_year": "$135",
+   "note": ""
+  },
+  {
+   "state": "Nebraska",
+   "filing": "$100",
+   "annual": "$13 every 2 yrs",
+   "freq": "Every 2 years",
+   "five_year": "$126",
+   "note": "Add a one-time newspaper publication requirement, roughly $50-$150."
+  },
+  {
+   "state": "Nevada",
+   "filing": "$425",
+   "annual": "$350/yr",
+   "freq": "Annual",
+   "five_year": "$2,175",
+   "note": "Totals include the mandatory state business license ($200/yr) and annual list ($150/yr)."
+  },
+  {
+   "state": "New Hampshire",
+   "filing": "$100",
+   "annual": "$100/yr",
+   "freq": "Annual",
+   "five_year": "$600",
+   "note": ""
+  },
+  {
+   "state": "New Jersey",
+   "filing": "$100",
+   "annual": "$75/yr",
+   "freq": "Annual",
+   "five_year": "$475",
+   "note": ""
+  },
+  {
+   "state": "New Mexico",
+   "filing": "$50",
+   "annual": "None",
+   "freq": "None",
+   "five_year": "$50",
+   "note": "No annual report at all, one of the cheapest states to maintain an LLC."
+  },
+  {
+   "state": "New York",
+   "filing": "$200",
+   "annual": "$9 every 2 yrs",
+   "freq": "Every 2 years",
+   "five_year": "$218",
+   "note": "Add a one-time newspaper publication requirement, roughly $300-$1,600 depending on county."
+  },
+  {
+   "state": "North Carolina",
+   "filing": "$125",
+   "annual": "$200/yr",
+   "freq": "Annual",
+   "five_year": "$1,125",
+   "note": ""
+  },
+  {
+   "state": "North Dakota",
+   "filing": "$135",
+   "annual": "$50/yr",
+   "freq": "Annual",
+   "five_year": "$385",
+   "note": ""
+  },
+  {
+   "state": "Ohio",
+   "filing": "$99",
+   "annual": "None",
+   "freq": "None",
+   "five_year": "$99",
+   "note": "No annual report at all."
+  },
+  {
+   "state": "Oklahoma",
+   "filing": "$100",
+   "annual": "$25/yr",
+   "freq": "Annual",
+   "five_year": "$225",
+   "note": ""
+  },
+  {
+   "state": "Oregon",
+   "filing": "$100",
+   "annual": "$100/yr",
+   "freq": "Annual",
+   "five_year": "$600",
+   "note": ""
+  },
+  {
+   "state": "Pennsylvania",
+   "filing": "$125",
+   "annual": "$7/yr",
+   "freq": "Annual",
+   "five_year": "$160",
+   "note": ""
+  },
+  {
+   "state": "Rhode Island",
+   "filing": "$150",
+   "annual": "$50/yr",
+   "freq": "Annual",
+   "five_year": "$400",
+   "note": ""
+  },
+  {
+   "state": "South Carolina",
+   "filing": "$110",
+   "annual": "None",
+   "freq": "None",
+   "five_year": "$110",
+   "note": "No annual report for default LLCs (only LLCs taxed as S corps file)."
+  },
+  {
+   "state": "South Dakota",
+   "filing": "$150",
+   "annual": "$55/yr",
+   "freq": "Annual",
+   "five_year": "$425",
+   "note": ""
+  },
+  {
+   "state": "Tennessee",
+   "filing": "$300",
+   "annual": "$300/yr minimum",
+   "freq": "Annual",
+   "five_year": "$1,800",
+   "note": "The $300 minimum scales up at $50 per member above 6; franchise and excise taxes can apply on top."
+  },
+  {
+   "state": "Texas",
+   "filing": "$300",
+   "annual": "Free report required",
+   "freq": "Annual (free)",
+   "five_year": "$300",
+   "note": "No annual fee, but a franchise tax report and Public Information Report are still due every year; skipping them forfeits the LLC."
+  },
+  {
+   "state": "Utah",
+   "filing": "$59",
+   "annual": "$18/yr",
+   "freq": "Annual",
+   "five_year": "$149",
+   "note": ""
+  },
+  {
+   "state": "Vermont",
+   "filing": "$155",
+   "annual": "$45/yr",
+   "freq": "Annual",
+   "five_year": "$380",
+   "note": ""
+  },
+  {
+   "state": "Virginia",
+   "filing": "$100",
+   "annual": "$50/yr",
+   "freq": "Annual",
+   "five_year": "$350",
+   "note": ""
+  },
+  {
+   "state": "Washington",
+   "filing": "$200",
+   "annual": "$60/yr",
+   "freq": "Annual",
+   "five_year": "$500",
+   "note": ""
+  },
+  {
+   "state": "West Virginia",
+   "filing": "$100",
+   "annual": "$25/yr",
+   "freq": "Annual",
+   "five_year": "$225",
+   "note": ""
+  },
+  {
+   "state": "Wisconsin",
+   "filing": "$130",
+   "annual": "$25/yr",
+   "freq": "Annual",
+   "five_year": "$255",
+   "note": ""
+  },
+  {
+   "state": "Wyoming",
+   "filing": "$100",
+   "annual": "$60/yr minimum",
+   "freq": "Annual",
+   "five_year": "$400",
+   "note": "The $60 is a minimum; the annual license tax is $0.0002 per dollar of Wyoming assets above $300,000."
+  }
+ ]
+}
