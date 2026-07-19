@@ -4,7 +4,7 @@ date: 2026-07-07T22:43:32.928357+00:00
 draft: false
 description: "Find out if your home office qualifies for a tax deduction, what expenses you can claim, and how to calculate your write-off correctly."
 image: "/img/heroes/7005399.jpg"
-categories: ["Tax Deductions"]
+categories: ["Taxes"]
 tags: ["deduct", "home", "office"]
 author: "David Kim"
 author_slug: "david-kim"

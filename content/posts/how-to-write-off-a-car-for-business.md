@@ -4,7 +4,7 @@ date: 2026-07-08T22:43:42.488494+00:00
 draft: false
 description: "Learn how to deduct your car for business use, including mileage vs. actual costs, Section 179, and what records you need to keep for the IRS."
 image: "/img/heroes/29726512.jpg"
-categories: ["How To Business"]
+categories: ["Financial Planning"]
 tags: ["write", "business"]
 author: "Sarah Johnson"
 author_slug: "sarah-johnson"

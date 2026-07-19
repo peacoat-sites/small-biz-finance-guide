@@ -12,3 +12,11 @@
 
 # 2026-07-18 duplicate-topic merges
 /the-obbba-childcare-credit-small-businesses-are-ignoring/ /the-obbba-childcare-credit-most-small-businesses-are-ignoring/ 301
+
+# 2026-07-18 thin-category consolidation
+/categories/business-finance/ /categories/financing/ 301
+/categories/business-planning/ /categories/strategy/ 301
+/categories/how-to-business/ /categories/financial-planning/ 301
+/categories/loans/ /categories/banking/ 301
+/categories/startup-costs/ /categories/cash-flow/ 301
+/categories/tax-deductions/ /categories/taxes/ 301

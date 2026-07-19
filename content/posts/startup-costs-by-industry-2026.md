@@ -20,7 +20,7 @@ faqs:
    a: "Maybe. Liability protection (worth it), tax flexibility (depends on your situation), credibility (helps with customers/lenders). Cost is $500-$2,000 + annual maintenance. Run the numbers for your case."
  - q: "When do I break even?"
    a: "Depends on your industry. Service businesses: 2-4 months. E-commerce: 3-6 months. Retail: 12-18 months. Manufacturing: 12-24 months. These are medians, yours could be faster or slower depending on execution."
-categories: ["Business Finance", "Startup Costs", "Business Planning"]
+categories: ["Cash Flow"]
 keywords: ["startup costs by industry", "how much does it cost to start a business", "business startup budget", "small business startup costs"]
 ---
 

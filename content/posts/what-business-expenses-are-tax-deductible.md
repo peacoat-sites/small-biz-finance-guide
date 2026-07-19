@@ -4,7 +4,7 @@ date: 2026-07-09T22:58:27.745281+00:00
 draft: false
 description: "Discover which business expenses are tax deductible, from the $10,000 SALT cap to $3,000 loss limits, and keep more of what you earn."
 image: "/img/heroes/8297031.jpg"
-categories: ["Tax Deductions"]
+categories: ["Taxes"]
 tags: ["what", "business", "expenses", "deductible"]
 author: "David Kim"
 author_slug: "david-kim"

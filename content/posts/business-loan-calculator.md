@@ -4,7 +4,7 @@ date: 2026-06-10T10:00:00+00:00
 draft: false
 description: "Calculate your business loan monthly payment, total interest, and payoff date instantly. Includes a factor rate to APR converter for MCAs and short-term loans."
 image: "/img/heroes/6863183.jpg"
-categories: ["Loans"]
+categories: ["Banking"]
 tags: ["business loan", "calculator", "financing", "APR", "MCA"]
 slug: "business-loan-calculator"
 author: "James Okafor"
