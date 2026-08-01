@@ -170,3 +170,10 @@ The cash flow statement isn't glamorous. Nobody prints it and frames it. But the
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 - **[QuickBooks Small Business Bookkeeping Guide](https://www.amazon.com/dp/0692957790/?tag=contentportfo-20)** (~$17), Compact, practical QuickBooks pocket guide, ideal for new business owners setting up accounting for the first time.
 
+## Sources and References
+
+This guide draws on federal small-business and financial authorities:
+
+- [U.S. Small Business Administration (SBA)](https://www.sba.gov/)
+- [IRS: Small Business and Self-Employed](https://www.irs.gov/businesses/small-businesses-self-employed)
+- [Federal Deposit Insurance Corporation (FDIC)](https://www.fdic.gov/)

@@ -179,3 +179,10 @@ The home office deduction is legitimate, valuable, and completely doable if you 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 
+## Sources and References
+
+This guide draws on federal small-business and financial authorities:
+
+- [Cornell Legal Information Institute: Limited Liability Company](https://www.law.cornell.edu/wex/limited_liability_company_(LLC))
+- [U.S. Small Business Administration (SBA)](https://www.sba.gov/)
+- [IRS: Small Business and Self-Employed](https://www.irs.gov/businesses/small-businesses-self-employed)
