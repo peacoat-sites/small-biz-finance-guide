@@ -96,7 +96,7 @@ One thing I tell every client: don't volunteer information beyond what's asked. 
 
 [SCORE's mentorship resources](https://www.score.org/) include guidance on employment compliance that's genuinely useful if you're in the early stages of understanding your exposure, and free access to a mentor who's been through it can save you from panicking in the wrong direction. The [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/) also have plain-language material on worker rights that helps you understand what regulators are actually looking at.
 
-If you want to get into the weeds on the legal framework, [*The Employer's Legal Handbook* by Fred Steingold](https://www.amazon.com/Employers-Legal-Handbook-Manage-Employees/dp/1413329985?tag=smallbizfinance-20) is one of the cleaner resources I've recommended to clients who want to understand the rules themselves before talking to an attorney. (Disclosure: that's an affiliate link, and the site may earn a commission.) It's not a substitute for professional advice, but it's a solid foundation.
+If you want to get into the weeds on the legal framework, [*The Employer's Legal Handbook* by Fred Steingold](https://www.amazon.com/Employers-Legal-Handbook-Manage-Employees/dp/1413329985?tag=contentportfo-20) is one of the cleaner resources I've recommended to clients who want to understand the rules themselves before talking to an attorney. (Disclosure: that's an affiliate link, and the site may earn a commission.) It's not a substitute for professional advice, but it's a solid foundation.
 
 ## Sources
 

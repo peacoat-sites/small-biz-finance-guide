@@ -105,7 +105,7 @@ Businesses that sell physical goods and carry inventory on their balance sheet a
 
 I made this mistake myself early in my career when I was helping a client who sold specialty food products. We had her on cash basis, revenues were under the old threshold, and technically it was defensible. But her margins looked terrible in Q1 every year (when she stocked up) and artificially great in Q4. She was making purchasing decisions based on those distorted margins. Switching her to accrual clarified the picture in about 90 days of adjusted statements. Her actual margin was steadier than she thought, and she stopped panic-discounting in Q1.
 
-If you want to go deeper on the accounting mechanics here, Mike Piper's *[Accounting Made Simple](https://www.amazon.com/Accounting-Made-Simple-Explained-Pages/dp/0981454224?tag=yourtag-20)* (Amazon, note the site may earn a commission) is genuinely the most painless explanation of these concepts I've seen in print. Not a textbook. Doesn't read like one.
+If you want to go deeper on the accounting mechanics here, Mike Piper's *[Accounting Made Simple](https://www.amazon.com/Accounting-Made-Simple-Explained-Pages/dp/0981454224?tag=contentportfo-20)* (Amazon, note the site may earn a commission) is genuinely the most painless explanation of these concepts I've seen in print. Not a textbook. Doesn't read like one.
 
 ## Sources
 

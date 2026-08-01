@@ -114,7 +114,7 @@ The other thing: personal expenses are not deductible even if you use them occas
 
 According to the [U.S. Small Business Administration](https://www.sba.gov/), poor financial recordkeeping is one of the leading contributors to small business tax errors, both underpayments and overpayments. Keeping a separate business bank account and credit card is the single highest-leverage move you can make before worrying about any specific deduction. If your business and personal finances share an account, you're going to miss deductions because you can't see them clearly, and you're going to create headaches if anyone ever examines your records.
 
-A book that's actually useful here, not just theoretical, is *[Profit First by Mike Michalowicz](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=smbfinance-20)* (Amazon, affiliate link). It's not specifically about tax deductions, but the account structure it recommends naturally separates business income and expenses in a way that makes deduction tracking infinitely cleaner.
+A book that's actually useful here, not just theoretical, is *[Profit First by Mike Michalowicz](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=contentportfo-20)* (Amazon, affiliate link). It's not specifically about tax deductions, but the account structure it recommends naturally separates business income and expenses in a way that makes deduction tracking infinitely cleaner.
 
 ## Sources
 

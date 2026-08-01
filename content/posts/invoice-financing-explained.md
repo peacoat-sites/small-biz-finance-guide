@@ -100,7 +100,7 @@ Some specific things I'd ask every funder before signing:
 
 A few names that come up consistently in the small business space as of 2026: Triumph Business Capital (strong in trucking and freight), altLINE (good for smaller businesses), and BlueVine, which has shifted its product mix but remains relevant. That said, the market moves, and I'd encourage you to compare at least three quotes. The American Receivables Corporation and FundThrough are also worth looking at if you have larger invoices.
 
-If you want to go deeper on the mechanics before talking to a funder, I'd genuinely recommend [*The Art of Startup Fundraising* by Alejandro Cremades](https://www.amazon.com/dp/1119191831?tag=smallbizfinance-20) (Amazon affiliate link, full disclosure), not because it focuses on invoice financing specifically, but because it gives you a clean mental model for evaluating any financing structure against your actual business needs.
+If you want to go deeper on the mechanics before talking to a funder, I'd genuinely recommend [*The Art of Startup Fundraising* by Alejandro Cremades](https://www.amazon.com/dp/1119191831?tag=contentportfo-20) (Amazon affiliate link, full disclosure), not because it focuses on invoice financing specifically, but because it gives you a clean mental model for evaluating any financing structure against your actual business needs.
 
 ## Sources
 

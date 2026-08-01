@@ -88,7 +88,7 @@ The weakness? Customer support. I've had clients wait 45 minutes on hold during 
 
 Another worked example worth walking through: a five-person marketing agency founder, remote team across three states, set up Gusto Simple herself in about four hours using Gusto's own setup guides. Total cost: $70 per month. She ran payroll for 18 months without a single error, handled her own 1099 filings at year-end (Gusto files them automatically), and estimated she saved $2,100 compared to a local payroll bureau she'd gotten a quote from. That's the Gusto use case in its best form.
 
-If you want to go deeper on payroll setup methodology, Mike Michalowicz's *Profit First* (available on [Amazon](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=yourtag-20)) isn't specifically about payroll software, but his cash flow system pairs well with understanding exactly what your payroll costs you as a percentage of revenue. Worth reading if you haven't. (Disclosure: that link may earn a small commission.)
+If you want to go deeper on payroll setup methodology, Mike Michalowicz's *Profit First* (available on [Amazon](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=contentportfo-20)) isn't specifically about payroll software, but his cash flow system pairs well with understanding exactly what your payroll costs you as a percentage of revenue. Worth reading if you haven't. (Disclosure: that link may earn a small commission.)
 
 ## Switching Costs Are Real
 

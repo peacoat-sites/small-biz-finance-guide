@@ -102,7 +102,7 @@ What I see fail regularly is the "I'll just use my CPA for everything" approach,
 
 The bookkeeping handles the rear-view mirror. The CPA handles where you're going. You need both views to drive.
 
-If you want to go deeper on building out a clean financial system before you hire anyone, Mike Michalowicz's *Profit First* (available on [Amazon](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=sites00f-20)) is worth reading. It won't replace professional advice, but it'll make you a better client when you do hire someone. (That's an affiliate link, just so you know.)
+If you want to go deeper on building out a clean financial system before you hire anyone, Mike Michalowicz's *Profit First* (available on [Amazon](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=contentportfo-20)) is worth reading. It won't replace professional advice, but it'll make you a better client when you do hire someone. (That's an affiliate link, just so you know.)
 
 ## Sources
 
