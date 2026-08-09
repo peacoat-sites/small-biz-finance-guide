@@ -1,4 +1,5 @@
 User-agent: *
+Disallow: /cdn-cgi/
 Disallow:
 
 Sitemap: https://smallbizfinanceguide.com/sitemap.xml
