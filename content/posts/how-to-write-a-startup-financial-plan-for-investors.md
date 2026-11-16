@@ -25,7 +25,7 @@ author_title: "Small Business Lending Specialist"
 author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
 lastmod: 2026-07-08
 ---
-Most founders I've worked with get this backwards. They spend weeks building a beautiful financial model, then hand it to an investor and wonder why the conversation dies. The problem usually isn't the numbers. It's that the plan reads like a spreadsheet begging for validation instead of a business case looking for a partner.
+Many founders get this backwards. They spend weeks building a beautiful financial model, then hand it to an investor and wonder why the conversation dies. The problem usually isn't the numbers. It's that the plan reads like a spreadsheet begging for validation instead of a business case looking for a partner.
 
 A startup financial plan for investors isn't an accounting exercise. It's a persuasion document that happens to use numbers. Once you internalize that distinction, everything about how you build it changes.
 
@@ -70,7 +70,7 @@ You don't need a 40-tab model. A 40-tab spreadsheet for a pre-revenue company us
 
 **Cost of goods sold and gross margin.** This shows investors how much it actually costs to deliver your product or service. If you're SaaS and your gross margin is 45%, something's wrong. SaaS businesses typically run 65-80%+ margins. Physical products at 35% might be fine, depending on the category. Know your benchmarks. Investors do.
 
-**Operating expense forecast.** Salaries, rent, software, marketing spend, legal, accounting. Break it down by category. And be honest about payroll. I've seen founders undercount their own compensation to make numbers look better. An investor will ask if you're paying yourself, and "no, I'm not paying myself anything for 18 months" is sometimes admirable and sometimes a red flag.
+**Operating expense forecast.** Salaries, rent, software, marketing spend, legal, accounting. Break it down by category. And be honest about payroll. Founders sometimes undercount their own compensation to make numbers look better. An investor will ask if you're paying yourself, and "no, I'm not paying myself anything for 18 months" is sometimes admirable and sometimes a red flag.
 
 **[Cash flow statement](/break-even-analysis-explained/).** Revenue and profit can look positive on paper while you're actually running out of money because of timing mismatches. This is the one that tells the real story. For a startup, it's non-negotiable. If you're raising $750,000, show exactly how that capital deploys month by month and how long it lasts.
 
@@ -131,7 +131,6 @@ Get the assumptions right. Know every number well enough to defend it from three
 - [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed)
 - [SCORE's mentorship resources](https://www.score.org/)
 - [QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -33,15 +33,13 @@ Let's fix that before it becomes your problem.
 
 Professional liability insurance, sometimes called errors and omissions (E&O) insurance, covers you when a client claims your professional advice, service, or work caused them financial harm. A consultant who misses something in their analysis. An accountant whose tax filing error triggers a penalty. An architect whose design flaw delays a project by six months. These are the scenarios this coverage exists for.
 
-What surprised me when I went deep on this is how different it is from general liability. General liability handles bodily injury and property damage, the kind of thing your landlord requires before you can sign a lease. Professional liability handles the intangible stuff: bad advice, missed deadlines, alleged negligence in your professional judgment. You need both. They're not interchangeable, and I've seen business owners with years of general liability coverage think they were protected when a client sued them for a faulty financial projection. They weren't.
+Professional liability is distinct from general liability in important ways. General liability handles bodily injury and property damage, the kind of thing your landlord requires before you can sign a lease. Professional liability handles the intangible stuff: bad advice, missed deadlines, alleged negligence in your professional judgment. You need both. They're not interchangeable, and I've seen business owners with years of general liability coverage think they were protected when a client sued them for a faulty financial projection. They weren't.
 
 There are also meaningful carve-outs you need to read carefully. Most policies exclude intentional fraud, criminal acts, and disputes that were already in progress before the policy start date. That last one matters a lot with claims-made policies, which I'll get to in a minute.
 
 ## Claims-Made vs. Occurrence: The One Thing Most People Get Wrong
 
 > **Helpful resource:** [Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 I got this wrong for years. I thought it was just contract language.
 
@@ -69,13 +67,11 @@ Current as of July 2026, here's the honest range I see across different professi
 
 A few variables move the needle hard: your annual revenue, the number of staff, your specific service type, and your claims history. One prior claim can push premiums up 30-50%. The research here is mixed on exactly how long that surcharge follows you, but most underwriters I've spoken with say three to five years before it truly stops affecting rates.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical annual professional liability premium by profession</div><div class="sc-row"><span class="sc-label">Marketing/PR</span><span class="sc-track"><span class="sc-bar" style="width:17%"></span></span><span class="sc-val">$950</span></div><div class="sc-row"><span class="sc-label">IT Consultant</span><span class="sc-track"><span class="sc-bar" style="width:23%"></span></span><span class="sc-val">$1,350</span></div><div class="sc-row"><span class="sc-label">CPA/Bookkeeper</span><span class="sc-track"><span class="sc-bar" style="width:32%"></span></span><span class="sc-val">$1,850</span></div><div class="sc-row"><span class="sc-label">Financial Advisor</span><span class="sc-track"><span class="sc-bar" style="width:41%"></span></span><span class="sc-val">$2,350</span></div><div class="sc-row"><span class="sc-label">Architect/Engineer</span><span class="sc-track"><span class="sc-bar" style="width:72%"></span></span><span class="sc-val">$4,150</span></div><div class="sc-row"><span class="sc-label">Attorney (solo)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$5,750</span></div><div class="sc-src">Source: Industry rate data, July 2026</div></div>
-
 
 ## How to Actually Shop for It
 
-Don't just use the first online quote platform you find. I've tested several of the major ones (Next Insurance, Hiscox, Chubb's small business portal) and what I've noticed is the coverage language differs significantly even at similar price points. A $650 policy from one carrier may have a $10,000 deductible per claim baked in; another at $900 might have a $2,500 deductible. That delta matters the moment you file.
+Don't just use the first online quote platform you find. Coverage language differs significantly across carriers even at similar price points. A $650 policy from one carrier may have a $10,000 deductible per claim baked in; another at $900 might have a $2,500 deductible. That delta matters the moment you file.
 
 Three things I always tell clients to check before signing:
 
@@ -106,7 +102,6 @@ That third one is worth emphasizing. The [Consumer Financial Protection Bureau's
 - [Consumer Financial Protection Bureau small business resources](https://www.consumerfinance.gov/): Business contract and documentation best practices
 
 ---
-
 
 ---
 

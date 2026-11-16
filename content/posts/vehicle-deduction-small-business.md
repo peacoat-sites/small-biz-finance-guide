@@ -39,7 +39,7 @@ The IRS gives you two ways to deduct vehicle costs, and you need to understand b
 
 Which one wins? It depends on the vehicle. A heavy-duty truck or SUV with high operating costs often produces a bigger deduction under actual expenses. A fuel-efficient car with relatively low expenses often works out better under standard mileage. Run both calculations before you file, or ask your CPA to do it.
 
-Here's the catch: the IRS requires that if you want to use standard mileage for a vehicle, you must choose it in the first year the vehicle is placed in service. Start with actual expenses, and you're locked into that method for that vehicle. Also, to use the standard mileage rate, you must own or lease the vehicle. If your business owns multiple vehicles, you can't use standard mileage for a fleet. That's an actual-expense situation by default.
+The key constraint: the IRS requires that if you want to use standard mileage for a vehicle, you must choose it in the first year the vehicle is placed in service. Start with actual expenses, and you're locked into that method for that vehicle. Also, to use the standard mileage rate, you must own or lease the vehicle. If your business owns multiple vehicles, you can't use standard mileage for a fleet. That's an actual-expense situation by default.
 
 ## Section 179 and Bonus Depreciation: The Big Deductions
 
@@ -79,7 +79,7 @@ This is where people get into trouble. The IRS definition of business use is spe
 
 The home-office exception is worth knowing. If your home qualifies as your principal place of business (you have a dedicated home office that meets IRS criteria), then trips from your home to see clients or suppliers can count as business miles. That changes the math for a lot of freelancers and home-based businesses.
 
-I've seen clients [lose deductions in audits](/small-business-audit-risk-factors/) not because they lied about mileage but because they couldn't tell the difference between commuting and business travel in their own records.
+A common audit issue is [losing mileage deductions](/small-business-audit-risk-factors/) because records don't clearly distinguish between commuting and business travel.
 
 ## Recordkeeping: The Part Nobody Wants to Talk About
 

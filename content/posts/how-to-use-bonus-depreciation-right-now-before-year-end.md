@@ -14,13 +14,11 @@ slug: "how-to-use-bonus-depreciation-right-now-before-year-end"
 affiliate_disclosure: true
 ---
 
-The most important tax move available to [small business owners](/the-new-1099-thresholds-small-business-owners-must-know-in-2026/) right now is sitting in plain sight, and most of the coverage I've seen buries the lead. The One Big Beautiful Bill Act, signed July 4, 2025, permanently restored 100% bonus depreciation. Not temporarily. Not with a sunset clause. Permanently. That single word changes the entire calculation for equipment purchases, because the old phase-down schedule, which would have dropped the rate to 20% in 2026 and zeroed it out entirely in 2027, is gone. But "permanent" doesn't mean "whenever you get around to it." December 31, 2026 is still the line. Buy and place qualifying property in service before that date, and you can write off the full cost on your 2026 return. Miss it, and you wait another year.
+The most important tax move available to [small business owners](/the-new-1099-thresholds-small-business-owners-must-know-in-2026/) right now often gets overlooked in coverage of the issue. The One Big Beautiful Bill Act, signed July 4, 2025, permanently restored 100% bonus depreciation. Not temporarily. Not with a sunset clause. Permanently. That single word changes the entire calculation for equipment purchases, because the old phase-down schedule, which would have dropped the rate to 20% in 2026 and zeroed it out entirely in 2027, is gone. But "permanent" doesn't mean "whenever you get around to it." December 31, 2026 is still the line. Buy and place qualifying property in service before that date, and you can write off the full cost on your 2026 return. Miss it, and you wait another year.
 
 The SBA has reported that the OBBBA's combined tax provisions have already reduced taxes for over 12 million small [business owners](/business-owners-policy-bop/) by roughly $7,000 each on average. That's a real number, and it tells you the law has teeth. The question is whether you're positioned to use it before Q4 turns into a scramble.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">100% bonus depreciation is permanent starting with property placed in service after January 19, 2025.</li><li style="margin:5px 0">Equipment must be bought AND placed in service by December 31, 2026 to count for your 2026 return.</li><li style="margin:5px 0">Qualifying property includes equipment, machinery, vehicles, and leasehold improvements (20-year recovery or less).</li><li style="margin:5px 0">Land, building structures, and inventory never qualify, no matter what a vendor tells you.</li><li style="margin:5px 0">State tax conformity is not automatic: verify your state's treatment before assuming a full state deduction.</li></ul></div>
-
 
 ## What Actually Qualifies (and What Doesn't)
 
@@ -33,8 +31,6 @@ The "placed in service" requirement is the one that trips people up every fall. 
 ## Bonus Depreciation vs. Section 179: Which One to Use
 
 > **Helpful resource:** [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Both are available in 2026, and the interaction between them matters. Section 179 lets you expense the full cost of qualifying property in the year it's placed in service, but it has caps and phase-outs. Bonus depreciation has no dollar limit and no phase-out threshold.
 
@@ -73,9 +69,7 @@ Second, confirm financing timelines. According to U.S. Bank's July 2026 guidance
 
 Third, talk to your CPA before October. Not in November when everyone is scrambling. The earlier you model the deduction against your projected 2026 taxable income, the more accurately you can size the purchase and structure it correctly.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Bonus depreciation rate by year (old vs. new law)</div><div class="sc-row"><span class="sc-label">2023 (old law)</span><span class="sc-track"><span class="sc-bar" style="width:80%"></span></span><span class="sc-val">80%</span></div><div class="sc-row"><span class="sc-label">2024 (old law)</span><span class="sc-track"><span class="sc-bar" style="width:60%"></span></span><span class="sc-val">60%</span></div><div class="sc-row"><span class="sc-label">2025 (new law)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">100%</span></div><div class="sc-row"><span class="sc-label">2026 (new law)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">100%</span></div><div class="sc-src">Source: OBBBA / IRS Reg. §1.168(k)-2</div></div>
-
 
 The OBBBA made this tool permanent, but the tax year doesn't wait. Equipment ordered today, delivered and operational before December 31, gives you a full deduction on a return you'll file in early 2027. That's a five-month window, and it's already shrinking. The businesses that benefit most from this provision aren't the ones who understand it best in theory. They're the ones who started the paperwork in August.
 

@@ -25,7 +25,7 @@ author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
 lastmod: 2026-07-08
 ---
-A surprisingly large number of small business owners run their company finances through a personal checking account for months, sometimes years, before realizing the damage it causes. I've seen it cost people thousands in accounting fees to untangle the mess before tax season arrives, and in a few cases, it's caused them to lose their legal liability protection entirely. Mixing personal and business money isn't just sloppy. It can pierce the corporate veil for LLCs and corporations, meaning your personal assets become fair game if your business gets sued. Opening a dedicated business bank account isn't optional. It's foundational.
+A surprisingly large number of small business owners run their company finances through a personal checking account for months, sometimes years, before realizing the damage it causes. Mixing personal and business finances can cost thousands in accounting fees to untangle before tax season and may cause loss of legal liability protection. Mixing personal and business money isn't just sloppy. It can pierce the corporate veil for LLCs and corporations, meaning your personal assets become fair game if your business gets sued. Opening a dedicated business bank account isn't optional. It's foundational.
 
 ---
 
@@ -150,7 +150,7 @@ Banks don't approve every application, and knowing the friction points saves tim
 
 ---
 
-Getting this right early is one of the highest-leverage things you can do for your business. A clean business account feeds clean books, clean books feed good decisions, and good decisions compound over time. Whether you're pre-revenue or already a few years in, the right time to set this up properly is today. And if you're unsure how your entity type affects your tax obligations or financial structure, bring a CPA into the conversation before you make any major moves. That conversation costs far less than fixing a mistake later.
+Setting up a business account early protects your finances and legal standing. A clean business account makes bookkeeping easier, which supports better financial decisions. Whether you're pre-revenue or already a few years in, the right time to set this up properly is today. And if you're unsure how your entity type affects your tax obligations or financial structure, bring a CPA into the conversation before you make any major moves. That conversation costs far less than fixing a mistake later.
 
 ## Sources & References
 

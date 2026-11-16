@@ -68,7 +68,7 @@ These are net figures after subtracting approximately $4,500 in average annual a
 
 Filing Form 2553 is one of those things that looks scarier than it is, but timing will absolutely make or break you.
 
-If you're a brand-new business and want S-corp treatment from day one, you need to file within 75 days of incorporation or formation. Miss that window and you're waiting until the following tax year, with one exception: the IRS does allow late elections under Revenue Procedure 2013-30, but you need a reasonable cause explanation and it's not automatic. I've helped clients navigate this, and the one detail nobody tells you upfront is that the form asks for the "effective date" of the election, which has to align with your intended tax year. Getting that date wrong causes the whole thing to kick in a year late.
+If you're a brand-new business and want S-corp treatment from day one, you need to file within 75 days of incorporation or formation. Miss that window and you're waiting until the following tax year, with one exception: the IRS does allow late elections under Revenue Procedure 2013-30, but you need a reasonable cause explanation and it's not automatic. One critical detail is that the form asks for the "effective date" of the election, which has to align with your intended tax year. Getting that date wrong causes the whole thing to kick in a year late.
 
 For an existing LLC electing S-corp status, you generally file Form 2553 by March 15 of the tax year you want it to apply to. So if you want S-corp treatment for 2026, you should have filed by March 15, 2026. If you're reading this in August 2026, you're likely looking at 2027 as your start date unless you pursue a late election.
 

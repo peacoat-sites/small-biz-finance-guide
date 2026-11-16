@@ -31,9 +31,7 @@ The actual number for tax year 2025 is 40%. For 2026, it's 20%. That's the traje
 
 To be clear: this article covers bonus depreciation as it applies to federal taxes in 2026, with notes on what's changed recently. Tax law is specific to your situation, so consult a CPA before making decisions based on this. But the concepts here are real, the numbers are accurate as of July 2026, and most of what you'll read elsewhere on this topic is either outdated or too vague to be useful.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Bonus depreciation is 20% for tax year 2026, down from 60% in 2024 and 100% before 2023.</li><li style="margin:5px 0">Section 179 remains at $1,220,000 for 2025 (indexed annually) and is often the better first move.</li><li style="margin:5px 0">Used property still qualifies for bonus depreciation if it's new to your business.</li><li style="margin:5px 0">The phase-out hits zero after 2026 unless Congress acts, making 2026 the last year it matters.</li><li style="margin:5px 0">Eligible property includes machinery, vehicles, computers, and certain qualified improvement property.</li></ul></div>
-
 
 ## What Bonus Depreciation Actually Does
 
@@ -47,13 +45,9 @@ That timing difference has real cash value. A dollar of deduction today is worth
 
 > **Helpful resource:** [The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's where I see [business owners](/sba-loans-now-require-100-us-citizenship-what-small-business-owners-mu/) make consistent mistakes. They plan equipment purchases without knowing where they are in the phase-down, and they leave money on the table.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Bonus Depreciation Rate by Tax Year</div><div class="sc-row"><span class="sc-label">2022</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">100%</span></div><div class="sc-row"><span class="sc-label">2023</span><span class="sc-track"><span class="sc-bar" style="width:80%"></span></span><span class="sc-val">80%</span></div><div class="sc-row"><span class="sc-label">2024</span><span class="sc-track"><span class="sc-bar" style="width:60%"></span></span><span class="sc-val">60%</span></div><div class="sc-row"><span class="sc-label">2025</span><span class="sc-track"><span class="sc-bar" style="width:40%"></span></span><span class="sc-val">40%</span></div><div class="sc-row"><span class="sc-label">2026</span><span class="sc-track"><span class="sc-bar" style="width:20%"></span></span><span class="sc-val">20%</span></div><div class="sc-src">Source: IRS Rev. Proc. 2019-33, TCJA 2017</div></div>
-
 
 The 2024 rate of 60% was genuinely significant. A business that bought $500,000 in qualifying equipment in 2024 could deduct $300,000 in that single year. That same purchase in 2026 yields only $100,000 in first-year bonus depreciation. Same equipment, same price, three times the immediate deduction just by buying two years earlier. That's the kind of math that should drive purchase timing conversations with your accountant.
 
@@ -66,7 +60,7 @@ The 2024 rate of 60% was genuinely significant. A business that bought $500,000 
 | 2026 | 20% | $100,000 |
 | 2027+ | 0% | $0 |
 
-I made the mistake of underestimating this phase-down early on, back when I was advising a landscaping company on a fleet expansion. We modeled the purchase for Q1 of the following year to align with their cash flow, not realizing the rate was dropping 20 percentage points in January. A three-month timing difference cost them roughly $28,000 in deductions. I don't forget that one.
+Timing matters significantly in this phase-down. A three-month difference in purchase timing can shift bonus depreciation rates by 20 percentage points or more, which can cost tens of thousands in lost deductions. Modeling purchases against both cash flow and the depreciation schedule is worth the extra step.
 
 ## Bonus Depreciation vs. Section 179: Pick the Right Tool
 
@@ -94,7 +88,7 @@ What doesn't qualify: buildings, land, property used outside the U.S., and prope
 
 The [U.S. Small Business Administration's tax planning resources](https://www.sba.gov/business-guide/manage-your-business/pay-taxes) are a decent starting point for understanding which asset categories your business likely deals with.
 
-Vehicle limitations are also real. Luxury auto caps apply to passenger vehicles, and they limit how much you can deduct in year one regardless of what bonus depreciation math would otherwise yield. Heavy SUVs (over 6,000 lbs. GVWR) are treated differently and often more favorably. I've seen business owners buy a specific truck model specifically because it hits the weight threshold. No comment on whether that's the right call, but people definitely do it.
+Vehicle limitations are also real. Luxury auto caps apply to passenger vehicles, and they limit how much you can deduct in year one regardless of what bonus depreciation math would otherwise yield. Heavy SUVs (over 6,000 lbs. GVWR) are treated differently and often more favorably. Some business owners choose vehicles primarily to meet the weight threshold and unlock more favorable deductions.
 
 ## The Congress Factor
 
@@ -115,7 +109,6 @@ If you're making a large capital purchase decision that hinges entirely on a fav
 - [Tax Foundation, "Bonus Depreciation" analysis](https://taxfoundation.org/taxedu/glossary/bonus-depreciation/): Independent policy analysis of the economic effects of accelerated depreciation provisions.
 
 ---
-
 
 *Photo: [olia danilevich](https://www.pexels.com/@olia-danilevich) via Pexels*
 

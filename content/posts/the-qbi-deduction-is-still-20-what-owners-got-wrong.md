@@ -20,9 +20,7 @@ Here's what actually happened. The One Big Beautiful Bill Act, signed into law a
 
 The bill that would actually raise the deduction to 23% is H.R. 8415, the [Small Business Tax](/small-business-tax-deductions/) Cut Act of 2026, introduced by Rep. David Kustoff in April 2026. As of August 2026, it has not passed. It is sitting in Congress, supported but unscheduled. The NFIB backed it in a letter to the House on April 23, 2026, calling it a benefit to "tens of millions of small businesses," and supporters are hoping to attach it to a future reconciliation bill before Congress adjourns. No timeline has been confirmed.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The QBI deduction rate is still 20% as of August 2026, not 23%.</li><li style="margin:5px 0">H.R. 8415 would raise QBI to 23%, but it has NOT yet become law.</li><li style="margin:5px 0">The One Big Beautiful Bill made the 20% deduction permanent but did not increase it.</li><li style="margin:5px 0">Q3 estimated taxes are due September 15, 2026. Plan based on 20%, not 23%.</li><li style="margin:5px 0">The Tax Foundation estimates the 23% increase would cost roughly $104 billion in federal revenue.</li></ul></div>
-
 
 ## Why This Confusion Is Costing Owners Real Money
 
@@ -35,8 +33,6 @@ More than 90% of U.S. businesses are structured as pass-throughs, meaning sole p
 ## What the Law Actually Says Right Now
 
 > **Helpful resource:** [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 The Section 199A deduction, as enacted in Pub. L. 119-21, lets eligible pass-through business owners deduct up to 20% of their qualified business income from their taxable income. The deduction is now permanent, which is genuinely good news after years of it being a temporary provision set to expire. But permanent at 20% is different from 23%, and anyone building a projection for the back half of 2026 needs to use the right number.
 
@@ -56,7 +52,7 @@ Rep. Kustoff introduced H.R. 8415 on April 21, 2026. The Tax Foundation estimate
 
 As Frazier & Deeter reported in June 2026, tax committee members are still actively pursuing the increase, and the NFIB's public backing gives it political wind. But "pursuing" and "enacted" are very different words. The supporters' best current strategy is attaching the provision to a future reconciliation package before Congress adjourns, and as of August 2026, there is no confirmed vehicle or vote date for that.
 
-I've seen owners make financial decisions based on legislation that was "expected to pass any day." Sometimes it does. Sometimes it doesn't for two more years. Plan your 2026 taxes on what is law, not what might be.
+Owners sometimes make financial decisions based on legislation that's expected to pass soon. Sometimes it does. Sometimes it doesn't for two more years. Plan your 2026 taxes on what is law, not what might be.
 
 ## How to Handle Your Q3 Estimates and Year-End Planning
 

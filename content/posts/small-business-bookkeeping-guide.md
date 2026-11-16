@@ -25,7 +25,7 @@ author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
 lastmod: 2026-07-08
 ---
-Most small business owners don't realize they have a bookkeeping problem until tax season hits and their accountant sends back a panicked email asking why there are eighteen months of unreconciled bank transactions. I've seen it happen to restaurant owners, freelance designers, contractors, even a dentist with a six-figure practice. The books were a mess, the CPA bill doubled because of cleanup work, and the owner had no real idea whether the business had been profitable for the past year. That's not a tax problem. It's a bookkeeping problem, and it starts long before April.
+Most small business owners don't realize they have a bookkeeping problem until tax season hits and their accountant flags unreconciled bank transactions spanning months. When books are disorganized, CPA bills often double due to cleanup work, and owners lack clarity on profitability. That's not a tax problem. It's a bookkeeping problem, and it starts long before April.
 
 ## Why Bookkeeping Is Not the Same Thing as Accounting
 
@@ -35,7 +35,7 @@ Bookkeeping is the daily discipline of recording transactions, categorizing inco
 
 Think of it this way: bookkeeping is setting the table. Accounting is cooking the meal.
 
-If you hand your CPA a disaster, they spend billable hours fixing your data instead of saving you money on taxes. Clean books going in means your CPA can focus on actual strategy. I've watched clients cut their annual accounting fees by 30 to 40 percent simply by getting their bookkeeping straight first.
+If you hand your CPA disorganized records, they spend billable hours fixing your data instead of analyzing tax strategy. Clean books mean your CPA can focus on actual savings. Well-maintained bookkeeping can reduce annual accounting fees by 30 to 40 percent.
 
 Bookkeeping isn't optional once you start taking money in. The IRS expects you to maintain adequate records. The U.S. Small Business Administration recommends keeping business financial records for at least three to seven years, depending on the type of document. That's not busywork. That's protection.
 

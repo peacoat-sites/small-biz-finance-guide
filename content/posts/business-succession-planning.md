@@ -31,7 +31,6 @@ Then I watched a client die. He was 61, ran a $4.2 million-a-year HVAC company o
 
 That's not an outlier. That's what happens when there's no plan.
 
-
 <div class="value-module">
  <div class="vm-head">Succession Readiness Self-Assessment Checklist</div>
  <div class="vm-body">
@@ -80,7 +79,7 @@ Selling to an outside buyer? You need to understand asset sales versus stock sal
 
 This is the part nobody wants to do because it requires admitting that you, the person who built this from nothing, are also the thing keeping it fragile.
 
-What struck me most when I started watching successful exits is how many transferable businesses shared one thing: documented systems. Not fancy ones. Checklists. SOPs. Org charts. A CRM with actual data in it. Financial statements a new owner could read without calling you every other day. If your business runs on what's in your head, you don't have a business. You have a job. Jobs don't sell for multiples.
+Successful exits tend to share one characteristic: documented systems. Not fancy ones. Checklists. SOPs. Org charts. A CRM with actual data in it. Financial statements a new owner could read without calling you every other day. A business that runs on what's in your head isn't really transferable. It's more like a job. Jobs don't sell for multiples.
 
 Start with your top 10 processes. Document them. Build a management layer that doesn't require you to sign off on every decision. This takes two to three years minimum. Not two weeks.
 
@@ -93,7 +92,6 @@ Five years before you want to exit. Three years if you're already organized and 
 Research on family versus outside sales is mixed on which performs better long-term, but what's clear is this: planned transitions outperform unplanned ones dramatically, regardless of who buys.
 
 ---
-
 
 ## Sources & References
 

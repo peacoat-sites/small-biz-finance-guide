@@ -89,7 +89,7 @@ One practical step before you apply: check your personal credit report at Annual
 
 ## Using Your Card the Right Way (This Part Most People Skip)
 
-Getting the card is the easy part. Using it in a way that actually helps your business is where discipline comes in. I've seen clients get a solid rewards card and then carry a balance month to month, effectively paying 22% interest on "rewards" that returned maybe 2%. The math doesn't work.
+Getting the card is the easy part. Using it in a way that actually helps your business is where discipline comes in. A common mistake is getting a solid rewards card and then carrying a balance month to month, effectively paying 22% interest on rewards that returned maybe 2%. The math doesn't work.
 
 **Pay the full balance every month if at all possible.** A business credit card is not a substitute for a line of credit or a business loan. If you find yourself regularly unable to pay in full, that's a cash flow problem that a card won't solve. It'll only make it worse.
 
@@ -118,7 +118,6 @@ A business credit card is one of the simplest tools available to you, but only w
 - [Amazon](https://www.amazon.com/s?k=small+business+bookkeeping+guide)
 - [Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20)
 - [Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

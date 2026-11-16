@@ -25,7 +25,7 @@ author_title: "CPA & Lead Editor"
 author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
 lastmod: 2026-07-08
 ---
-Most business owners I've worked with can tell me their revenue number almost to the dollar. Ask them their break-even point, and you get a pause, a guess, or a number they clearly just made up. That gap is expensive. You can run a profitable-looking business straight into a cash crisis if you don't know the exact threshold where your revenue stops losing money and starts making it. Break-even analysis is how you find that threshold, and it's one of the few financial tools that pays for itself the first time you use it.
+Many business owners can state their revenue number almost to the dollar. Ask them their break-even point, and you often get a pause, a guess, or a number that's clearly made up. That gap is expensive. You can run a profitable-looking business straight into a cash crisis if you don't know the exact threshold where your revenue stops losing money and starts making it. Break-even analysis is how you find that threshold, and it's one of the few financial tools that pays for itself the first time you use it.
 
 ## What Break-Even Analysis Actually Is (And What It Isn't)
 
@@ -68,7 +68,7 @@ The formula only works if you split your costs correctly. Most people mess this 
 
 **Variable costs** scale directly with production or sales. Raw materials, shipping, payment processing fees, sales commissions, per-unit packaging. Sell nothing, pay nothing. Sell a lot, pay more.
 
-Some costs blur the line. That's where you use your best judgment and revisit it later. A part-time employee you'd cut if sales dropped 40% is closer to variable. A manager you'd keep regardless is fixed. I've seen clients agonize over this categorization for hours when a reasonable approximation beats analysis paralysis every time.
+Some costs blur the line. That's where you use your best judgment and revisit it later. A part-time employee you'd cut if sales dropped 40% is closer to variable. A manager you'd keep regardless is fixed. A reasonable approximation beats endless analysis on this point.
 
 Here's a concrete example: A bakery has $8,000/month in fixed costs (rent, equipment loan, one full-time employee). Each custom cake sells for $80 and costs $20 in ingredients, packaging, and processing fees. The contribution margin is $60 per cake. Break-even: $8,000 / $60 = 134 cakes per month. That's the number that matters. Are they selling 134 cakes a month? If not, the math tells you something the revenue number alone never would.
 
@@ -109,7 +109,7 @@ The number itself is only the beginning. The real value is in what you do with i
 
 **New product or service lines.** Should you add a new offering? Run a break-even for it in isolation. If it has a strong contribution margin and doesn't require much fixed cost addition, it's likely worth pursuing. Weak margin, high fixed cost requirement? Think harder.
 
-**Fundraising and lending conversations.** Lenders want to understand your ability to service debt before they'll extend credit. A clean break-even analysis, with your current volume shown against your break-even threshold, is a fast, credible way to demonstrate you understand your own business. I've watched this single document change the tone of a loan conversation.
+**Fundraising and lending conversations.** Lenders want to understand your ability to service debt before they'll extend credit. A clean break-even analysis, with your current volume shown against your break-even threshold, is a fast, credible way to demonstrate you understand your own business. A clean break-even analysis can shift how lenders view your creditworthiness.
 
 **Scenarios and stress tests.** What happens to your break-even if rent goes up 20%? If a key supplier raises costs? Model it. Knowing your break-even is knowing how much cushion you actually have.
 
@@ -152,7 +152,6 @@ Knowing your break-even number won't save a bad business model, but not knowing 
 - [Profit First by Mike Michalowicz](https://www.amazon.com/Profit-First-Transform-Money-Making-Machine/dp/073521414X)
 - [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)
 - [AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 Most small business owners who get audited didn't do anything wrong. That's the part nobody tells you. They just looked wrong on paper, and that distinction matters enormously.
 
-I've spent nearly two decades helping entrepreneurs set up their books, and I can tell you that the IRS doesn't open an audit because an agent personally suspects you. It's largely algorithmic. The IRS uses a scoring system called DIF (Discriminant Function System) that compares your return against statistical norms for businesses in your industry and income bracket. Stray too far from the pattern, and a flag goes up. No human being decides to come after you. The math does.
+The IRS doesn't open an audit because an agent personally suspects you. It's largely algorithmic. The IRS uses a scoring system called DIF (Discriminant Function System) that compares your return against statistical norms for businesses in your industry and income bracket. Stray too far from the pattern, and a flag goes up. No human being decides to come after you. The math does.
 
 That's actually good news, because it means most audit triggers are predictable, and with a little attention, avoidable.
 
@@ -47,7 +47,7 @@ Restaurants, salons, contractors who take cash, freelancers paid in Venmo before
 
 The IRS has gotten notably better at matching 1099-K data from payment processors, and the threshold changes (though implementation has been delayed repeatedly) are tightening the net further. The [U.S. Small Business Administration's financial guidance](https://www.sba.gov/) won't save you here, but clean books will. If your reported income doesn't reconcile with what your bank deposits show, that's a problem regardless of whether the IRS ever looks.
 
-What most people don't realize is that the IRS also cross-references your income against industry benchmarks. A barbershop reporting $40,000 in annual revenue while operating in a location with $6,000/month in commercial rent is going to raise a question internally. I've seen clients genuinely confused by this because they kept perfect records on their own end. The issue isn't your records. It's that the external data doesn't fit the story your return tells.
+What most people don't realize is that the IRS also cross-references your income against industry benchmarks. A barbershop reporting $40,000 in annual revenue while operating in a location with $6,000/month in commercial rent is going to raise a question internally. A business owner with perfect records may still face questions if external data doesn't align with the return. The issue isn't your records. It's that the external data doesn't fit the story your return tells.
 
 ## Misclassifying Workers
 

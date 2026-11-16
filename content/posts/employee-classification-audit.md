@@ -28,7 +28,7 @@ lastmod: 2026-07-08
 
 Most business owners I sit down with don't realize they have a classification problem until someone else finds it for them. That someone is usually the IRS.
 
-An employee classification audit is essentially a formal examination of whether the people doing work for your business are labeled correctly: [employee versus independent contractor](/independent-contractor-vs-employee/). It sounds administrative. It isn't. Get it wrong and you're looking at back payroll taxes, penalties, and in some cases, benefit liabilities that can run into tens of thousands of dollars. I've seen a single misclassified worker cost a small business owner more than $40,000 in back taxes and penalties after a Department of Labor investigation. Not a big company. A landscaping operation with eleven workers.
+An employee classification audit is essentially a formal examination of whether the people doing work for your business are labeled correctly: [employee versus independent contractor](/independent-contractor-vs-employee/). It sounds administrative. It isn't. Get it wrong and you're looking at back payroll taxes, penalties, and in some cases, benefit liabilities that can run into tens of thousands of dollars. Misclassification can be expensive. A single misclassified worker might trigger back taxes and penalties in the tens of thousands of dollars after a Department of Labor investigation, even for a small operation.
 
 You might be wondering: "Am I actually at risk, or is this something that happens to other businesses?" Here's what I tell people: if you have 1099 contractors who work regular hours, use your equipment, follow your processes, and couldn't easily say no to your assignments, at least some of them are probably employees under federal rules. That's not a judgment call. That's the law as it currently stands.
 
@@ -43,8 +43,6 @@ What most people don't know: there's actually an IRS program called [Section 350
 ## How Worker Classification Is Actually Determined
 
 > **Helpful resource:** [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's where conventional wisdom gets people into trouble. A lot of business owners think that if someone signed a contract calling them an independent contractor, they're legally a contractor. That's wrong. The label you use in a contract is almost irrelevant. What matters is the economic reality of the relationship.
 
@@ -78,7 +76,7 @@ Here's how I walk clients through it:
 
 **Step 5: Document your reasoning going forward.** For any contractor you keep as a contractor, write a one-page memo to your file explaining why the classification holds up. Who are their other clients? Do they set their own hours? Do they use their own equipment? Future you will be grateful.
 
-**Worked examples from real situations I've seen:**
+**Worked examples:**
 
 Plumbing subcontractor setup (20 workers classified as 1099, all working exclusively for one contractor, using the contractor's vans, following dispatcher instructions) → Owner self-audited, worked with a CPA to use the VCSP → Settled the federal liability for approximately 10% of back FICA taxes on the most recent year, reclassified workers going forward, avoided a DOL investigation.
 
@@ -107,7 +105,6 @@ If you want to get into the weeds on the legal framework, [*The Employer's Legal
 - IRS Form SS-8: Determination of Worker Status for Purposes of Federal Employment Taxes and Income Tax Withholding.
 
 ---
-
 
 ---
 

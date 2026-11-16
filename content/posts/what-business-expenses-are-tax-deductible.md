@@ -27,7 +27,7 @@ faqs:
 
 Most small business owners leave somewhere between $3,000 and $10,000 on the table every single year. Not because the deductions don't exist, but because nobody ever sat down and walked them through what actually qualifies.
 
-I've been doing this for 18 years. I've seen six-figure earners hand the IRS money they didn't owe because their records were a mess or they were too nervous to claim something they weren't sure about. And I've seen the opposite, people claiming deductions they had no business claiming and ending up in a very uncomfortable conversation with an auditor. Both situations are avoidable.
+Six-figure earners sometimes hand the IRS money they didn't owe because their records are a mess or they're too nervous to claim something they aren't sure about. Others claim deductions they have no business claiming and end up in uncomfortable conversations with auditors. Both situations are avoidable.
 
 Here's what I tell people when they sit down across from me for the first time: the IRS isn't your enemy on this. The tax code was written, partly, to let businesses deduct what it costs to run them. That's not a loophole. That's the law working as intended.
 
@@ -39,7 +39,7 @@ The IRS defines a deductible business expense as one that is "ordinary and neces
 
 "Ordinary" means it's common and accepted in your industry. A photographer buying a camera is ordinary. A photographer buying a kayak is probably not, unless they shoot river expeditions for a living. "Necessary" doesn't mean indispensable. It means appropriate and helpful for your business. You don't have to prove you'd go under without it.
 
-Where I see people get tripped up is assuming that "necessary" means "required." I made this mistake myself early on when I was advising a freelance consultant who was paying for a premium project management tool. She thought she couldn't deduct it because she "could have used a free version." Wrong. The fact that a cheaper option existed doesn't make the expense non-deductible. What matters is whether it was legitimately used for business.
+A common mistake is assuming that "necessary" means "required." For example, a freelancer paying for a premium project management tool might think it's not deductible because a free version exists. That's wrong. The fact that a cheaper option existed doesn't make the expense non-deductible. What matters is whether it was legitimately used for business.
 
 The [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed) has a readable breakdown of this if you want the source document. It's not exactly page-turning, but it's clear enough.
 
@@ -84,7 +84,7 @@ People ask me all the time about the home office deduction vs. renting outside s
 | Meals (business) | 50% of actual cost | Claiming 100% or personal meals | Client entertainment, working lunches |
 | Section 179 equipment | Up to $1,220,000 in 2026 | Not documenting business use | Any capital purchase that year |
 
-These numbers come from my own estimates based on IRS Publication 535 guidance and patterns I've seen across small service businesses, not a formal study. Your actual numbers will vary. Treat them as directional, not gospel.
+These numbers are estimates based on IRS Publication 535 guidance and common patterns in small service businesses, not a formal study. Your actual numbers will vary. Treat them as directional, not gospel.
 
 ## Three Worked Examples
 
@@ -94,7 +94,7 @@ Result: $6,089 in deductions, potentially saving $1,461 in federal taxes at a 24
 
 **Scenario 2:** A food truck owner with $47,000 in gross revenue. No separate accounting. At tax time, she remembers only a few big purchases.
 Action: Retroactively reconstructs records using bank statements and Square transaction history. Finds $18,300 in deductible expenses she'd overlooked.
-Result: Taxable income drops from $47,000 to $28,700. Tax liability falls by roughly $4,400. This is a real pattern I've seen more than a dozen times.
+Result: Taxable income drops from $47,000 to $28,700. Tax liability falls by roughly $4,400.
 
 **Scenario 3:** A two-person consulting firm pays $6,000 in annual premiums for professional liability insurance, $4,800 in contractor fees (properly 1099'd), and $2,400 in LinkedIn Premium subscriptions for lead generation.
 Action: All three are claimed as ordinary business expenses.
@@ -104,9 +104,9 @@ Result: $13,200 in clean deductions. The firm's accountant initially questioned 
 
 Startup costs are one of the most common areas where I see brand-new business owners trip themselves up. Before your business is "open," meaning actively operating and generating revenue, expenses you incur are startup costs, not regular operating deductions. They're treated differently. You can deduct up to $5,000 in startup costs in your first year of operation, with the rest amortized over 180 months. Miss this distinction and you either claim too much, too soon, or too little, over too long.
 
-The other thing: personal expenses are not deductible even if you use them occasionally for work. Your Netflix subscription is not a business expense because you once watched a documentary that gave you an idea for a client presentation. I don't make the rules. But I've seen that exact argument made in front of an auditor, and it does not land well.
+Personal expenses are not deductible even if you use them occasionally for work. Your Netflix subscription is not a business expense because you watched a documentary that gave you an idea for a client presentation. That argument doesn't hold up in front of an auditor.
 
-According to the [U.S. Small Business Administration](https://www.sba.gov/), poor financial recordkeeping is one of the leading contributors to small business tax errors, both underpayments and overpayments. Keeping a separate business bank account and credit card is the single highest-leverage move you can make before worrying about any specific deduction. If your business and personal finances share an account, you're going to miss deductions because you can't see them clearly, and you're going to create headaches if anyone ever examines your records.
+According to the [U.S. Small Business Administration](https://www.sba.gov/), poor financial recordkeeping is one of the leading contributors to small business tax errors, both underpayments and overpayments. Keeping a separate business bank account and credit card is the most important step you can take before worrying about any specific deduction. If your business and personal finances share an account, you're going to miss deductions because you can't see them clearly, and you're going to create headaches if anyone ever examines your records.
 
 A book that's actually useful here, not just theoretical, is *[Profit First by Mike Michalowicz](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=contentportfo-20)* (Amazon, affiliate link). It's not specifically about tax deductions, but the account structure it recommends naturally separates business income and expenses in a way that makes deduction tracking infinitely cleaner.
 

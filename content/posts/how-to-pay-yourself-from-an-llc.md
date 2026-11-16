@@ -35,7 +35,7 @@ Let me fix that.
 
 Single-member LLC with no special election? The IRS calls you a "disregarded entity" by default. You are not on your company's payroll. You don't cut yourself a paycheck. You take what are called owner's draws, and the entire net profit of the business flows through to your personal tax return on Schedule C, whether you actually moved that money into your personal account or not.
 
-This is the part that bites people. I've seen business owners leave $40,000 sitting in their business checking account all year, genuinely believing they don't owe taxes on it because they "didn't pay themselves." The IRS doesn't see it that way. Every dollar the business earns is your income the moment it's earned, not the moment you transfer it.
+This is the part that bites people. A common mistake is leaving business income sitting in a business checking account all year while believing no taxes are owed because the owner "didn't pay themselves." The IRS doesn't see it that way. Every dollar the business earns is your income the moment it's earned, not the moment you transfer it.
 
 Multi-member LLC? Same basic principle, but your share of profits flows through on a K-1, and you file Schedule E. Still no paycheck.
 
@@ -46,8 +46,6 @@ If you've never filed Form 2553 and nobody's mentioned it to you, you're probabl
 ## Owner's Draws: The Default Path
 
 > **Helpful resource:** [QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 For most single-member and multi-member LLCs, the mechanics of paying yourself are genuinely simple, almost anticlimactically so. You transfer money from your business bank account to your personal bank account. That's it. No payroll software. No withholding. No forms filed in the moment.
 
@@ -107,7 +105,6 @@ The Consumer Financial Protection Bureau's small business resources have helpful
 If you want a solid foundational book on small business finances, Mike Piper's *Accounting Made Simple* (available on Amazon, the site may earn a small commission) has been around for years and remains one of the clearest explanations of the basic mechanics for non-accountants.
 
 ---
-
 
 ---
 

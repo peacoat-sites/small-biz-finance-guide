@@ -37,7 +37,7 @@ I'll be honest: when I first started recommending PEOs to clients about eight ye
 
 A Professional Employer Organization enters into a "co-employment" relationship with your business. They become the employer of record for tax and benefits purposes. You remain the worksite employer, meaning you still decide who you hire, what they do, what you pay them, and when they're let go. The PEO just handles the administrative machinery: payroll processing, W-2 filing, benefits administration, workers' comp, and HR compliance.
 
-What they don't do: manage your people. They don't set your culture, make hiring decisions, or tell your team what to work on. I've had clients worry they were somehow surrendering control of their business. That's not how it works. Think of it like outsourcing your accounting function but still running your business strategy. The PEO is back-office infrastructure, not management.
+What they don't do: manage your people. They don't set your culture, make hiring decisions, or tell your team what to work on. Business owners sometimes worry they're surrendering control of their business. That's not how it works. Think of it like outsourcing your accounting function but still running your business strategy. The PEO is back-office infrastructure, not management.
 
 The mechanics work like this. Once you sign on, your employees technically become co-employed by the PEO. The PEO runs payroll, files all employer-side taxes (FUTA, SUTA, FICA), manages benefits enrollment, and handles workers' comp claims. You get a single invoice, usually bi-weekly or monthly, covering wages plus the PEO's fee. The [U.S. Small Business Administration](https://www.sba.gov/) actually references PEOs in its HR guidance as a legitimate option for small businesses that can't support a full internal HR function.
 
@@ -58,7 +58,7 @@ A client of mine, a Denver-based residential cleaning company with 18 employees,
 
 That's a pattern I see consistently. The sticker price on a PEO looks like an added cost until you add up what you're currently spending to get worse service.
 
-NAPEO's own benchmarking data puts the average HR admin savings at around 35% when comparing PEO clients to similarly-sized businesses managing HR internally. I don't have perfect independent verification of that figure (it's NAPEO's own survey, so take it as directional, not gospel), but it lines up with what I've seen in practice.
+NAPEO's own benchmarking data puts the average HR admin savings at around 35% when comparing PEO clients to similarly-sized businesses managing HR internally. NAPEO's survey should be taken as directional rather than definitive.
 
 ## Which PEO to Actually Consider
 
@@ -82,7 +82,7 @@ The [IRS small business tax center](https://www.irs.gov/businesses/small-busines
 
 ## What the Transition Actually Looks Like
 
-Here's what I wish someone had told me when I first walked a client through a PEO transition: it takes longer than you expect, and the first payroll run is the anxiety-producing moment.
+PEO transitions typically take longer than expected, and the first payroll run is often the most anxiety-producing moment.
 
 Typical onboarding runs 4 to 6 weeks. You'll spend the first two weeks gathering documents: employee I-9s, existing benefits information, state tax registration numbers, workers' comp history. The PEO will want loss run reports from your current workers' comp insurer, and if you've had claims, they'll review them carefully. Assume it'll take you about 40 minutes per employee to gather everything correctly. For a 15-person company, that's a meaningful lift. Build it into your calendar.
 

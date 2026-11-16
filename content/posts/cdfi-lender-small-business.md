@@ -37,7 +37,7 @@ They're not charities. They're not grants. They're real lenders with real underw
 
 The Treasury's CDFI Fund was created in 1994. Today there are more than 1,400 certified CDFIs operating across the country. Some focus on specific geographies: rural Appalachia, inner-city neighborhoods, post-industrial towns. Some focus on specific borrower types: minority-owned businesses, women entrepreneurs, returning citizens trying to rebuild after incarceration. Some lend across the board to anyone who can't get a conventional loan.
 
-I've seen clients come in convinced their only options were a high-interest online lender or a credit card cash advance. When we found the right CDFI for their situation, the difference in terms was significant enough to change their entire business trajectory. The gap between a 24% [merchant cash advance](/merchant-cash-advance-risks/) and a 12% CDFI term loan isn't just better math. It's the difference between treading water and actually growing.
+I've seen clients come in convinced their only options were a high-interest online lender or a credit card cash advance. When we found the right CDFI for their situation, the difference in terms was significant enough to change their entire business trajectory. The gap between a 24% [merchant cash advance](/merchant-cash-advance-risks/) and a 12% CDFI term loan affects cash flow enough to change whether a business can invest in growth.
 
 ## How CDFI Loans Differ From Bank Loans
 

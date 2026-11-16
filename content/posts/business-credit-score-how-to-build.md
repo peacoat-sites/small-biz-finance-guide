@@ -99,7 +99,7 @@ Here's a practical sequence. It's not instant, but it's logical.
 - Add additional trade lines as your business spending grows naturally
 - Consider a small business bank credit line if your bank offers one after seeing 6 to 12 months of account history
 
-This progression isn't glamorous, but I've watched clients go from no business credit file to a solid PAYDEX score in under a year by following it consistently. The [U.S. Small Business Administration](https://www.sba.gov/) also offers guidance on building business creditworthiness, and [SCORE's free mentorship resources](https://www.score.org/) can pair you with an advisor who's helped other business owners through exactly this process.
+This progression isn't glamorous, but following it consistently can move a business from no credit file to a solid PAYDEX score in under a year. The [U.S. Small Business Administration](https://www.sba.gov/) also offers guidance on building business creditworthiness, and [SCORE's free mentorship resources](https://www.score.org/) can pair you with an advisor who's helped other business owners through exactly this process.
 
 ## What Kills Your Business Credit Score (And What Doesn't Matter As Much As You Think)
 

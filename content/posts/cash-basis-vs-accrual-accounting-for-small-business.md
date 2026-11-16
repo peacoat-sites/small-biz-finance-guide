@@ -31,15 +31,13 @@ Cash basis accounting records money when it moves: you send an invoice, you don'
 
 The reason this choice matters more than most [small business owners](/sba-loans-now-require-100-us-citizenship-what-small-business-owners-mu/) realize: it directly shapes what your financial statements tell you. And if your statements are lying to you, every decision you make from them is built on sand.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Cash basis is simpler and shows actual cash on hand; accrual shows true economic performance.</li><li style="margin:5px 0">Businesses with over $30 million in average annual gross receipts (3-year average) are generally required by the IRS to use accrual.</li><li style="margin:5px 0">Accrual accounting is required if you carry inventory and have revenues over $1 million, with narrow exceptions.</li><li style="margin:5px 0">Switching from cash to accrual requires IRS Form 3115 and can trigger a one-time income adjustment.</li><li style="margin:5px 0">Most service businesses under $5 million in annual revenue do fine on cash basis; product businesses almost always need accrual.</li></ul></div>
-
 
 ## What Each Method Actually Shows You
 
 Here's a concrete example, the kind that makes this click.
 
-A client of mine, a marketing consultant in Austin, billed $22,000 in December. Her clients paid in January. On cash basis, her December looked like a bad month. On accrual, it was her best month of the year. Same business, same work, opposite story depending on method.
+For example, a marketing consultant might bill $22,000 in December but not receive payment until January. On cash basis, December looks like a bad month. On accrual basis, it's her best month of the year. Same business, same work, opposite story depending on method.
 
 Scenario: Consultant bills $22,000 in December, collects in January. Cash basis P&L → December shows near-zero revenue, January shows $22,000 spike. Accrual P&L → December shows $22,000 earned, January shows normal cash inflow. Result: Accrual gives a cleaner picture of business performance; cash basis creates artificial volatility.
 
@@ -51,15 +49,13 @@ The flip side: cash basis tells you something accrual doesn't, which is exactly 
 
 > **Helpful resource:** [Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 As of July 2026, the IRS rules on this are clear enough, though the thresholds have shifted over the years and people still cite outdated numbers.
 
 If your business is a C corporation or a partnership with a C corporation partner, and your average annual gross receipts over the prior three years exceed $30 million, you're required to use accrual. If you're a smaller pass-through entity (S corp, [sole proprietorship](/llc-vs-sole-proprietorship-taxes/), partnership of individuals), the threshold is the same $30 million for the accrual requirement, but there's an important carve-out for businesses that carry inventory.
 
 The inventory rule is where people get tripped up. The IRS historically required businesses with inventory to use accrual if revenues exceeded $1 million, though the Tax Cuts and Jobs Act raised the threshold significantly and created exceptions. My honest advice: if you sell physical products, don't try to self-interpret this. Sit down with a CPA who works with product businesses. The [U.S. Small Business Administration (SBA)](https://www.sba.gov/) has basic guidance on accounting methods that's worth a read, but tax elections with inventory get specific fast.
 
-I've seen business owners make the wrong election, keep the wrong records for three years, and then face a messy Form 3115 correction right before they tried to sell the company. It's not catastrophic, but it's the kind of thing that kills deal timing.
+Business owners who make the wrong election and keep the wrong records for three years may face a Form 3115 correction right before a sale. This kind of issue can disrupt deal timing.
 
 ## Side-by-Side: How the Two Methods Compare
 
@@ -103,9 +99,9 @@ The [Consumer Financial Protection Bureau's small business resources](https://ww
 
 Businesses that sell physical goods and carry inventory on their balance sheet are in a different situation. Inventory accounting under cash basis can distort your costs significantly, because you might pay for 500 units in March, sell them through September, but under cash basis you'd expense everything in March. That mismatch between cost recognition and revenue recognition is exactly what accrual fixes.
 
-I made this mistake myself early in my career when I was helping a client who sold specialty food products. We had her on cash basis, revenues were under the old threshold, and technically it was defensible. But her margins looked terrible in Q1 every year (when she stocked up) and artificially great in Q4. She was making purchasing decisions based on those distorted margins. Switching her to accrual clarified the picture in about 90 days of adjusted statements. Her actual margin was steadier than she thought, and she stopped panic-discounting in Q1.
+A specialty food business on cash basis might show terrible margins in Q1 (when stocking up) and artificially great margins in Q4. This distortion can lead to poor purchasing decisions. Switching to accrual basis reveals the true picture: margins are steadier than they appear on cash basis, which eliminates the pressure to panic-discount in Q1.
 
-If you want to go deeper on the accounting mechanics here, Mike Piper's *[Accounting Made Simple](https://www.amazon.com/Accounting-Made-Simple-Explained-Pages/dp/0981454224?tag=contentportfo-20)* (Amazon, note the site may earn a commission) is genuinely the most painless explanation of these concepts I've seen in print. Not a textbook. Doesn't read like one.
+For a deeper dive into accounting mechanics, Mike Piper's *[Accounting Made Simple](https://www.amazon.com/Accounting-Made-Simple-Explained-Pages/dp/0981454224?tag=contentportfo-20)* (Amazon, note the site may earn a commission) explains these concepts clearly without textbook jargon.
 
 ## Sources
 
@@ -116,7 +112,6 @@ If you want to go deeper on the accounting mechanics here, Mike Piper's *[Accoun
 - Mike Piper, *Accounting Made Simple* (2013): Plain-language explanation of cash vs. accrual mechanics, widely used by small business owners and their advisors.
 
 ---
-
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

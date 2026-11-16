@@ -25,7 +25,7 @@ faqs:
     a: "No, these are two separate deductions. The SE tax deduction (half of SE tax, from Schedule 1) reduces your AGI. The Qualified Business Income (QBI) deduction, when you qualify, reduces your taxable income by up to 20% of qualified business income. They stack. You can take both if you're eligible, and the SE tax deduction actually slightly increases your QBI deduction because it lowers the income figure used in the QBI calculation. A CPA can confirm what applies to your specific situation."
 ---
 
-15.3%. That's the self-employment tax rate, and it hits you on every dollar of net profit before you've paid a cent of income tax. Most new freelancers don't see it coming. I've watched otherwise sharp business owners stare at their first quarterly estimate like it's written in a foreign language, because nobody warned them that going solo means you're now paying both sides of Social Security and Medicare yourself.
+15.3%. That's the self-employment tax rate, and it hits you on every dollar of net profit before you've paid a cent of income tax. Most new freelancers don't see it coming. Going solo means you're now paying both sides of Social Security and Medicare yourself.
 
 Let me back up and make this concrete.
 
@@ -43,8 +43,6 @@ One thing I tell every client when they first file: the SE tax is based on 92.35
 
 > **Helpful resource:** [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 The 15.3% rate isn't monolithic. It has two pieces, and the Social Security piece has a ceiling.
 
 | Component | Rate | 2026 Wage Base Cap | Notes |
@@ -57,13 +55,11 @@ The 15.3% rate isn't monolithic. It has two pieces, and the Social Security piec
 
 The Social Security wage base for 2026 is $176,100, which the IRS adjusts annually for inflation. If you earn more than that from self-employment (or a combination of wages and self-employment), you stop paying the 12.4% Social Security portion on amounts above the cap, and only pay the 2.9% Medicare piece. High earners often forget that the Additional Medicare Tax of 0.9% kicks in above $200,000 for single filers and $250,000 for married filing jointly, it's not built into SE tax, but it does show up on your return.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Effective SE Tax Burden by Net Income Level</div><div class="sc-row"><span class="sc-label">$30,000 net</span><span class="sc-track"><span class="sc-bar" style="width:16%"></span></span><span class="sc-val">$4,239</span></div><div class="sc-row"><span class="sc-label">$60,000 net</span><span class="sc-track"><span class="sc-bar" style="width:33%"></span></span><span class="sc-val">$8,478</span></div><div class="sc-row"><span class="sc-label">$100,000 net</span><span class="sc-track"><span class="sc-bar" style="width:54%"></span></span><span class="sc-val">$14,130</span></div><div class="sc-row"><span class="sc-label">$176,100 net</span><span class="sc-track"><span class="sc-bar" style="width:96%"></span></span><span class="sc-val">$24,895</span></div><div class="sc-row"><span class="sc-label">$200,000 net</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$25,962</span></div><div class="sc-src">Source: IRS Publication 334 &amp; 2026 rate schedule</div></div>
-
 
 ## The Deduction Most People Miss
 
-Here's where I've seen people leave real money on the table. You can deduct half of your SE tax when calculating your adjusted gross income (AGI). Not as a business expense on Schedule C, on Schedule 1, Line 15, as an "above the line" deduction.
+You can deduct half of your SE tax when calculating your adjusted gross income (AGI). Not as a business expense on Schedule C, on Schedule 1, Line 15, as an "above the line" deduction.
 
 I thought for the first year I was self-employed that this was some obscure workaround. It's not. It's written directly into the tax code (IRC Section 164(f)), and it's the IRS acknowledging that employers get to deduct their share of FICA as a business expense, so the self-employed should get the same treatment on their half.
 
@@ -77,7 +73,7 @@ The due dates for 2026 are: April 15, June 16, September 15, and January 15, 202
 
 The safest method: calculate 100% of last year's total tax liability and divide by four. Pay that, and you're covered under the IRS safe harbor rule, regardless of how much you actually earn this year. If your income grew significantly, this can leave you underpaying, but you won't face a penalty. (If your prior year AGI was above $150,000, the safe harbor is 110% of last year's tax, not 100%.)
 
-A reader named Dominique emailed me last spring after getting a $340 underpayment penalty she didn't see coming. She'd paid a lump sum on April 15 for the prior year's taxes but hadn't made any quarterly payments for the current year. She was technically current on one year but behind on the next. The IRS sees these as completely separate obligations. Easy mistake. Expensive one.
+For example, paying a lump sum on April 15 for the prior year's taxes while making no quarterly payments for the current year can result in an underpayment penalty. The IRS treats each year as a completely separate obligation, so you can be current on one year while behind on the next.
 
 ## Three Real Scenarios
 
@@ -89,7 +85,7 @@ A reader named Dominique emailed me last spring after getting a $340 underpaymen
 
 ## What the Software Gets Wrong
 
-Most tax software handles Schedule SE fine for straightforward situations. Where I've seen errors: when someone has both W-2 income and self-employment income and doesn't realize the software needs both numbers to calculate the reduced SE tax correctly. TurboTax and H&R Block both have this functionality, but you have to enter your W-2 first. The order matters. If you enter SE income in isolation and plan to add the W-2 later, the SE tax estimate in the summary screen will be wrong.
+Most tax software handles Schedule SE fine for straightforward situations. Errors often occur when someone has both W-2 income and self-employment income and doesn't realize the software needs both numbers to calculate the reduced SE tax correctly. TurboTax and H&R Block both have this functionality, but you have to enter your W-2 first. The order matters. If you enter SE income in isolation and plan to add the W-2 later, the SE tax estimate in the summary screen will be wrong.
 
 If you want to understand the underlying mechanics before sitting down with software, the IRS's own Publication 334 (Tax Guide for Small Business) is genuinely readable. And SCORE's [mentorship resources](https://www.score.org/) include tax prep guides that are free and not trying to sell you anything.
 
@@ -104,7 +100,6 @@ For deeper reading, Mike Piper's *Taxes Made Simple* (available [on Amazon](http
 - [Consumer Financial Protection Bureau small business resources](https://www.consumerfinance.gov/): General financial planning guidance for independent workers
 
 ---
-
 
 ---
 

@@ -18,7 +18,7 @@ The Senate took it away. Now Congress wants it back, and this time they're askin
 
 ## What the Numbers Actually Look Like
 
-I'll be honest: when I first saw "a 3% increase in the QBI deduction," my eyes almost glazed over. Three percent sounds like rounding error. But the mechanics matter here, so let's slow down.
+A 3% increase in the QBI deduction can sound like a rounding error at first glance. But the mechanics matter here, so let's slow down.
 
 The Section 199A deduction doesn't work like a tax credit. It reduces your *taxable income*, and its value depends entirely on your marginal rate. If you're a sole proprietor with $150,000 in qualified business income, here's the concrete difference this bill would make:
 
@@ -33,8 +33,6 @@ That $4,500 in additional deduction is real money coming off the top of your tax
 ## The Political Story Behind This Bill
 
 > **Helpful resource:** [Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 What surprised me most when I dug into this is that H.R. 8415 isn't a fresh idea. It's a comeback attempt.
 
@@ -54,7 +52,7 @@ The research on whether this kind of pass-through deduction meaningfully stimula
 
 ## What You Should Actually Do Right Now
 
-This is where I want to be direct with you, because I've seen owners make two opposite mistakes with pending legislation: they either ignore it until it's too late to plan, or they restructure their entire business around a bill that never passes.
+Business owners often make two opposite mistakes with pending legislation: they either ignore it until it's too late to plan, or they restructure their entire business around a bill that never passes.
 
 Don't do either.
 
@@ -64,9 +62,7 @@ Per [Frazier & Deeter's June 2026 analysis](https://www.frazierdeeter.com/insigh
 
 Talk to your CPA or tax advisor before year-end. Specifically, ask them to model two scenarios: your 2027 tax picture at 20% and at 23%. The difference in your case might be modest or it might be significant enough to inform decisions about entity structure, owner compensation, or retirement contributions. Professional consultation here isn't optional. These rules have enough phase-outs, limitations, and income thresholds that a generic answer is genuinely dangerous.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">QBI Deduction Amount by Income Level (20% vs 23%)</div><div class="sc-row"><span class="sc-label">$75K QBI @ 20%</span><span class="sc-track"><span class="sc-bar" style="width:22%"></span></span><span class="sc-val">$15,000</span></div><div class="sc-row"><span class="sc-label">$75K QBI @ 23%</span><span class="sc-track"><span class="sc-bar" style="width:25%"></span></span><span class="sc-val">$17,250</span></div><div class="sc-row"><span class="sc-label">$150K QBI @ 20%</span><span class="sc-track"><span class="sc-bar" style="width:43%"></span></span><span class="sc-val">$30,000</span></div><div class="sc-row"><span class="sc-label">$150K QBI @ 23%</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">$34,500</span></div><div class="sc-row"><span class="sc-label">$300K QBI @ 20%</span><span class="sc-track"><span class="sc-bar" style="width:87%"></span></span><span class="sc-val">$60,000</span></div><div class="sc-row"><span class="sc-label">$300K QBI @ 23%</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$69,000</span></div><div class="sc-src">Source: H.R. 8415 / Congress.gov, April 2026</div></div>
-
 
 The bottom line here is straightforward: this is a real bill with real advocacy muscle behind it, a specific dollar number attached to it, and a clear reason it failed once before. Whether it passes in 2026 is genuinely uncertain. Whether you should understand how it would affect your specific situation is not uncertain at all. You should, and you should start now.
 

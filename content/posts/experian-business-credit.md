@@ -48,15 +48,13 @@ Experian's primary business credit score is called the **Intelliscore Plus**, wh
 
 Here's what trips people up: Experian also generates a **Business Credit Score** (separate from Intelliscore) and a **Financial Stability Risk rating** that predicts the likelihood your business will go severely delinquent or fail in the next 12 months. A lot of business owners have no idea this second score exists, but commercial lenders absolutely look at it.
 
-I've had clients with a decent Intelliscore get flagged on the Financial Stability Risk side because of industry classification or geographic risk factors, things that had nothing to do with their actual payment behavior. If you've been turned down for credit and you can't figure out why, this is one place to look.
+A business can have a decent Intelliscore but still get flagged on the Financial Stability Risk side because of industry classification or geographic risk factors, things that have nothing to do with actual payment behavior. If you've been turned down for credit and you can't figure out why, this is one place to look.
 
 ---
 
 ## How Your Business Credit File Gets Built
 
 > **Helpful resource:** [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Your Experian business file is fed by a handful of data sources: vendors and suppliers who report to Experian, financial institutions, court records (UCC filings, tax liens, judgments), and collection agencies. Experian also pulls some public data on its own.
 
@@ -76,7 +74,7 @@ You can get a one-time business credit report through Experian's site for a smal
 
 The [U.S. Small Business Administration (https://www.sba.gov/)](https://www.sba.gov/) recommends checking all three major business credit bureaus before applying for any SBA loan or major financing, and I'd agree. Don't just pull Experian. A lender might be looking at your D&B Paydex score, your Equifax Business Credit Score, and your Intelliscore all at once.
 
-One thing I always tell people: review your report for errors before anyone else does. I've seen incorrect industry codes, wrong addresses, and even accounts belonging to similarly named businesses show up on client reports. Disputing errors on a business credit report isn't as tightly regulated as the consumer process, but Experian does have a dispute process. Use it.
+Review your report for errors before anyone else does. Business credit reports can contain incorrect industry codes, wrong addresses, and even accounts belonging to similarly named businesses. Disputing errors on a business credit report isn't as tightly regulated as the consumer process, but Experian does have a dispute process. Use it.
 
 ---
 
@@ -94,7 +92,7 @@ High credit utilization hurts business credit the same way it hurts personal. If
 
 ## The Separation Question Everyone Gets Wrong
 
-Here's what I thought for years before I understood how this actually works: I assumed that once you formed an LLC and got an EIN, your business credit was automatically separate from your personal credit. Wrong.
+Forming an LLC and getting an EIN does not automatically separate your business credit from your personal credit.
 
 Experian Business does not use your personal Social Security number as the primary identifier. It uses your EIN, business name, and business address. But many lenders, particularly small business card issuers, still do a personal credit pull AND look at your business profile. The two systems aren't completely siloed in practice, especially for businesses under two or three years old.
 
@@ -113,7 +111,6 @@ What you can do: be deliberate about applying for credit products that report on
 - [Federal Reserve Small Business Credit Survey (2025)](https://www.fedsmallbusiness.org/): Annual data on how small businesses access credit and where they encounter friction.
 
 ---
-
 
 ---
 

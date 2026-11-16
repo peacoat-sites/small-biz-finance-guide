@@ -90,7 +90,7 @@ Two realistic paths exist. Software, or outsource it.
 
 **DIY payroll software** like QuickBooks Payroll, Gusto, or OnPay calculates taxes automatically, spits out pay stubs, and handles deposits and filings for you. Gusto is what I see most small business owners start with, and for one to five employees it's genuinely hard to beat. Their Simple plan costs about $40 per month plus $6 per employee per month as of 2024. It files your quarterly 941s, your annual 940, and your year-end W-2s. For most people in this position, that $46 a month is money well spent.
 
-**Full-service payroll companies** like ADP or Paychex might appeal if you're scaling fast or want a dedicated rep, but pricing isn't always transparent, and I've watched business owners get stuck on plans costing $150 to $200 a month for a single employee without fully understanding why. Unless you have a specific reason to go that direction, skip it for now.
+**Full-service payroll companies** like ADP or Paychex might appeal if you're scaling fast or want a dedicated rep, but pricing isn't always transparent, and plans can cost $150 to $200 a month for a single employee without clear justification for the expense. Unless you have a specific reason to go that direction, skip it for now.
 
 **Doing it completely yourself** is legal, but only if you've got an accountant handling all the filings and you actually understand payroll tax mechanics. Miss one deposit deadline and you're looking at a 2% to 15% penalty depending on how late you are. The IRS isn't flexible about this.
 

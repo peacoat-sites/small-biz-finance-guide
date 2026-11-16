@@ -14,13 +14,13 @@ slug: "section-179-deduction-guide"
 affiliate_disclosure: true
 lastmod: 2026-07-08
 ---
-Most small business owners hear "Section 179" for the first time from their accountant in December, usually right before they make a panicked equipment purchase they half-regret by February. I've watched this happen more times than I can count. And honestly, the scramble is usually unnecessary, if you understood how this deduction actually works, you'd plan for it in January instead of racing to a dealer lot on December 28th.
+Most small business owners hear "Section 179" for the first time from their accountant in December, usually right before they make a panicked equipment purchase they half-regret by February. The scramble is usually unnecessary. Understanding how this deduction works lets you plan for it in January instead of racing to a dealer lot on December 28th.
 
 So let's fix that.
 
 Section 179 is a provision in the U.S. tax code that lets you deduct the full purchase price of qualifying business equipment or software in the year you buy it, rather than depreciating it over five or seven years. For a business that just spent $40,000 on a commercial oven, a truck, or a server setup, that's a meaningful difference in your tax bill. As of 2026, the deduction limit is $1,160,000, with a phase-out that kicks in when total equipment purchases exceed $2,890,000 for the year. (These numbers get inflation-adjusted periodically, so check with your CPA before filing.)
 
-Here's the thing nobody tells you: most business owners don't realize they have a choice. And the ones who do often get the rules wrong.
+Most business owners don't realize they have a choice. And the ones who do often get the rules wrong.
 
 ## What Actually Qualifies (and What Doesn't)
 

@@ -67,7 +67,7 @@ Workers' comp premiums aren't random. They follow a formula, and once you know i
 
 **Experience modifier (X-mod)**: A multiplier based on your actual claims versus other businesses in your field. An X-mod of 1.0 is average. More claims than average? Your modifier climbs and premiums rise. Fewer claims? It drops below 1.0 and you save money. New businesses usually start at 1.0.
 
-I've seen small business owners cut premiums substantially just by running real safety programs and fighting claims that shouldn't be approved. A $5,000 safety training investment pays for itself if it keeps your X-mod below 1.0.
+Small business owners can cut premiums substantially by running real safety programs and contesting claims that shouldn't be approved. A $5,000 safety training investment pays for itself if it keeps your X-mod below 1.0.
 
 ## How to Buy Workers' Comp Insurance: A Step-by-Step Approach
 
@@ -125,7 +125,7 @@ For broader reading on keeping costs down as a small employer, books like [Worke
 
 ---
 
-Workers' comp feels like wasted money right up until the moment it isn't. The business owners I've seen crater financially weren't careless. They were just caught off guard by something they never thought would happen. Get your state requirements nailed down, get quotes from at least three carriers, and talk to a CPA or insurance professional before you decide. Your future self will thank you.
+Workers' comp feels like wasted money right up until the moment it isn't. Business owners who face financial trouble from workers' comp claims often weren't careless. Get your state requirements nailed down, get quotes from at least three carriers, and talk to a CPA or insurance professional before you decide. Your future self will thank you.
 
 ---
 
@@ -140,7 +140,6 @@ Workers' comp feels like wasted money right up until the moment it isn't. The bu
 - [Workers' Compensation for Employers](https://www.amazon.com/s?k=workers+compensation+for+employers+small+business&tag=)
 - [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20)
 - [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

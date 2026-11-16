@@ -61,8 +61,6 @@ That quote matters. If you're buying a property your business will fully occupy,
 
 > **Helpful resource:** [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 There's a lot of noise about commercial real estate financing options. I'm going to cut to the ones that actually matter for most small business owners.
 
 **Conventional commercial mortgages** come from banks and credit unions. They're relationship-driven loans, and this is where having a banking relationship before you need a loan pays off. Community banks are often more flexible than the big nationals for smaller deals (say, under $3 million). They're going to want 2 to 3 years of business tax returns, personal tax returns, a current balance sheet, profit and loss statements, and a rent roll if the property has tenants.
@@ -87,7 +85,7 @@ Commercial lenders use a metric called the Debt Service Coverage Ratio, or DSCR.
 
 If you're buying an investment property, the NOI comes from rents. If you're buying an owner-occupied property, your business's income effectively replaces rent. Either way, the number has to work.
 
-"I've seen deals with strong borrowers fall apart because the property's cash flow couldn't support the debt load at the purchase price," says Lisa Harrington, CPA and commercial real estate consultant with 15 years of practice in the Pacific Northwest. "Buyers sometimes over-pay for a property and assume the lender will accommodate. They won't. The math has to work independently."
+Deals with strong borrowers can fall apart when the property's cash flow can't support the debt load at the purchase price. Buyers sometimes overpay for a property and assume the lender will accommodate. Lenders won't. The math has to work independently.
 
 The other big underwriting factors:
 
@@ -115,7 +113,7 @@ Underwriting: 3 to 6 weeks once the appraisal and environmental reports are in.
 
 Closing: 1 to 2 weeks to prepare documents after underwriting approval.
 
-Total realistic timeline from application to close: 60 to 120 days. I've seen SBA 504 deals take 4 to 6 months. Plan for the longer end. If a seller or your own business plan requires a faster close, talk to a bridge lender and understand the cost of that speed.
+Total realistic timeline from application to close: 60 to 120 days. SBA 504 deals often take 4 to 6 months. Plan for the longer end. If a seller or your own business plan requires a faster close, talk to a bridge lender and understand the cost of that speed.
 
 "The biggest mistake owner-occupants make is signing a purchase contract with a 45-day financing contingency when conventional commercial lending simply doesn't move that fast," says James Nakamura, senior loan officer at a regional bank in Northern California with 12 years in commercial lending. "You either need a longer contingency or you need to be very far along in pre-approval before you go under contract."
 
@@ -126,7 +124,6 @@ I'd add: get a pre-qualification letter before you make an offer, and if possibl
 **Get a written term sheet from at least two lenders before choosing one, so you can actually compare rates, fees, and prepayment penalties side by side.**
 
 ---
-
 
 ---
 
@@ -145,7 +142,6 @@ If you're walking into this process cold, the single most valuable thing you can
 - [NOLO's "Every Landlord's Legal Guide"](https://www.amazon.com/dp/1413331181)
 - [QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20)
 - [The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

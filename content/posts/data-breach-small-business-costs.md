@@ -28,7 +28,7 @@ lastmod: 2026-07-08
 
 A data breach at a 12-person accounting firm. No ransomware, no dramatic hack. Just one employee clicking a phishing link in what looked like a DocuSign email. The attacker sat quietly in their email system for six weeks before anyone noticed. By the time it was over, that firm had spent just over $340,000 to clean it up. They didn't have cyber insurance. They almost didn't survive it.
 
-I've seen this kind of thing more times than I'd like to count. And what kills me is that the $340,000 wasn't one big bill. It was a hundred smaller ones that kept arriving for months after the incident was "resolved." That's the part nobody talks about.
+HIPAA fines often arrive in waves rather than as a single bill, with smaller charges continuing to arrive for months after an incident is considered resolved.
 
 ## What a Breach Actually Costs (It's Not What You Think)
 
@@ -53,8 +53,6 @@ That last part matters a lot. California's CCPA, New York's SHIELD Act, and doze
 
 > **Helpful resource:** [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's how the costs actually land. I'll use a realistic scenario because the abstract numbers don't land the same way.
 
 **Scenario:** A 20-person regional HR consulting firm. They store employee records for about 40 small business clients. A credential-stuffing attack compromises their cloud file storage. Roughly 4,200 individual employee records are exposed: names, Social Security numbers, salary data.
@@ -69,7 +67,7 @@ That's the scenario that plays out. And notice that the biggest single cost wasn
 
 This is where I see business owners underestimate their exposure most badly. If you're in healthcare (HIPAA), financial services, or you serve California, Colorado, or Connecticut consumers, you're not just dealing with cleanup costs. You're potentially dealing with fines.
 
-HIPAA fines range from $100 to $50,000 per violation (per record, in some interpretations), with annual caps that can still reach $1.9 million per violation category. A small physical therapy practice with 800 patient records exposed could face fines well above what their business earns in a year. I don't say this to be alarmist. I say it because I've watched a healthcare client convince themselves the fine would be "small" because they were small, and that's just not how regulators calculate it.
+HIPAA fines range from $100 to $50,000 per violation (per record, in some interpretations), with annual caps that can still reach $1.9 million per violation category. A small physical therapy practice with 800 patient records exposed could face fines well above what their business earns in a year. Business size doesn't reduce per-record fines; regulators calculate penalties based on violations and records, not on the organization's revenue.
 
 For non-healthcare businesses, state-level fines are more variable and often more negotiable, especially if you can demonstrate you had reasonable safeguards in place and responded quickly. That "reasonable safeguards" language is doing a lot of work. Document your security practices now, before an incident.
 
@@ -106,7 +104,6 @@ A few other things worth the cost: a written incident response plan (even a basi
 - National Conference of State Legislatures (NCSL) Data Breach Notification Laws: Comprehensive tracker of state-by-state breach notification requirements, updated regularly.
 
 ---
-
 
 ---
 

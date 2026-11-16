@@ -101,7 +101,7 @@ Mistakes in payroll fall into predictable categories. Knowing them puts you ahea
 
 **Missing deposit deadlines.** The IRS is not forgiving here. Set calendar reminders. Use EFTPS. Automate where possible. Penalties compound fast.
 
-**Forgetting state and local obligations.** Federal taxes are just part of the picture. I've seen business owners set up perfectly clean federal payroll and completely forget their state registration, which leads to penalty notices showing up months later.
+**Forgetting state and local obligations.** Federal taxes are just part of the picture. A common oversight is setting up federal payroll correctly while missing state registration requirements, which can result in penalty notices months later.
 
 **Calculating overtime wrong.** Under the Fair Labor Standards Act (FLSA), non-exempt employees must be paid 1.5 times their regular rate for hours worked over 40 in a workweek. This isn't based on pay period, it's based on the workweek. A lot of business owners get this wrong when employees work uneven hours.
 
@@ -123,7 +123,7 @@ As your business grows and you take on more employees, your payroll history also
 
 The [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/) are also worth bookmarking. They provide plain-language guidance on employer financial obligations that complements what the IRS publishes.
 
-Getting payroll right is fundamentally about discipline and setup. The mechanics aren't magical, but they require consistency. Get your accounts registered, choose the right tools for your size, stay on top of your deposit deadlines, and don't try to cut corners on classification. I've watched payroll problems spiral into five-figure headaches for businesses that started with one simple mistake. The good news is those mistakes are avoidable.
+Getting payroll right is fundamentally about discipline and setup. The mechanics aren't magical, but they require consistency. Get your accounts registered, choose the right tools for your size, stay on top of your deposit deadlines, and don't try to cut corners on classification. Payroll problems can spiral into five-figure headaches when they start with one simple mistake. The good news is those mistakes are avoidable.
 
 ## Sources & References
 

@@ -31,7 +31,6 @@ Here's what I mean. Most deductions live on your Schedule C. They reduce your bu
 
 I didn't fully appreciate how many nuances were packed into this one deduction until a client of mine, a freelance graphic designer who'd been self-employed for six years, showed me three years of returns prepared by a well-meaning but overworked tax preparer. She was deducting her premiums. Great. But she'd been doing it wrong in a way that cost her money. That conversation sent me down a long rabbit hole.
 
-
 <div class="value-module">
  <div class="vm-head">Deduction Eligibility Decision Checklist</div>
  <div class="vm-body">
@@ -63,7 +62,7 @@ For self-employed people with multiple income streams, only the profit from the 
 
 If you're a sole proprietor or single-member LLC, you purchase the policy in your own name (or your business name, if your state allows it) and pay the premiums yourself. You can't be eligible for coverage through an employer, including your own S-corp, for any month you're claiming the deduction. The deduction is calculated month by month, which matters if you had W-2 coverage for part of the year.
 
-S-corp shareholders owning more than 2% have a specific process: the company pays the premium or reimburses you, that amount gets added to your W-2 as wages, and then you deduct it as self-employed health insurance on your personal return. If the premium never hits your W-2, you lose the deduction. I've seen bookkeepers miss this. Get it right at payroll, not at tax time.
+S-corp shareholders owning more than 2% have a specific process: the company pays the premium or reimburses you, that amount gets added to your W-2 as wages, and then you deduct it as self-employed health insurance on your personal return. If the premium never hits your W-2, you lose the deduction. This step is commonly missed. Get it right at payroll, not at tax time.
 
 The [U.S. Small Business Administration (SBA)](https://www.sba.gov/) has plain-language resources on self-employment taxes that give solid context around how these deductions interact with your overall tax picture. [SCORE](https://www.score.org/) offers free mentorship with advisors who've actually run businesses, and some have been through exactly this setup process themselves.
 

@@ -25,19 +25,17 @@ faqs:
     a: "Technically no, most states let you file Articles of Organization directly through the Secretary of State's website for the filing fee alone. For a basic single-member LLC with no unusual circumstances, many people do it themselves. That said, if you have partners, real estate, or complex contracts involved, an hour with a business attorney is worth the cost. For the solo freelancer or service provider? The DIY route is usually fine."
 ---
 
-Most people treat this decision like it's about prestige. Like forming an LLC is somehow graduating from "just" being a sole proprietor. I want to push back on that pretty hard, because I've watched clients spend $400 to $800 setting up an LLC they didn't need, then pay ongoing state fees every year, when a [sole proprietorship](/llc-vs-sole-proprietorship-taxes/) would've served them just as well for the first few years of their business.
+Most people treat this decision like it's about prestige. Like forming an LLC is somehow graduating from "just" being a sole proprietor. It's worth pushing back on that idea. Many business owners spend $400 to $800 setting up an LLC they don't need, then pay ongoing state fees every year, when a [sole proprietorship](/llc-vs-sole-proprietorship-taxes/) would work just as well for the first few years.
 
-That said, I've also seen the other mistake: a contractor with $180,000 a year in revenue operating as a sole proprietor, one lawsuit away from their personal savings getting wiped out. Both errors are real. And the annoying truth is, the right answer depends almost entirely on your specific situation.
+The other mistake is equally real: a contractor with $180,000 a year in revenue operating as a sole proprietor is one lawsuit away from their personal savings getting wiped out. Both errors are real. And the annoying truth is, the right answer depends almost entirely on your specific situation.
 
 So let me tell you what I've actually seen across 18 years of this work, and what the numbers say.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A sole proprietorship costs $0 to start; an LLC costs $50–$500 in state filing fees, varying by state.</li><li style="margin:5px 0">Sole proprietors have unlimited personal liability, one lawsuit can reach your personal bank account and assets.</li><li style="margin:5px 0">An LLC separates personal from business assets, but only if you maintain it properly (separate accounts, clean books).</li><li style="margin:5px 0">For most businesses under $40K/year with low liability exposure, sole proprietor is often fine to start.</li><li style="margin:5px 0">Self-employment tax is identical under both structures; an LLC taxed as an S-corp can reduce it, but not until you have real profit to justify the complexity.</li></ul></div>
-
 
 ## The Real Difference (And It's Not the One People Focus On)
 
-Everyone leads with liability protection when they explain LLCs. And yes, that matters. But I'll be honest: what surprises most of my clients when we actually sit down together is how much the *tax conversation* ends up driving the decision at higher income levels.
+Liability protection is the usual starting point for explaining LLCs, and it does matter. But at higher income levels, the tax conversation often ends up driving the decision more than liability concerns do.
 
 Start with the basics. A sole proprietorship is automatic. You start selling services or products, and legally, you're already one. No paperwork, no filing, no fee. The business and the person are the same entity, which means you report everything on Schedule C of your personal tax return. Simple. Clean. Free.
 
@@ -49,11 +47,9 @@ What surprised me early in my career was how *similar* the tax treatment actuall
 
 > **Helpful resource:** [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's where I want to be precise, because this gets oversimplified constantly.
 
-An LLC creates a legal wall between the business and your personal assets. If someone sues your LLC, they generally can't come after your house or personal savings. That "generally" is doing a lot of work in that sentence. Courts will "pierce the corporate veil" -- go right through your LLC to your personal assets, if you commingle funds, fail to maintain a separate [business bank account](/how-to-open-a-business-bank-account-online-for-startup/), or don't operate the LLC as a distinct entity. I've seen this happen. It's not theoretical.
+An LLC creates a legal wall between the business and your personal assets. If someone sues your LLC, they generally can't come after your house or personal savings. That "generally" is doing a lot of work in that sentence. Courts will "pierce the corporate veil" -- go right through your LLC to your personal assets, if you commingle funds, fail to maintain a separate [business bank account](/how-to-open-a-business-bank-account-online-for-startup/), or don't operate the LLC as a distinct entity.
 
 A worked example: A freelance web developer, $65K/year in revenue, sole proprietor. A client claimed his work caused a security breach and sued for $210,000. No LLC, no separation, no protection. His personal checking account was fair game. He settled for $47,000 out of pocket. That same scenario with a properly maintained LLC, separate account, annual report filed on time, and his personal assets are off the table.
 
@@ -85,9 +81,7 @@ Here's how the two structures compare on the dimensions that actually matter day
 | EIN required? | No (SSN works) | Recommended (free from IRS) |
 | Time to set up | Immediate | 1–4 weeks depending on state |
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated LLC formation cost by state (filing fee only)</div><div class="sc-row"><span class="sc-label">Kentucky</span><span class="sc-track"><span class="sc-bar" style="width:8%"></span></span><span class="sc-val">$40</span></div><div class="sc-row"><span class="sc-label">Colorado</span><span class="sc-track"><span class="sc-bar" style="width:10%"></span></span><span class="sc-val">$50</span></div><div class="sc-row"><span class="sc-label">Texas</span><span class="sc-track"><span class="sc-bar" style="width:60%"></span></span><span class="sc-val">$300</span></div><div class="sc-row"><span class="sc-label">New York</span><span class="sc-track"><span class="sc-bar" style="width:40%"></span></span><span class="sc-val">$200</span></div><div class="sc-row"><span class="sc-label">California</span><span class="sc-track"><span class="sc-bar" style="width:14%"></span></span><span class="sc-val">$70</span></div><div class="sc-row"><span class="sc-label">Massachusetts</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$500</span></div><div class="sc-src">Source: State SOS websites, July 2026</div></div>
-
 
 Note: California's $70 formation fee is separate from the $800 annual franchise tax. A lot of people get tripped up by that.
 
@@ -101,7 +95,7 @@ If you have real liability exposure, you work in people's homes, handle client d
 
 A second worked example: A personal trainer in Denver, $52,000 gross, working out of clients' homes. Formed an LLC in Colorado ($50 filing fee), opened a dedicated business checking account at a local credit union, and got a $1M general liability policy for $38 per month through Hiscox. Total annual overhead for the structure: around $506. Piece of mind that a client injury claim won't touch his apartment and car: genuinely worth it.
 
-The third scenario I see constantly, and it almost always ends with someone paying back taxes and penalties, is a freelancer who earns $110,000 in net profit as a sole proprietor and never talks to a CPA about the S-corp election. I don't have hard aggregate data on how widespread this is, so I can't give you a number. But I've seen it enough times that I'd strongly encourage anyone at that income level to at least have the conversation. The accounting costs to explore it are minor.
+A common scenario that almost always ends with someone paying back taxes and penalties is a freelancer who earns $110,000 in net profit as a sole proprietor and never talks to a CPA about the S-corp election. Anyone at that income level should at least have the conversation. The accounting costs to explore it are minor.
 
 ## Sources
 
@@ -112,7 +106,6 @@ The third scenario I see constantly, and it almost always ends with someone payi
 - [Consumer Financial Protection Bureau (CFPB)](https://www.consumerfinance.gov/): Small business financial resources and plain-language legal guides
 
 ---
-
 
 *Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
 

@@ -39,9 +39,9 @@ Think of it as a prenuptial agreement for your business. It's a legally binding 
 
 Here's what I tell people when they first hear the term: it's not about distrust. It's about clarity. The agreement doesn't assume anything bad will happen. It just says, "if it does, here's what we agreed to ahead of time, when we were all reasonable and the stakes weren't personal yet."
 
-The structure has two core components. First, the triggering events (what situations activate the agreement). Second, the valuation and funding mechanism (how much gets paid, and where the money comes from). Both matter equally, and most disputes I've seen trace back to one of those two being vague or missing entirely.
+The structure has two core components. First, the triggering events (what situations activate the agreement). Second, the valuation and funding mechanism (how much gets paid, and where the money comes from). Both matter equally, and disputes often trace back to one of those two being vague or missing entirely.
 
-A buy-sell agreement can also restrict who can own shares. If your partner wants to bring in a new investor or give equity to a family member, the agreement can require consent from other owners first. That's not a minor thing. I've seen businesses completely derailed by an ownership transfer that nobody saw coming.
+A buy-sell agreement can also restrict who can own shares. If your partner wants to bring in a new investor or give equity to a family member, the agreement can require consent from other owners first. This can have serious consequences. For example, an unexpected ownership transfer can completely derail a business.
 
 ## The Three Main Structures
 
@@ -68,7 +68,7 @@ You have a few options for how to set the buyout price:
 | Independent appraisal | Third-party appraiser values the business at time of trigger | Most situations | Expensive ($3,000-$15,000+); can be disputed |
 | Right of first refusal | Departing owner solicits outside offers; co-owners can match | Businesses with clear market comps | Creates delays; tensions run high |
 
-The fixed-price method is almost always a mistake unless you build in a mandatory annual review, and even then, most owners don't actually do the review. I've seen a buy-sell agreement written in 2015 with a $400,000 valuation that triggered in 2023 when the business was worth close to $2.1 million. The surviving partner had to fight in court for months to get a fair outcome. The legal fees alone were north of $80,000.
+The fixed-price method is almost always a mistake unless you build in a mandatory annual review, and even then, most owners don't actually do the review. A fixed valuation can become dangerously outdated: a $400,000 valuation set in 2015 might trigger years later when the business is worth $2.1 million, leading to costly legal disputes and fees that can easily exceed $80,000.
 
 Formula-based valuation is my preferred starting point for [most small businesses](/the-obbba-childcare-credit-most-small-businesses-are-ignoring/), with a backstop appraisal clause if the parties can't agree. Something like "3x trailing 12-month EBITDA, or independent appraisal if either party disputes the calculation within 30 days." It creates a clear default without locking you into a number that becomes wrong.
 
@@ -84,7 +84,7 @@ The three realistic options:
 
 **Sinking fund:** The company sets aside cash over time specifically for a future buyout. Sounds prudent. Rarely actually happens with small businesses. I'd call this the theoretical option.
 
-In my experience, a combination of life insurance (for death) and an installment structure (for everything else) is what actually works for most businesses with one to five owners. The [SCORE mentorship network](https://www.score.org/) has free templates and advisors who can help you think through the mechanics if you want a second set of eyes before you spend money on an attorney.
+A combination of life insurance (for death) and an installment structure (for everything else) works well for most businesses with one to five owners. The [SCORE mentorship network](https://www.score.org/) has free templates and advisors who can help you think through the mechanics if you want a second set of eyes before you spend money on an attorney.
 
 ## What It Costs, and What Skipping It Costs
 

@@ -29,11 +29,9 @@ Most small business owners assume they can't get a loan. The Federal Reserve's 2
 
 That's not caution. That's a myth operating as fact, costing real companies real growth.
 
-I've spent 18 years watching entrepreneurs talk themselves out of financing before a single lender ever weighed in. The problem isn't the credit market. The problem is that the information most [business owners](/life-insurance-for-business-owners/) carry around about small business loans is either outdated, oversimplified, or flat wrong. Let me fix that.
-
+Many entrepreneurs talk themselves out of financing before a single lender ever weighed in. The problem isn't the credit market. The problem is that the information most [business owners](/life-insurance-for-business-owners/) carry around about small business loans is either outdated, oversimplified, or flat wrong. Let me fix that.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">33% of businesses that needed financing in 2025 didn't apply, assuming rejection</li><li style="margin:5px 0">SBA loans can close in 30-90 days, not the 6+ months most owners expect</li><li style="margin:5px 0">Lenders weigh cash flow and time-in-business heavily, not just credit score</li><li style="margin:5px 0">Online lenders approve 72% of applications vs. ~49% at large banks (Biz2Credit, 2025)</li><li style="margin:5px 0">Collateral requirements vary widely: many SBA 7(a) loans under $25,000 require none</li></ul></div>
-
 
 ## "You Need Perfect Credit"
 
@@ -41,7 +39,7 @@ Wrong. Or at least, incomplete.
 
 Yes, credit matters. But most business owners imagine a lender sitting at a mahogany desk, gatekeeping behind a 750 FICO minimum. That's the large-bank experience, and even then it's not the whole picture. According to Biz2Credit's 2025 Small [Business Lending](/current-business-lending-rates/) Report, alternative lenders and credit unions approve a much wider range of borrowers, and they're weighing factors like monthly revenue consistency and time in business far more than the credit score alone.
 
-The SBA 7(a) program, which is the workhorse of small business lending, has no hard minimum credit score baked into the rules. Individual lenders set their own floors, often 640 or 650, but I've seen approvals in the low 600s when the business had 3 years of clean books and stable revenue. The cash flow story can carry a borrower that a raw credit number would have dismissed.
+The SBA 7(a) program, which is the workhorse of small business lending, has no hard minimum credit score baked into the rules. Individual lenders set their own floors, often 640 or 650, but approvals in the low 600s are possible when the business has 3 years of clean books and stable revenue. The cash flow story can carry a borrower that a raw credit number would have dismissed.
 
 One client I worked with, a landscaping company owner outside Raleigh, got rejected by two regional banks before we repositioned the application around his receivables and 4-year operating history rather than his 618 personal credit score. His SBA-backed loan closed at $175,000. Different angle, same borrower.
 
@@ -51,17 +49,13 @@ What actually kills applications isn't a mediocre credit score. It's unpredictab
 
 > **Helpful resource:** [QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 The six-months-to-close horror story is real, but it's not typical, and it's almost always self-inflicted.
 
 SBA preferred lenders, banks with delegated authority to approve loans internally without SBA review, process applications in 2 to 5 weeks for straightforward requests. The full SBA review process for standard cases runs 5 to 10 business days once the file is complete. Most closings land somewhere between 30 and 90 days, depending on the lender, the loan size, and how prepared the borrower is.
 
-Here's what nobody tells you: the delay is almost always the borrower's document stack. I've watched loans sit idle for three weeks because the owner couldn't produce two years of business tax returns. The lender isn't slow. The prep work wasn't done. Get your P&L, balance sheet, two years of business returns, and a basic business plan in order before you submit anything, and you'll cut your timeline by half.
-
+The delay is usually the borrower's document stack. For example, a loan might sit idle for weeks if the owner hasn't gathered two years of business tax returns. The lender isn't slow. The prep work wasn't done. Get your P&L, balance sheet, two years of business returns, and a basic business plan in order before you submit anything, and you'll cut your timeline by half.
 
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical SBA 7(a) loan closing time by lender type (days)</div><div class="sc-row"><span class="sc-label">Preferred Lender Program</span><span class="sc-track"><span class="sc-bar" style="width:36%"></span></span><span class="sc-val">32 days</span></div><div class="sc-row"><span class="sc-label">Certified Lender Program</span><span class="sc-track"><span class="sc-bar" style="width:62%"></span></span><span class="sc-val">55 days</span></div><div class="sc-row"><span class="sc-label">Standard SBA Process</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">88 days</span></div><div class="sc-row"><span class="sc-label">Microloan Program</span><span class="sc-track"><span class="sc-bar" style="width:47%"></span></span><span class="sc-val">41 days</span></div><div class="sc-src">Source: SBA Office of Capital Access, 2025</div></div>
-
 
 ## The Myths Around Collateral and Guarantees
 
@@ -110,7 +104,6 @@ The Consumer Financial Protection Bureau's [small business resources](https://ww
 - [Consumer Financial Protection Bureau: Small Business Resources](https://www.consumerfinance.gov/): Credit option overviews by business stage and borrower profile
 
 ---
-
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 

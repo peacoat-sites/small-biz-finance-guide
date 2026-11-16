@@ -33,7 +33,7 @@ I'll be direct: your LLC needs a dedicated business checking account. The legal 
 
 Beyond the legal argument, there's bookkeeping. Come tax season, your CPA will spend extra hours untangling mixed transactions, and they charge for those hours. A dedicated account makes that work cleaner, makes your Profit and Loss statement easier to read, and makes you look like a serious business when you apply for a loan.
 
-Now here's where fees become a real problem. If your LLC is early-stage, a $15 to $25 monthly maintenance fee adds up to $180 to $300 per year, and that's before per-transaction charges, wire fees, and minimum balance penalties. For a business not yet generating consistent revenue, those fees create both a financial and psychological drain. I've seen clients keep their books sloppy specifically because they resented paying fees at a bank they didn't trust. That's how small costs create big problems.
+Now here's where fees become a real problem. If your LLC is early-stage, a $15 to $25 monthly maintenance fee adds up to $180 to $300 per year, and that's before per-transaction charges, wire fees, and minimum balance penalties. For a business not yet generating consistent revenue, those fees create both a financial and psychological drain. Business owners sometimes keep their books sloppy when they resent paying fees at a bank they don't trust. That's how small costs create big problems.
 
 The good news? Several banks and fintechs have actually made no-monthly-fee business checking a legitimate product, not just a stripped-down version of something better.
 
@@ -93,13 +93,13 @@ This process is more straightforward than most people expect, especially for onl
 
 **Step 5: Set up integrations before you start transacting.** Before you move money in or use the account, connect it to your accounting software, QuickBooks, Wave, FreshBooks, whatever you use. Starting clean is dramatically easier than cleaning up later.
 
-**Step 6: Set up a separate savings or reserve account.** This isn't required, but I've recommended it to every LLC owner I've worked with. A separate account where you park estimated quarterly tax money is one of the simplest disciplines you can build early. It prevents the painful surprise of owing taxes you've already spent.
+**Step 6: Set up a separate savings or reserve account.** This isn't required, but it's a useful discipline for most LLC owners. A separate account where you park estimated quarterly tax money is one of the simplest disciplines you can build early. It prevents the painful surprise of owing taxes you've already spent.
 
 ## What to Watch Out for With Fintech Business Accounts
 
 Online-first business accounts have real advantages, but there are honest limitations worth knowing.
 
-The biggest one is customer support. If something goes wrong, you're likely dealing with email, chat, or a phone line that may not be responsive when you need it most. I've seen clients in genuine distress when a payment got flagged or an account got frozen and the only recourse was submitting a support ticket. This isn't universal, but it's a known trade-off. Read third-party reviews specifically about customer service before committing.
+The biggest one is customer support. If something goes wrong, you're likely dealing with email, chat, or a phone line that may not be responsive when you need it most. When a payment gets flagged or an account gets frozen, the only recourse may be submitting a support ticket, which can be frustrating if you need immediate help. This isn't universal, but it's a known trade-off. Read third-party reviews specifically about customer service before committing.
 
 Another consideration is FDIC insurance structure. Most fintech accounts are backed by an FDIC-insured partner bank, meaning your funds are protected up to $250,000, but the account itself is held by the fintech. If the fintech company has business problems, there can be a delay or complication in accessing funds even if they're technically insured. This is low-probability, but it's happened in the consumer space before and it's worth understanding.
 

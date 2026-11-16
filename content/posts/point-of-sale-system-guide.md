@@ -26,11 +26,9 @@ faqs:
 lastmod: 2026-07-08
 ---
 
-Most small business owners pick their point of sale system the same way they pick a contractor: whoever shows up first with a decent pitch and a confident handshake. I've watched this happen dozens of times, and it almost always costs them money.
+Most small business owners pick their point of sale system the same way they pick a contractor: whoever shows up first with a decent pitch and a confident handshake. This approach often costs them money.
 
 Not just setup money. I'm talking about [transaction fees](/ach-payment-processing/) compounding quietly for years, a system that can't generate the inventory report their accountant needs, or a monthly software subscription that made sense for a coffee shop but is wildly overkill for a two-person boutique. The POS decision feels small in the moment. It isn't.
-
-So let me give you the version of this guide that I wish someone had handed my clients before they signed anything.
 
 ---
 
@@ -54,8 +52,6 @@ The systems sold today (as of July 2026) generally fall into three categories:
 
 > **Helpful resource:** [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 I'll be direct: this is where people get it wrong most often. They compare the monthly subscription costs and ignore the transaction fees. That's backwards.
 
 If you're processing $30,000 a month in card sales (not unusual for a busy retail shop or salon), the difference between a 2.6% flat rate and a 2.9% + $0.10 rate sounds trivial until you do the math. That gap is roughly $180 a month, or $2,160 a year. More than most monthly software fees.
@@ -74,7 +70,7 @@ Run your own numbers before you default to whatever's most popular. The [IRS sma
 
 I used to tell clients to buy their own hardware outright whenever possible. I still lean that way, but I've softened slightly.
 
-Renting hardware through your POS provider (Clover does this, Toast does this aggressively) ties you to their processing rates for the life of the equipment. That's the catch. I've seen restaurant owners locked into Toast at rates they couldn't renegotiate because the hardware lease ran three more years. If you rent, read the cancellation terms before you sign anything.
+Renting hardware through your POS provider (Clover does this, Toast does this aggressively) ties you to their processing rates for the life of the equipment. That's the catch. Restaurant owners can end up locked into rates they can't renegotiate if the hardware lease extends years beyond their contract. If you rent, read the cancellation terms before you sign anything.
 
 Buying your own hardware has upfront costs but gives you flexibility. A basic Square terminal runs around $299. A full iPad-based Lightspeed setup with a receipt printer, cash drawer, and card reader will run you $600 to $900 depending on what you buy. For a single-register setup, that's a very reasonable one-time cost.
 
@@ -127,7 +123,6 @@ The [Consumer Financial Protection Bureau's small business resources](https://ww
 - [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/): Plain-language guidance on payment processor contracts and merchant agreements
 
 ---
-
 
 ---
 

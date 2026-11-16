@@ -27,7 +27,7 @@ faqs:
 
 Most people treat this decision like a legal question. It's not. It's a tax question wearing a legal costume, and mixing those two things up will cost you.
 
-I'll be honest: when I started helping small business owners with their entity structures back in the mid-2000s, I used to default to "just form an LLC" like it was the universal right answer. Then I started running the actual numbers side-by-side for clients, and what surprised me was how often the S corp election added up to real, meaningful savings for businesses in a certain revenue range. Not always. Not automatically. But often enough that I completely changed how I talk about this.
+Many small business owners default to forming an LLC without considering other options. For businesses in a certain revenue range, an S corp election can add up to meaningful tax savings. This isn't always the case and doesn't happen automatically, but it happens often enough to be worth evaluating carefully.
 
 So let me give you the real story.
 
@@ -44,8 +44,6 @@ That said, there are also businesses that incorporate as actual S corps, the tra
 ## The Self-Employment Tax Math (Where the Real Money Is)
 
 > **Helpful resource:** [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 This is the crux of it, and I want to show you the numbers that actually matter.
 
@@ -78,7 +76,7 @@ The IRS isn't naive. They know the incentive to underpay yourself a salary and t
 
 What's "reasonable"? It should reflect what you'd pay someone else to do your job. The [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed) has guidance on this, and there are legitimate services that provide salary benchmark reports. Generally, your salary should be at or near market rate, and the more profitable your business, the less you can shrink the salary relative to distributions.
 
-If you lowball the salary and get audited, the IRS can reclassify your distributions as wages, assess back payroll taxes, and pile on penalties. I've seen this sting clients who thought they were being clever. Don't be clever here. Pay yourself fairly and document why you chose the number you did.
+If you lowball the salary and get audited, the IRS can reclassify your distributions as wages, assess back payroll taxes, and pile on penalties. Don't be clever here. Pay yourself fairly and document why you chose the number you did.
 
 ## When the LLC Alone Is the Right Call
 
@@ -88,7 +86,7 @@ The S corp election doesn't make sense when your net profit is below roughly $40
 
 It also doesn't work well if you have investors or expect to bring on different classes of equity holders. S corps are restricted to 100 shareholders, all of whom must be U.S. citizens or residents, and you can only have one class of stock. If you're building something that might take venture funding or want to give different economic rights to different partners, the S corp structure will box you in. A standard LLC (or a C corp, which is a whole other conversation) gives you more flexibility.
 
-If your business has unpredictable income that swings wildly year to year, running payroll on a fixed salary when your cash flow is inconsistent can be genuinely painful. I've worked with seasonal businesses where the S corp election created cash flow stress that wasn't worth the tax savings.
+If your business has unpredictable income that swings wildly year to year, running payroll on a fixed salary when your cash flow is inconsistent can be genuinely painful. For example, a seasonal business with unpredictable income may find that the S corp election creates cash flow stress that outweighs the tax savings.
 
 **Real example:** A yoga studio owner in Denver with $38,000 net profit after paying her instructors. She'd read three articles telling her to "definitely elect S corp." When we ran the numbers, her self-employment tax on $38,000 was about $5,400. Setting up payroll and the S corp return would have cost her roughly $2,200 in added accounting and payroll software. Net savings: $1,100 after expenses. Not worth the administrative headache and compliance risk for her situation. She stayed as a plain LLC. Right call.
 
@@ -114,7 +112,6 @@ Miss the Form 2553 deadline and you'll have to wait until the next tax year, or 
 - [Social Security Administration Wage Base Announcements](https://www.ssa.gov/oact/cola/cbb.html): Annual updates to the Social Security taxable wage base, relevant for SE tax calculations.
 
 ---
-
 
 ---
 

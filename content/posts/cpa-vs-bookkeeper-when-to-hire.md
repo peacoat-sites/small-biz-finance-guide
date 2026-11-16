@@ -54,7 +54,7 @@ As of July 2026, here's what you're generally looking at on cost, across service
 | CPA on retainer | $6,000 - $30,000+ | Ongoing advisory, quarterly planning, audit support |
 | Outsourced CFO / CPA advisory firm | $24,000 - $72,000 | Full financial strategy plus compliance |
 
-Those ranges are wide because they vary dramatically by geography, business complexity, and the individual professional. A CPA in rural Kansas is going to price differently than one in Austin or Manhattan. I don't have good numbers on regional variance at the granular level, so I won't pretend I do. But the structure of these tiers is consistent across what I've seen in practice.
+Those ranges are wide because they vary dramatically by geography, business complexity, and the individual professional. A CPA in rural Kansas is going to price differently than one in Austin or Manhattan. I don't have good numbers on regional variance at the granular level, so I won't pretend I do.
 
 What surprised me when I dug into this was how many small businesses are dramatically overpaying. According to a 2023 National Federation of Independent Business survey, about 40% of small business owners report spending more than $10,000 a year on combined accounting and tax services. For a lot of those businesses, a $5,400-a-year part-time bookkeeper plus a $2,000 annual CPA for the tax return would do the job.
 
@@ -62,7 +62,7 @@ What surprised me when I dug into this was how many small businesses are dramati
 
 If you are under $500,000 in annual revenue, have one entity, no employees or fewer than five, and your income sources are relatively predictable, start with a bookkeeper. Full stop.
 
-The IRS small business tax center (irs.gov) consistently recommends that businesses keep clean records from day one, and that means having someone who does it regularly, not you cleaning up twelve months of chaos in April. I've watched owners try to do their own books in QuickBooks, and nine times out of ten they're creating a mess that costs more to untangle than it would have cost to just hire someone in January.
+The IRS small business tax center (irs.gov) consistently recommends that businesses keep clean records from day one, and that means having someone who does it regularly, not you cleaning up twelve months of chaos in April. Owners who try to do their own books in QuickBooks often end up creating a mess that costs more to untangle than hiring someone from the start would have cost.
 
 Scenario: A retail boutique owner in Portland, doing about $380,000 in revenue, was paying a local CPA $8,400 a year to "handle everything," which in practice meant the CPA was doing basic categorization work that any bookkeeper could do. We switched her to a remote bookkeeper at $450/month and kept the CPA only for her annual return and one mid-year planning call. Total annual cost: $6,600. She saved $1,800 and actually got better monthly reports.
 

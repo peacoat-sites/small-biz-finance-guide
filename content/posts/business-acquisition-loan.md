@@ -29,7 +29,6 @@ Most people who want to buy a business think the hard part is finding the right 
 
 That's why I'm giving you a real, honest picture of business acquisition loans, not the version your banker hands you in a glossy brochure.
 
-
 <div class="value-module">
  <div class="vm-head">Acquisition Loan Comparison by Source</div>
  <div class="vm-body">
@@ -51,7 +50,7 @@ The most common options are [SBA 7(a) loans](/sba-7a-loan-explained/), conventio
 
 The [SBA 7(a) program](https://www.sba.gov/) is probably the most talked-about option for small business acquisitions, and there's a good reason. You can borrow up to $5 million with down payments as low as 10%, longer repayment windows (often 10 years for acquisitions), and interest rates usually more competitive than conventional loans. The government guarantee backing it reduces the lender's risk.
 
-Here's what surprised me: how many buyers still walk into SBA deals underprepared. The loan doesn't come from the SBA directly. It comes from an SBA-approved lender, a bank or credit union, that uses the guarantee to reduce their own exposure. That means underwriting standards, processing speed, and appetite for complexity vary wildly from one lender to the next. I've watched the exact same deal get approved at one bank and rejected at another the same week.
+Many buyers walk into SBA deals underprepared. The loan doesn't come from the SBA directly. It comes from an SBA-approved lender, a bank or credit union, that uses the guarantee to reduce their own exposure. That means underwriting standards, processing speed, and appetite for complexity vary wildly from one lender to the next. The exact same deal can get approved at one bank and rejected at another in the same week.
 
 What the SBA generally requires: two to three years of the target business's tax returns, a business valuation (usually ordered by the lender), a signed purchase agreement, and your personal financial statement. The [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed) has solid resources for understanding how business income gets reported, which matters when lenders calculate debt service coverage.
 
@@ -108,7 +107,6 @@ Plan for that. Showing up to underwriting with exactly the minimum equity and no
 - [on Amazon](https://www.amazon.com/s?k=buyout+business+acquisition+book)
 - [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)
 - [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

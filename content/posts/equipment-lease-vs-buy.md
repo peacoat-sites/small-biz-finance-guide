@@ -47,7 +47,7 @@ The confusion costs people money. A business owner signs what looks like an "equ
 
 > **Helpful resource:** [Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-Here's where most articles fail you. They'll say "leasing has lower monthly payments" and "buying builds equity" and then call it a day. That's not analysis, that's a brochure.
+Most articles on this topic fall short. They'll say "leasing has lower monthly payments" and "buying builds equity" and then call it a day. That's not analysis, that's a brochure.
 
 Let's say you're looking at a commercial-grade laser engraver priced at $28,000.
 
@@ -75,7 +75,7 @@ If you're buying equipment and you're not thinking about Section 179, you're lea
 
 As of 2026, the deduction limit is $1,160,000, and the phase-out begins at $2,890,000 in total equipment placed in service during the year (these figures adjust for inflation, so confirm current limits at the [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed) before filing). For most small businesses, this means you can deduct the entire cost of new or used equipment in the year you put it in service, rather than depreciating it over five or seven years.
 
-That front-loaded deduction changes the buy-vs-lease comparison dramatically. It's the reason the "buy + Section 179" bar in the chart above is $10,000 lower than the lease total. I've seen clients flip from planning to lease to planning to buy entirely after we modeled this. Consult your CPA on whether the deduction applies to your situation and your tax year, because it's not always a slam dunk (income limitations and other factors matter).
+That front-loaded deduction changes the buy-vs-lease comparison dramatically. It's the reason the "buy + Section 179" bar in the chart above is $10,000 lower than the lease total. Modeling the deduction can shift the decision significantly enough to change whether leasing or buying makes sense. Consult your CPA on whether the deduction applies to your situation and your tax year, because it's not always a slam dunk (income limitations and other factors matter).
 
 ## Side-by-Side Comparison
 
@@ -92,11 +92,11 @@ That front-loaded deduction changes the buy-vs-lease comparison dramatically. It
 
 ## What to Ask Before You Sign Anything
 
-Real talk: the lease agreement is where the vendor gets paid and where you can get burned. I've reviewed a lot of these, and the surprises cluster in a few predictable places.
+The lease agreement is where the vendor gets paid and where you can get burned. I've reviewed a lot of these, and the surprises cluster in a few predictable places.
 
 **The residual buyout clause.** What does it cost to own the equipment at end of term? "Fair market value" sounds reasonable until you realize the lessor determines fair market value. Get a fixed buyout amount in writing before you sign, or know that you're walking away.
 
-**Early termination penalties.** Most equipment leases are non-cancellable. If your business pivots, shrinks, or the equipment becomes useless, you're still on the hook for the remaining payments. The ELFA estimates that early termination fees commonly equal 50–100% of remaining lease obligations. That's not a warning, that's a math problem you need to solve before you sign.
+**Early termination penalties.** Most equipment leases are non-cancellable. If your business pivots, shrinks, or the equipment becomes useless, you're still on the hook for the remaining payments. The ELFA estimates that early termination fees commonly equal 50–100% of remaining lease obligations. Early termination fees are a substantial financial obligation to account for before signing.
 
 **Maintenance and return conditions.** Operating leases often require you to return equipment in "like-new" condition or pay a fee. For heavy machinery, that can mean thousands in refurbishment costs at lease end that nobody mentioned at signing.
 

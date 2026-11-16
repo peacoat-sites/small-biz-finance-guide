@@ -43,8 +43,6 @@ You also get to choose the plan that fits your business model instead of accepti
 
 > **Helpful resource:** [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 There are more than four retirement options for self-employed people if you want to get technical, but honestly, most of them aren't worth your time. Here are the ones I actually recommend, and when each makes sense.
 
 **SEP-IRA** (Simplified Employee Pension): The easiest to open, the easiest to maintain, and the most forgiving if your income varies year to year. You can contribute up to 25% of net self-employment income, up to a 2026 maximum of $70,000. Zero paperwork beyond the initial setup. You can fund it up to your tax filing deadline (including extensions), so if it's April and you don't know what you made yet, you have time. Banks like Fidelity and Vanguard let you open one online in about 20 minutes.
@@ -53,7 +51,7 @@ There are more than four retirement options for self-employed people if you want
 
 **SIMPLE IRA**: Designed for businesses with a handful of employees, not just a solo operator. If you have 1-10 employees and want to offer them something, this is where I'd start. Lower contribution limits than the other two (employee limit is $16,500 in 2026 for those under 50), but administratively simple.
 
-**Defined Benefit Plan**: Old-school pension math, powered by an actuary. If you're making serious money late in your career and want to shelter a lot of income fast, this can work. I've seen people put away $150,000+ a year in these. But the costs (think $1,500-$3,000 a year in actuarial fees) and the required annual contributions make it appropriate for a narrow slice of people. Not your first move.
+**Defined Benefit Plan**: Old-school pension math, powered by an actuary. If you're making serious money late in your career and want to shelter a lot of income fast, this can work. Owners can contribute $150,000+ a year to these plans. But the costs (think $1,500-$3,000 a year in actuarial fees) and the required annual contributions make it appropriate for a narrow slice of people. Not your first move.
 
 Here's a direct comparison of what matters most:
 
@@ -100,9 +98,7 @@ My honest take: if you're more than 15 years from retirement and you don't have 
 
 For what it's worth, I use a three-fund approach in my own accounts. Nothing fancy. The boring stuff compounded over time is almost always what wins.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">2026 Max Annual Contribution by Plan Type</div><div class="sc-row"><span class="sc-label">SEP-IRA</span><span class="sc-track"><span class="sc-bar" style="width:90%"></span></span><span class="sc-val">$70,000</span></div><div class="sc-row"><span class="sc-label">Solo 401(k)</span><span class="sc-track"><span class="sc-bar" style="width:90%"></span></span><span class="sc-val">$70,000</span></div><div class="sc-row"><span class="sc-label">Solo 401(k) with catch-up (55+)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$77,500</span></div><div class="sc-row"><span class="sc-label">SIMPLE IRA</span><span class="sc-track"><span class="sc-bar" style="width:25%"></span></span><span class="sc-val">$19,500</span></div><div class="sc-row"><span class="sc-label">Traditional IRA only</span><span class="sc-track"><span class="sc-bar" style="width:9%"></span></span><span class="sc-val">$7,000</span></div><div class="sc-src">Source: IRS Publication 560 (2026)</div></div>
-
 
 ## Sources
 
@@ -113,7 +109,6 @@ For what it's worth, I use a three-fund approach in my own accounts. Nothing fan
 - Vanguard Investor Education Center: Fee and fund data for target-date and index fund options referenced in the article.
 
 ---
-
 
 ---
 

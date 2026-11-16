@@ -31,9 +31,7 @@ That's exactly the problem invoice financing was built to solve. And if you're r
 
 Let me walk you through how it actually works.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Invoice financing lets you access 70-90% of an unpaid invoice's value immediately, instead of waiting 30-90 days.</li><li style="margin:5px 0">Two main structures exist: invoice factoring (you sell the invoice) and invoice discounting (you borrow against it). The difference matters for customer relationships.</li><li style="margin:5px 0">Fees typically run 1-5% of the invoice value per month, which annualizes to 12-60% APR. Know that number before you sign.</li><li style="margin:5px 0">It works best for B2B businesses with creditworthy customers and invoices over $5,000. It's a poor fit for retail or consumer-facing businesses.</li><li style="margin:5px 0">Approval is based on your customers' credit, not yours. That's actually an advantage for newer businesses.</li></ul></div>
-
 
 ## How It Actually Works
 
@@ -49,8 +47,6 @@ I worked with a staffing agency in 2023 that had this backwards in their head. T
 
 > **Helpful resource:** [The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 This is where I get impatient with how invoice financing is often described online. You'll see fees quoted as "1% to 3% per invoice" and think, "that's not bad." It isn't bad for a 30-day invoice. It's a different conversation entirely for a 90-day invoice.
 
 Here's the table I use with clients to make this concrete:
@@ -63,13 +59,11 @@ Here's the table I use with clients to make this concrete:
 | $100,000 | 80% ($80,000) | 1.5% | 30 days | $1,500 | ~18% |
 | $100,000 | 80% ($80,000) | 1.5% | 60 days | $3,000 | ~18% |
 
-Note that some funders charge a flat monthly fee regardless of when the client pays. Others charge a "factoring fee" for the first 30 days plus a weekly or daily rate after that. Read that structure carefully. If your client pays on day 47, you want to know exactly what that costs versus day 32. I've seen companies get surprised by this more than once.
+Note that some funders charge a flat monthly fee regardless of when the client pays. Others charge a "factoring fee" for the first 30 days plus a weekly or daily rate after that. Read that structure carefully. If your client pays on day 47, you want to know exactly what that costs versus day 32. Companies often get surprised by this.
 
 The Consumer Financial Protection Bureau's small business resources have good plain-language guidance on calculating the true cost of short-term financing, and it's worth spending 20 minutes there before you shop for a funder. You can find it at [consumerfinance.gov](https://www.consumerfinance.gov/).
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Effective APR by Invoice Term and Fee Rate</div><div class="sc-row"><span class="sc-label">1% / 30-day</span><span class="sc-track"><span class="sc-bar" style="width:33%"></span></span><span class="sc-val">12%</span></div><div class="sc-row"><span class="sc-label">2% / 30-day</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">24%</span></div><div class="sc-row"><span class="sc-label">3% / 30-day</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">36%</span></div><div class="sc-row"><span class="sc-label">2% / 60-day</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">24%</span></div><div class="sc-row"><span class="sc-label">3% / 60-day</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">36%</span></div><div class="sc-src">Source: Industry rate ranges, current as of July 2026</div></div>
-
 
 That chart looks almost too tidy, I know. The reason 2% at 30 days and 2% at 60 days both show 24% APR is that the fee structure itself is expressed monthly. But if your clients routinely pay late, you could be paying those monthly fees on top of each other. That's the hidden compounding risk. Ask every funder: what happens if my client pays on day 75 instead of day 60?
 
@@ -111,7 +105,6 @@ If you want to go deeper on the mechanics before talking to a funder, I'd genuin
 - [Federal Reserve Small Business Credit Survey (2025)](https://www.fedsmallbusiness.org/): Annual survey data on small business financing gaps, application rates, and approval rates by business age and type.
 
 ---
-
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

@@ -114,7 +114,7 @@ Always compare APR, not the monthly payment. A lower monthly payment stretched o
 
 ---
 
-Getting a business loan with no revenue is harder than you might've been told, but it's not a dead end. The founders I've watched succeed at this stage do one thing consistently: they build the case a lender needs before walking in the door. Not after. Know your numbers, know your credit, know exactly what you're asking for and why. The conversation changes. If you're unsure how to structure your financials or assess which loan type fits your risk profile, talk to a CPA who works with startups before you sign anything. It's worth every dollar.
+Getting a business loan with no revenue is harder than you might've been told, but it's not a dead end. Founders who succeed at this stage build the case a lender needs before walking in the door. Not after. Know your numbers, know your credit, know exactly what you're asking for and why. If you're unsure how to structure your financials or assess which loan type fits your risk profile, talk to a CPA who works with startups before you sign anything. It's worth every dollar.
 
 ---
 

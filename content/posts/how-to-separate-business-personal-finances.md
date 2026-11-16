@@ -35,7 +35,7 @@ Most people think the worst outcome of mixing personal and business finances is 
 
 If you operate as an LLC or corporation, one of the primary benefits is personal liability protection. Courts call this the "corporate veil." When you mix funds, you risk what lawyers call "piercing the corporate veil." A court could decide your business isn't truly separate from you personally. If your business is sued or defaults on a debt, your personal assets are on the table. Your house, your savings account, your car.
 
-There's also the practical mess of taxes. When your business and personal spending live in the same account, you're forced to reconstruct your business expenses manually at year-end. That process is error-prone. You'll miss legitimate deductions. Your bookkeeper or CPA will charge you more for the extra work. I've seen clients hand over shoeboxes of mixed receipts and spend $800 to $1,500 extra in accounting fees just because they didn't set up a separate account in the first place.
+There's also the practical mess of taxes. When your business and personal spending live in the same account, you're forced to reconstruct your business expenses manually at year-end. That process is error-prone. You'll miss legitimate deductions. Your bookkeeper or CPA will charge you more for the extra work. Mixing business and personal spending can easily add $800 to $1,500 in accounting fees when your bookkeeper or CPA has to sort through tangled records at year-end.
 
 And if you ever want a business loan, a line of credit, or to bring on investors, every serious lender and investor will want to see clean business financials. You can't produce those if your grocery runs and your vendor payments live side by side.
 

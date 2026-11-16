@@ -25,7 +25,7 @@ author_title: "Tax Strategist"
 author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
 lastmod: 2026-07-08
 ---
-You just got an offer to buy your business. The number on the table either makes you feel robbed or handed the lottery. The problem? You have no idea which one it is. I've watched owners accept offers 40% below actual value because they never bothered learning valuation. I've also seen owners walk away from genuinely fair deals anchored to a number they'd pulled from nowhere. Both are avoidable. That's what this is for.
+You just got an offer to buy your business. The number on the table either makes you feel robbed or handed the lottery. The problem? You have no idea which one it is. Owners often accept offers 40% below actual value without learning valuation basics. Others walk away from fair deals anchored to numbers pulled from nowhere. Both are avoidable. That's what this is for.
 
 Valuation isn't just for exits. You need it when bringing on a partner, seeking a bank loan, raising outside investment, settling a divorce, [buying out a co-founder](/business-succession-planning/), or doing estate planning. The moment you need a real number and don't have one, you're already behind.
 
@@ -117,7 +117,7 @@ Understanding the math of valuation is step one. Understanding what drives the m
 - Heavy owner dependency. A business that doesn't work without you is worth less to a buyer who has to replace you.
 - Customer concentration. If 50% of your revenue comes from one client, that's an existential risk any smart buyer discounts heavily.
 - Declining revenue trends. A business with three years of declining top-line revenue trades at the low end of any multiple range, even if current earnings look solid.
-- Messy books. I've watched deals fall apart or get repriced in due diligence because the seller's financials were inconsistent or unclear. The Consumer Financial Protection Bureau's small business resources include guidance on maintaining clean, lender-ready records, and the same principles apply to exit readiness.
+- Messy books. Deals often fall apart or get repriced in due diligence when the seller's financials are inconsistent or unclear. The Consumer Financial Protection Bureau's small business resources include guidance on maintaining clean, lender-ready records, and the same principles apply to exit readiness.
 - Undocumented processes. If your operations exist only inside your head, that's a risk a buyer prices in.
 
 **Factors that boost:**

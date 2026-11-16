@@ -25,7 +25,7 @@ author_title: "CPA & Lead Editor"
 author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
 lastmod: 2026-07-08
 ---
-You can run a profitable business and still bounce a payroll check. I've seen it happen more than once, and it's always the same story: the P&L looks fine, the owner feels fine, and then one Thursday morning the bank account says otherwise. The culprit, almost every time, is that the owner was watching the wrong number. They were watching profit. They should have been watching cash flow.
+You can run a profitable business and still bounce a payroll check. A business can look profitable on paper while the bank account runs dry. The P&L looks fine, but then the bank account says otherwise. The culprit, almost every time, is that the owner was watching the wrong number. They were watching profit. They should have been watching cash flow.
 
 The cash flow statement is the financial report that tells you the truth your [income statement](/how-to-read-a-profit-and-loss-statement-for-small-business/) politely avoids.
 
@@ -115,7 +115,7 @@ Already said this, but it's worth hammering because it's the most expensive mist
 The cash flow statement works best when you use it constantly. Monthly reviews. Don't wait for a bounced check to start paying attention.
 
 **Burying owner draws.**
-If you're an S-corp or LLC pulling money out, make sure those draws live in financing activities. I've watched clean books turn messy because owner withdrawals got mixed into operating expenses, which tanked the whole operating cash flow picture.
+If you're an S-corp or LLC pulling money out, make sure those draws live in financing activities. Owner withdrawals that get mixed into operating expenses distort the operating cash flow picture, making it harder to see how the business actually moves money.
 
 **Missing the timing trap.**
 You can be owed huge amounts and still be broke. Accounts receivable sitting at 60 or 90 days? That's a cash flow problem, not just an admin problem. The U.S. Small Business Administration offers practical guidance on working capital and receivables as part of their financial planning resources. Worth reading if your receivables are piling up.
@@ -152,7 +152,6 @@ The cash flow statement isn't glamorous. Nobody prints it and frames it. But the
 - [The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20)
 - [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)
 - [Bia Limova](https://www.pexels.com/@bia-limova-1908542654)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

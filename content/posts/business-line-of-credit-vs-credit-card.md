@@ -43,11 +43,7 @@ The other thing most articles don't mention: draws from a line of credit don't u
 
 > **Helpful resource:** [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical APR by product type (2026)</div><div class="sc-row"><span class="sc-label">Bank LOC (strong credit)</span><span class="sc-track"><span class="sc-bar" style="width:18%"></span></span><span class="sc-val">8%</span></div><div class="sc-row"><span class="sc-label">Online LOC (fair credit)</span><span class="sc-track"><span class="sc-bar" style="width:40%"></span></span><span class="sc-val">18%</span></div><div class="sc-row"><span class="sc-label">Business credit card (avg)</span><span class="sc-track"><span class="sc-bar" style="width:53%"></span></span><span class="sc-val">24%</span></div><div class="sc-row"><span class="sc-label">Merchant cash advance</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">45%</span></div><div class="sc-src">Source: Bankrate Business Finance Survey, 2026</div></div>
-
 
 That chart tells the whole story in four rows. If you have strong credit and a banking relationship, a line of credit is cheaper by a meaningful margin. If you're in the "fair credit" bucket and going to an online lender like Bluevine or Fundbox, the rate gap with a card narrows considerably, and the card's flexibility and rewards might actually win on a cost-adjusted basis.
 
@@ -78,7 +74,7 @@ The Consumer Financial Protection Bureau's small business resource section makes
 
 ## Getting Approved: What Actually Moves the Needle
 
-Most articles give you a generic checklist. Here's what I've seen matter in practice.
+Most articles give you a generic checklist. What matters most in practice is often overlooked.
 
 For a bank line of credit, lenders typically want to see at least two years of business history, $100,000+ in annual revenue, and a business credit score above 75 on the Dun & Bradstreet scale (or a personal FICO above 680 if the business is young). I made the mistake early in my career of advising a client to apply for a bank LOC with only 14 months of business history. Declined in six days. Online lenders are more flexible, but you'll pay for that flexibility in rate.
 
@@ -103,7 +99,6 @@ The Federal Reserve's Small Business Credit Survey (the same one I opened with) 
 - [Dun & Bradstreet Business Credit Learning Center](https://www.dnb.com/): Explanation of business credit scoring methodology used by commercial lenders.
 
 ---
-
 
 ---
 

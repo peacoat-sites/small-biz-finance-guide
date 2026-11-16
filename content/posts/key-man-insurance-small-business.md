@@ -52,8 +52,6 @@ What probably doesn't need a key man policy: your operations manager who's great
 
 > **Helpful resource:** [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's where I'll push back on the generic advice you usually see, which recommends "five to ten times salary." That's a lazy starting point.
 
 Salary multiples work fine for personal life insurance because you're replacing income. Key man coverage is replacing something different: the financial damage the business would suffer. Those aren't the same number.
@@ -70,7 +68,7 @@ A sample scenario: a manufacturing business with $4M in annual revenue and a fou
 
 ## Life vs. Disability: Don't Buy Only One
 
-I made this mistake myself early in my practice. I helped a client set up a $1M life policy on his technical co-founder. Clean, well-structured. Two years later, the co-founder had a serious stroke. He survived, which was great news for him, and a genuine financial crisis for the business, because they had no [key man disability coverage](/workers-comp-insurance-small-business/).
+A common mistake is setting up life insurance on a key employee without also securing disability coverage. For example, a business might have a $1M life policy on a technical co-founder but no protection if that person becomes unable to work due to illness or injury. If the co-founder had a stroke and survived, the business would face a financial crisis without [key man disability coverage](/workers-comp-insurance-small-business/).
 
 The odds back this up. According to the Council for Disability Awareness, a 35-year-old has roughly a 50% chance of suffering a disabling event before age 65. Death is the more emotionally obvious risk. Disability is statistically more likely and, in many ways, financially harder, because the person is still alive, often still drawing a salary, and the business can't simply replace them the way it could if the role were vacant.
 
@@ -113,7 +111,6 @@ A useful reference if you want to go deeper on the insurance-side mechanics: *Th
 - [Consumer Financial Protection Bureau, Small Business Resources](https://www.consumerfinance.gov/): Guidance on small business financing obligations and lender requirements.
 
 ---
-
 
 ---
 

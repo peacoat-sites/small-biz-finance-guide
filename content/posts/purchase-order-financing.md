@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 Most business owners discover purchase order financing at the worst possible time: they've just landed the biggest order of their company's life, and they're about to have to turn it down because they can't afford to manufacture or source the product.
 
-I've watched this happen more times than I want to count. A small apparel brand gets a $200,000 wholesale order from a regional retail chain. Huge win. Except their supplier wants 50% upfront, which they don't have, and their net-30 invoices from smaller accounts haven't cleared yet. So they either scramble and burn bridges, or they say no to the order entirely. Neither outcome feels good. That's the gap PO financing was built to fill.
+A small apparel brand might land a $200,000 wholesale order from a regional retail chain, but their supplier wants 50% upfront while their net-30 invoices from smaller accounts haven't cleared yet. Without access to capital, they either scramble and damage supplier relationships, or they decline the order. Both outcomes cost them. That's the gap PO financing was built to fill.
 
 ## What Purchase Order Financing Actually Is (And What It Isn't)
 

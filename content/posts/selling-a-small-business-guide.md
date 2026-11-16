@@ -77,7 +77,7 @@ The structure of the deal, whether it's an asset sale or a stock sale, has major
 
 ## Finding the Right Buyer: More Options Than Most Sellers Realize
 
-Most sellers assume there's one path: list the business, wait for a call, negotiate with whoever shows up. The reality is more nuanced. The type of buyer you target shapes nearly everything about the transaction.
+Most sellers assume there's one path: list the business, wait for a call, negotiate with whoever shows up. The type of buyer you target shapes nearly everything about the transaction.
 
 **Individual buyers** are often first-time business owners using SBA financing. They tend to be more emotionally invested in the process, slower to move, and heavily dependent on lender approval. SBA 7(a) loans are the most common financing vehicle for business acquisitions under about $5 million, which means your business needs to meet SBA eligibility criteria and your financials need to hold up to lender scrutiny.
 
@@ -105,7 +105,7 @@ Here's where sellers often get blindsided. The purchase price is only part of th
 
 Due diligence is the buyer's formal process of verifying everything you've represented. It typically runs 30 to 90 days and covers financials, legal, operations, customers, and sometimes HR.
 
-I've seen deals fall apart over things sellers thought were no big deal: an expired lease that was never renewed in writing, a key employee who was essentially running everything and had no non-compete, sales tax filings that hadn't been kept current, or a top customer who verbally indicated they might not continue with new ownership.
+Deals often fall apart over things sellers overlook: an expired lease that was never renewed in writing, a key employee who was essentially running everything and had no non-compete, sales tax filings that hadn't been kept current, or a top customer who verbally indicated they might not continue with new ownership.
 
 Go through your own due diligence before you list. Hire an attorney to review your contracts, leases, and any outstanding legal exposure. Have your accountant verify that your tax filings are current and your financial statements are reconciled. Create a virtual data room with organized documents so when a buyer asks for three years of bank statements, you can send a link in 20 minutes instead of scrambling for two weeks.
 

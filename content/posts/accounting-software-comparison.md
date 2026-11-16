@@ -31,9 +31,7 @@ The accounting software market is legitimately crowded right now, and most compa
 
 One thing I'll say upfront: there's no single winner here. Anyone who tells you "just use QuickBooks" or "Xero is always better" isn't accounting for the fact that a three-person HVAC company and a nine-person e-commerce shop have genuinely different needs. What I can do is help you stop paying for features you'll never touch.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">QuickBooks Online starts at $35/month; Wave is free but charges 2.9% + $0.60 per transaction</li><li style="margin:5px 0">Businesses with inventory should not start with Wave or FreshBooks, they're invoicing tools at heart</li><li style="margin:5px 0">Most solo operators and sub-$500K revenue businesses are over-served by QuickBooks Plus ($90/month)</li><li style="margin:5px 0">Xero edges out QuickBooks on multi-currency and international transactions, per user pricing is also different</li><li style="margin:5px 0">Switching software mid-year costs real time, pick carefully, moving historical data is painful</li></ul></div>
-
 
 ## What the Market Actually Looks Like
 
@@ -41,17 +39,13 @@ According to a 2025 survey by Wasp Barcode Technologies, 42% of [small businesse
 
 The market is currently dominated by four main players for businesses under $5 million in annual revenue: QuickBooks Online, Xero, FreshBooks, and Wave. There are strong contenders in specific niches (Zoho Books for businesses already in the Zoho ecosystem, BILL for AP-heavy operations), but if you're reading this trying to figure out where to start, those four cover 90%+ of scenarios. As of July 2026, pricing has crept up across the board since pandemic-era discounts expired, so I'll give you current figures, not the promotional rates you'll see in some outdated comparison posts.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Monthly cost at entry-level paid tier</div><div class="sc-row"><span class="sc-label">QuickBooks Simple Start</span><span class="sc-track"><span class="sc-bar" style="width:39%"></span></span><span class="sc-val">$35</span></div><div class="sc-row"><span class="sc-label">QuickBooks Plus</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$90</span></div><div class="sc-row"><span class="sc-label">Xero Early</span><span class="sc-track"><span class="sc-bar" style="width:22%"></span></span><span class="sc-val">$20</span></div><div class="sc-row"><span class="sc-label">Xero Growing</span><span class="sc-track"><span class="sc-bar" style="width:52%"></span></span><span class="sc-val">$47</span></div><div class="sc-row"><span class="sc-label">FreshBooks Lite</span><span class="sc-track"><span class="sc-bar" style="width:21%"></span></span><span class="sc-val">$19</span></div><div class="sc-row"><span class="sc-label">Wave (paid features)</span><span class="sc-track"><span class="sc-bar" style="width:18%"></span></span><span class="sc-val">$16</span></div><div class="sc-src">Source: Vendor pricing pages, July 2026</div></div>
-
 
 ## The Core Four, Honestly
 
 > **Helpful resource:** [Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-**QuickBooks Online** is the industry standard, and that's both its strength and its trap. Your accountant almost certainly uses it. Your bookkeeper knows it. If you ever hire outside help, QB is the lowest-friction option, because trained QuickBooks users are everywhere. I've seen small businesses pay $200/month for a part-time bookkeeper specifically because the owner was using Xero and no one local knew it. That's a real cost people don't factor in.
+**QuickBooks Online** is the industry standard, and that's both its strength and its trap. Your accountant almost certainly uses it. Your bookkeeper knows it. If you ever hire outside help, QB is the lowest-friction option, because trained QuickBooks users are everywhere. Switching to less common software can make it harder to find local help, potentially raising hiring costs. That's a real cost people don't factor in.
 
 That said, QuickBooks has gotten expensive and bloated. The Simple Start tier at $35/month won't let you track bills or manage 1099 contractors. QuickBooks Plus at $90/month adds project tracking and inventory, but honestly? Most businesses buying Plus are paying for features they never configure. I've audited clients' software spend more than once and found them on Plus when Simple Start would have been fine.
 
@@ -86,7 +80,7 @@ That said, QuickBooks has gotten expensive and bloated. The Simple Start tier at
 
 ## The Switching Trap (and How to Avoid It)
 
-Here's the thing nobody warns you about: changing accounting software mid-year is genuinely painful. You can import a chart of accounts and a customer list without too much trouble, but historical transaction data? That's where things get messy. Most platforms let you import via CSV, but the column matching is tedious and errors compound. I've seen business owners spend 15+ hours on a migration they thought would take three.
+Changing accounting software mid-year can be painful. You can import a chart of accounts and a customer list without too much trouble, but historical transaction data? That's where things get messy. Most platforms let you import via CSV, but the column matching is tedious and errors compound. Migrations often take longer than expected, sometimes 15+ hours for what seemed like a three-hour task.
 
 If you're switching, do it at the start of your fiscal year, or January 1st if you're on a calendar year. Enter your opening balances from the prior period's closing statements, and run both systems in parallel for at least 30 days. Yes, it's annoying. But discovering a $4,200 discrepancy in March is worse than the extra work in January. SCORE's mentorship network (score.org) has free advisors who can help you think through a migration plan without the sales pitch.
 
@@ -94,7 +88,7 @@ The Consumer Financial Protection Bureau's small business resources (consumerfin
 
 If you want a deeper framework for choosing and setting up your first clean system, *Profit First* by Mike Michalowicz (available on Amazon, and yes, the site may earn a commission on that link) isn't strictly an accounting how-to but it reframes how small business owners think about their numbers in a way that changes which software features they actually need.
 
-One last thing I'd say: whatever you pick, please run it by your CPA before you commit. Not because you can't figure it out yourself, but because your CPA may have workflows that make one platform dramatically easier to work with at year-end. I've seen business owners save $400-$600 in annual accounting fees just by using the platform their CPA already preferred.
+One last thing I'd say: whatever you pick, please run it by your CPA before you commit. Not because you can't figure it out yourself, but because your CPA may have workflows that make one platform dramatically easier to work with at year-end. Using the platform your CPA already prefers can save $400-$600 in annual accounting fees.
 
 ## Sources
 
@@ -105,7 +99,6 @@ One last thing I'd say: whatever you pick, please run it by your CPA before you 
 - U.S. Small Business Administration, Office of Advocacy (2024): Statistics on small business failure causes including financial management factors
 
 ---
-
 
 *Photo: [Bia Limova](https://www.pexels.com/@bia-limova-1908542654) via Pexels*
 

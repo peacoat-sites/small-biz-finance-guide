@@ -51,8 +51,6 @@ What surprised me was how often this structure actually makes more sense than a 
 
 > **Helpful resource:** [The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 HELOCs are tied to the prime rate, which means the interest rate floats. In a rising rate environment that's a real risk. In a stable or declining one, you're often looking at rates that beat personal loans, credit cards, and many small business loans by a significant margin. As of mid-2026, HELOC rates at major lenders are generally running in the 7-9% range for well-qualified borrowers, which compares favorably against business lines of credit at 10-14% or [merchant cash advances](/merchant-cash-advance-risks/) that can carry effective APRs well above 30%.
 
 No, I'm not saying a HELOC is always cheaper. Points, appraisal fees, and annual fees add up. But on a dollar-for-dollar basis, for a borrower with good credit and meaningful equity, it's hard to beat on cost.
@@ -71,7 +69,7 @@ Here's where I'll take a stance, because I think a lot of the generic advice on 
 
 A HELOC works well for business funding when you have a clear, short-to-medium-term need, a realistic repayment plan, and some cushion if things go sideways. Working capital gaps, initial inventory, a piece of equipment, or bridge funding while you wait on a larger business loan to close. These are good use cases. The draw-as-needed structure means you only pay interest on what you've actually pulled, which is a real advantage for uneven cash flow.
 
-It gets risky when you're using it to fund a business that has no defined path to profitability. Or when the HELOC represents most of your accessible capital, so there's no margin for error. I've seen owners tap $150,000 in home equity into a concept that failed in 18 months. They lost the equity and still owed the loan. That's not a hypothetical.
+It gets risky when you're using it to fund a business that has no defined path to profitability. Or when the HELOC represents most of your accessible capital, so there's no margin for error. A HELOC can become especially dangerous if the business fails before generating returns. The owner loses both the equity and remains responsible for repaying the loan.
 
 The Consumer Financial Protection Bureau's small business resources are worth reading before you commit, particularly around understanding adjustable rate products and what happens during the repayment phase if business income drops.
 
@@ -84,7 +82,6 @@ One thing people underestimate: the accounting gets messy fast. HELOC draws are 
 The cleanest approach is to open a dedicated personal account for HELOC draws, transfer what you need to your business account, and document each transfer as either a loan to the business or an owner contribution. Which structure you use matters for taxes, so again, CPA conversation first.
 
 ---
-
 
 ---
 
@@ -99,7 +96,6 @@ The cleanest approach is to open a dedicated personal account for HELOC draws, t
 - [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20)
 - [QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20)
 - [www.kaboompics.com](https://www.pexels.com/@karola-g)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

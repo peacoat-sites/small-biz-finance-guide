@@ -39,15 +39,13 @@ For small business owners, this isn't abstract. The prime rate sits at 6.75% as 
 
 > **Helpful resource:** [AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Let me give you the real numbers, because this is where a lot of business owners are working from outdated assumptions.
 
 SBA 7(a) fixed rates currently range from 9.75% to 14.75%, depending on loan size and term, according to data from Lendio and Bay Street Lending as of early July 2026. That spread is wide, and where you land in it depends on your credit profile, loan amount, and lender. SBA 504 loans, which are commonly used for commercial real estate and major equipment, are tied more directly to Treasury yields. The 10-year Treasury hit 4.44% and the 5-year came in at 4.19% on June 30, 2026. Those yields push 504 fixed rates higher and they've been moving in the wrong direction for borrowers.
 
 Conventional small business loans from community banks and credit unions? Also expensive. Expect rates well into the double digits for anything without strong collateral and a pristine credit file.
 
-I've seen borrowers get sticker shock when they see a 12% rate on a 10-year SBA loan and assume something is wrong with their application. Nothing is wrong. That's just where the market is. The question isn't whether these rates are high relative to 2021. They are. The question is whether locking in now is smarter than betting on a cut that may not come.
+Many borrowers experience sticker shock when they see a 12% rate on a 10-year SBA loan and assume something is wrong with their application. Nothing is wrong. That's just where the market is. The question isn't whether these rates are high relative to 2021. They are. The question is whether locking in now is smarter than betting on a cut that may not come.
 
 ## The Cash-Flow Squeeze Is Happening at the Wrong Moment
 
@@ -65,7 +63,7 @@ First, if you have any variable-rate debt, especially a business line of credit 
 
 Second, if you've been on the fence about an [SBA loan for an investment](/sbas-new-10-million-loan-limit-who-actually-benefits/) that genuinely improves your business, stop treating rate timing like a stock trade. NerdWallet's analysis of how the Fed rate impacts small business loans makes a simple but important point: locking a fixed rate when the environment is uncertain is often the more conservative and protective move. Trying to time the bottom on rates is hard even for professional traders. For a business owner with real operational decisions to make, it's a distraction.
 
-Third, know your break-even on the borrowing. If you're taking a $200,000 [equipment loan](/how-to-use-100-bonus-depreciation-to-cut-your-2026-tax-bill/) at 11% to buy a machine that generates $60,000 in additional annual gross profit, run that math clearly before you walk into the bank. The rate matters, but so does the return. I've seen owners reject a perfectly sensible loan because the rate felt high, then spend the next two years leasing the same equipment at a higher effective cost. The rate headline is not the whole story.
+Third, know your break-even on the borrowing. If you're taking a $200,000 [equipment loan](/how-to-use-100-bonus-depreciation-to-cut-your-2026-tax-bill/) at 11% to buy a machine that generates $60,000 in additional annual gross profit, run that math clearly before you walk into the bank. The rate matters, but so does the return. Owners sometimes reject a sensible loan because the rate feels high, only to lease the same equipment at a higher effective cost over time. The rate headline is not the whole story.
 
 Fourth, if your credit profile needs work, start now. A 740 credit score and two years of clean financials will get you meaningfully better terms than a 680. That's a lever you control regardless of what the Fed does.
 

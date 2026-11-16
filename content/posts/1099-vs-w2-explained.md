@@ -33,7 +33,6 @@ The difference between a 1099 contractor and a W-2 employee isn't just HR trivia
 
 ---
 
-
 <div class="value-module">
  <div class="vm-head">IRS Classification Factors Checklist</div>
  <div class="vm-body">
@@ -46,7 +45,6 @@ The difference between a 1099 contractor and a W-2 employee isn't just HR trivia
 ## What the Two Classifications Actually Mean
 
 **"You need to incorporate before you can legally work as a 1099 contractor"**: Most people think forming an LLC or corporation is a prerequisite to independent contracting. But the IRS has no incorporation requirement for 1099 work. According to the [Small Business Administration](/hiring-first-employee-guide/), over 27 million self-employed individuals operate as sole proprietors without any business entity, and they're completely compliant. You can file a 1099 as an unincorporated individual, report income on Schedule C, and pay self-employment taxes. Incorporation offers liability protection and potential tax advantages, but it's optional, not mandatory. The misconception costs aspiring entrepreneurs thousands in unnecessary legal fees.
-
 
 A W-2 employee works directly for your business. You withhold federal and state income taxes from their paycheck. You pay half their Social Security and Medicare taxes (FICA). You handle unemployment taxes. At year's end, you issue a W-2 showing what got withheld.
 
@@ -93,7 +91,7 @@ A contractor, theoretically, costs only what you pay them. No FICA match, no une
 
 Those savings evaporate fast if that worker should have been classified as an employee. The IRS can assess unpaid payroll taxes plus interest plus penalties. The Department of Labor can pursue unpaid overtime and benefits claims. Workers can sue for misclassification. The [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/) also highlight how misclassification destabilizes workers financially, which increasingly drives federal enforcement action.
 
-I've seen small business owners hit with five-figure tax bills over this. Most genuinely didn't know they were making a mistake.
+Small business owners can face five-figure tax bills from this mistake. Most genuinely didn't know they were making a mistake.
 
 ---
 

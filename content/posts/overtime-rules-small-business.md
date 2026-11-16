@@ -43,7 +43,7 @@ This is where I see the most expensive mistakes. Business owners assume that pay
 
 Exempt status requires two things: the employee meets a salary basis test (currently paid above a weekly threshold on a predetermined basis) AND their job duties meet one of the specific exemption categories. The duties test is where things get muddy. An "administrative" employee, under FLSA definition, isn't just someone who does admin work. Their primary duty has to involve office work directly related to the management or general business operations of the company, and they have to exercise discretion and independent judgment on significant matters. A receptionist who follows a script and escalates every decision is probably not exempt. A bookkeeper who makes judgment calls on vendor payments and has signing authority might be. The line isn't always obvious.
 
-I've seen small businesses get hit with back pay claims because they misclassified a customer service manager or an inside sales rep as exempt. These cases are expensive, embarrassing, and almost always avoidable with a 90-minute conversation with someone who knows what they're looking at. [SCORE](https://www.score.org/) offers free mentorship and can connect you with advisors who've been through exactly this.
+Misclassifying a customer service manager or inside sales rep as exempt can result in back pay claims. These cases are expensive and almost always avoidable with a conversation with someone who understands employment law. [SCORE](https://www.score.org/) offers free mentorship and can connect you with advisors who've been through exactly this.
 
 The other high-risk category is [independent contractors](/independent-contractor-vs-employee/). Misclassifying a worker as a 1099 contractor when they functionally operate as an employee doesn't just affect overtime, it creates a cascade of tax, benefits, and liability exposure. The IRS and the DOL both have their own tests for this, and they don't entirely agree with each other, which is its own kind of fun.
 
@@ -84,7 +84,6 @@ The overtime rules aren't especially complicated once you sit with them, but the
 - [Accounting Made Simple](https://www.amazon.com/Accounting-Made-Simple-Explained-Pages/dp/0981454224?tag=contentportfo-20)
 - [The E-Myth Revisited](https://www.amazon.com/E-Myth-Revisited-Small-Businesses-About/dp/0887307280?tag=contentportfo-20)
 - [AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

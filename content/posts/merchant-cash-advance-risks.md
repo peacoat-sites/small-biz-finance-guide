@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 If you're reading this, there's a decent chance someone already pitched you a merchant cash advance. Maybe it was an email, a phone call, or a pop-up ad promising "$50,000 in 24 hours, no credit check required." And part of you was tempted, because you needed the money and the bank said no, or the bank said yes but wanted six weeks and paperwork you didn't have time to gather.
 
-Here's what I tell people in that moment: slow down. Not because MCAs are always wrong, but because most business owners I've seen get burned by them didn't fully understand what they were signing. That's not a character flaw. The contracts are deliberately complicated, the marketing is deliberately simple, and the cost structure is unlike anything else in finance.
+When considering an MCA, it's worth pausing to fully understand the terms. Many business owners who struggle with MCAs didn't fully understand what they were signing. That's not a character flaw. The contracts are deliberately complicated, the marketing is deliberately simple, and the cost structure is unlike anything else in finance.
 
 Let me walk you through what's actually happening.
 
@@ -37,7 +37,7 @@ A merchant cash advance isn't a loan. That's not a technicality. It matters enor
 
 When you take an MCA, a funder gives you a lump sum of cash in exchange for a percentage of your future sales, or more commonly now, a fixed daily or weekly withdrawal from your bank account. Because it's structured as a purchase of future receivables and not a loan, it sits outside most of the regulations that govern traditional lending. There's no APR disclosure required. No usury law cap in many states. No Truth in Lending Act protection.
 
-The cost is expressed as a "factor rate," usually somewhere between 1.1 and 1.5. So if you borrow $50,000 at a factor rate of 1.4, you repay $70,000. That sounds manageable until you realize that $70,000 might be due in six months. You're looking at an effective APR north of 80%, sometimes over 150%. I've seen factor rates on renewal MCAs push the equivalent APR past 200%. The [IRS small business tax center](https://www.irs.gov/businesses/small-employees) won't help you here. Neither will the fine print on the MCA funder's website. You have to do the math yourself, or have someone do it for you.
+The cost is expressed as a "factor rate," usually somewhere between 1.1 and 1.5. So if you borrow $50,000 at a factor rate of 1.4, you repay $70,000. That sounds manageable until you realize that $70,000 might be due in six months. You're looking at an effective APR north of 80%, sometimes over 150%. Factor rates on renewal MCAs can push the equivalent APR past 200%. The [IRS small business tax center](https://www.irs.gov/businesses/small-employees) won't help you here. Neither will the fine print on the MCA funder's website. You have to do the math yourself, or have someone do it for you.
 
 ## The Real Risks You Need to Understand
 
@@ -57,7 +57,7 @@ The [U.S. Small Business Administration](https://www.sba.gov/) has published gui
 
 **The renewal trap.**
 
-Here's how a lot of MCA funnels work. You take a $30,000 advance. You repay it over five months. The day you finish repaying, your phone rings. The funder offers you $40,000 at another factor rate because you "have a great repayment history." You might be tempted, because things are still tight. Each renewal resets the clock. Each renewal extracts another round of fees. I've watched businesses that were marginally profitable get completely hollowed out over two or three renewal cycles.
+Here's how a lot of MCA funnels work. You take a $30,000 advance. You repay it over five months. The day you finish repaying, your phone rings. The funder offers you $40,000 at another factor rate because you "have a great repayment history." You might be tempted, because things are still tight. Each renewal resets the clock. Each renewal extracts another round of fees. Businesses that were marginally profitable can get completely hollowed out over two or three renewal cycles.
 
 ## When an MCA Might Actually Make Sense
 

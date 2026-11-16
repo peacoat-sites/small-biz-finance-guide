@@ -81,7 +81,7 @@ If you'd rather start with a pre-built tool, [Profit First by Mike Michalowicz](
 
 ## The Six Most Common Cash Flow Killers
 
-Knowing what drains cash faster than expected is half the battle. In my experience, the same handful of culprits show up again and again.
+Knowing what drains cash faster than expected is half the battle. A few common culprits tend to drain cash faster than expected.
 
 **1. Slow-paying customers.**
 Net-30 terms that actually stretch to net-60 or net-90 are incredibly common. If you don't have a [collections process](/accounts-receivable-management/), you're essentially giving your customers an interest-free loan.
@@ -140,7 +140,7 @@ For a deeper read on working capital and funding structures, [The Small Business
 
 ---
 
-Cash flow management isn't a complex skill reserved for finance professionals. It's mostly about paying attention to timing, building simple habits, and catching problems with enough runway to actually fix them. The businesses I've watched thrive over the long run aren't always the most profitable ones. They're the ones where the owner knows exactly how much cash they have, when it's coming in, and what's going out. That knowledge is the real foundation of financial stability. Start with a simple 13-week forecast, update it weekly, and the rest gets easier from there.
+Cash flow management isn't a complex skill reserved for finance professionals. It's mostly about paying attention to timing, building simple habits, and catching problems with enough runway to actually fix them. Businesses that sustain themselves over time aren't always the most profitable. The ones that last are typically run by owners who know exactly how much cash they have, when it's coming in, and what's going out. That knowledge is the real foundation of financial stability. Start with a simple 13-week forecast, update it weekly, and the rest gets easier from there.
 
 ---
 
@@ -155,7 +155,6 @@ Cash flow management isn't a complex skill reserved for finance professionals. I
 - [SBA's loan programs](https://www.sba.gov/)
 - [SCORE's free mentorship network](https://www.score.org/)
 - [The Small Business Bible by Steven D. Strauss](https://www.amazon.com/Small-Business-Bible-Everything-Starting/dp/1118041437?tag=contentportfo-20)
-
 
 **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

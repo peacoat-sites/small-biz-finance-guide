@@ -25,7 +25,7 @@ faqs:
     a: "Not a formal one. RBF underwriting is revenue-forward: lenders care about your trailing revenue data, not a five-year projection deck. You'll typically need to explain what you're using the capital for and show how your revenue is generated, but nothing resembling an SBA loan application package. It's genuinely one of the faster, lighter documentation processes in small business lending."
 ---
 
-Forty-three percent of [small business owners](/the-new-1099-thresholds-small-business-owners-must-know-in-2026/) who were denied a bank loan in the past two years say they didn't even know revenue-based financing existed as an option. That number comes from a 2025 Biz2Credit Small Business Credit Survey, and honestly, it doesn't surprise me. I've spent the better part of two decades helping business owners stitch together funding, and RBF is still the thing I have to explain from scratch almost every time.
+Forty-three percent of [small business owners](/the-new-1099-thresholds-small-business-owners-must-know-in-2026/) who were denied a bank loan in the past two years say they didn't even know revenue-based financing existed as an option. That number comes from a 2025 Biz2Credit Small Business Credit Survey. Revenue-based financing remains unfamiliar to many business owners, even those actively seeking alternative funding.
 
 So let me do that now, clearly, without the pitch.
 
@@ -39,7 +39,7 @@ Here's where I see people get tripped up. RBF lenders don't quote you an interes
 
 If your agreed remittance rate is 6% of monthly revenue and you're doing $80,000 a month, you're paying $4,800/month. At that pace, you retire a $135,000 balance in about 28 months. But if revenue jumps to $120,000, you're paying $7,200/month and you're done in roughly 19 months. Faster payoff sounds better, but it also means a higher effective APR because you're paying the same total cost in less time.
 
-This is the part that honestly caught me off guard the first time I modeled it for a client. The fixed repayment amount feels psychologically safe ("I know exactly what I owe"), but it obscures the actual cost of capital. A $100K advance at a 1.35 factor rate, repaid over 18 months, works out to an effective APR somewhere around 55–65% depending on your remittance schedule. That's not predatory by RBF standards, but it's nothing like the 7–9% you'd see on an [SBA loan](/sba-7a-loan-explained/). The Consumer Financial Protection Bureau has flagged the lack of standardized APR disclosure in the alternative lending space as a transparency gap, and in my experience, that gap is real.
+The fixed repayment amount feels psychologically safe ("I know exactly what I owe"), but it obscures the actual cost of capital. A $100K advance at a 1.35 factor rate, repaid over 18 months, works out to an effective APR somewhere around 55–65% depending on your remittance schedule. That's not predatory by RBF standards, but it's nothing like the 7–9% you'd see on an [SBA loan](/sba-7a-loan-explained/). The Consumer Financial Protection Bureau has flagged the lack of standardized APR disclosure in the alternative lending space as a transparency gap.
 
 What this chart should make clear: if your business has a blowout quarter and pays the advance off quickly, your cost of capital shoots up. That's counterintuitive but mathematically unavoidable with a fixed total repayment structure.
 
@@ -76,13 +76,13 @@ The comparison that trips people up most is RBF versus a merchant cash advance. 
 
 It's faster than a bank, but it's not instant, and there's a specific piece of documentation that almost every applicant forgets.
 
-Most RBF lenders will ask for: three to six months of bank statements, access to your Stripe, Shopify, QuickBooks, or whatever revenue-generating platform you use (they'll request read-only API access), and a brief description of how you'll deploy the capital. The API access part surprises people. When I first walked a client through a Clearco application in early 2025, she was uncomfortable with the platform integration requirement. But that's how RBF underwriting works: they're not looking at your FICO, they're looking at your actual revenue data in real time.
+Most RBF lenders will ask for: three to six months of bank statements, access to your Stripe, Shopify, QuickBooks, or whatever revenue-generating platform you use (they'll request read-only API access), and a brief description of how you'll deploy the capital. The API access requirement often surprises applicants. That's how RBF underwriting works: lenders aren't looking at your FICO, they're looking at your actual revenue data in real time.
 
-The forgotten document is usually a clear summary of your existing debt obligations. RBF lenders care about your revenue, but they care equally about what percentage of that revenue is already committed to other lenders. If you're already remitting 10% of revenue to another advance and you take on another 6%, you've just handed over 16% of your topline before paying a single operational expense. I've seen business owners not fully account for this, and it becomes a serious problem.
+The forgotten document is usually a clear summary of your existing debt obligations. RBF lenders care about your revenue, but they care equally about what percentage of that revenue is already committed to other lenders. If you're already remitting 10% of revenue to another advance and you take on another 6%, you've just handed over 16% of your topline before paying a single operational expense.
 
 Typical timeline from application to funding: three to seven business days for most online RBF lenders. Some are faster. A bank took one of my clients 11 weeks for a term loan decision. That timeline difference is real, and for some situations, it's the whole reason RBF makes sense.
 
-Here are a few worked examples from situations I've seen firsthand:
+Here are some worked examples:
 
 - E-commerce brand, $140K/month revenue, needed $250K for inventory ahead of Q4. Took RBF at 1.30 factor, 5% remittance. Repaid in 14 months. Effective APR approximately 52%. Gross margin on the inventory push was 38%. The math worked.
 

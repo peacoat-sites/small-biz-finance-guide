@@ -31,23 +31,19 @@ Schedule C is the IRS form where sole proprietors, freelancers, and single-membe
 
 I've walked through this form with dozens of clients sitting across from me, many of them convinced they owed more than they did. That's the part that kills me. They'd been leaving real deductions on the table for years.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Schedule C reports profit or loss from a sole proprietorship or single-member LLC on your Form 1040.</li><li style="margin:5px 0">Self-employment tax (15.3% on net earnings up to $168,600 in 2026) is calculated separately on Schedule SE, which flows from your Schedule C net profit.</li><li style="margin:5px 0">Deductible expenses reduce your taxable profit dollar-for-dollar, tracking them is not optional, it's the whole game.</li><li style="margin:5px 0">The home office deduction is real and legal; the simplified method allows $5 per square foot, up to 300 square feet.</li><li style="margin:5px 0">If your business lost money, that loss may offset other income on your 1040, but repeated losses trigger IRS scrutiny after three of five years.</li></ul></div>
-
 
 ## What Schedule C Actually Covers
 
 The form is split into a few main parts, and once you see the structure, it stops feeling scary. Part I is your gross income: total revenue before anything gets subtracted. Part II is your expenses, listed by category. The difference is your net profit or loss, which lands on line 31 and gets carried to your 1040.
 
-You file one Schedule C per business. If you drive for Uber and also do freelance graphic design, that's two separate Schedule C forms. The IRS considers those distinct activities, and mixing them is a mistake I've seen cause real problems in audits.
+You file one Schedule C per business. If you drive for Uber and also do freelance graphic design, that's two separate Schedule C forms. The IRS considers those distinct activities, and mixing them can complicate your taxes.
 
 The businesses that belong on Schedule C: sole proprietors, freelancers, independent contractors, gig workers, and single-member LLCs that haven't elected to be taxed as an S-corp or C-corp. If you're in a partnership or multi-member LLC, you're looking at Form 1065 instead. Completely different animal.
 
 ## The Expenses Section Is Where Most People Leave Money Behind
 
 > **Helpful resource:** [Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Part II of Schedule C has 28 numbered lines covering specific [expense categories](/business-expense-categories-guide/). People tend to fill in the obvious ones (advertising, supplies) and ignore the ones that feel uncertain. That's a mistake.
 
@@ -57,7 +53,7 @@ Here are the categories that most self-employed people underuse:
 
 **Line 18, Office expense vs. Line 22, Supplies:** The IRS distinguishes these, and I'm embarrassed to admit I conflated them in my early years. Office expense is for things you use to run the office: postage, printer ink, software subscriptions under $2,500. Supplies is for items you use directly in your work. A freelance carpenter buys lumber on Line 22. A bookkeeper buys QuickBooks on Line 18.
 
-**Line 30, Home office deduction:** Yes, it's real. No, it's not an automatic audit trigger, that's a myth that's cost self-employed people thousands. You need a space used regularly and exclusively for business. The simplified method: $5 per square foot, maximum 300 square feet, so a maximum deduction of $1,500. The regular method calculates actual costs based on the percentage of your home used for business. If your home office is 12% of your square footage, you can deduct 12% of rent, utilities, and renter's insurance. The regular method usually yields a bigger deduction.
+**Line 30, Home office deduction:** The home office deduction is allowed, and it's not an automatic audit trigger. You need a space used regularly and exclusively for business. The simplified method: $5 per square foot, maximum 300 square feet, so a maximum deduction of $1,500. The regular method calculates actual costs based on the percentage of your home used for business. If your home office is 12% of your square footage, you can deduct 12% of rent, utilities, and renter's insurance. The regular method usually yields a bigger deduction.
 
 **Depreciation (Line 13 and Form 4562):** If you bought equipment, a computer, or machinery for your business, you don't always deduct it all in year one. You might depreciate it over several years. OR you can use Section 179 to deduct the full cost in year one, up to $1,220,000 for 2026. For most small businesses buying a laptop or a camera, you'd just Section 179 it and be done.
 
@@ -101,7 +97,7 @@ The question nobody thinks to ask until it's too late: what counts as "ordinary 
 
 The IRS uses that phrase to define a deductible business expense. Ordinary means common in your trade. Necessary means helpful and appropriate. It does not mean indispensable.
 
-I thought for years that an expense needed to be strictly required to be deductible. That's wrong. A freelance writer buying a book of essays for craft development? Ordinary and necessary. A plumber taking a licensed inspector to lunch to talk about referral relationships? Probably ordinary and necessary. A sole proprietor buying a $3,000 espresso machine for their home office? The IRS will have thoughts.
+An expense doesn't need to be strictly required to be deductible. A freelance writer buying a book of essays for craft development? Ordinary and necessary. A plumber taking a licensed inspector to lunch to talk about referral relationships? Probably ordinary and necessary. A sole proprietor buying a $3,000 espresso machine for their home office? The IRS will have thoughts.
 
 The line is genuinely gray sometimes, and this is one of those cases where I'd rather you spend an hour with a CPA who knows your specific situation than trust a blog post, including this one. Good CPAs who specialize in self-employment taxes are worth their fee several times over.
 
@@ -114,7 +110,6 @@ The line is genuinely gray sometimes, and this is one of those cases where I'd r
 - [IRS Revenue Procedure 2026-xx, Standard Mileage Rates](https://www.irs.gov/tax-professionals/standard-mileage-rates): IRS source for the current 2026 business mileage rate of $0.70/mile.
 
 ---
-
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
 

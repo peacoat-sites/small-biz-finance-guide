@@ -36,7 +36,7 @@ The rule is simple and brutal: the space must be used *only* for business. Not m
 
 Your guest bedroom with a desk in the corner? Doesn't qualify. The kitchen table where you answer emails? Doesn't qualify. The living room couch where you take calls? You already know the answer.
 
-I've seen business owners with genuinely legitimate home offices lose the deduction in an audit because they admitted they occasionally let their kid use the computer for homework. One conversation. Gone.
+Business owners with legitimate home offices can lose the deduction in an audit if they admit to occasional personal use, like a child doing homework on the work computer.
 
 The space doesn't need to be a separate room, technically, but it's far easier to defend if it is. A clearly defined, walled-off area where nothing personal ever happens is worth the $200 it costs to put up a partition. You can deduct the partition too.
 
@@ -46,11 +46,9 @@ There's a second requirement that gets less attention: the space must be your *p
 
 > **Helpful resource:** [QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Employees. I'll just say it directly: if you're a [W-2 employee](/1099-vs-w2-explained/), you cannot take the home office deduction under current federal tax law. That changed with the Tax Cuts and Jobs Act, and as of July 2026, it hasn't changed back. It doesn't matter that your employer sent you home during a company restructuring. It doesn't matter that you "have to" work from home. Federal deduction, gone.
 
-This surprises people. A reader emailed me last spring, a project manager for a mid-size logistics company, absolutely convinced she could deduct her spare bedroom because her company closed her regional office in 2024. She couldn't. I had to walk her back from filing a return that would've flagged her for sure.
+Many assume they can deduct a spare bedroom as a home office simply because their employer closed a regional office. This doesn't qualify; the IRS requires exclusive and regular business use in that specific space, not just because your workplace relocated.
 
 Self-employed individuals, sole proprietors, single-member LLC owners, S-corp shareholders who pay themselves a salary through payroll (this one has extra steps, ask your CPA), partners in a partnership: these people can take it. The deduction lives on Schedule C for most self-employed folks.
 
@@ -125,7 +123,6 @@ This is not a reason to avoid the deduction. The math almost always still favors
 - [Tax Cuts and Jobs Act of 2017 (TCJA)](https://www.congress.gov/bill/115th-congress/house-bill/1): The legislation that suspended miscellaneous itemized deductions for employees, eliminating the W-2 employee home office deduction through at least 2025.
 
 ---
-
 
 ---
 

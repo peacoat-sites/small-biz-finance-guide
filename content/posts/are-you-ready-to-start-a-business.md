@@ -17,7 +17,7 @@ This quick quiz walks through your habits, your [savings buffer](/break-even-cal
 
 {{< quiz >}}
 
-Here's the thing: readiness isn't something you're born with. It's something you build. I've talked to plenty of founders who started in the "not ready yet" bucket and closed the gaps piece by piece over the next few months. Your score here isn't a verdict. It's a starting point. When you're ready to move forward, our [beginner guides](/best-small-business-grants-for-startups-2026/) are right there.
+Readiness isn't something you're born with. It's something you build. Founders who start in the "not ready yet" bucket can close the gaps piece by piece over the next few months. Your score here isn't a verdict. It's a starting point. When you're ready to move forward, our [beginner guides](/best-small-business-grants-for-startups-2026/) are right there.
 
 ## Sources
 

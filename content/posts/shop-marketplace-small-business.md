@@ -53,15 +53,13 @@ Who benefits most in practice: a cleaning company with 12 employees earning $38,
 
 > **Helpful resource:** [Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 As of July 2026, SHOP operates primarily through HealthCare.gov for most states, though a handful of states run their own SHOP exchanges. California (Covered California for Small Business), New York, and Colorado run independent state exchanges with their own plan inventories and rules.
 
 The enrollment path is straightforward, if a little clunky:
 
 You create an employer account on HealthCare.gov/SHOP or your state exchange. You'll enter your business information: EIN, number of employees, location, payroll data. The system calculates your preliminary eligibility for the tax credit. Then you pick a plan or plans to offer, set your contribution level (you must contribute at least 50% of employee-only premiums), and your employees get a special enrollment link to make their selections.
 
-One thing I'd flag: the employee enrollment window matters. Employees typically have 30 days to elect coverage after you open enrollment. If they miss it, they wait for the next open enrollment period unless they have a qualifying life event. Set a deadline reminder and follow up. I've seen small employers lose employees from the plan simply because nobody chased down the paperwork.
+One thing I'd flag: the employee enrollment window matters. Employees typically have 30 days to elect coverage after you open enrollment. If they miss it, they wait for the next open enrollment period unless they have a qualifying life event. Set a deadline reminder and follow up. Small employers can lose employees from the plan if enrollment deadlines aren't tracked and followed up on.
 
 **Worked example 1:** A dental practice owner in Ohio with 18 employees, all earning under $50,000 per year, opened a SHOP account in April. She picked a mid-tier silver plan, contributed 60% of premiums, and enrolled 14 of 18 eligible employees. Her annual premium contribution came to roughly $52,000. After claiming the tax credit (she fell in the middle of the credit phase-out range), she recovered about $19,500 over the two-year credit window. That's real money, and she almost didn't bother because her broker told her SHOP "wasn't worth the hassle." It was.
 
@@ -71,7 +69,7 @@ SHOP plan availability varies dramatically by state and county. In a metro area 
 
 That's not a complaint, just a fact to plan around. If you're in a thin market, SHOP may not have competitive options compared to what a broker can source in the private group market. Before you commit to SHOP purely for the tax credit, price out alternatives. The credit is worth something, but paying 20% more in premiums to qualify for a 30% credit isn't always a net win, depending on your employee wage profile.
 
-I'll be honest: I spent a year early in my practice steering clients toward SHOP reflexively because of the credit, before I started actually running the comparison. Some of those clients were paying more net than they would have through a standard group plan. I changed how I approach this. Now I run the numbers both ways before recommending anything.
+It's worth running the numbers both ways before recommending SHOP. The tax credit can be attractive, but clients may end up paying more net through SHOP than through a standard group plan.
 
 **Worked example 2:** A food truck operator in rural Tennessee with 8 employees checked SHOP availability. One carrier, limited plan selection, premiums running about 15% higher than the same network through a local group broker. His FTE wages averaged $34,000, so he qualified for a credit, but when we modeled it out, the two-year credit recovered roughly $11,200 while the premium premium (yes, I said that twice) added about $13,000 in extra cost over the same period. He bought outside SHOP. Sometimes that's the right answer.
 
@@ -94,7 +92,6 @@ One often-overlooked resource: [SCORE](https://www.score.org/) offers free mento
 - Fronstin, Paul (Employee Benefit Research Institute): Research on small employer health benefit adoption rates and ACA marketplace participation.
 
 ---
-
 
 ---
 

@@ -67,7 +67,7 @@ Most free LLC vs. S corp calculators online do a decent job of computing the sel
 
 **State fees and franchise taxes.** Some states charge additional fees or minimum franchise taxes for S corps. California charges a minimum $800 franchise tax annually. Texas has its own franchise tax structure. This varies wildly, so you need to check your specific state. (The [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/) won't cover this specifically, but your state's Secretary of State website will.)
 
-Once you factor in $1,500 to $3,000 in real annual overhead, the break-even point shifts. Most experienced CPAs suggest the S corp election doesn't typically pencil out until you're netting somewhere around $40,000 to $50,000 in profit above your reasonable salary. I've seen that threshold quoted as low as $30,000 and as high as $60,000. Honestly, the research here is mixed because it depends so much on your state, your industry, and what you're already paying for accounting.
+Once you factor in $1,500 to $3,000 in real annual overhead, the break-even point shifts. Most experienced CPAs suggest the S corp election doesn't typically pencil out until you're netting somewhere around $40,000 to $50,000 in profit above your reasonable salary. The research here is mixed because it depends so much on your state, your industry, and what you're already paying for accounting.
 
 ## How to Actually Run the Calculation Yourself
 
@@ -92,7 +92,7 @@ If you want a pre-built template to work through this, Mike Piper's [*Taxes Made
 
 Let me spend a minute here because this is where people get themselves into trouble.
 
-There's a cottage industry of advice, some of it aggressive, that nudges business owners to set their salary as low as legally possible to maximize distribution income. While that's technically the optimization you're going for, the IRS has litigated this aggressively. David Watson, a CPA in Iowa, famously paid himself $24,000 a year while his S corp generated roughly $200,000 in profit. The IRS reclassified a substantial portion of his distributions as wages in 2010. He owed back payroll taxes, penalties, and interest.
+Some advisors suggest setting your salary as low as legally possible to maximize distribution income. While that's technically the optimization you're going for, the IRS has litigated this aggressively. David Watson, a CPA in Iowa, famously paid himself $24,000 a year while his S corp generated roughly $200,000 in profit. The IRS reclassified a substantial portion of his distributions as wages in 2010. He owed back payroll taxes, penalties, and interest.
 
 This doesn't mean the S corp election is dangerous. It means you can't game it recklessly. Set a salary you can justify with actual market data, document your reasoning, and work with a CPA who knows what they're doing. [SCORE](https://www.score.org/) offers free mentorship and can connect you with advisors who've navigated this for other small business owners if you're not sure where to start.
 

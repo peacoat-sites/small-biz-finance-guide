@@ -55,15 +55,13 @@ The more dangerous setup is when card data touches your own systems in any way. 
 
 > **Helpful resource:** [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Most small merchants are required to complete a Self-Assessment Questionnaire, or SAQ, annually. There are multiple versions (A, A-EP, B, B-IP, C, D, and a few others), and which one applies to you depends entirely on how you accept payments.
 
 SAQ A is the easiest. It's for merchants who've fully outsourced card processing to a third party and don't store, process, or transmit cardholder data themselves. As of the 4.0 standard, even SAQ A now includes some new requirements around scripts on your checkout page that didn't exist before. Still short, but not the one-pager it used to be.
 
 SAQ D is the nightmare. It's for merchants who store cardholder data or who don't fit any other category. Hundreds of controls. If you're filling out SAQ D as a small business, something has probably gone wrong in your payment architecture.
 
-Here's the thing I tell every client: find out which SAQ your processor requires you to complete, and actually complete it. A shockingly high percentage of small merchants never do. They assume compliance is automatic, or they click through a portal without understanding what they're attesting to. If there's ever a breach, the first thing the card brands check is whether you completed your SAQ. If you didn't, your liability exposure jumps significantly. The [U.S. Small Business Administration](https://www.sba.gov/) has basic cybersecurity resources that include payment security, and it's worth starting there if you're not sure where your business stands.
+Find out which SAQ your processor requires you to complete, and actually complete it. Many small merchants skip this step. They assume compliance is automatic, or they click through a portal without understanding what they're attesting to. If there's ever a breach, the first thing the card brands check is whether you completed your SAQ. If you didn't, your liability exposure jumps significantly. The [U.S. Small Business Administration](https://www.sba.gov/) has basic cybersecurity resources that include payment security, and it's worth starting there if you're not sure where your business stands.
 
 ## The "I Use a Big Processor So I'm Fine" Myth
 
@@ -91,7 +89,6 @@ If you want to go deeper on the technical side, the PCI SSC's own published guid
 
 ---
 
-
 ---
 
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
@@ -105,7 +102,6 @@ If you want to go deeper on the technical side, the PCI SSC's own published guid
 - [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/)
 - [Evan Schuman's writing on compliance](https://www.amazon.com/s?k=PCI+compliance+small+business&tag=contentportfo-20)
 - [QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

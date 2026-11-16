@@ -30,7 +30,7 @@ Most small business owners I talk to think an audit is something that happens to
 
 The IRS doesn't only come knocking when someone's cooking the books. They use statistical models, automated filters, and industry benchmarks, and sometimes your completely legitimate return just looks weird compared to everyone else in your sector. I've sat across the table from business owners who did everything right and still spent eight months producing receipts for an auditor. The stress alone is brutal. So understanding what actually triggers scrutiny, before you file, is one of the most practical things you can do for your business.
 
-I'll be honest: I got curious about this topic partly because I've watched the audit rate for small businesses shift in ways that surprised me. After years of declining examination rates, the IRS has publicly committed to increasing enforcement on pass-through entities and sole proprietors, with new funding behind it. As of July 2026, that shift is real and ongoing. Schedule C filers and S-corp owners especially should be paying attention.
+After years of declining examination rates, the IRS has publicly committed to increasing enforcement on pass-through entities and sole proprietors, with new funding behind it. As of July 2026, that shift is real and ongoing. Schedule C filers and S-corp owners especially should be paying attention.
 
 ## The Numbers That Set Off Alarms
 
@@ -38,14 +38,14 @@ The IRS uses a scoring system called the Discriminant Information Function (DIF)
 
 What surprised me, when I looked into how DIF works in practice, is that it's not just about big deductions. It's about *ratios*. A $40,000 home office deduction on a $2 million revenue return might sail through fine. The same $40,000 on a $95,000 revenue return is going to look strange. Context is everything, and the IRS has decades of data to establish what "normal" looks like.
 
-A few specific numbers that tend to raise flags, based on what I've seen and what the [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed) makes clear in its examination guidance:
+A few specific numbers that tend to raise flags according to the [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed) examination guidance:
 
 - [Meals and entertainment deductions](/small-business-tax-deductions-checklist-2026/) exceeding 1-2% of gross revenue (for most industries)
 - Vehicle use claimed at 100% business, especially on luxury vehicles
 - Home office deductions taken year after year with no variation
 - Losses reported for three or more consecutive years on a Schedule C
 
-That last one is a big one. The IRS has a "hobby loss" rule baked into the tax code (Section 183), and if your business looks more like an expensive hobby, they will look. I've seen this play out with a client who ran a photography side business at a loss for four straight years while also holding a W-2 job. Technically, she was running a real business. But the paper trail didn't prove it, and the audit cost her $6,200 in back taxes and penalties after deductions were disallowed.
+That last one is a big one. The IRS has a "hobby loss" rule baked into the tax code (Section 183), and if your business looks more like an expensive hobby, they will look. For example, a photography side business run at a loss for four straight years while the owner holds a W-2 job may face scrutiny. Without documentation showing business intent, the IRS can disallow deductions, resulting in back taxes and penalties.
 
 Photography side business, four consecutive loss years, no documented marketing or client-acquisition activity → IRS flagged the Schedule C under hobby loss provisions → $6,200 in assessed taxes and penalties after deductions were disallowed on roughly $18,000 in claimed expenses.
 
@@ -57,8 +57,6 @@ Photography side business, four consecutive loss years, no documented marketing 
 | Restaurant with clean records, income 11% below local median | Statistical review based on industry norms | Five-month examination, no additional tax assessed | $4,500 in CPA fees |
 
 > **Helpful resource:** [Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 This is the part most people underestimate. If you're in a cash-intensive business, you're in a higher-risk category full stop. Restaurants, car washes, nail salons, landscapers, contractors, food trucks. The IRS has industry-specific examination techniques for these sectors, and agents are trained to reconstruct income from indirect methods, like your bank deposits, cost of goods sold, or even your electricity usage, if they think your reported revenue is light.
 
@@ -80,7 +78,7 @@ I made this mistake myself early in my career, keeping a "good enough" mileage l
 
 Misclassifying employees as independent contractors is one of the IRS's stated enforcement priorities, and has been for years. The risk here is compounded because you're not just dealing with the IRS. State labor departments have their own rules, and the [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/) have good guidance on how misclassification can affect your access to certain financial products as well.
 
-The financial exposure on a classification mistake is severe. If you paid someone $60,000 as a 1099 contractor when they should have been a W-2 employee, you can owe the employer's share of FICA, potentially the employee's share if you didn't withhold it, plus interest and penalties. For a single worker reclassified over three years, I've seen assessments north of $25,000.
+The financial exposure on a classification mistake is severe. If you paid someone $60,000 as a 1099 contractor when they should have been a W-2 employee, you can owe the employer's share of FICA, potentially the employee's share if you didn't withhold it, plus interest and penalties. A single worker reclassified over three years can result in assessments exceeding $25,000.
 
 The test isn't about what you *call* the relationship. It's about behavioral control, financial control, and the type of relationship. If you set someone's hours, provide their tools, and they work exclusively for you, calling them a 1099 won't hold up.
 
@@ -107,7 +105,6 @@ And find a CPA who actually knows your industry. Not a generalist who does your 
 - [IRS Internal Revenue Manual, Section 4.10](https://www.irs.gov/irm/part4/irm_04-010-001): Examination of returns procedures, including DIF score usage and classification criteria
 
 ---
-
 
 ---
 

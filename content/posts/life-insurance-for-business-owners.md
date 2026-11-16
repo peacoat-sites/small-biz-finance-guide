@@ -31,9 +31,7 @@ Here's what I tell people in that first conversation: life insurance for a [busi
 
 I've watched owners buy a $500,000 term policy thinking they've checked the box, only to discover five years later that their buy-[sell agreement](/buy-sell-agreement-business/) requires $2.3 million in coverage and they never funded it properly. The gap between "I have life insurance" and "I have the right life insurance" can genuinely cost a family the business.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Business owners typically need life insurance for 3 distinct purposes: personal income replacement, buy-sell funding, and key person coverage.</li><li style="margin:5px 0">Term life is usually the right starting point: a healthy 45-year-old owner can get $1M in 20-year term coverage for roughly $80–$120/month.</li><li style="margin:5px 0">An unfunded buy-sell agreement is almost as dangerous as no agreement at all.</li><li style="margin:5px 0">Key person policies are owned by the business and pay the business, not your family.</li><li style="margin:5px 0">Permanent life (whole or universal) can play a role in estate planning, but most owners don't need it right away.</li></ul></div>
-
 
 ## The Three Jobs Life Insurance Does for a Business Owner
 
@@ -41,7 +39,7 @@ Let me break this down plainly, because conflating these gets people into troubl
 
 **Personal income replacement.** This is what most people think of when they think "life insurance." Your family depends on the income you draw from the business. If you die, that income stops. A term policy sized to your salary (typically 10–12x your annual draw, as a rough starting point) covers this. Standard stuff.
 
-**Buy-sell funding.** If you have a business partner, this is where things get serious fast. A buy-sell agreement is the legal contract that says what happens to an owner's shares when they die (or become disabled, or want out). Life insurance is the most common way to fund it: each partner takes out a policy on the other's life, sized to buy out the deceased owner's share at an agreed valuation. Without the insurance, the surviving partner may be forced into business with the deceased's spouse or heirs. I've seen that exact scenario play out, and it's ugly for everyone.
+**Buy-sell funding.** If you have a business partner, this is where things get serious fast. A buy-sell agreement is the legal contract that says what happens to an owner's shares when they die (or become disabled, or want out). Life insurance is the most common way to fund it: each partner takes out a policy on the other's life, sized to buy out the deceased owner's share at an agreed valuation. Without the insurance, the surviving partner may be forced into business with the deceased's spouse or heirs.
 
 **Key person coverage.** This one gets overlooked most often. If you (or a key employee) are so central to the business that losing you would materially damage revenue or operations, the business should own a policy on your life. The payout goes to the company to cover the cost of finding a replacement, surviving a revenue dip, or paying off business debt. The [U.S. Small Business Administration](https://www.sba.gov/) specifically cites key person insurance as one of the financial protections lenders look for before extending credit to small businesses.
 
@@ -51,13 +49,11 @@ One thing that trips people up: key person policies are owned by the business an
 
 > **Helpful resource:** [The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Everybody has an opinion on this. Here's mine, formed after 18 years of looking at business owners' balance sheets.
 
 For most owners under 55, term life is the right answer for buy-sell and personal income replacement coverage. It's straightforward, affordable, and sized to the period when you actually need it. Permanent life (whole life, universal life, indexed universal life) is more expensive and more complex, and the sales pitch around "building cash value" often papers over the fact that you're paying two to three times the premium for a benefit that may take decades to make financial sense.
 
-That said, permanent life does have a real role in two scenarios: estate planning for high-net-worth owners who expect estate tax exposure, and as a supplemental retirement vehicle when you've maxed out every other tax-advantaged option. A CPA and a fee-only financial planner (not a commission-based insurance agent) are the right people to help you think through that. The conflict of interest on commission products is real, and I say that bluntly because I've seen owners talked into $3,000/month whole life policies when a $90/month term policy would have done the job.
+Permanent life insurance can make sense in two scenarios: estate planning for high-net-worth owners who expect estate tax exposure, and as a supplemental retirement vehicle when you've maxed out every other tax-advantaged option. A CPA and a fee-only financial planner (not a commission-based insurance agent) are the right people to help you think through that. The conflict of interest on commission products is real.
 
 Here's a side-by-side on coverage types that I find useful when walking clients through their options (current as of August 2026, though exact premiums vary by health, age, and insurer):
 
@@ -99,7 +95,7 @@ A second worked example: A 38-year-old founder draws $180,000 annually, owns 60%
 
 Not updating beneficiary designations after a divorce or business restructuring. Policies pay whoever is named on the form, not whoever you intended.
 
-Buying coverage through a captive agent who only sells one carrier's products. Get quotes from multiple insurers. Pricing on term life varies more than you'd expect for identical coverage, and I've seen differences of $40–$60/month on the same policy just by running a broader market comparison.
+Buying coverage through a captive agent who only sells one carrier's products. Get quotes from multiple insurers. Pricing on term life varies more than you'd expect for identical coverage, and differences of $40–$60/month on the same policy are possible just by running a broader market comparison.
 
 I made this mistake myself early in my career: I assumed the policy my first employer gave me as a benefit was portable. It wasn't. When I left to consult independently, I had a two-year gap in coverage while I was building a client base, which was exactly the wrong time to be uninsured. Lesson learned: own your own policies wherever possible, so coverage isn't tied to employment status.
 
@@ -112,7 +108,6 @@ I made this mistake myself early in my career: I assumed the policy my first emp
 - *The Business Owner's Guide to Financial Success* by Mark Kohler (available [on Amazon](https://www.amazon.com/s?k=business+owner+financial+success+kohler), note the site may earn a commission): Practical reference on integrating insurance with business structure and tax strategy.
 
 ---
-
 
 *Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 

@@ -29,7 +29,6 @@ A restaurant owner I worked with a few years back almost signed a $94,000 equipm
 
 Equipment financing sounds straightforward. You need a piece of equipment, you don't have the cash to buy it outright, someone lends you money or gives you the equipment to use. But the details inside that transaction can mean the difference between a smart capital decision and a five-year mistake.
 
-
 <div class="value-module">
  <div class="vm-head">Lease vs Loan: Total Cost Comparison</div>
  <div class="vm-body">
@@ -55,7 +54,7 @@ The [IRS small business tax center](https://www.irs.gov/businesses/small-busines
 
 Most equipment lenders want at least two years in business, though some specialty lenders go down to six months (expect higher rates). They'll pull your personal credit score, and under roughly 650 you'll be fighting for approvals or paying for it in rate. They want your last two years of business tax returns, recent bank statements (usually three to six months), and depending on loan size, maybe a current balance sheet and P&L.
 
-The equipment itself matters more than people realize. Lenders think about resale value. A piece of equipment with a strong secondary market (certain CNC machines, restaurant equipment, construction gear) is easier to finance at better terms than something highly specialized with almost no resale value. I've seen deals fall apart not because the borrower was weak but because the collateral was essentially unsellable.
+The equipment itself matters more than people realize. Lenders think about resale value. A piece of equipment with a strong secondary market (certain CNC machines, restaurant equipment, construction gear) is easier to finance at better terms than something highly specialized with almost no resale value. Deals can fall apart not because the borrower is weak but because the collateral is essentially unsellable.
 
 Many equipment lenders are incredibly fast compared to traditional bank loans. Online lenders like Crest Capital, Balboa Capital, and Currency Capital can approve and fund in 24 to 72 hours. Your bank might take two to four weeks but offer a significantly lower rate. If you're not in a rush, call your bank first.
 
@@ -113,7 +112,6 @@ For deeper reading on the financial structure side of these decisions, Mike Mich
 - [Profit First](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=contentportfo-20)
 - [The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20)
 - [AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

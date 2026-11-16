@@ -57,7 +57,7 @@ Here's what a professional invoice actually requires:
 
 That last one trips people up. If you plan to charge a late fee, you have to tell the client upfront, ideally in your contract and again on the invoice itself. You can't just add it later and expect it to stick.
 
-I've watched clients lose legitimate disputes because their invoice didn't state net-30 terms anywhere. The client assumed 60 days. Write it plainly: "Payment due by March 15, 2025." Don't just write "Net 30" and hope everyone's on the same page.
+A common mistake is leaving payment terms vague on invoices. When terms aren't explicit, clients may assume longer timelines than you intended. Write it plainly: "Payment due by March 15, 2025." Don't just write "Net 30" and hope everyone's on the same page.
 
 ---
 

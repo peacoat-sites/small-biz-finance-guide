@@ -31,9 +31,7 @@ Here's what a revolving credit facility actually is: a pre-approved credit limit
 
 That last part is where the "revolving" comes in, and it's the feature that makes this instrument genuinely different from a term loan.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">You pay interest only on the amount drawn, not the full credit limit.</li><li style="margin:5px 0">Lines typically range from $25,000 to $5 million for small businesses, depending on lender and financials.</li><li style="margin:5px 0">Draw-repay-redraw cycles can repeat indefinitely within the facility term (usually 1-3 years).</li><li style="margin:5px 0">Revolving facilities work best for working capital gaps, not long-term capital expenditures.</li><li style="margin:5px 0">Annual fees, unused line fees, and covenant requirements can quietly erode the value if you're not watching.</li></ul></div>
-
 
 ## How the Mechanics Actually Work
 
@@ -43,13 +41,11 @@ Interest accrues daily on your outstanding balance. So if you draw $80,000 at an
 
 Lenders will typically charge a commitment fee (also called an unused line fee) on the portion you haven't drawn. This runs between 0.25% and 0.75% annually in most bank agreements I've reviewed. On a $300,000 facility where you only ever use $80,000, you're paying a fee on the idle $220,000. That quiet cost is the one most borrowers miss when they compare revolvers to term loans.
 
-The facility itself comes with an expiration date, usually 12 to 36 months. Before it expires, you renegotiate or let it lapse. Some lenders have annual review clauses where they can reduce your limit or call the line if your financials deteriorate. I've seen that happen to clients mid-year during a rough quarter. It's not common, but it's in the agreement.
+The facility itself comes with an expiration date, usually 12 to 36 months. Before it expires, you renegotiate or let it lapse. Some lenders have annual review clauses where they can reduce your limit or call the line if your financials deteriorate. It's not common, but it's in the agreement.
 
 ## Secured vs. Unsecured: What You're Actually Being Asked to Sign
 
 > **Helpful resource:** [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Smaller revolvers (generally under $100,000) from fintech lenders are often unsecured, meaning no specific collateral. You'll pay for that flexibility with rates that can run anywhere from 10% to 25% APR depending on your creditworthiness. The application process is faster, sometimes 24 to 48 hours, and the documentation requirements are lighter.
 
@@ -104,7 +100,6 @@ The Consumer Financial Protection Bureau has published small business credit acc
 - Aswath Damodaran, *Corporate Finance: Theory and Practice*: Foundational framework for understanding credit facility structures and cost of capital decisions (available [on Amazon](https://www.amazon.com/s?k=damodaran+corporate+finance), where this site may earn a commission)
 
 ---
-
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

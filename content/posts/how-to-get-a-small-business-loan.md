@@ -132,7 +132,7 @@ Ask the lender specifically why you were declined. Many won't volunteer this, bu
 
 Common reasons for rejections: insufficient time in business (less than two years), low personal credit score, weak cash flow, too much existing debt, inadequate collateral, or incomplete documentation.
 
-I've seen clients get rejected in January and approved by June simply by paying down a personal credit card, correcting a credit report error, and cleaning up their bookkeeping. Six months of disciplined preparation can flip the result entirely.
+Applicants who were initially rejected have later been approved after paying down a personal credit card, correcting a credit report error, and cleaning up their bookkeeping. Six months of disciplined preparation can flip the result entirely.
 
 If traditional lenders aren't an option right now, consider CDFIs (Community Development Financial Institutions), which exist to serve underbanked businesses and often have more flexible criteria. The SBA's website has a CDFI locator tool. Revenue-based financing is another alternative worth exploring if your business has consistent monthly revenue but limited credit history.
 

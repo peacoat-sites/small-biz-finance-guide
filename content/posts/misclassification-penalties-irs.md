@@ -52,8 +52,6 @@ What most people don't realize is that no single factor is automatically disqual
 
 > **Helpful resource:** [The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 This is where I want you to pay close attention, because the numbers are genuinely shocking if you haven't seen them laid out.
 
 Under Section 3509 of the Internal Revenue Code, if the IRS determines you misclassified employees, the penalties depend heavily on whether you filed 1099s for those workers and whether the misclassification was "intentional."
@@ -70,7 +68,7 @@ Here's a provision that genuinely changes outcomes and that most small business 
 
 "Reasonable basis" can be established by showing you relied on a prior IRS audit that didn't flag the classification, a published IRS ruling, industry practice (if a significant portion of your industry treats similar workers as contractors), or a reasonable good-faith interpretation of the law. That last one is the broadest and the most litigated.
 
-I've seen this defense work. I've also seen it fail when owners couldn't document that they'd actually thought about the classification at the time, rather than just assuming. The lesson: if you're classifying people as contractors today, create a contemporaneous record of your reasoning. A one-page memo in their file noting the factors you considered is worth more than any verbal explanation later.
+This defense can work, but it fails when owners can't document that they considered the classification factors at the time rather than just assuming. If you're classifying people as contractors, create a contemporaneous record of your reasoning. A one-page memo in their file noting the factors you considered is worth more than any verbal explanation later.
 
 ## If You're Already Worried About Past Classifications
 
@@ -92,7 +90,6 @@ The honest answer for most businesses with workers who look and function like em
 
 ---
 
-
 ---
 
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
@@ -106,7 +103,6 @@ The honest answer for most businesses with workers who look and function like em
 - [Deduct It! Lower Your Small Business Taxes](https://www.amazon.com/s?k=Deduct+It+Lower+Your+Small+Business+Taxes+Fishman)
 - [SCORE mentorship network](https://www.score.org/)
 - [Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

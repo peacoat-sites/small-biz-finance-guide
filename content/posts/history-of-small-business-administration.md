@@ -29,23 +29,19 @@ Most [business owners](/business-owners-policy-bop/) I talk to have borrowed fro
 
 Here's the short version: the SBA was created in 1953, during the Eisenhower administration, mostly as a political compromise. The Reconstruction Finance Corporation (RFC) had been the Depression-era workhorse for government lending, and Congress killed it partly over corruption concerns. [Small business](/shop-marketplace-small-business/) advocates needed a replacement. What they got was the Small Business Act of 1953, signed July 30th, and an agency born from bureaucratic necessity rather than grand vision. It was underfunded, undersized, and underestimated from day one. That DNA still shows up in how the agency operates today, and I mean that in both the frustrating and the admirable ways.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The SBA was created July 30, 1953, replacing the dissolved Reconstruction Finance Corporation.</li><li style="margin:5px 0">SBA loan volume today exceeds $50 billion annually across multiple programs.</li><li style="margin:5px 0">The 7(a) program, launched in the 1950s, remains the SBA's most-used loan product as of 2026.</li><li style="margin:5px 0">Major program expansions followed every major U.S. economic crisis: recessions, 9/11, 2008, COVID-19.</li><li style="margin:5px 0">SBA disaster loans are a separate, underused program most small business owners don't know exists.</li></ul></div>
-
 
 ## Born Out of Necessity, Not Vision
 
 The RFC was a behemoth. Franklin Roosevelt used it to fund everything from railroads to war production, and it worked, mostly. But by the early 1950s, it had become a political liability. Scandal, allegations of favoritism, and a shift in Republican ideology toward smaller government made it a target. Eisenhower wanted it gone.
 
-The Small Business Administration stepped into a fraction of that role. Its original mandate was to "aid, counsel, assist, and protect" [small businesses](/the-new-2000-1099-threshold-what-small-businesses-must-do-now/), which sounds great on a government seal but translated, in practice, to a small staff with limited lending authority and a lot of referrals. I've seen the early organizational charts. It's almost comical how lean it was for an agency expected to serve millions of businesses.
+The Small Business Administration stepped into a fraction of that role. Its original mandate was to "aid, counsel, assist, and protect" [small businesses](/the-new-2000-1099-threshold-what-small-businesses-must-do-now/), which sounds great on a government seal but translated, in practice, to a small staff with limited lending authority and a lot of referrals. The early organizational charts show a remarkably lean structure for an agency expected to serve millions of businesses.
 
 What saved it was the 7(a) loan guaranty program, which grew steadily through the late 1950s and 1960s. The structure was clever: the SBA didn't lend money directly in most cases, it guaranteed loans made by private lenders. Banks took on the relationship; the government absorbed a chunk of the default risk. That model reduced the SBA's capital needs and created a built-in private-sector distribution network. It's the same basic model still running today, which is either a sign of genius or institutional inertia, depending on your mood.
 
 ## The 1960s and 1970s: Social Policy Gets Added to the Mix
 
 > **Helpful resource:** [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 This is the period most people skip, but it matters. The SBA's early years were almost exclusively about access to capital. Then came the civil rights movement, urban unrest, and a federal government trying to respond through economic inclusion. The SBA got handed a new job: help minority-owned and disadvantaged businesses.
 
@@ -86,15 +82,13 @@ What also came out of COVID was the Economic Injury Disaster Loan (EIDL) program
 
 *Figures current as of August 2026. Loan limits and program terms can change; verify with the SBA or a qualified lender before applying.*
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">SBA 7(a) Loan Approvals by Decade (approximate billions)</div><div class="sc-row"><span class="sc-label">1960s</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">1.2 $B</span></div><div class="sc-row"><span class="sc-label">1970s</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">4.8 $B</span></div><div class="sc-row"><span class="sc-label">1980s</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">9.1 $B</span></div><div class="sc-row"><span class="sc-label">1990s</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">22.4 $B</span></div><div class="sc-row"><span class="sc-label">2000s</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">38.7 $B</span></div><div class="sc-row"><span class="sc-label">2010s</span><span class="sc-track"><span class="sc-bar" style="width:25%"></span></span><span class="sc-val">245 $B</span></div><div class="sc-row"><span class="sc-label">2020s (partial)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">980 $B</span></div><div class="sc-src">Source: SBA historical lending data</div></div>
-
 
 The 2020s number is skewed hard by PPP, which is worth keeping in mind. Without PPP, the underlying 7(a) trend is still strongly upward, but nothing like that chart suggests.
 
 ## What the History Actually Tells You
 
-Here's what I take away from 70-plus years of SBA history, and I've watched this agency closely for nearly two decades: it expands dramatically during crises and contracts slowly during calm periods. Its programs accumulate rather than replace each other. That's why the program menu looks complicated from the outside. It is complicated. Each program has a specific legislative origin and a specific constituency protecting it.
+Over 70-plus years of SBA history, the pattern is clear: the agency expands dramatically during crises and contracts slowly during calm periods. Its programs accumulate rather than replace each other. That's why the program menu looks complicated from the outside. It is complicated. Each program has a specific legislative origin and a specific constituency protecting it.
 
 The [U.S. Small Business Administration (SBA)](https://www.sba.gov/) publishes its own historical data and program guides, and I do recommend going directly to the source rather than relying on aggregator sites that are often a cycle behind on program changes. For mentorship and free guidance on which program fits your situation, [SCORE](https://www.score.org/) has matched business owners with advisors since 1964, which is, not coincidentally, right in the middle of SBA's early growth period. SCORE started as an SBA partner and still functions that way.
 
@@ -115,7 +109,6 @@ Another example, more recent: a startup founder in Austin in early 2022 tried to
 - U.S. Government Accountability Office (GAO), multiple reports on PPP implementation (2020-2022): Documented the scale, speed, and error rates of COVID-era SBA programs
 
 ---
-
 
 *Photo: [Mark Stebnicki](https://www.pexels.com/@nc-farm-bureau-mark) via Pexels*
 

@@ -14,7 +14,7 @@ slug: "how-to-stack-bonus-depreciation-and-section-179-under-the-obbba"
 affiliate_disclosure: true
 lastmod: 2026-07-08
 ---
-Most small business owners heard the headline: the One Big Beautiful Bill Act brought back 100% bonus depreciation. What they didn't hear was the fine print that could make a real difference in how much of that benefit they actually keep. I've been digging into the details since the IRS dropped Notice 2026-11 in January, and I'll be honest, the strategy here is more nuanced than the press coverage suggests.
+Most small business owners heard the headline: the One Big Beautiful Bill Act brought back 100% bonus depreciation. What they didn't hear was the fine print that could make a real difference in how much of that benefit they actually keep. The strategy here is more nuanced than the press coverage suggests, particularly after the IRS issued Notice 2026-11 in January.
 
 Let me back up for context. Before the OBBBA was signed on July 4, 2025, bonus depreciation was in a painful phase-down triggered by the Tax Cuts and Jobs Act. By 2024, the rate had already fallen to 60%. It was scheduled to drop further and disappear entirely by 2027. The OBBBA reversed all of that permanently, restoring 100% bonus depreciation for qualified property acquired after January 19, 2025. At the same time, the law doubled the Section 179 expensing limit to $2.56 million for 2026, up from $1.22 million in 2024, with a phase-out threshold of $4.09 million. Both figures are now inflation-adjusted annually going forward.
 
@@ -47,8 +47,6 @@ What surprised me when I worked through this is how often business owners apply 
 
 > **Helpful resource:** [QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 If you're profitable, expect to stay profitable, and your state conforms to federal tax law, Section 179 is often the cleaner starting point. You get an immediate deduction, you can target it precisely, and you avoid creating an NOL you might not need.
 
 The $2.56 million limit sounds enormous, and for most small businesses, it is. The phase-out starts at $4.09 million in total qualifying property placed in service during the year. If you're under that threshold, you've got a lot of runway. According to Landmark CPAs, the new limits make Section 179 a practical tool for a much wider range of businesses than it was even two years ago.
@@ -71,7 +69,7 @@ I'll be honest, this is the part that bites people. And it bites them hard.
 
 California, New York, New Jersey, and Pennsylvania do not conform to federal bonus depreciation. That means if you take a $1.5 million bonus depreciation deduction on your federal return, you may still owe state income tax on that $1.5 million because your state doesn't recognize the deduction. You could have a federal tax liability near zero and still write a significant check to Sacramento or Albany.
 
-This isn't theoretical. I've seen businesses plan around a big equipment purchase, feel great about the federal write-off, and then get blindsided by a five-figure state tax bill they didn't budget for. Doeren Mayhew flagged this specifically in their April 2026 analysis as one of the most commonly overlooked planning failures under the new law.
+For example, a business might plan around a big equipment purchase and feel good about the federal write-off, only to face an unexpected five-figure state tax bill. Doeren Mayhew flagged this specifically in their April 2026 analysis as one of the most commonly overlooked planning failures under the new law.
 
 Section 179 has its own state conformity issues, but they vary differently and some states do conform partially. The point is: you need to know your state's rules before you commit to a depreciation strategy, not after.
 

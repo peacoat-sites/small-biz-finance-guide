@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 You just quoted a client $850 for a job, they paid on the spot, and it felt like a win. But by the time you bought materials, drove to the site, paid your helper for three hours, and covered your share of that month's software subscription, you walked away with maybe $90. That's not a margin. That's a near-miss. And if you're running a business where that's happening regularly, you're not really making money, you're just staying busy.
 
-Profit margin is the number that separates a business that's growing from one that's slowly bleeding out while looking healthy on the surface. I've seen owners grossing $400,000 a year who couldn't make payroll. I've seen a solo consultant billing $80,000 who was quietly building real wealth. The difference almost always comes down to whether they understood their margins and priced accordingly.
+Profit margin is the number that separates a business that's growing from one that's slowly bleeding out while looking healthy on the surface. An owner grossing $400,000 a year might struggle to make payroll, while a solo consultant billing $80,000 could be building real wealth. The difference almost always comes down to whether they understood their margins and priced accordingly.
 
 This guide will show you exactly how to calculate profit margin, what the different types mean, and how to use the numbers to make smarter decisions starting today.
 
@@ -118,7 +118,7 @@ What most people don't realize is that margin problems rarely announce themselve
 
 **Ignoring your own time.** If you're the one doing the work and you're not counting your labor as a cost, your margins look artificially high. This is one of the most common distortions I see in solo businesses and partnerships. Your time has a dollar value. Build it in.
 
-**Overhead creep.** Every software subscription, every small recurring charge, every "just $29 a month" adds up. I've seen businesses carrying $2,000 to $3,000 a month in software and services they'd forgotten about. Run a line-by-line audit of your bank and credit card statements every quarter.
+**Overhead creep.** Every software subscription, every small recurring charge, every "just $29 a month" adds up. Many businesses end up carrying $2,000 to $3,000 a month in software and services they've forgotten about. Run a line-by-line audit of your bank and credit card statements every quarter.
 
 **Revenue growth without margin tracking.** Growing revenue feels great. But if your margins are shrinking as you grow (a common pattern in product-based businesses that scale production badly), you can grow yourself into insolvency. The [U.S. Small Business Administration](https://www.sba.gov/) has solid resources on financial management that walk through this exact scenario.
 
@@ -132,7 +132,7 @@ Knowing your margin is only useful if you act on it. Here's how to put those num
 
 **Price increases.** If your net margin is sitting below 5% and industry benchmarks suggest 12-15% is achievable, you have a pricing problem. You don't need to raise prices dramatically. A 10-15% increase on your core services, tested on new clients first, can transform your margins without losing existing business.
 
-**Product or service mix decisions.** Not everything you sell has the same margin. I've worked with a product-based business that had 12 SKUs and only 3 of them were actually profitable at a healthy margin. The owner didn't know because she'd never broken out margin by product line. Once she did, she stopped promoting the losers and doubled down on the winners. Revenue stayed roughly the same. Profit climbed noticeably.
+**Product or service mix decisions.** Not everything you sell has the same margin. A product-based business might have 12 SKUs where only 3 are actually profitable at a healthy margin. Without breaking out margin by product line, the unprofitable products stay in the mix. Stopping promotion of low-margin items and focusing on high-margin ones can keep revenue roughly flat while profit climbs noticeably.
 
 **Hiring decisions.** Before you bring on a new employee, you need to know whether your current margins can absorb the cost and whether that hire will generate enough additional revenue to maintain them. This isn't a gut check. It's a math problem. Build a simple projection in a spreadsheet before you sign anything.
 

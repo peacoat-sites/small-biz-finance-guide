@@ -31,9 +31,7 @@ If you're reading this, you're probably somewhere in the middle, maybe you've go
 
 Here's what I tell people who are at the start of this: group health insurance is more accessible than you think, often cheaper per person than individual plans, and the tax treatment is genuinely favorable. But it's not a one-size situation, and the wrong plan can cost you more than doing nothing. So let's go through it properly.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Employers can deduct 100% of premium contributions; employees pay their share pre-tax.</li><li style="margin:5px 0">Small businesses with under 25 FTEs may qualify for the Small Business Health Care Tax Credit, worth up to 50% of premiums paid.</li><li style="margin:5px 0">Average annual employer premium contribution in 2025: $8,435 for single coverage, $23,968 for family (KFF).</li><li style="margin:5px 0">SHOP Marketplace plans are available to businesses with 1-50 employees in most states.</li><li style="margin:5px 0">Group plans typically cost employees 20-30% less than comparable individual ACA marketplace coverage.</li></ul></div>
-
 
 ## What "Group Health Insurance" Actually Covers
 
@@ -55,8 +53,6 @@ One thing I've noticed after years of working through plan selection with client
 
 > **Helpful resource:** [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 As of July 2026, here's what group health insurance realistically costs for small businesses. These figures draw from the KFF 2025 Employer Health Benefits Survey and current [SHOP Marketplace](/shop-marketplace-small-business/) data. Take them as ranges, not guarantees, and note that your state, workforce age, and plan type all move these meaningfully.
 
 | Plan Type | Avg. Monthly Employee Premium (single) | Avg. Monthly Employer Cost (single) | Annual Deductible (typical) |
@@ -68,9 +64,7 @@ As of July 2026, here's what group health insurance realistically costs for smal
 
 The employer cost column is where your real decision lives. If you have 8 employees on a PPO plan and you're covering single coverage, you're looking at somewhere between $59,500 and $78,700 a year in employer premium contributions before anyone touches the plan. That's real money. It's also fully tax-deductible, which matters if you're profitable.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Avg. Annual Employer Premium Cost Per Employee (Single Coverage, 2025)</div><div class="sc-row"><span class="sc-label">HMO</span><span class="sc-track"><span class="sc-bar" style="width:84%"></span></span><span class="sc-val">$7,440</span></div><div class="sc-row"><span class="sc-label">PPO</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$8,880</span></div><div class="sc-row"><span class="sc-label">HDHP</span><span class="sc-track"><span class="sc-bar" style="width:64%"></span></span><span class="sc-val">$5,700</span></div><div class="sc-row"><span class="sc-label">EPO</span><span class="sc-track"><span class="sc-bar" style="width:88%"></span></span><span class="sc-val">$7,800</span></div><div class="sc-row"><span class="sc-label">National Avg.</span><span class="sc-track"><span class="sc-bar" style="width:95%"></span></span><span class="sc-val">$8,435</span></div><div class="sc-src">Source: KFF Employer Health Benefits Survey 2025</div></div>
-
 
 The HDHP number stands out for a reason. For a 10-person team, choosing an HDHP over a PPO saves roughly $32,000 a year in employer contributions. Even if you fund each employee's HSA with $500 (which you can do, and it's deductible), you're still ahead by $27,000. That's not an abstraction. I've run this math for dozens of clients.
 
@@ -80,11 +74,11 @@ You've got three main channels, and each has a real tradeoff.
 
 **SHOP Marketplace (Healthcare.gov or your state exchange):** The Small Business Health Options Program is designed for businesses with 1 to 50 employees. It's where you go to access the Small Business Health Care Tax Credit, which can cover up to 50% of premiums paid if you have fewer than 25 full-time-equivalent employees with average wages under roughly $62,000. The SCORE mentorship program has solid resources on eligibility criteria if you're unsure whether you qualify. The SHOP portal has improved, but it's not fast, and the plan selection in some states is thin. Worth checking first.
 
-**A licensed broker:** This is what most of my clients end up doing. A good broker shops multiple carriers, costs you nothing (they're paid by the insurer), and knows which networks are actually functional in your area. Ask them specifically which carriers have had claims disputes or network shrinkage recently. That's the question that separates useful brokers from ones who just hand you a brochure.
+**A licensed broker:** A good broker shops multiple carriers, costs you nothing (they're paid by the insurer), and knows which networks are actually functional in your area. Ask them specifically which carriers have had claims disputes or network shrinkage recently. That's the question that separates useful brokers from ones who just hand you a brochure.
 
 **Direct from the carrier:** United, Aetna, Blue Cross Blue Shield, Kaiser (in their regions) all offer direct small group plans. You lose some comparison shopping, but if you already know you want a specific network, it can be cleaner.
 
-One thing I didn't expect when I first started helping small businesses with this: the underwriting process asks very different questions depending on group size. Under 50 employees, most states use community rating, which means the insurer can't price based on your employees' health histories. That's actually good news, and a lot of owners don't know it going in.
+The underwriting process asks very different questions depending on group size. Under 50 employees, most states use community rating, which means the insurer can't price based on your employees' health histories. That's actually good news, and a lot of owners don't know it going in.
 
 ## The Tax Picture (Don't Skip This Part)
 
@@ -117,7 +111,6 @@ I don't push QSEHRAs as a permanent solution, but as a bridge while you're growi
 - [SCORE Small Business Mentoring](https://www.score.org/): Free mentoring and plan comparison resources for small employer benefits decisions.
 
 ---
-
 
 *Photo: [Tiger Lily](https://www.pexels.com/@tiger-lily) via Pexels*
 

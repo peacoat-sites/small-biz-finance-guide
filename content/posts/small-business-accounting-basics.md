@@ -31,7 +31,7 @@ This is that manual.
 
 ## Why Your Books Are the Actual Business
 
-Your bank balance is not your profit. I've watched business owners celebrate a $30,000 month only to realize, come tax time, that they owe $8,000 and have $4,000 in the account. That's a crisis, and it was entirely preventable with basic bookkeeping.
+Your bank balance is not your profit. A business owner might celebrate a $30,000 month, only to discover at tax time that they owe $8,000 and have $4,000 in the account. That's a crisis, and it was entirely preventable with basic bookkeeping.
 
 Accounting is just the system you use to track money coming in, money going out, and what you actually own versus what you owe. Simple concept. The execution is where people fall apart, usually because they never set up the structure in the first place.
 
@@ -78,7 +78,7 @@ Pick one method. Apply it consistently. Understand what your numbers actually te
 
 Most business owners have heard of a profit and loss statement. Fewer can explain what a balance sheet shows, or why a [cash flow statement](/cash-flow-statement-explained/) matters. You need all three.
 
-**The Profit and Loss Statement (P&L)** (sometimes called an income statement) shows revenue minus expenses over a time period. It tells you whether the business is profitable. Here's the catch: profit on a P&L doesn't mean cash in the bank. Never forget that.
+**The Profit and Loss Statement (P&L)** (sometimes called an income statement) shows revenue minus expenses over a time period. It tells you whether the business is profitable. Profit on a P&L doesn't mean cash in the bank. Never forget that.
 
 **The Balance Sheet** is a snapshot at a single point in time. Assets on one side, liabilities plus equity on the other side. It has to balance, hence the name. This shows you the business's overall financial health, not just whether you made money this month.
 
@@ -109,7 +109,7 @@ That last step matters more than people realize. When you pay yourself consisten
 
 ## Step-by-Step: Setting Up Your Monthly Close Process
 
-One of the highest-leverage habits you can build is a simple monthly close. This is a structured review at the end of each month to make sure your books are accurate and current.
+A simple monthly close is a valuable habit to build. This is a structured review at the end of each month to make sure your books are accurate and current.
 
 **Step 1: Reconcile your bank accounts.** Compare every transaction in your accounting software to your actual bank statement. Every deposit and every payment should match. Discrepancies need to be found and fixed before moving on.
 

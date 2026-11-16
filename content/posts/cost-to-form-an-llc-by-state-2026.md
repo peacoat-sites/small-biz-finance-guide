@@ -31,13 +31,11 @@ Let me just show you the real numbers.
 
 Filing fees to form an LLC range from $35 in Kentucky to $500 in Massachusetts, as of August 2026. That's a fourteen-to-one ratio for the same legal structure. And the filing fee is often the cheapest part of the equation once you factor in annual fees, franchise taxes, and the occasional state-specific surcharge that nobody tells you about until you're already in.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">LLC filing fees range from $35 (Kentucky) to $500 (Massachusetts) as of August 2026.</li><li style="margin:5px 0">Most states charge $50-$150 to file, but annual fees and franchise taxes can dwarf the upfront cost.</li><li style="margin:5px 0">California's $800 minimum franchise tax applies every year, regardless of revenue.</li><li style="margin:5px 0">Delaware is popular for investors, but out-of-state LLCs still pay their home state fees too.</li><li style="margin:5px 0">Registered agent fees ($50-$300/year) are a recurring cost most formation guides forget to mention.</li></ul></div>
-
 
 ## The Filing Fee Is Just the Entry Ticket
 
-Here's what most people don't realize: the state filing fee is a one-time cost, but the ongoing annual costs are what actually determine whether your state choice matters financially. I've seen clients form in Wyoming because they read a blog post about low fees, then get blindsided when they realized they still needed to register as a foreign LLC in their home state (where they actually operate), pay that state's fees, and pay Wyoming's too. Two sets of fees, two registered agents. Not the deal they thought they were getting.
+Here's what most people don't realize: the state filing fee is a one-time cost, but the ongoing annual costs are what actually determine whether your state choice matters financially. A common mistake is forming in Wyoming based on low filing fees, then discovering you still need to register as a foreign LLC in your home state (where you actually operate), pay that state's fees, and pay Wyoming's too. Two sets of fees, two registered agents. Not the deal they thought they were getting.
 
 The table below shows current 2026 filing fees and key annual costs for all 50 states. These are state fees only; they don't include your registered agent, an attorney, or a formation service.
 
@@ -100,11 +98,9 @@ The table below shows current 2026 filing fees and key annual costs for all 50 s
 
 > **Helpful resource:** [AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 California and New York deserve their own conversation because they're both popular and genuinely punishing in ways that the quick-google answer misses.
 
-California charges every LLC a minimum $800 annual franchise tax, due even if your business made zero dollars. No exemption for new businesses in their first year as of 2026 (that temporary exemption expired). A reader named Marcus emailed me last spring after forming a California LLC for a side project he hadn't launched yet. He owed $800 before earning a single dollar. If you're a California resident running a small or part-time business, that $800 floor is real money and worth factoring into whether you even need an LLC yet.
+California charges every LLC a minimum $800 annual franchise tax, due even if your business made zero dollars. No exemption for new businesses in their first year as of 2026 (that temporary exemption expired). For example, someone forming a California LLC for a side project that hasn't launched yet would owe $800 before earning a single dollar. If you're a California resident running a small or part-time business, that $800 floor is real money and worth factoring into whether you even need an LLC yet.
 
 New York has the publication requirement, which I'd argue is the most archaic business formation rule still on the books. You have to publish a notice of formation in two newspapers for six consecutive weeks in the county where your LLC is located. In Manhattan and some other downstate counties, that can run $1,200 to $2,000. Albany and upstate counties are cheaper, sometimes under $200 total. The state filing fee is $200, which looks fine until you add the publication cost.
 
@@ -130,9 +126,7 @@ For a solo consultant, an Etsy seller, or a two-person service business? Delawar
 
 [SCORE mentorship resources](https://www.score.org/) can connect you with a free mentor who has done this themselves, which is genuinely useful if you're trying to decide between formation states without paying attorney fees upfront.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">First-Year LLC Cost by State (Filing + Min Annual Fee)</div><div class="sc-row"><span class="sc-label">Kentucky</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">$55</span></div><div class="sc-row"><span class="sc-label">Colorado</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">$60</span></div><div class="sc-row"><span class="sc-label">California</span><span class="sc-track"><span class="sc-bar" style="width:62%"></span></span><span class="sc-val">$870</span></div><div class="sc-row"><span class="sc-label">Massachusetts</span><span class="sc-track"><span class="sc-bar" style="width:71%"></span></span><span class="sc-val">$1,000</span></div><div class="sc-row"><span class="sc-label">New York</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$1,409</span></div><div class="sc-row"><span class="sc-label">Florida</span><span class="sc-track"><span class="sc-bar" style="width:19%"></span></span><span class="sc-val">$264</span></div><div class="sc-row"><span class="sc-label">Wyoming</span><span class="sc-track"><span class="sc-bar" style="width:11%"></span></span><span class="sc-val">$160</span></div><div class="sc-src">Source: State SOS websites, August 2026</div></div>
-
 
 ## The Costs Nobody Puts in the Headline
 
@@ -151,7 +145,6 @@ If you're handling your own books after formation, Mike Piper's [*Accounting Mad
 - [SCORE.org](https://www.score.org/): Free mentorship and state-specific formation guidance from experienced business owners
 
 ---
-
 
 *Photo: [Sora Shimazaki](https://www.pexels.com/@sora-shimazaki) via Pexels*
 

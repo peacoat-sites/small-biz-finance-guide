@@ -30,7 +30,7 @@ Most small business owners I talk to have [general liability insurance](/busines
 
 Commercial umbrella insurance is the policy that sits on top of your existing coverage and kicks in when those underlying policies hit their limits. That's the standard definition. What people miss is *why* those limits get hit more easily than they expect, and what the cost of not having umbrella coverage actually looks like when a serious claim comes in.
 
-I'll be honest: when I first started working with small business clients, I treated umbrella policies as something you worried about later, once the business was bigger. A few years in, that view got corrected in a pretty uncomfortable way. A client of mine, a small landscaping company in the Houston suburbs, got hit with a lawsuit after one of his crews accidentally caused a fire that spread to a neighboring property. His general liability maxed out. The umbrella he'd skipped would have cost him less than $1,200 a year. The out-of-pocket number he ended up with was not a story I'll put in print, but it was life-changing in a very bad way.
+Many business owners treat umbrella policies as something to worry about later, once the business is bigger. But that can be costly. If a general liability policy maxes out and there is no umbrella coverage in place, the owner absorbs the rest of the claim. An umbrella policy costing less than $1,200 a year could prevent a substantial out-of-pocket loss.
 
 ## What Commercial Umbrella Insurance Actually Does
 
@@ -53,8 +53,6 @@ One thing to get straight: commercial umbrella is *not* the same as commercial e
 
 > **Helpful resource:** [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Any business that could be named in a lawsuit should consider umbrella coverage. That's almost all of them. But the risk calculus is more urgent in a few specific situations.
 
 If your business involves physical property or people (clients, customers, vendors, the general public) on-site or in-the-field, your base liability limits will strain faster. Contractors. Restaurants. Retail stores. Anybody running a fleet of vehicles. Anybody who employs people who drive as part of the job.
@@ -69,7 +67,7 @@ This is where people get confused, and honestly where the details in the policy 
 
 A commercial umbrella requires what's called "scheduled underlying policies." You declare your general liability, commercial auto, and sometimes employer's liability policies to the umbrella carrier, and they're listed in the umbrella policy as the foundation. If a claim hits your underlying policy's limit, the umbrella takes over above that threshold. If the underlying policy has already been exhausted in a given period, the umbrella fills in from there.
 
-One detail that trips people up: if your underlying policy lapses or you let a coverage gap open, the umbrella may not respond the way you expect. Some umbrella policies require the underlying coverage to be maintained at specific minimum limits. Drop below those minimums, even for a short period, and you could find the umbrella declining a claim on technical grounds. I've seen it happen. It's ugly.
+One detail that trips people up: if your underlying policy lapses or you let a coverage gap open, the umbrella may not respond the way you expect. Some umbrella policies require the underlying coverage to be maintained at specific minimum limits. Drop below those minimums, even for a short period, and you could find the umbrella declining a claim on technical grounds.
 
 The practical advice is to review your underlying policy limits *before* shopping for umbrella coverage, and make sure they meet the umbrella carrier's requirements. Most carriers want to see at least $300,000 to $500,000 on your general liability and commercial auto before they'll write an umbrella policy on top. Some require $1 million per occurrence on GL. Ask upfront.
 
@@ -87,7 +85,6 @@ If you want to go deeper on commercial insurance structuring before your broker 
 
 ---
 
-
 ---
 
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
@@ -101,7 +98,6 @@ If you want to go deeper on commercial insurance structuring before your broker 
 - [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20)
 - [Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20)
 - [Pavel Danilyuk](https://www.pexels.com/@pavel-danilyuk)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

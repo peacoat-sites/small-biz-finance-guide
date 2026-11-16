@@ -55,7 +55,7 @@ Back to that $80,000 example: pay yourself $45,000 salary and take $35,000 as a 
 
 That word "reasonable" does all the heavy lifting. The IRS scrutinizes S-corp owner salaries precisely for this reason. Pay yourself $1 and distribute $79,999? Red flag. The IRS will reclassify those distributions as wages and you lose the benefit. What's reasonable hinges on your industry, your actual job duties, and what you'd pay someone else to do what you do. Talk to a CPA who handles S-corps regularly. They'll calibrate it right.
 
-S-corp elections come with real friction costs most people skip over. You're running actual payroll, filing quarterly returns (Form 941), filing a separate business return (Form 1120-S), and probably paying higher accounting fees. I've watched clients get pumped about S-corp status at $60,000 net profit, then find out their extra accounting and payroll processing costs nearly wiped out the tax savings. The math usually favors it around $80,000 to $100,000+ in consistent net profit, though that threshold shifts depending on your situation. Get your specific numbers from an accountant before moving forward.
+S-corp elections come with real friction costs most people skip over. You're running actual payroll, filing quarterly returns (Form 941), filing a separate business return (Form 1120-S), and probably paying higher accounting fees. Many business owners become enthusiastic about S-corp status at $60,000 net profit, only to discover that extra accounting and payroll processing costs nearly eliminate the tax savings. The math usually favors it around $80,000 to $100,000+ in consistent net profit, though that threshold shifts depending on your situation. Get your specific numbers from an accountant before moving forward.
 
 ## Liability Protection: The Real Reason Many Business Owners Form an LLC
 
@@ -97,7 +97,7 @@ Stop borrowing someone else's answer. Here's a process that works.
 
 **Step 5: Factor your state in.** Some states are cheap and simple for LLCs. Others (California, Massachusetts, New York) layer costs and complexity that shift everything. A local CPA or business attorney can tell you the real annual expense.
 
-**Step 6: Get a CPA's input before filing anything.** Not out of excess caution, but because I've seen business owners fumble this badly in both directions. Some form LLCs, add compliance expenses, and save nothing in taxes. Others remain sole proprietors years past the point where S-corp status would've saved them thousands. One hour with a solid CPA costs less than the mistakes it prevents. This is exactly the situation where professional advice pays for itself.
+**Step 6: Get a CPA's input before filing anything.** Business owners often make costly mistakes in both directions without professional guidance. Some form LLCs and add compliance expenses without realizing they'll save nothing in taxes. Others remain sole proprietors long after S-corp status would have saved them thousands. One hour with a solid CPA costs less than the mistakes it prevents. This is exactly the situation where professional advice pays for itself.
 
 *Profit First* by Mike Michalowicz is worth reading if you want to think through your business finances more broadly, though it's not tax-focused. *Tax-Free Wealth* by Tom Wheelwright goes deeper on how structure affects your overall tax picture. *(This site earns commission on Amazon purchases.)*
 

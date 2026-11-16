@@ -37,7 +37,7 @@ You might be wondering why this matters if you're only five years in and nowhere
 
 Think about it from a buyer's perspective. If you walked away tomorrow and the business fell apart within 90 days, what exactly is someone buying? A job. Most buyers don't want a job. They want an asset.
 
-The earlier you build your business with an exit in mind, the more options you'll have. That's not pessimism. That's leverage.
+The earlier you build your business with an exit in mind, the more options you'll have.
 
 ---
 
@@ -62,7 +62,7 @@ A strategic buyer, often a competitor or a company in an adjacent space, purchas
 Your own management team purchases the business from you. This works well when you have a capable team in place and you care about continuity and culture. The challenge is financing. Your team likely doesn't have the capital sitting around, so deals are often structured with seller financing, bank loans, or outside investors. You may not receive the full purchase price upfront.
 
 **Passing the Business to Family**
-Family succession is messier than people expect, and not just because of the emotional dynamics. The [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed) has specific guidance on gifting, estate considerations, and valuation rules that apply when transferring a business within a family. Estate and gift tax implications require professional planning well in advance. I've seen families save hundreds of thousands of dollars because they started planning ten years out. I've also seen families in painful disputes because they started planning ten months out.
+Family succession is messier than people expect, and not just because of the emotional dynamics. The [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed) has specific guidance on gifting, estate considerations, and valuation rules that apply when transferring a business within a family. Estate and gift tax implications require professional planning well in advance. Starting exit planning well in advance typically results in better tax outcomes and smoother transitions than planning closer to the sale date.
 
 **Employee Stock Ownership Plan (ESOP)**
 An ESOP transfers ownership to employees over time through a trust. It can be a tax-advantaged structure for the right business, generally one with stable cash flows, at least 20 or more employees, and a committed workforce. It's complex to set up and requires a specialist, but for owners who care deeply about legacy and employee wellbeing, it can be meaningful.
@@ -116,7 +116,7 @@ Life rarely cooperates with perfect timing. But there are patterns worth knowing
 
 Industry multiples expand and contract with market cycles. A business in a sector that's attracting private equity attention right now might command a premium today that won't be available in three years. Trying to sell during a recession or an industry downturn is genuinely harder.
 
-Personal readiness matters too. I've watched clients negotiate themselves out of very good deals because they weren't emotionally ready to let go. It's worth asking yourself honestly: what does life look like after this business? If you don't have an answer, that uncertainty can sabotage a sale process in ways you won't always recognize.
+Personal readiness matters too. A lack of emotional readiness to exit can lead to walking away from favorable offers. It's worth asking yourself honestly: what does life look like after this business? If you don't have an answer, that uncertainty can sabotage a sale process in ways you won't always recognize.
 
 ---
 
@@ -135,7 +135,6 @@ The honest truth about exit planning is that it asks you to hold two things at o
 - [The Art of Selling a Business by John Warrillow](https://www.amazon.com/Art-Selling-Business-Business-Million/dp/1989603009?tag=contentportfo-20)
 - [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/)
 - [The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

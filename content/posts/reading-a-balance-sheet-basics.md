@@ -25,7 +25,7 @@ author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
 lastmod: 2026-07-08
 ---
-You're sitting across from a banker, a potential investor, or maybe just your own accountant, and someone slides a page of numbers in front of you. Three columns, a bunch of line items, totals at the bottom. Everyone in the room assumes you understand it. You nod. You don't fully understand it. I've watched this exact moment happen to smart, capable business owners more times than I can count, and it never has to go that way.
+You're sitting across from a banker, a potential investor, or maybe just your own accountant, and someone slides a page of numbers in front of you. Three columns, a bunch of line items, totals at the bottom. Everyone in the room assumes you understand it. You nod. You don't fully understand it. This moment happens to smart, capable business owners regularly, and it doesn't have to.
 
 A balance sheet is not complicated once someone explains it honestly. The problem is most explanations start with accounting theory instead of starting with you, the person who needs to make a decision. So let's fix that right now.
 
@@ -43,7 +43,7 @@ What you're looking at in that photograph: everything your business owns, everyt
 
 That equation always balances. Always. If it doesn't, something's wrong. That's literally why it's called a balance sheet.
 
-Your P&L tells you whether you made money. Your balance sheet tells you whether your business is healthy. A company can show profit on a P&L and still be in serious trouble because it's drowning in debt or has no cash. I've seen it. Understanding both documents together is how you get the real picture.
+Your P&L tells you whether you made money. Your balance sheet tells you whether your business is healthy. A company can show profit on a P&L and still be in serious trouble because it's drowning in debt or has no cash. Understanding both documents together is how you get the real picture.
 
 ---
 
@@ -139,11 +139,11 @@ These aren't exotic Wall Street metrics. A lender at your local bank is calculat
 
 ## Common Mistakes Business Owners Make When Reading a Balance Sheet
 
-A balance sheet can look healthy while hiding serious problems. Here are the patterns I've seen come back to bite people.
+A balance sheet can look healthy while hiding serious problems. Watch for these patterns.
 
 **Confusing assets with cash.** A machine worth $80,000 on paper can't pay your employees this Friday. Always distinguish between liquid and illiquid assets.
 
-**Ignoring deferred revenue.** If you collect payment upfront but haven't delivered the service or product yet, that money is a liability, not income. I've seen early-stage SaaS businesses look flush with cash while actually having a massive obligation sitting in deferred revenue. That cash isn't really yours yet.
+**Ignoring deferred revenue.** If you collect payment upfront but haven't delivered the service or product yet, that money is a liability, not income. Early-stage SaaS businesses can look flush with cash while actually carrying a massive obligation in deferred revenue. That cash isn't really yours yet.
 
 **Missing off-balance-sheet obligations.** Operating leases, personal guarantees, and certain contractual commitments don't always show up cleanly on a balance sheet depending on how the books are kept. This is why reading the notes to financial statements matters, especially for bigger decisions.
 
@@ -172,7 +172,6 @@ The balance sheet isn't something to hand off entirely to your accountant and ne
 - [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/)
 - [Financial Intelligence for Entrepreneurs by Karen Berman and Joe Knight](https://www.amazon.com/Financial-Intelligence-Entrepreneurs-Knowing-Numbers/dp/1422119157?tag=contentportfo-20)
 - [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

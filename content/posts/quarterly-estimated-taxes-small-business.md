@@ -25,7 +25,7 @@ author_title: "CPA & Lead Editor"
 author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
 lastmod: 2026-07-08
 ---
-You get to the end of your first real year running your own business, feeling pretty good about what you've built, and then tax season arrives with a bill you weren't expecting. Not just the tax itself, but a penalty on top of it, because you were supposed to be paying as you went. Nobody told you that. Or maybe somebody mentioned it once and it didn't stick. I've seen this exact scenario knock the confidence out of otherwise sharp business owners who had simply never been self-employed before. Quarterly estimated taxes are one of those things the system assumes you already know, and that assumption costs people real money every year.
+A common surprise for first-time business owners: tax season arrives with a bill that includes not just the tax itself, but a penalty for not paying as you went. Quarterly estimated taxes are one of those things the system assumes you already know, and that assumption costs people real money every year. Quarterly estimated taxes are one of those things the system assumes you already know, and that assumption costs people real money every year.
 
 ---
 
@@ -105,7 +105,7 @@ Your state likely has its own quarterly payment system. Search for your state's 
 
 ## Staying Organized So You're Never Scrambling
 
-The business owners I've seen handle estimated taxes without stress are the ones who treat tax money as not really theirs from the start.
+The key to handling estimated taxes without stress is to treat tax money as not really yours from the start.
 
 The simplest system: open a dedicated tax savings account, separate from your operating account. Each time revenue comes in, transfer a percentage into that account immediately. Some owners use 25%, some 30%, depending on their bracket and situation. You're not guessing at the end of the quarter, because the money's already there waiting to be sent.
 

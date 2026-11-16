@@ -57,7 +57,7 @@ Here's how it flows, from top to bottom.
 
 **Net Income** is what's left after all expenses are subtracted. This is your bottom line. Positive means profit. Negative means a loss.
 
-I've seen clients walk into meetings convinced their business was doing well because they were busy and revenue looked strong. Then we looked at the income statement together and found that their operating expenses had quietly crept up over six months, and their net income had dropped by nearly half. Busy doesn't always mean profitable. The income statement is what keeps you honest.
+A common mistake is assuming a busy business with strong revenue is doing well. Operating expenses can quietly creep up over months while net income drops, even as the top line stays healthy. Busy doesn't always mean profitable. The income statement is what keeps you honest.
 
 Here's where I'll push back on conventional thinking: most people obsess over revenue growth and almost entirely ignore the operating expense line. That's backward. You can grow revenue forever and still go broke if expenses outpace it. Watch your operating ratio, operating expenses as a percentage of revenue. If it's climbing, fix it now, not when profit disappears.
 
@@ -95,7 +95,7 @@ The cash flow statement tracks actual cash moving in and out of your business. I
 
 The bottom line of this statement is your net change in cash for the period. If you started the month with $20,000 and ended with $15,000, the cash flow statement tells you exactly where that $5,000 went.
 
-In my experience, this is the statement most small business owners neglect until there's a crisis. Don't wait for the crisis. Review your cash flow monthly, even if it's just a basic report from your accounting software. It's the single best early warning system you have.
+Most small business owners neglect cash flow statements until there's a crisis. Don't wait for the crisis. Review your cash flow monthly, even if it's just a basic report from your accounting software. It's the single best early warning system you have.
 
 ## Reading Them Together: How the Three Statements Connect
 
@@ -130,7 +130,7 @@ The IRS small business tax center also provides guidance on record-keeping requi
 
 If you want a more structured approach to this, [*Profit First* by Mike Michalowicz](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=contentportfo-20) offers a practical, cash-focused system that many small business owners find easier to implement than traditional accounting methods. *(As an Amazon Associate this site earns from qualifying purchases.)* And whenever tax strategy comes into play, consult a licensed CPA. The decisions you make about how you categorize expenses and structure your finances have real tax consequences that generic advice can't fully account for.
 
-The hardest part of all of this isn't the math. It's building the habit of looking at the numbers regularly, before you need to, not just when something feels wrong. Financial statements aren't a report card handed to you by someone else. They're a tool you own. The business owners I've watched grow successfully are the ones who stopped avoiding the reports and started treating them like the decision-making instrument they actually are. You don't have to become an accountant. You just have to become someone who understands their own business.
+The hardest part of all of this isn't the math. It's building the habit of looking at the numbers regularly, before you need to, not just when something feels wrong. Financial statements aren't a report card handed to you by someone else. They're a tool you own. Successful business owners treat financial statements as a decision-making tool rather than something to avoid. You don't have to become an accountant. You just have to become someone who understands their own business.
 
 ## Sources
 
@@ -139,7 +139,6 @@ The hardest part of all of this isn't the math. It's building the habit of looki
 - [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20)
 - [The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20)
 - [Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

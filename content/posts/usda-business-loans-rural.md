@@ -50,7 +50,7 @@ This is where people get pleasantly surprised. USDA B&I loans are flexible:
 
 What you can't use them for: agricultural production (that's a different USDA department), golf courses, racetracks, casinos, or businesses primarily serving as lending institutions. There's also a restriction on financing owner-occupied residential housing.
 
-I've seen clients use B&I loans to purchase commercial buildings they'd been renting for years, to buy out a retiring business partner, and to fund equipment upgrades that a conventional bank wouldn't touch because the collateral was specialized. The flexibility is real.
+B&I loans work well for purchases like commercial buildings after years of renting, buyouts of retiring business partners, and equipment upgrades that conventional banks won't finance because the collateral is specialized. The flexibility is real.
 
 A helpful resource if you're building financial projections: [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20). It'll help you structure your numbers in a way lenders actually understand. *(As an Amazon Associate this site earns from qualifying purchases.)*
 

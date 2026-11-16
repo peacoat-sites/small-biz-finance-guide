@@ -25,7 +25,7 @@ faqs:
     a: "Self-employed individuals and sole proprietors report it on Schedule C, Line 25 (utilities) or as an 'other expense' on Line 48 with a description. S-corp and C-corp owners whose business pays the bill directly expense it on the business return. If you're unsure which form applies to your situation, this is exactly the kind of question worth 30 minutes with a CPA."
 ---
 
-Only about 27% of [small business owners](/the-new-1099-thresholds-small-business-owners-must-know-in-2026/) who are eligible to deduct their cell phone actually do it correctly, according to data compiled by the National Federation of Independent Business. That number used to drive me crazy when I first started seeing it in client files. People either skip the deduction entirely because they're not sure they can take it, or they write off 100% of a phone they're clearly using to scroll Instagram half the day, which is a fast way to invite scrutiny.
+Only about 27% of [small business owners](/the-new-1099-thresholds-small-business-owners-must-know-in-2026/) who are eligible to deduct their cell phone actually do it correctly, according to data compiled by the National Federation of Independent Business. People either skip the deduction entirely because they're not sure they can take it, or they write off 100% of a phone they're clearly using to scroll Instagram half the day, which is a fast way to invite scrutiny.
 
 So if you're sitting here wondering whether your cell phone counts as a [business expense](/business-expense-categories-guide/): yes, probably. But the how matters a lot.
 
@@ -57,13 +57,13 @@ Worked example: Monthly bill of $89, business use at 65% → $57.85/month deduct
 
 Worked example: iPhone 15 Pro purchased for $1,199, business use at 70% → $839.30 deductible in year of purchase under [Section 179](/how-to-stack-section-179-and-bonus-depreciation-in-2026/). If you financed it through the carrier, things get a bit more complicated and I'd honestly bring that to a CPA (the payments are spread across time, and so is your basis).
 
-**If your business pays the bill directly,** meaning the account is in the business's name and the business pays from its business bank account, you can deduct 100% of that line. This is the cleanest structure. I've seen people run a separate $35/month Google Fi line for business and a personal plan for everything else. Slightly annoying operationally, but it makes the tax treatment completely clean and you never have to estimate anything.
+**If your business pays the bill directly,** meaning the account is in the business's name and the business pays from its business bank account, you can deduct 100% of that line. This is the cleanest structure. Running a separate business line, even a basic $35/month option, makes the tax treatment completely clean and eliminates estimation.
 
 ## How to document this without losing your mind
 
 Here's what the IRS actually wants if they ask: a reasonable method, applied consistently, with some supporting record. They are not asking for a spreadsheet logging every text message. What they do want to see is that you didn't just guess.
 
-The simplest approach I've seen hold up: pull your phone bill for one representative month, go through the call log, and mark business vs. personal. Calculate the ratio. Apply that ratio consistently for the whole year. Put a note in your files explaining how you determined the percentage. Done.
+The simplest approach: pull your phone bill for one representative month, go through the call log, and mark business vs. personal. Calculate the ratio. Apply that ratio consistently for the whole year. Put a note in your files explaining how you determined the percentage. Done.
 
 If you use a call-tracking app for business, that data is even better. Apps like Google Voice or RingCentral will give you business call records automatically, which is genuinely useful documentation if things get weird.
 
@@ -82,7 +82,7 @@ One thing I learned from watching a client's audit several years ago: the IRS do
 | Personal streaming services | No | Even if accessed on the business phone |
 | Carrier insurance/protection plan | Partially | Apply business-use % |
 
-Accessories fall into a gray area that people overlook. A $149 pair of AirPods used primarily for client calls and listening to business content? Deductible at your business-use percentage. I tested this argument with a conservative CPA colleague once and she agreed, reluctantly, that it holds up if documented. Don't push it for AirPods Max just because they're nicer.
+Accessories fall into a gray area that people overlook. A $149 pair of AirPods used primarily for client calls and listening to business content? Deductible at your business-use percentage. This holds up if documented. Don't push it for AirPods Max just because they're nicer.
 
 ## The case for a dedicated business line
 

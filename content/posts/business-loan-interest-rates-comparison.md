@@ -31,7 +31,7 @@ That confusion is completely normal. It's also completely fixable.
 
 ## Why Business Loan Rates Are So Different From Each Other
 
-Here's the thing nobody tells you: business loan interest rates aren't like mortgage rates. There's no single published number you can look up. The spread between the lowest and highest rates you'll find right now can be enormous, sometimes 6% to 60% or more depending on the loan type and lender. That range isn't a mistake. It reflects real differences in risk, loan structure, and who's doing the lending.
+Business loan interest rates aren't like mortgage rates. There's no single published number you can look up. The spread between the lowest and highest rates you'll find right now can be enormous, sometimes 6% to 60% or more depending on the loan type and lender. That range isn't a mistake. It reflects real differences in risk, loan structure, and who's doing the lending.
 
 A traditional bank lending you $250,000 over five years has a very different risk profile than an online lender advancing you $30,000 against your future credit card sales. The bank has collateral requirements, underwriting teams, and regulatory capital rules. The online lender has an algorithm, a faster approval process, and a higher tolerance for borrowers the bank wouldn't touch. They price that tolerance into the rate.
 
@@ -51,7 +51,7 @@ Understanding where you fit starts with knowing which product you're actually co
 
 **Business Lines of Credit** are revolving and typically carry higher rates than term loans given the flexible draw structure. Rates here vary widely by lender and your profile.
 
-**[Merchant Cash Advances](/merchant-cash-advance-risks/)** aren't technically loans, but many business owners treat them like one. They use a "factor rate" instead of an interest rate. A factor rate of 1.3 means you repay $1.30 for every $1.00 borrowed. Translated to an APR, these products can reach triple digits. I've seen clients take these without understanding the true cost, and it rarely ends well. Use them only if you have a very specific, short-term need and you understand exactly what you're paying.
+**[Merchant Cash Advances](/merchant-cash-advance-risks/)** aren't technically loans, but many business owners treat them like one. They use a "factor rate" instead of an interest rate. A factor rate of 1.3 means you repay $1.30 for every $1.00 borrowed. Translated to an APR, these products can reach triple digits. Business owners often take these without understanding the true cost, and it rarely ends well. Use them only if you have a very specific, short-term need and you understand exactly what you're paying.
 
 ## How to Actually Compare Rates Across Lenders
 
@@ -113,7 +113,7 @@ Build your credit before you apply. Even a 20-point jump in your personal credit
 
 Have at least two years of tax returns ready. Lenders love documentation. The cleaner and more complete your financial records, the less risk you represent administratively. If your books are a mess, spend a few hundred dollars getting them cleaned up before applying.
 
-Get multiple quotes. This sounds obvious, but most business owners apply to one or two places and take what they get. Applying to three to five lenders, including community banks and credit unions you might have overlooked, gives you real leverage and real information. For a deeper look at the financial structures behind this, Mike Michalowicz's [*Profit First*](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=contentportfo-20) is worth reading before you take on debt, just to make sure the numbers work inside your business (this site may earn a commission from qualifying purchases).
+Get multiple quotes. Most business owners apply to one or two places and take what they get. Applying to three to five lenders, including community banks and credit unions you might have overlooked, gives you real leverage and real information. For a deeper look at the financial structures behind this, Mike Michalowicz's [*Profit First*](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=contentportfo-20) is worth reading before you take on debt, just to make sure the numbers work inside your business (this site may earn a commission from qualifying purchases).
 
 Consider collateral offers. Securing a loan with business assets or even real estate can meaningfully reduce your rate. Just understand what you're putting at risk.
 

@@ -29,7 +29,7 @@ A plumber in Ohio gets sued after a pipe repair floods a client's basement. A fr
 
 ## What Business Insurance Is Actually Required (vs. What's Just Smart)
 
-Here's the thing most people don't realize when they start researching this: some insurance is legally required, some is required by contracts or landlords, and some is just wise to carry. These categories aren't interchangeable.
+When researching insurance, it's important to understand that some insurance is legally required, some is required by contracts or landlords, and some is just wise to carry. These categories aren't interchangeable.
 
 **Legally required insurance** varies by state and business type, but two types show up almost everywhere.
 

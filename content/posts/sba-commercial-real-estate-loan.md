@@ -29,7 +29,7 @@ Most [small business owners](/sba-loans-now-require-100-us-citizenship-what-smal
 
 The short version: SBA commercial real estate loans, specifically the SBA 504 loan program and, less commonly, the SBA 7(a) program used for real estate, are some of the best financing tools available to small [business owners](/the-new-1099-thresholds-small-business-owners-must-know-in-2026/) who want to own their building. The terms are genuinely hard to beat. The process is genuinely hard to love. But if you understand the structure going in, it's manageable, and the long-term payoff is real.
 
-Here's the thing most people get wrong from the start: they think "SBA loan" means the SBA is your lender. It's not. The [Small Business](/small-business-employee-benefits/) Administration guarantees a portion of the loan against default, which gives banks the confidence to offer terms they otherwise wouldn't. You're still borrowing from a bank or a Certified Development Company (CDC). Understanding that distinction will save you a lot of confusion later.
+A common misconception is that "SBA loan" means the SBA is your lender. The [Small Business](/small-business-employee-benefits/) Administration guarantees a portion of the loan against default, which gives banks the confidence to offer terms they otherwise wouldn't. You're still borrowing from a bank or a Certified Development Company (CDC). Understanding that distinction will save you a lot of confusion later.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">SBA 504 loans cover up to 90% of commercial real estate costs with down payments as low as 10%.</li><li style="margin:5px 0">Fixed rates on the CDC portion are typically tied to 10-year Treasury rates, often landing between 5.5% and 7% as of mid-2026.</li><li style="margin:5px 0">Owner-occupancy requirement: you must occupy at least 51% of the property you're buying.</li><li style="margin:5px 0">Loan amounts commonly range from $500,000 to $5.5 million, though larger projects are possible.</li><li style="margin:5px 0">Closing timelines average 60 to 90 days, sometimes longer for complex deals.</li></ul></div>
 
@@ -39,7 +39,7 @@ For commercial real estate, you'll almost always be looking at the SBA 504 loan.
 
 **SBA 504.** This program is specifically designed for fixed assets: real estate, heavy equipment, building renovations. The structure is a three-way split. A conventional lender (your bank) covers 50% of the project cost, a CDC covers 40% through an SBA-backed debenture, and you bring 10% down. That 10% down payment is the headline number, and it's legitimate. For a special-use property (think car wash, gas station, hotel), you'll typically need 15%, and for a startup business buying real estate, 20%. Those aren't arbitrary numbers; they reflect actual default risk categories the SBA has documented.
 
-**SBA 7(a).** You can use a 7(a) loan for real estate, and it has one structural advantage: it's a single loan from a single lender, which can simplify the closing process. But the rates are usually variable, the maximum loan amount is $5 million, and for pure real estate deals, the terms rarely beat a well-structured 504. I've seen clients chase the 7(a) for simplicity and end up with a rate that floated uncomfortably within 18 months. Unless there's a specific reason you need the 7(a)'s flexibility, I'd start with 504.
+**SBA 7(a).** You can use a 7(a) loan for real estate, and it has one structural advantage: it's a single loan from a single lender, which can simplify the closing process. But the rates are usually variable, the maximum loan amount is $5 million, and for pure real estate deals, the terms rarely beat a well-structured 504. Borrowers sometimes chase the 7(a) for simplicity, only to face rates that drift upward over time. Unless there's a specific reason you need the 7(a)'s flexibility, start with the 504.
 
 ## What the Numbers Actually Look Like
 
@@ -58,7 +58,7 @@ As of July 2026, the fixed rate on the CDC portion of a 504 loan has been runnin
 | Owner-occupancy required | Yes (51% minimum) | Yes (51% minimum) |
 | Best suited for | Buying/building/improving real estate | Mixed-use or working capital + real estate |
 
-The prepayment penalty on 504 is something nobody warns you about clearly enough. It steps down over 10 years: in year one it's roughly equal to the interest on the debenture, declining each year until it disappears. If you think you might sell or refinance within a decade, model that into your decision. I've had clients blindsided by this at closing.
+The prepayment penalty on 504 is something nobody warns you about clearly enough. It steps down over 10 years: in year one it's roughly equal to the interest on the debenture, declining each year until it disappears. If you think you might sell or refinance within a decade, model that into your decision.
 
 ## The Qualification Side
 
@@ -80,7 +80,7 @@ What you'll need to gather, roughly in order of when you'll need it:
 
 Business and personal tax returns for the past three years. Current business financial statements (profit and loss, balance sheet). A business plan with financial projections if you're a newer business. Purchase agreement or letter of intent on the property. Environmental Phase I report (required, costs around $1,800 to $3,500 from an environmental consultant). Appraisal of the property (ordered by the lender, typically $3,000 to $6,000). Personal financial statements for all owners at 20%+.
 
-The environmental Phase I is the one that surprises people most. Even for seemingly clean properties like suburban office buildings, the lender will require it. I've seen deals delayed three weeks because the Phase I flagged an old dry-cleaning operation in the building's history, which required a Phase II investigation. Build that contingency time into your plans.
+The environmental Phase I is the one that surprises people most. Even for seemingly clean properties like suburban office buildings, the lender will require it. For example, a Phase I might flag an old dry-cleaning operation in the building's history, which would require a Phase II investigation. Build that contingency time into your plans.
 
 Find your CDC through the SBA's online locator. CDCs are nonprofit organizations certified by the SBA, and they do most of the legwork on the debenture side. Your bank and the CDC will work in parallel, which sometimes means you're coordinating three parties simultaneously: yourself, the bank, and the CDC. SCORE (score.org) can connect you with a mentor who has worked through this process and can help you track the moving pieces without paying consultant fees.
 

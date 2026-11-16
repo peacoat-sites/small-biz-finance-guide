@@ -53,7 +53,7 @@ What lenders consistently evaluate:
 - **Collateral.** The SBA doesn't require it for loans under $25,000. Above that, lenders are expected to take available collateral, including business and personal assets. An SBA loan does not mean unsecured.
 - **Personal guarantee.** Anyone owning 20% or more of the business is typically required to personally guarantee the loan. That is non-negotiable in most cases.
 
-I've seen clients with solid businesses get rejected because their personal finances were a mess or they couldn't document their revenue properly. The business health matters, but so does your full financial picture.
+A business can be solid but still face rejection if personal finances are disorganized or revenue isn't properly documented. The business health matters, but so does your full financial picture.
 
 ## Rates, Terms, and What This Loan Actually Costs
 

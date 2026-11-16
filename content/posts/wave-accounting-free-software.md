@@ -25,7 +25,7 @@ author_title: "Small Business Lending Specialist"
 author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
 lastmod: 2026-07-08
 ---
-Most free accounting software for small business is either deliberately hamstrung or masquerading as "free forever" before the paywall hits. Wave is different, and I've been recommending it to clients for years now, though I'll admit I was skeptical at first.
+Most free accounting software for small business is either deliberately hamstrung or masquerading as "free forever" before the paywall hits. Wave is different.
 
 Here's what you need to know: Wave gives you genuinely free double-entry accounting, invoicing, and receipt scanning. Not a limited free tier. Not a 30-day trial. Actually free. The catch exists, but it's smaller than you'd expect. I'll walk you through exactly where the money comes in, but first, let me explain why most small business owners are overlooking this tool.
 
@@ -35,9 +35,9 @@ The accounting module is the real deal. Double-entry bookkeeping, [customizable 
 
 Wave connects to most major U.S. and Canadian banks through Plaid. The connection isn't always flawless, and you'll occasionally need to re-authenticate, but it works reliably about 90% of the time. For free software, that's solid.
 
-Invoicing is also free and surprisingly good. You can build clean, branded invoices, set up recurring billing, and send payment reminders automatically. The templates aren't fancy, but they look professional enough that clients I've helped set up on Wave have mentioned their invoices actually look more polished than before.
+Invoicing is also free and surprisingly good. You can build clean, branded invoices, set up recurring billing, and send payment reminders automatically. The templates aren't fancy, but they look professional enough for most small businesses.
 
-Wave Receipts, the iOS and Android app, scans receipt photos and pulls the data into your transactions. It's imperfect, maybe 70-80% accurate in my experience, but it beats a shoe box.
+Wave Receipts, the iOS and Android app, scans receipt photos and pulls the data into your transactions. It's imperfect, maybe 70-80% accurate, but still beats a shoe box.
 
 ## Where Wave Makes Its Money (And Where Costs Creep In)
 
@@ -81,7 +81,7 @@ Let me be honest about the limits, because this tool isn't for everyone.
 
 Inventory management is basically nonexistent. You can track inventory as a balance sheet item, but there's no native system for stock levels, cost of goods sold by SKU, or purchase orders. If you're selling products and have more than a handful of SKUs, you'll hit this wall fast. QuickBooks Online or Zoho Inventory will do better.
 
-Multi-currency invoicing exists, but currency conversion accounting is awkward and I've seen rounding errors create reconciliation problems for clients with serious international revenue.
+Multi-currency invoicing exists, but currency conversion accounting is awkward and can create rounding errors during reconciliation for businesses with serious international revenue.
 
 Customer support got worse after the H&R Block acquisition. Live chat is available, but only for paid users (payroll or payments). Free-only users get a knowledge base and community forum. The knowledge base is decent for straightforward questions. For anything complex, you're stuck unless you pay.
 
@@ -110,7 +110,6 @@ One honest thing: no accounting software replaces a CPA review. Get a CPA to loo
 - [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/)
 - [*Accounting Made Simple*](https://www.amazon.com/Accounting-Made-Simple-Mike-Piper/dp/0981454224?tag=contentportfo-20)
 - [Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

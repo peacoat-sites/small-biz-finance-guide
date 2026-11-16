@@ -25,7 +25,7 @@ author_title: "Tax Strategist"
 author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
 lastmod: 2026-07-08
 ---
-Most business owners stumble onto trade credit by accident. A supplier mentions "net-30 terms" on an invoice, you nod like you understand, and later that night you're quietly googling it. I've had that exact conversation with clients so many times I've lost count.
+Most business owners stumble onto trade credit by accident. A supplier mentions "net-30 terms" on an invoice, you nod like you understand, and later that night you're quietly googling it.
 
 Trade credit is one of the most underused and misunderstood tools available to small businesses. And here's the thing that makes it different from a bank loan: you don't need a pitch deck, a pristine credit history, or six months of financial statements to get started.
 
@@ -51,7 +51,7 @@ You don't wait for an offer. You ask.
 
 When you're setting up a new supplier, after the price conversation, say: "Do you offer net-30 terms?" Some will say yes immediately. Others will say yes after you've paid a couple invoices on time. A few will ask you to fill out a short credit application, usually just your business name, EIN, maybe a bank reference or two.
 
-If you're newer in business without much history, start with smaller suppliers before approaching big distributors. I've watched clients build solid trade credit profiles in 12 to 18 months just by opening accounts with five or six vendors, paying invoices early or on time, and using those relationships as references when applying for terms elsewhere.
+If you're newer in business without much history, start with smaller suppliers before approaching big distributors. Most business owners build solid trade credit profiles in 12 to 18 months by opening accounts with five or six vendors, paying invoices early or on time, and using those relationships as references when applying for terms elsewhere.
 
 Here's what most people miss: those payment histories get reported to commercial credit bureaus like Dun & Bradstreet, Experian Business, and Equifax Business. Your [DUNS number](/dun-and-bradstreet-duns-number/) (free through Dun & Bradstreet) is the foundation of your business credit. Get it before you do anything else. It's free, takes 10 minutes, and starts your business credit clock.
 

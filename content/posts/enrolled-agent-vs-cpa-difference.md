@@ -39,7 +39,7 @@ A CPA is a licensed accountant. That word "accountant" carries the weight: they'
 
 An enrolled agent is a tax professional, full stop. The EA designation exists for one reason: federal tax matters. Preparation, planning, and representation. Because their entire training centers on the Internal Revenue Code, many EAs have a working knowledge of tax law that exceeds the average CPA, who split their education between auditing standards, cost accounting, managerial finance, and a dozen other disciplines. I've sat in IRS appeals conferences where the EA knew the exact revenue ruling the examiner was citing before she finished the sentence. That kind of depth comes from focus.
 
-Here's the thing most articles skip: both credentials grant unlimited representation rights before the IRS. That means either one can represent you in an audit, an appeals conference, or a collection matter. The IRS doesn't care which credential you bring. What matters is whether the person across the table from the examiner actually knows tax law cold, and specialization usually wins that game.
+Both credentials grant unlimited representation rights before the IRS. That means either one can represent you in an audit, an appeals conference, or a collection matter. The IRS doesn't care which credential you bring. What matters is whether the person across the table from the examiner actually knows tax law cold, and specialization usually wins that game.
 
 ## The Real Cost Comparison
 
@@ -56,9 +56,9 @@ Fees vary by market, complexity, and reputation, so treat these as ranges rather
 | Audited financial statements | Not applicable | $3,000–$20,000+ |
 | Payroll tax problem resolution | $750–$2,500 | $1,000–$4,000+ |
 
-These numbers reflect what I've seen in practice as of July 2026, primarily in mid-size markets. A solo EA in Kansas City runs cheaper than a Big Four CPA in Manhattan.
+A solo EA in Kansas City runs cheaper than a Big Four CPA in Manhattan.
 
-The honest observation: for an owner-operated S-Corp with straightforward books, I've seen EAs do cleaner tax work than the CPA at the general accounting firm, in less time, for roughly 40% less. The CPA's overhead structure is part of what you're paying for, and that overhead often has nothing to do with your return.
+For an owner-operated S-Corp with straightforward books, an EA often produces cleaner tax work than a CPA at a general accounting firm, in less time, for roughly 40% less. The CPA's overhead structure is part of what you're paying for, and that overhead often has nothing to do with your return.
 
 ## When You Actually Need a CPA
 
@@ -78,7 +78,7 @@ IRS correspondence or audit. When the IRS sends a notice, the person you want ha
 
 Annual tax preparation for a straightforward business. Schedule C freelancer, single-member LLC, simple S-Corp with a W-2 salary and modest distributions, these are bread-and-butter EA work. You'll get focused expertise and usually pay less.
 
-Back taxes, IRS collections, payment plans, offers in compromise. This is where EAs genuinely shine. The Offer in Compromise program (Form 656, if you want to look it up) is labyrinthine. A good EA who works collections cases knows the IRS collection financial standards, the correct asset valuation methodologies, and how to time an offer submission around IRS case cycle activity. I've watched skilled EAs negotiate OICs that reduced a client's liability from $148,000 to $22,500. That's not magic, it's knowing the playbook.
+Back taxes, IRS collections, payment plans, offers in compromise. This is where EAs genuinely shine. The Offer in Compromise program (Form 656, if you want to look it up) is labyrinthine. A good EA who works collections cases knows the IRS collection financial standards, the correct asset valuation methodologies, and how to time an offer submission around IRS case cycle activity. Skilled EAs have negotiated OICs that reduced a client's liability from $148,000 to $22,500. That's not magic, it's knowing the playbook.
 
 Another worked example: a sole proprietor named Carlos (a client I worked with indirectly through a referral) owed roughly $94,000 in back payroll taxes after a rough stretch during his expansion. He'd started with a general practice CPA who billed him $4,700 across several months and made limited progress. He switched to an EA who specialized in payroll tax resolution. Eighteen months later, his installment agreement was in place, penalties had been partially abated, and his total fees to the EA were $6,200 for considerably more substantive work. The CPA wasn't incompetent. It just wasn't their specialty.
 

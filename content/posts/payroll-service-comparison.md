@@ -31,23 +31,19 @@ So here's what this is actually about: you want to pay your people correctly, st
 
 The short version: Gusto is excellent for [most small businesses](/the-july-6-rd-tax-refund-deadline-most-small-businesses-are-missing/) with W-2 employees. QuickBooks Payroll makes sense if you're already living inside QuickBooks. ADP and Paychex are worth the higher price only once you're above roughly 25 employees or have complicated multi-state needs. OnPay is the underrated one almost nobody talks about, and it might be the best dollar-for-dollar value in the market right now.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Gusto's Simple plan runs $40/month + $6/employee; OnPay runs $40/month + $6/employee with more features included</li><li style="margin:5px 0">Most small businesses overpay for payroll by choosing contractor-tier plans or full-service HR bundles they don't need</li><li style="margin:5px 0">Automatic tax filing (federal, state, local) is table stakes, do not choose a service that charges extra for it</li><li style="margin:5px 0">QuickBooks Payroll Core starts at $45/month + $6/employee, but the accounting integration saves time only if you're already a QB user</li><li style="margin:5px 0">ADP and Paychex don't list prices publicly, budget for $80-$180/month at 5-10 employees after their "implementation fees"</li></ul></div>
-
 
 ## What You're Actually Paying For
 
 Before you compare price tags, you need to understand what payroll services are really selling. Every reputable one handles the mechanical part: calculating gross pay, withholding the right taxes, cutting checks or pushing direct deposits. The difference is in three things: how much tax filing they handle automatically, what HR tools get bundled in, and how good the support is when something breaks.
 
-The tax piece matters more than people realize. The IRS charges penalties for late or incorrect payroll tax deposits, and those can add up shockingly fast. A good payroll service files your 941s, handles W-2s at year-end, and manages state unemployment (SUTA) filings automatically. A bad one makes you remember to do it yourself. I have seen a $78/year savings on the "manual tax filing" tier cost a [small business](/small-business-grants-available/) owner $1,200 in IRS penalties. Not worth it.
+The tax piece matters more than people realize. The IRS charges penalties for late or incorrect payroll tax deposits, and those can add up shockingly fast. A good payroll service files your 941s, handles W-2s at year-end, and manages state unemployment (SUTA) filings automatically. A bad one makes you remember to do it yourself. A $78/year savings on the "manual tax filing" tier can cost a [small business](/small-business-grants-available/) owner $1,200 in IRS penalties. Not worth it.
 
 The HR bundling is where pricing gets messy. Gusto, for example, layers three tiers. Their cheapest tier doesn't include time-tracking or PTO management. ADP's pricing is almost intentionally opaque, with onboarding fees and per-module billing that I genuinely find irritating to decipher. When I walked through an ADP RUN quote last year for a client with six employees, the "all-in" number was $147/month before they added workers' comp integration. That's not a bad product, but the price positioning feels designed to confuse.
 
 ## Side-by-Side: The Real Numbers
 
 > **Helpful resource:** [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 As of July 2026, here's how the main services compare for a business with 5 W-2 employees, paying monthly:
 
@@ -65,13 +61,9 @@ As of July 2026, here's how the main services compare for a business with 5 W-2 
 
 A few footnotes that the pricing pages bury: Gusto charges per W-2 for year-end on the Simple plan, which stings if you have seasonal workers. OnPay includes multi-state payroll in the base price, which Gusto charges extra for on Plus and above. Square Payroll is legitimately solid if you're running a retail or food-service business already using Square POS, but it's thin on HR features.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Monthly cost at 5 employees (base + per-employee fees)</div><div class="sc-row"><span class="sc-label">Patriot Full</span><span class="sc-track"><span class="sc-bar" style="width:41%"></span></span><span class="sc-val">$57</span></div><div class="sc-row"><span class="sc-label">Square Payroll</span><span class="sc-track"><span class="sc-bar" style="width:46%"></span></span><span class="sc-val">$65</span></div><div class="sc-row"><span class="sc-label">Gusto Simple</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">$70</span></div><div class="sc-row"><span class="sc-label">OnPay</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">$70</span></div><div class="sc-row"><span class="sc-label">QuickBooks Core</span><span class="sc-track"><span class="sc-bar" style="width:54%"></span></span><span class="sc-val">$75</span></div><div class="sc-row"><span class="sc-label">ADP RUN Est.</span><span class="sc-track"><span class="sc-bar" style="width:79%"></span></span><span class="sc-val">$110</span></div><div class="sc-row"><span class="sc-label">Gusto Plus</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$140</span></div><div class="sc-src">Source: Provider pricing pages, July 2026</div></div>
 
-
 ## The Case for OnPay (Seriously)
-
-I'll be honest: I ignored OnPay for years. Their marketing is bland, their name is forgettable, and nobody in a networking group ever brings them up. Then a client with two locations in different states asked me to find her something cheaper than Gusto Plus, which was costing $162/month for 11 employees. I did the actual research.
 
 OnPay's pricing is genuinely flat: $40/month base plus $6/employee, and that covers multi-state payroll, all tax filings, year-end W-2s, garnishment handling, and even basic HR onboarding documents. The [U.S. Small Business Administration](https://www.sba.gov/) has noted that multi-location small businesses often underestimate multi-state payroll compliance costs, which is exactly where OnPay's flat structure pays off.
 
@@ -125,7 +117,6 @@ If you want to get deeper on the accounting side of payroll, *Profit First* by M
 - [IRS Publication 15 (Circular E)](https://www.irs.gov/publications/p15): Federal employer tax obligations, withholding schedules, and deposit requirements
 
 ---
-
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

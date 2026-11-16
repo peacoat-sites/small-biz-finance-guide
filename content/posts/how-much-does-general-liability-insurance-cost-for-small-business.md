@@ -62,7 +62,7 @@ Here's what I found when I got into the actual underwriting logic: insurers aren
 
 **Revenue.** Most people don't expect this one. GL policies are priced partly on your annual revenue because the insurer's thinking is that more revenue means more activity, more clients, more exposure. A freelancer doing $60K a year pays less than one doing $400K, even if the work is identical. Growing fast? Expect your premium to grow with it.
 
-**Physical location and owned or rented property.** Clients, customers, vendors coming and going. That's slip-and-fall risk. Work from home with no one visiting? That risk disappears. I've seen the same business pay meaningfully different premiums just from moving from a home office to a leased storefront.
+**Physical location and owned or rented property.** Clients, customers, vendors coming and going. That's slip-and-fall risk. Work from home with no one visiting? That risk disappears. A business moving from a home office to a leased storefront typically sees meaningfully different premiums.
 
 **Number of employees.** More people means more things can go wrong. Even if your [workers' comp is separate](/workers-comp-insurance-small-business/), GL underwriters look at headcount as a proxy for overall exposure.
 
@@ -88,7 +88,7 @@ That's the system. It's imperfect and sometimes penalizes genuinely careful oper
 
 You've got a few paths. They're not equally good for every situation.
 
-Direct online carriers like Next Insurance, Hiscox, and Thimble have made buying GL coverage genuinely fast. Quote in under ten minutes. Certificate of insurance within the hour. For low-risk businesses (freelancers, consultants, small retailers), this often works fine and sometimes gives you the best price. Next Insurance in particular has priced well for specific trades, and I've had clients in construction-adjacent fields get competitive rates there.
+Direct online carriers like Next Insurance, Hiscox, and Thimble have made buying GL coverage genuinely fast. Quote in under ten minutes. Certificate of insurance within the hour. For low-risk businesses (freelancers, consultants, small retailers), this often works fine and sometimes gives you the best price. Next Insurance has priced competitively for specific trades, particularly construction-adjacent fields.
 
 The downside is you might not catch what's excluded or limited. These are real policies. But customization is limited, and customer service when something actually goes wrong is more variable than with a traditional broker.
 

@@ -37,7 +37,7 @@ The SBA doesn't hand out money directly. It can't. The agency guarantees a porti
 
 The U.S. Small Business Administration maintains its list of approved lenders and guidance at [sba.gov](https://www.sba.gov/). Spend 20 minutes there before you talk to any banker. You'll see the programs laid out clearly, with basic eligibility rules spelled out.
 
-Here's the catch: the lender still carries a portion of the risk. So you're being evaluated by two parties, the SBA's guidelines and the individual lender's own credit standards. One bank might decline you while another approves you for the exact same loan program. The SBA sets the floor. The lender sets the ceiling.
+The lender still carries a portion of the risk. So you're being evaluated by two parties, the SBA's guidelines and the individual lender's own credit standards. One bank might decline you while another approves you for the exact same loan program. The SBA sets the floor. The lender sets the ceiling.
 
 ## The Core Eligibility Requirements
 
@@ -115,7 +115,7 @@ Use the SBA's lender match tool and review their official borrower checklist at 
 
 ## Red Flags That Will Get You Declined
 
-Lenders won't always tell you exactly why they said no. Here are the most common reasons I've seen kill applications.
+Lenders won't always tell you exactly why they said no. Common reasons applications get declined include:
 
 **Unpaid taxes.** Federal tax liens are disqualifying. Even if you're on a payment plan, lenders will scrutinize this hard. Get current, document the plan, and reapply. Your IRS installment agreement needs to be in place and you need to be on time with it.
 
@@ -144,7 +144,6 @@ They will.
 - [*The E-Myth Revisited* by Michael Gerber](https://www.amazon.com/E-Myth-Revisited-Small-Businesses-About/dp/0887307280?tag=contentportfo-20)
 - [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20)
 - [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

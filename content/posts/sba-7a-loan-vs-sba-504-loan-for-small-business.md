@@ -70,7 +70,7 @@ The [U.S. Small Business Administration](https://www.sba.gov/) breaks down both 
 
 504 rates on the CDC portion are fixed. Fully fixed, for the life of the loan, which is 10, 20, or 25 years. The bank portion (the 50%) carries its own rate and terms negotiated separately, which is the piece most people forget about. You're effectively managing two debt instruments. But the total blended cost on a large real estate or equipment purchase with a 504 is usually lower than a comparable 7(a), and much lower than conventional commercial financing.
 
-For real estate specifically, the 504 is almost always the better choice if you qualify. I've seen business owners take 7(a) loans on commercial property purchases because the process felt simpler, and they paid for that convenience for 20 years. Don't do that.
+For real estate specifically, the 504 is almost always the better choice if you qualify. Taking a 7(a) loan for commercial property purchases because the process feels simpler often means paying significantly more interest over the loan term. Don't do that.
 
 For shorter-term needs, working capital, [acquisition financing](/business-acquisition-loan/), revolving credit, the 504 isn't an option anyway. The comparison doesn't apply.
 

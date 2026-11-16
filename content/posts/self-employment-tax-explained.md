@@ -31,15 +31,13 @@ Most people who come to me already know they owe *something* extra. What they do
 
 Here's the short version: when you work for an employer, they split Social Security and Medicare taxes with you. You pay 7.65%, they pay 7.65%. When you work for yourself, you pay both halves. All 15.3% of it. That's the whole story, really. Everything else is just mechanics.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Self-employment tax is 15.3%: 12.4% for Social Security and 2.9% for Medicare, as of 2026.</li><li style="margin:5px 0">You owe it on net self-employment income over $400, even if you're doing this as a side gig.</li><li style="margin:5px 0">You can deduct half of what you pay in SE tax directly from your gross income, which helps.</li><li style="margin:5px 0">Quarterly estimated payments are not optional, the IRS expects them, and the penalty for skipping is real.</li><li style="margin:5px 0">Net earnings above $200,000 (single) or $250,000 (married) trigger an additional 0.9% Medicare surtax.</li></ul></div>
-
 
 ## Where the 15.3% Actually Comes From
 
 The IRS breaks self-employment tax into two pieces. Social Security takes 12.4% on the first $176,100 of net self-employment income in 2026 (that cap adjusts upward most years, following wage inflation). Medicare takes 2.9% with no cap at all. Add them together and you get 15.3%.
 
-The Social Security wage base is the number most people overlook. If you have a W-2 job on the side *and* freelance income, your W-2 wages count toward that $176,100 cap first. So if your employer already withheld Social Security on $100,000 of W-2 income, you only owe Social Security tax on your first $76,100 of self-employment earnings, not the full amount. I've had clients with both income types nearly overpay by $10,000 because they didn't realize how this worked.
+The Social Security wage base is the number most people overlook. If you have a W-2 job on the side *and* freelance income, your W-2 wages count toward that $176,100 cap first. So if your employer already withheld Social Security on $100,000 of W-2 income, you only owe Social Security tax on your first $76,100 of self-employment earnings, not the full amount. Many people with both income types nearly overpay by thousands of dollars without realizing how this cap works.
 
 You calculate SE tax on *net* earnings, not gross revenue. That means your income after [business expenses](/what-business-expenses-are-tax-deductible/). The IRS uses 92.35% of your net profit for the SE tax calculation, which sounds like a weird quirk but it's actually built into the form. It adjusts for the fact that employees don't pay payroll tax on their employer's share.
 
@@ -47,11 +45,7 @@ You calculate SE tax on *net* earnings, not gross revenue. That means your incom
 
 > **Helpful resource:** [QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Self-employment tax on net profit</div><div class="sc-row"><span class="sc-label">$30,000 net</span><span class="sc-track"><span class="sc-bar" style="width:17%"></span></span><span class="sc-val">$4,238</span></div><div class="sc-row"><span class="sc-label">$60,000 net</span><span class="sc-track"><span class="sc-bar" style="width:34%"></span></span><span class="sc-val">$8,478</span></div><div class="sc-row"><span class="sc-label">$100,000 net</span><span class="sc-track"><span class="sc-bar" style="width:57%"></span></span><span class="sc-val">$14,130</span></div><div class="sc-row"><span class="sc-label">$150,000 net</span><span class="sc-track"><span class="sc-bar" style="width:85%"></span></span><span class="sc-val">$21,195</span></div><div class="sc-row"><span class="sc-label">$176,100 net</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$24,888</span></div><div class="sc-src">Source: IRS Schedule SE, 2026 rates</div></div>
-
 
 These figures use the 2026 Social Security wage base of $176,100. Above that threshold, only the 2.9% Medicare piece continues.
 
@@ -91,7 +85,7 @@ Three situations where this gets messier than the basics:
 
 **The 0.9% Medicare surtax.** If your net self-employment income plus any wages exceed $200,000 as a single filer (or $250,000 married filing jointly), you owe an additional 0.9% Medicare tax on the overage. Unlike the base SE tax, there's no deduction for half of this one. It just adds to your bill.
 
-**S-Corp election.** Here's where I push back on what a lot of online advice says. Everyone loves to tout the S-Corp strategy for reducing self-employment taxes, and it can work, but the SBA's own guidance (and honestly, most CPAs I respect) will tell you it only makes sense above roughly $40,000-$50,000 in consistent net profit. The setup and ongoing administrative costs, typically $1,500-$3,000 per year in additional accounting fees, eat into the savings fast below that threshold. I've seen people form S-Corps on $28,000 of net income and end up paying more than they saved.
+**S-Corp election.** Everyone loves to tout the S-Corp strategy for reducing self-employment taxes, and it can work, but the SBA's own guidance (and honestly, most CPAs I respect) will tell you it only makes sense above roughly $40,000-$50,000 in consistent net profit. The setup and ongoing administrative costs, typically $1,500-$3,000 per year in additional accounting fees, eat into the savings fast below that threshold. Someone forming an S-Corp on $28,000 of net income could end up paying more in setup and accounting costs than they save on self-employment taxes.
 
 **Partnerships and multi-member LLCs.** Each member's distributive share of business income is typically subject to SE tax, with some nuances around limited partners. If you're in this situation, a CPA review isn't optional. The rules here are genuinely complicated and the IRS audits partnership returns at a higher rate than individual returns.
 
@@ -103,7 +97,6 @@ Three situations where this gets messier than the basics:
 - [SCORE.org](https://www.score.org/): Free small business mentoring resources, including financial planning for self-employed individuals
 
 ---
-
 
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 

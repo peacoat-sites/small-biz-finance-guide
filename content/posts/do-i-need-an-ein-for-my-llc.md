@@ -31,9 +31,7 @@ An EIN is an Employer Identification Number, issued free by the IRS. Think of it
 
 Here's the short version before we go deeper: you probably need one, even if you think you don't.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Single-member LLCs with no employees can legally use an SSN instead of an EIN, but most shouldn't.</li><li style="margin:5px 0">An EIN is free to get directly from the IRS at irs.gov, takes about 10 minutes online.</li><li style="margin:5px 0">You must have an EIN if your LLC has more than one member, has employees, or files certain excise tax returns.</li><li style="margin:5px 0">Banks almost always require an EIN to open a business checking account, even for single-member LLCs.</li><li style="margin:5px 0">As of August 2026, EINs are still issued instantly online for U.S.-based applicants during IRS business hours.</li></ul></div>
-
 
 ## When the IRS Says You're Required to Have One
 
@@ -46,8 +44,6 @@ On paper, that's fine. In practice, it creates problems.
 ## Why Single-Member LLCs Should Still Get One
 
 > **Helpful resource:** [The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 I used to tell clients this was optional for solo LLCs. I was wrong, and I figured that out the hard way after a client of mine had her business account application rejected three times because she'd been giving vendors her SSN, which flagged the account setup as a potential identity risk. Small moment. Expensive lesson.
 
@@ -74,7 +70,7 @@ The only situation where I genuinely wouldn't stress about it is someone running
 
 ## How to Actually Get One (It's Easier Than You Think)
 
-This is where I see people waste money unnecessarily. Third-party services charge anywhere from $49 to $299 to file for your EIN. I've seen LegalZoom charge $79 for this. Do not pay that. The IRS issues EINs for free, directly, at irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online.
+Many businesses waste money on this step unnecessarily. Third-party services charge anywhere from $49 to $299 to file for an EIN. LegalZoom, for example, charges $79 for this. Don't pay for it. The IRS issues EINs for free, directly, at irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online.
 
 As of August 2026, the online application is available Monday through Friday, 7 a.m. to 10 p.m. Eastern time. It takes about 10 minutes, you answer a handful of questions about your LLC, and your EIN is issued on the screen at the end. Print it or save it as a PDF immediately; the IRS doesn't email it to you and won't let you retrieve it the same way again. You'll eventually receive a CP 575 confirmation letter in the mail (usually within four weeks), which is the official document some institutions want to see.
 
@@ -103,7 +99,6 @@ And for anything involving your LLC's tax classification, the S-corp election de
 - [IRS Form SS-4 Instructions](https://www.irs.gov/instructions/iss4): Required for foreign-owned LLCs or applicants without a U.S. tax ID
 
 ---
-
 
 *Photo: [Leeloo The First](https://www.pexels.com/@leeloothefirst) via Pexels*
 

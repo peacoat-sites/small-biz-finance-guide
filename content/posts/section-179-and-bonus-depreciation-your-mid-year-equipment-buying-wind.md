@@ -20,9 +20,7 @@ If you're a small business owner who buys equipment, vehicles, machinery, or oth
 
 The short version: 100% [bonus depreciation](/how-to-use-100-bonus-depreciation-to-cut-your-2026-tax-bill/) is back permanently, and the Section 179 cap nearly doubled. That combination, according to the IRS's own June 2026 guidance on OBBBA provisions, is the most favorable equipment-purchase environment small businesses have seen in years.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">100% bonus depreciation is permanently restored for assets placed in service after January 19, 2025.</li><li style="margin:5px 0">The 2026 Section 179 cap is $2,560,000, up from $1,250,000 last year.</li><li style="margin:5px 0">Assets must be placed in service by December 31, 2026, to qualify for 2026 deductions.</li><li style="margin:5px 0">A $1.8M equipment purchase could yield roughly $27,300 more in year-one tax savings vs. 2025 rules.</li><li style="margin:5px 0">Economists expect a Fed rate increase of 0.25% by October 2026, making early financing smart.</li></ul></div>
-
 
 ## What Actually Changed, and Why It Matters
 
@@ -36,8 +34,6 @@ What most people don't realize is that Section 179 and bonus depreciation aren't
 
 > **Helpful resource:** [Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Let me show you why the new numbers matter in practice.
 
 | Scenario | 2025 Rules | 2026 Rules |
@@ -49,11 +45,11 @@ Let me show you why the new numbers matter in practice.
 
 The figures above are drawn from Section179.org's 2026 deduction guide and reflect the kind of real-world difference the rule change creates for businesses doing meaningful capital investment. If you're buying $500,000 in equipment, the math is proportionally smaller but the logic is the same: more of your purchase cost disappears from taxable income in year one, rather than being spread over five to seven years through standard depreciation.
 
-I've seen business owners dismiss this as "a big company thing." It's not. A restaurant buying commercial refrigeration, a landscaper adding a second truck and trailer setup, a dental office purchasing imaging equipment, these are all scenarios where the new rules pay off meaningfully.
+Business owners sometimes dismiss this as "a big company thing." A restaurant buying commercial refrigeration, a landscaper adding a second truck and trailer setup, a dental office purchasing imaging equipment, these are all scenarios where the new rules pay off meaningfully.
 
 ## Why July Is the Window You Actually Want
 
-December feels far away. It isn't, not if you're buying equipment. Here's what I've seen slow people down: vendor lead times, equipment that's backordered, installation schedules that push into the new year, and lender processing times that stretch longer than expected in Q4 when everyone else is also trying to close deals.
+December feels far away when you're buying equipment, but several factors can slow down the process: vendor lead times, equipment that's backordered, installation schedules that push into the new year, and lender processing times that stretch longer than expected in Q4 when everyone else is also trying to close deals.
 
 "Placed in service" is not the same as "ordered" or "delivered." The IRS requires that the asset actually be ready and available for use in your business before December 31. A piece of equipment sitting in a warehouse or still being installed on December 31 likely doesn't count for that tax year. That nuance has cost more than one business owner a full year's deduction.
 

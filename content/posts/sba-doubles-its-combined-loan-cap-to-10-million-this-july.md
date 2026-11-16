@@ -14,7 +14,7 @@ slug: "sba-doubles-its-combined-loan-cap-to-10-million-this-july"
 affiliate_disclosure: true
 lastmod: 2026-07-07
 ---
-You're sitting across from your banker in early 2025, trying to finance the acquisition of a manufacturing facility. The business is solid, the deal pencils out, but you keep hitting the same wall: your existing 7(a) balance means you've got almost no room left under the $5 million combined cap. The banker shrugs. The deal dies. I've seen that exact scenario play out more times than I'd like to count, and for years the honest answer was just "the SBA math doesn't work here."
+For example, a solid manufacturing acquisition might pencil out financially, but an existing 7(a) loan balance could leave almost no room under the $5 million combined cap. That scenario leaves little recourse under traditional SBA math.
 
 That answer is about to change.
 
@@ -37,8 +37,6 @@ What most people don't realize is how quietly that cap strangled growth for busi
 | Manufacturer with unlimited 504 carve-out | Limited by 7(a) balance | Full $5M 7(a) + unlimited 504 | Decoupled |
 
 > **Helpful resource:** [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Under the new structure, the two programs are essentially decoupled. A borrower can now hold up to $5 million in 7(a) financing and up to $5 million in 504 financing, simultaneously, for a combined ceiling of $10 million. That means the scenario above flips completely. Your $3 million 7(a) balance no longer eats into your 504 eligibility. You have the full $5 million in 504 capacity available for a commercial real estate deal or equipment purchase, independent of what you already owe on the 7(a) side.
 

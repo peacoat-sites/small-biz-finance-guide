@@ -50,8 +50,6 @@ A lot of owners make the mistake of thinking a job title does the work here. It 
 
 > **Helpful resource:** [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Overtime math sounds easy until you get into the weeds. Here's where I see small businesses get tripped up most often.
 
 The FLSA workweek is a fixed, recurring 168-hour period (seven consecutive 24-hour days). You define it, but once you do, you can't rearrange it retroactively to reduce overtime liability. You can't average hours across two weeks. If someone works 50 hours in week one and 30 in week two, you owe them 10 hours of overtime for week one, period. That's not how a lot of owners think about it, but that's how the law works.
@@ -72,7 +70,7 @@ Most payroll software handles this automatically. If you're still running payrol
 
 The FLSA prohibits retaliation against employees who file complaints, cooperate with investigations, or even just ask about their pay rights. You cannot fire, demote, cut hours, or otherwise punish someone for raising a wage concern.
 
-This matters more than most owners realize. Because even if you fix the underlying pay issue, a retaliation claim can cost you far more in damages and attorney fees. I've seen this play out badly. The original dispute was over a few hundred dollars of overtime. The retaliation claim that followed was a different problem entirely.
+This matters more than most owners realize. Because even if you fix the underlying pay issue, a retaliation claim can cost you far more in damages and attorney fees. A dispute over overtime can escalate into a retaliation claim that costs far more to defend.
 
 If an employee raises a pay question, treat it like a systems issue to investigate, not a loyalty problem. Because legally, that's exactly what it is.
 
@@ -92,10 +90,9 @@ I'd recommend doing this review annually, honestly. An hour of your time once a 
 
 ---
 
-
 ---
 
-Getting this stuff right isn't glamorous. It doesn't feel like building a business. But the owners I've seen get hit with wage claims, especially the ones who thought they had it figured out, would tell you that an afternoon spent reviewing your classifications and time records is one of the better investments you can make. Don't wait for a complaint to find out where you stand.
+Getting this stuff right isn't glamorous. It doesn't feel like building a business. An afternoon spent reviewing your classifications and time records is a sound investment in your legal protection. Don't wait for a complaint to find out where you stand.
 
 ---
 
@@ -110,7 +107,6 @@ Getting this stuff right isn't glamorous. It doesn't feel like building a busine
 - [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20)
 - [QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20)
 - [AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

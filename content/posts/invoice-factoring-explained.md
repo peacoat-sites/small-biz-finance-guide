@@ -35,7 +35,7 @@ Here's the simple version: you have an invoice for $10,000 due in 60 days. A fac
 
 That fee (the factoring rate or discount rate) typically ranges from 1% to 5% of the invoice value per month, depending on your industry, your client's creditworthiness, and the invoice volume you're factoring. It's not cheap. But it's not supposed to be a long-term financing strategy. It's a liquidity tool.
 
-I've seen clients in construction, staffing, trucking, and professional services use factoring effectively because those industries have long payment cycles baked into the business model. If you're billing $50,000 a month and waiting 45 to 60 days to collect, you're essentially carrying a $75,000 to $100,000 float that your bank account can't cover. Factoring closes that gap.
+Construction, staffing, trucking, and professional services often use factoring effectively because those industries have long payment cycles baked into the business model. If you're billing $50,000 a month and waiting 45 to 60 days to collect, you're essentially carrying a $75,000 to $100,000 float that your bank account can't cover. Factoring closes that gap.
 
 ## Recourse vs. Non-Recourse Factoring: A Critical Distinction
 
@@ -137,7 +137,7 @@ Keeping a tight handle on your broader cash flow picture matters here. The [cash
 
 ---
 
-Invoice factoring isn't glamorous, and it's not cheap. But for the right business, at the right moment, it can be the bridge between a healthy pipeline and an overdrawn account. Understand the costs, compare multiple factors, get the contract reviewed before you sign, and treat it as one tool in your financial toolkit rather than a permanent solution. The businesses I've watched use it well are the ones who used it strategically and kept working toward financing options with lower costs on the horizon. That's the goal.
+Invoice factoring isn't glamorous, and it's not cheap. But for the right business, at the right moment, it can be the bridge between a healthy pipeline and an overdrawn account. Understand the costs, compare multiple factors, get the contract reviewed before you sign, and treat it as one tool in your financial toolkit rather than a permanent solution. Businesses that use factoring well tend to treat it strategically and keep working toward financing options with lower costs on the horizon. That's the goal.
 
 ---
 

@@ -45,7 +45,7 @@ E&O policies typically cover:
 - Claims arising from services you performed in the past (with "prior acts" coverage, which I'll get to)
 - Mistakes, oversights, and failures to deliver what was promised
 
-What they don't cover tends to trip people up. Intentional misconduct is out. Bodily injury is out. Claims arising from services you haven't disclosed to your insurer are usually out. And here's one I've seen burn people: most E&O policies are written on a "claims-made" basis, meaning the policy in force at the time the claim is *filed* is what pays, not the policy you had when you did the work. If you let coverage lapse between policies, you can have a gap that leaves you completely exposed for past work.
+What they don't cover tends to trip people up. Intentional misconduct is out. Bodily injury is out. Claims arising from services you haven't disclosed to your insurer are usually out. Most E&O policies are written on a "claims-made" basis, meaning the policy in force at the time the claim is *filed* is what pays, not the policy you had when you did the work. If you let coverage lapse between policies, you can have a gap that leaves you completely exposed for past work.
 
 I made a version of this mistake myself early in my consulting career, switching insurers mid-year without verifying that my new policy included a retroactive date that covered my prior work. It did, barely, but only because I caught it before the paperwork was final. Don't rely on luck there.
 
@@ -55,11 +55,7 @@ I made a version of this mistake myself early in my consulting career, switching
 
 > **Helpful resource:** [Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Honestly? More people than realize it. The traditional list includes accountants, lawyers, doctors, architects, engineers, and consultants. But the category has expanded significantly. As of June 2026, I'm regularly advising clients in marketing agencies, software development, real estate, HR consulting, financial advising, and even recruiting and staffing to carry it. If you give advice, produce work product, or manage a process on someone else's behalf, you have E&O exposure.
-
-A few worked examples from my practice and conversations with clients:
 
 **A freelance graphic designer, $1,800/year policy** → Client claimed a logo she delivered was too similar to an existing trademark, creating rebranding costs. The client demanded $40,000. The insurer settled for $22,000. Designer paid her deductible of $2,500 and moved on. Without coverage, she'd likely have paid out of pocket or spent more fighting it.
 
@@ -123,7 +119,6 @@ If you want to go deeper on contract and liability fundamentals before your next
 - Betterley Report on Professional Liability Insurance Markets (annual): Widely cited industry survey of E&O market conditions, pricing trends, and coverage comparisons by profession.
 
 ---
-
 
 ---
 

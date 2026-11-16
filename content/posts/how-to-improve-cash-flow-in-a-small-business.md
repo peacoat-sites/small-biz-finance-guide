@@ -31,7 +31,6 @@ Cash flow problems kill profitable businesses. That's the part people don't expe
 
 So let's talk about what actually moves the needle.
 
-
 <div class="value-module">
  <div class="vm-head">Cash Flow Levers: Impact vs. Effort Matrix</div>
  <div class="vm-body">
@@ -93,7 +92,7 @@ A few options, in rough order of preference:
 
 **Invoice factoring** lets you sell receivables to a third party for immediate cash, usually at 1% to 5% fee. It's fast. It's expensive when you annualize it. I'd use it as a last resort or for a specific large receivable you need to unlock, not as regular strategy.
 
-**Merchant cash advances**: avoid them. The effective APR on these runs 60% to 200%. I've seen businesses dig themselves into serious holes because the daily repayment structure strangled cash flow further. Whatever problem it solves, it usually creates a bigger one.
+**Merchant cash advances**: avoid them. The effective APR on these runs 60% to 200%. The daily repayment structure can strangle cash flow further, creating a bigger problem than the one it was meant to solve. Whatever problem it solves, it usually creates a bigger one.
 
 ## The Things That Actually Work Long-Term
 
@@ -107,7 +106,7 @@ Shorten your operating cycle. For product businesses, this means tighter invento
 
 Keep a cash reserve. The rule of thumb is two to three months of operating expenses. I know that's easier to say than to build. Start with one month. Then build toward two. Treat it as untouchable except for genuine emergencies, not slow months.
 
-The owners I've seen turn cash flow around fastest share one trait: they stop treating the bank balance as the scoreboard and start treating the forecast as the scoreboard. The balance tells you where you are. The forecast tells you where you're going. Run a business off one without the other and you're always reacting.
+Businesses that turn cash flow around fastest treat the forecast as the scoreboard, not just the bank balance. The balance tells you where you are. The forecast tells you where you're going. Run a business off one without the other and you're always reacting.
 
 That's exhausting. You've got enough going on.
 
@@ -124,7 +123,6 @@ That's exhausting. You've got enough going on.
 - [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/)
 - [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20)
 - [QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

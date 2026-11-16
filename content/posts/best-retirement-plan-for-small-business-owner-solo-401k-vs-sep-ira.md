@@ -31,9 +31,7 @@ If you're a sole proprietor or a single-member LLC with no employees (other than
 
 I'll be honest: I used a SEP-IRA myself for the first four years after going independent. Thought it was simpler, thought it was fine. What surprised me was how much contribution room I was leaving on the table compared to what a Solo 401(k) would have allowed at my income level. The math was embarrassing. Let me show you what I found.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Solo 401(k) allows up to $70,000 in contributions in 2026 vs. SEP-IRA's same cap, but Solo 401k reaches it at a lower income level.</li><li style="margin:5px 0">SEP-IRA contributions are limited to 25% of net self-employment income; Solo 401(k) adds an employee elective deferral of up to $23,500 on top.</li><li style="margin:5px 0">Solo 401(k) allows Roth contributions and loans; SEP-IRA does not.</li><li style="margin:5px 0">SEP-IRA wins on simplicity: open it in 20 minutes, no annual IRS filing until assets exceed $250,000.</li><li style="margin:5px 0">If you have any W-2 employees (non-spouse), Solo 401(k) eligibility disappears immediately.</li></ul></div>
-
 
 ## The Real Difference in How These Plans Are Built
 
@@ -43,17 +41,13 @@ A SEP-IRA works on one lever: employer contributions only. The IRS caps those at
 
 The Solo 401(k) has two levers. You're wearing two hats: employee and employer. As the "employee," you can defer up to $23,500 of your compensation in 2026, dollar for dollar, before the 25% employer calculation even starts. Then, as the "employer," you can contribute an additional 25% of net SE income on top. That double-stacking is what makes the Solo 401(k) so powerful at moderate income levels, say, $80,000 to $200,000, where the SEP alone would leave you well under the cap.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Max Solo 401(k) vs. SEP-IRA contribution by net SE income (2026)</div><div class="sc-row"><span class="sc-label">$60K income</span><span class="sc-track"><span class="sc-bar" style="width:34%"></span></span><span class="sc-val">$23,500</span></div><div class="sc-row"><span class="sc-label">$100K income</span><span class="sc-track"><span class="sc-bar" style="width:59%"></span></span><span class="sc-val">$41,000</span></div><div class="sc-row"><span class="sc-label">$150K income</span><span class="sc-track"><span class="sc-bar" style="width:79%"></span></span><span class="sc-val">$55,000</span></div><div class="sc-row"><span class="sc-label">$200K income</span><span class="sc-track"><span class="sc-bar" style="width:97%"></span></span><span class="sc-val">$68,000</span></div><div class="sc-row"><span class="sc-label">$250K+ income</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$70,000</span></div><div class="sc-src">Source: IRS Publication 560, 2026 limits</div></div>
-
 
 (Note: chart shows Solo 401(k) maximums; SEP-IRA at these same income levels would be roughly 25% of each figure, before SE tax adjustment.)
 
 ## Side-by-Side: What Actually Matters
 
 > **Helpful resource:** [Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 | Feature | Solo 401(k) | SEP-IRA |
 |---|---|---|
@@ -90,7 +84,7 @@ Don't dismiss it. For some [business owners](/the-new-1099-thresholds-small-busi
 
 If you're making $300,000 or more in net SE income, both plans effectively top out at the same $70,000 ceiling, and the SEP gets you there without the plan document, the Form 5500-EZ once you cross $250K in assets, or the December 31 setup deadline pressure. You also have until your tax filing extension date (typically October 15 for sole proprietors) to open AND fund a SEP-IRA for the prior year. A Solo 401(k) has to be established by December 31 of the year you want to contribute for, even if you fund it later.
 
-I've seen people lose a Solo 401(k) contribution year because they missed that December 31 setup window. One client, a graphic designer in Austin, came to me in February 2025 asking why her financial advisor hadn't set up her plan yet. The advisor hadn't warned her about the December deadline. She had to use a SEP-IRA for that tax year, which cost her about $18,000 in contribution room at her income level. That deadline is not flexible.
+Missing the December 31 setup window can cost a full contribution year. Someone who misses that deadline has to use a SEP-IRA for that tax year instead, which can mean losing significant contribution room depending on income level. That deadline is not flexible.
 
 Worked example two: Solopreneur, net SE income of $280,000, age 52.
 
@@ -124,7 +118,6 @@ One thing nobody tells you: when you call to open a Solo 401(k) at a large custo
 - [IRS Form 5500-EZ Instructions (2026)](https://www.irs.gov/forms-pubs/about-form-5500-ez): Required annual filing for Solo 401(k) plans when plan assets exceed $250,000.
 
 ---
-
 
 ---
 

@@ -51,8 +51,6 @@ One catch worth flagging: if you're also on Medicare, even just Part A, you can'
 
 > **Helpful resource:** [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 For 2026, contribution limits are $4,300 for self-only coverage and $8,550 for family coverage. If you're 55 or older, you can add a $1,000 catch-up contribution on top.
 
 Here's why this is meaningful for the self-employed specifically. When you contribute to an HSA, that contribution reduces your adjusted gross income. Lower AGI can also affect your ACA premium tax credit calculations, which is its own layer of strategy worth discussing with your CPA (seriously, on this one particular point, a one-hour call is worth it). The interaction between HSA contributions, MAGI, and ACA subsidies is not simple, and getting it wrong in either direction costs you real money.
@@ -65,11 +63,11 @@ This is where most guides get lazy. "Open an HSA at your bank!" Sure. But not al
 
 If you're just using the HSA as a pass-through (money in, medical bills out), any custodian works. Fidelity, Lively, or your local bank. Fine.
 
-If you're treating it as an investment vehicle, which is the real play for anyone who can afford to pay medical expenses out of pocket in the short term, custodian selection matters a lot. Fidelity's HSA has no monthly fees and gives you access to their full brokerage platform. Lively pairs with TD Ameritrade (now Schwab) for investing and is also fee-free. I've seen clients stuck with employer-assigned HSAs at HealthEquity or Optum that charge $3-4/month and limit investment options until you hit a $2,000 threshold. If you're self-employed, you're choosing your own custodian. Use that freedom.
+If you're treating it as an investment vehicle, which is the real play for anyone who can afford to pay medical expenses out of pocket in the short term, custodian selection matters a lot. Fidelity's HSA has no monthly fees and gives you access to their full brokerage platform. Lively pairs with TD Ameritrade (now Schwab) for investing and is also fee-free. Employer-assigned HSAs at HealthEquity or Optum often charge $3-4/month and limit investment options until you hit a $2,000 threshold. If you're self-employed, you're choosing your own custodian. Use that freedom.
 
 Opening one takes maybe 20 minutes. You'll need your HDHP insurance card or plan documents to confirm eligibility, a bank account to link, and your Social Security number. Fidelity's online application is clean. Contributions from a self-employed person come straight from your bank account (there's no payroll involved), and you deduct them on Schedule 1 of your Form 1040, line 13.
 
-You do not need to itemize to get this deduction. It's an above-the-line deduction, which means it reduces your AGI regardless of whether you take the standard deduction. This is worth saying clearly because I've had clients who didn't contribute for years thinking they couldn't deduct it without itemizing.
+You do not need to itemize to get this deduction. It's an above-the-line deduction, which means it reduces your AGI regardless of whether you take the standard deduction.
 
 ## The Investment Strategy Question
 
@@ -93,7 +91,6 @@ The dependent coverage gap. If your adult child is on your health insurance but 
 
 ---
 
-
 ---
 
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
@@ -107,7 +104,6 @@ The dependent coverage gap. If your adult child is on your health insurance but 
 - [Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20)
 - [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20)
 - [www.kaboompics.com](https://www.pexels.com/@karola-g)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

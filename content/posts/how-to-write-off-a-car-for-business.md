@@ -31,7 +31,7 @@ Let me walk you through how vehicle write-offs actually work, what the IRS is ac
 
 ## The Two Methods, and Why the Choice Matters More Than You Think
 
-There are two ways to deduct a vehicle for business: the **standard mileage rate** or **actual expenses**. That's it. And I can't tell you how many times I've watched a business owner default to one without ever running the numbers on the other.
+There are two ways to deduct a vehicle for business: the **standard mileage rate** or **actual expenses**. That's it.
 
 As of 2026, the IRS standard mileage rate sits at 70 cents per mile for business driving (confirm the current rate at the [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed) since Congress adjusts this periodically). That sounds simple, and it is. You log your miles, multiply, deduct. Done.
 
@@ -46,13 +46,11 @@ Here's the honest comparison:
 | Section 179 (with Actuals) | Vehicles over 6,000 lbs GVWR, high business use, cash flow timing | Same as actuals | Significant |
 | Bonus Depreciation | New or used vehicles, want large Year 1 deduction | Same as actuals | Needs a CPA |
 
-One thing most people don't realize: if you start with the standard mileage rate in Year 1, you can switch to actual expenses in later years. But if you start with actual expenses and MACRS depreciation, you generally can't switch back. So the first-year choice can lock you in. I've seen clients make this decision in January without knowing that, and regret it by March when they realize their actual costs were way higher.
+One thing most people don't realize: if you start with the standard mileage rate in Year 1, you can switch to actual expenses in later years. But if you start with actual expenses and MACRS depreciation, you generally can't switch back. So the first-year choice can lock you in. A business owner who chooses actual expenses without understanding the switching rules can face regret when actual costs turn out to be significantly higher than anticipated.
 
 ## The Mileage Log: The One Thing That Will Save or Kill Your Deduction
 
 > **Helpful resource:** [Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 I'm going to be blunt about this because it's the area where I see deductions fall apart most often during an audit.
 
@@ -65,7 +63,7 @@ What a compliant mileage log needs:
 - Odometer start and end, or total miles for the trip
 - Your total business miles vs. total miles driven that year
 
-Apps like MileIQ ($5.99/month as of this writing) or Everlance make this genuinely easy if you set them up right. I tested MileIQ with a client who had been keeping a paper log for three years. She went back and compared six months of paper records to the app. The paper log was off by about 900 miles. That's real money at 70 cents a mile.
+Apps like MileIQ ($5.99/month as of this writing) or Everlance make this genuinely easy if you set them up right. For example, a comparison between six months of manual mileage records and app data might show a 900-mile discrepancy. At 70 cents per mile, that gap represents real deductions lost to manual tracking errors.
 
 The business-use percentage is where things get nuanced. If you use a vehicle 60% for business and 40% personally, you can only deduct 60% of your actual expenses. Seems obvious. What's less obvious is that commuting to your regular place of business doesn't count as business mileage. Driving from your home office to a client site does. If you have a dedicated home office that qualifies under IRS rules, your first trip of the day to a client is business. If you don't, it might not be. This is one of those places where spending an hour with a CPA can pay for itself ten times over.
 
@@ -79,7 +77,7 @@ Here's where the weight threshold changes things: vehicles with a Gross Vehicle 
 
 The 2026 Section 179 deduction limit is $1,220,000 (subject to phase-out above $3,050,000 in total purchases). For a qualifying heavy vehicle used 100% for business, you could theoretically deduct the full cost in Year 1.
 
-The catch, and this is where the Facebook crowd goes quiet: the business-use requirement is strict. If you buy a $75,000 Suburban, use it 80% for business and 20% for personal use, your deduction is capped at 80% of the cost. And if your business use drops below 50% in a future year, the IRS can claw back some of that deduction through something called recapture. I've seen this happen to a landscaping client who sold his truck two years after taking a large Section 179 deduction. He owed taxes he wasn't expecting.
+The catch, and this is where the Facebook crowd goes quiet: the business-use requirement is strict. If you buy a $75,000 Suburban, use it 80% for business and 20% for personal use, your deduction is capped at 80% of the cost. And if your business use drops below 50% in a future year, the IRS can claw back some of that deduction through something called recapture. A business owner who sells a vehicle years after claiming a large Section 179 deduction may face unexpected recapture taxes if business use has declined.
 
 A worked example:
 
@@ -107,7 +105,7 @@ Another worked example:
 
 I want to address the audit fear directly because it makes people leave real money on the table.
 
-The IRS does flag returns where vehicle deductions seem disproportionate to business income or industry norms. A sole proprietor reporting $40,000 in income and $35,000 in vehicle expenses is going to get a second look. That's not an opinion; it's pattern matching the IRS uses systematically.
+The IRS does flag returns where vehicle deductions seem disproportionate to business income or industry norms. A sole proprietor reporting $40,000 in income and $35,000 in vehicle expenses is going to get a second look.
 
 But a legitimate, documented vehicle deduction taken by a business that actually uses that vehicle for business is not a red flag. The [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/) and various IRS guidance consistently emphasize that proper documentation is the real protection, not timidity about taking deductions you've earned.
 
@@ -124,7 +122,6 @@ If you want to go deeper on the tax mechanics, *J.K. Lasser's Small Business Tax
 - [Consumer Financial Protection Bureau Small Business Resources](https://www.consumerfinance.gov/): Guidance on financial recordkeeping practices for small business owners
 
 ---
-
 
 ---
 

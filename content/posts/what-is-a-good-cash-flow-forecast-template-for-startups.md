@@ -55,7 +55,7 @@ Two tabs. Stop.
 
 The 13-week tab is your operations tool. The 18-month tab is your strategy tool. Use them for completely different conversations.
 
-On disbursements, most startups undershoot. I've seen founders zone out on annual subscriptions that hit as lumps, quarterly estimated taxes (call your CPA before you ignore these), contractor payments on 30-day delays, and expenses that feel surprising until you realize they never are. Add an "unplanned expenses" line at 5-10% of monthly burn, especially year one.
+On disbursements, most startups undershoot. Founders often overlook annual subscriptions that hit as lumps, quarterly estimated taxes (call your CPA before you ignore these), contractor payments on 30-day delays, and expenses that feel surprising until you realize they never are. Add an "unplanned expenses" line at 5-10% of monthly burn, especially year one.
 
 ## Assumptions Are Everything
 
@@ -101,7 +101,6 @@ Put them in your model. A line that says "estimated taxes" in the month they're 
 
 ---
 
-
 ---
 
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
@@ -115,7 +114,6 @@ Put them in your model. A line that says "estimated taxes" in the month they're 
 - [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed)
 - [The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20)
 - [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

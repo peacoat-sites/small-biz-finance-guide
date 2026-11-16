@@ -31,7 +31,7 @@ You've got a business idea, a solid plan, and maybe $8,000 in the bank. The bank
 
 The SBA Microloan program provides small loans, up to $50,000, through a network of nonprofit intermediary lenders. The average loan sits around $13,000-$15,000, which tells you something useful: this program was built for the business that needs a real but modest capital injection, not a growth round.
 
-Here's the structure: the SBA doesn't lend to you directly. It funds approved nonprofit intermediaries, which then make loans to small businesses and startups in their communities. Those intermediaries also provide technical assistance, and it's more valuable than most borrowers expect. I've seen clients walk away from their first microloan with better bookkeeping habits and a real understanding of their cash flow, because the lender required a financial training session as part of the deal. That's not a penalty. That's a feature.
+Here's the structure: the SBA doesn't lend to you directly. It funds approved nonprofit intermediaries, which then make loans to small businesses and startups in their communities. Those intermediaries also provide technical assistance, and it's more valuable than most borrowers expect. Many borrowers find that required financial training sessions improve their bookkeeping habits and understanding of cash flow.
 
 The program is administered through the [U.S. Small Business Administration](https://www.sba.gov/), and the list of approved intermediary lenders varies by state and region.
 

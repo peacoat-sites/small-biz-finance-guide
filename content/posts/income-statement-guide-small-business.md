@@ -25,7 +25,7 @@ author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
 lastmod: 2026-07-08
 ---
-Most small business owners I've worked with over the years can tell me their bank balance to the dollar. Ask them what their net profit margin was last quarter, though, and you get a long pause. That gap, right there, is exactly why the income statement exists, and exactly why so many business owners are flying blind without realizing it.
+Many small business owners can tell you their bank balance to the dollar. Ask them what their net profit margin was last quarter, though, and you'll often get a long pause. That gap, right there, is exactly why the income statement exists, and exactly why so many business owners are flying blind without realizing it.
 
 ## What an Income Statement Actually Is (And What It's Not)
 
@@ -77,7 +77,7 @@ Generating a P&L in QuickBooks or Wave takes about 30 seconds. Understanding wha
 
 No single number tells the whole story. The value is in the relationship between them, and in how they change over time.
 
-**Look for anomalies.** What surprised me when I first started sitting down with small business income statements regularly was how often owners had expenses buried in categories that made no sense. Software subscriptions showing up under "Office Supplies." Owner distributions coded as payroll. Miscategorized expenses distort every ratio and make decision-making harder.
+**Look for anomalies.** A common finding: small business owners often have expenses buried in categories that make no sense. Software subscriptions showing up under "Office Supplies." Owner distributions coded as payroll. Miscategorized expenses distort every ratio and make decision-making harder.
 
 ## A Step-by-Step Guide to Building Your First Income Statement
 
@@ -103,7 +103,7 @@ If you want a structured template to work from, [*Accounting All-in-One For Dumm
 
 ## Common Mistakes Small Business Owners Make With Income Statements
 
-I've seen all of these. They're not failures of intelligence, they're failures of setup.
+These aren't failures of intelligence, they're failures of setup.
 
 **Mixing personal and business expenses.** If you're running personal charges through your business account, your P&L is fiction. Your net income number is wrong, your tax exposure is wrong, and your understanding of the business is wrong. Get separate accounts. Do it this week.
 

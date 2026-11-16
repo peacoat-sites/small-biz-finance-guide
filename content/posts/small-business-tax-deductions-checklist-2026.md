@@ -29,7 +29,7 @@ Most small business tax deduction articles hand you a 47-item checklist with zer
 
 Here's what actually helps: knowing which deductions move the needle, which ones get flagged in audits, and what paper you need to gather before December 31st, not the night before you file.
 
-I've spent 18 years across the table from small business owners who left real money on the table because nobody explained the rules straight. This is my attempt to fix that.
+Many small business owners miss out on real money because the rules aren't explained clearly. This article covers the essentials straight.
 
 ## The Deductions That Actually Matter
 
@@ -116,7 +116,6 @@ Then, before year-end, meet with a CPA, not a tax preparer, a CPA, and review wh
 - [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/)
 - [on Amazon](https://www.amazon.com/Taxes-Made-Simple-Understandable-Taxes/dp/0997946458/?tag=contentportfo-20)
 - [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

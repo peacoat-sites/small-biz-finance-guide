@@ -25,15 +25,13 @@ faqs:
     a: "Typically three years under a standard audit. If they identify a substantial understatement of tax (generally more than 25% of gross income reported), the lookback period extends to six years. There's no statute of limitations if fraud is involved, though that's rare in straightforward misclassification cases."
 ---
 
-Most [business owners](/the-new-1099-thresholds-small-business-owners-must-know-in-2026/) get this wrong the first time. I did too, back when I was helping a staffing agency client in Phoenix sort through a pile of contractor agreements that were, to put it kindly, a legal fiction. The people "contracted" to them were working set hours, using company equipment, and had been doing the same job for three years. We reclassified eleven workers as W-2 employees before the IRS could do it for us, and it saved that client from a penalty exposure that would have been genuinely business-ending.
+Most [business owners](/the-new-1099-thresholds-small-business-owners-must-know-in-2026/) get this wrong the first time. A common mistake is treating workers as contractors when the relationship shows signs of employment: set hours, company equipment, and long tenure in the same role. Misclassification can trigger IRS reclassification and substantial penalties.
 
 The 1099 vs. W-2 question isn't just a tax form choice. It's a legal classification with real consequences, and the IRS has very specific opinions about how you should answer it. Getting it wrong isn't a paperwork problem. It's a back-taxes-plus-penalties problem.
 
 Here's what I tell people when they first bring this to me: the label you put on someone doesn't determine their classification. The actual working relationship does.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The IRS uses behavioral, financial, and relationship factors to classify workers, not job titles or contract language.</li><li style="margin:5px 0">Misclassifying a W-2 employee as a 1099 contractor can trigger back payroll taxes, penalties, and interest going back years.</li><li style="margin:5px 0">You control an employee's how and when; a contractor controls their own work process.</li><li style="margin:5px 0">The IRS Form SS-8 lets either party formally request a classification determination, which takes roughly 6 months.</li><li style="margin:5px 0">As of July 2026, the DOL's "economic reality" test adds a second layer of scrutiny beyond just the IRS rules.</li></ul></div>
-
 
 ## The Three-Part Test the IRS Actually Uses
 
@@ -45,13 +43,11 @@ The IRS looks at the relationship through three lenses: behavioral control, fina
 
 **Type of relationship** covers things like written contracts, employee benefits, permanency, and whether the work is a core part of your business. If the work someone does is the same type of work your business does to make money, that's a significant flag. A plumbing company that classifies its plumbers as 1099 contractors is going to have a very rough audit.
 
-No single factor is automatically decisive. The IRS weighs the full picture, and I've seen situations where most factors pointed one way but a few strong signals pulled the classification the other direction. This is genuinely fact-specific work. If you're unsure, pay a CPA who knows [employment tax](/schedule-se-self-employment-tax/) to look at it with you. The SCORE mentorship network also has advisors who've worked through this, if you want a lower-cost starting point before committing to billable hours.
+No single factor is automatically decisive. The IRS weighs the full picture. Most factors may point one way, but a few strong signals can pull the classification the other direction. This is genuinely fact-specific work. If you're unsure, pay a CPA who knows [employment tax](/schedule-se-self-employment-tax/) to look at it with you. The SCORE mentorship network also has advisors who've worked through this, if you want a lower-cost starting point before committing to billable hours.
 
 ## The DOL Adds Another Wrinkle
 
 > **Helpful resource:** [QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's something a lot of [small business owners](/sba-loans-now-require-100-us-citizenship-what-small-business-owners-mu/) don't realize: the IRS isn't the only agency with an opinion. The Department of Labor has its own "economic reality" test for determining whether someone is an employee under the Fair Labor Standards Act, and it doesn't perfectly match the IRS framework.
 
@@ -111,7 +107,6 @@ For ongoing peace of mind, a good employment tax CPA can review your roster for 
 - IRS Section 3509, Internal Revenue Code: Statutory basis for employment tax liability on misclassified workers.
 
 ---
-
 
 *Photo: [cottonbro studio](https://www.pexels.com/@cottonbro) via Pexels*
 

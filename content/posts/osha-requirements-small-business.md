@@ -27,13 +27,11 @@ faqs:
 
 Most [small business owners](/sba-loans-now-require-100-us-citizenship-what-small-business-owners-mu/) I talk to think OSHA is something that only matters once you hit a certain size, like there's some magic headcount threshold where the safety police start paying attention. That's wrong, and it's the kind of wrong that can cost you real money.
 
-I'll be honest: when I first started working with a client who ran a six-person auto body shop in Cincinnati, I assumed his biggest compliance risk was payroll taxes. It wasn't. He'd never posted the required OSHA workplace safety poster, had zero written hazard communication program, and kept his MSDS sheets (now called SDS sheets, for safety data sheets) in a folder nobody could find. He'd been operating that way for nine years. One complaint from a disgruntled former employee and he was looking at citations totaling $4,872 before he even had a chance to fix anything.
+A common mistake in small manufacturing is assuming payroll taxes are the biggest compliance risk. In reality, many shops overlook basic requirements: posting the required OSHA workplace safety poster, creating a written hazard communication program, and organizing SDS sheets (safety data sheets) where employees can actually find them. Operating without these safeguards can result in significant citations if an employee files a complaint.
 
 OSHA covers almost every private sector employer in the United States, regardless of size. There are some limited exemptions for certain industries and self-employed individuals with no employees, but if you have even one W-2 employee, you're in the game.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">OSHA covers nearly all private employers with at least one employee, regardless of business size.</li><li style="margin:5px 0">Businesses with 10 or fewer employees are partially exempt from injury/illness recordkeeping, but NOT from safety standards.</li><li style="margin:5px 0">First-time violations for serious citations currently run up to $16,131 per violation (as of 2026).</li><li style="margin:5px 0">The free OSHA On-Site Consultation Program visits your workplace confidentially, with no citations issued.</li><li style="margin:5px 0">Posting the OSHA "It's the Law" poster is mandatory and free to download at osha.gov.</li></ul></div>
-
 
 ## What "Compliance" Actually Means for a Small Shop
 
@@ -52,8 +50,6 @@ What surprised me, when I actually pulled the OSHA inspection data a few years b
 
 > **Helpful resource:** [QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's where size actually does matter, a little. Employers with 10 or fewer employees are partially exempt from OSHA's injury and illness recordkeeping requirements, meaning you don't have to maintain OSHA 300 logs. But there's a catch most people miss: you still have to report certain severe injuries to OSHA directly, regardless of size.
 
 As of 2026, the reporting requirements are:
@@ -65,7 +61,7 @@ As of 2026, the reporting requirements are:
 | Amputation | 24 hours | Call 1-800-321-OSHA or online |
 | Loss of an eye | 24 hours | Call 1-800-321-OSHA or online |
 
-Miss that 24-hour window and you can be cited separately just for late reporting. I've seen it happen.
+Miss that 24-hour window and you can be cited separately just for late reporting.
 
 If you have 11 or more employees, you're maintaining the OSHA 300 (Log of Work-Related Injuries), the 300A (annual summary, which must be posted from February 1 through April 30 each year), and the 301 (incident report for each recordable case). High-hazard industries with 100 or more employees have additional electronic submission requirements under the current rule.
 
@@ -73,7 +69,7 @@ If you have 11 or more employees, you're maintaining the OSHA 300 (Log of Work-R
 
 I genuinely cannot figure out why more small [business owners](/business-owners-policy-bop/) don't use the OSHA On-Site Consultation Program. It's free. It's confidential. An OSHA consultant comes to your workplace, walks through your hazards, tells you what you'd get cited for if an inspector showed up, and you fix it. No citations issued, no penalties, no report shared with enforcement. The program is run separately from OSHA's enforcement arm.
 
-The one practical detail most people don't know: you have to request it through your state's consultation program, not through OSHA directly. The contact info is at osha.gov/consultation. In my experience, wait times vary by state. In a smaller state like Iowa, you might get a visit within a few weeks. California? Budget six to eight weeks.
+Request the consultation through your state's program, not OSHA directly. Find contact info at osha.gov/consultation. Wait times vary by state - smaller states may schedule visits within weeks, while larger states like California typically take six to eight weeks.
 
 SCORE's mentorship network (score.org) also keeps updated guides on small business regulatory compliance, including OSHA basics, that are worth bookmarking. And the Consumer Financial Protection Bureau's small business resources (consumerfinance.gov) occasionally overlap on the financial impact side of compliance costs, which is useful when you're budgeting for fixes.
 
@@ -93,11 +89,11 @@ Small manufacturing shop, 22 employees → annual 300 log not posted in February
 
 ## The Poster, the Programs, the Stuff You Can Do Today
 
-The absolute minimum, before anything else: download and post the OSHA "It's the Law" poster from osha.gov. It's free. It must be posted where employees can see it. This is one of the first things an inspector checks, and I've seen employers cited for it.
+The absolute minimum, before anything else: download and post the OSHA "It's the Law" poster from osha.gov. It's free. It must be posted where employees can see it. This is one of the first things an inspector checks.
 
 Beyond that, prioritize based on your actual hazards. A retail shop's risk profile looks nothing like a machine shop's. If you're not sure where to start, the OSHA small business resources page has industry-specific guidance. For a more structured walkthrough of building a safety program, *The Safety Playbook* by James Junkin is a readable, practical guide worth keeping on the shelf (Amazon, and yes, this site may earn a commission on that link).
 
-One thing I'd push back on: the idea that compliance is purely a cost center. I've watched the workers' comp premiums drop for clients who got their act together. A client with a documented safety training program renegotiated their general liability premium after showing the carrier the records. The numbers aren't dramatic, but they're real.
+Compliance can actually reduce costs. Documented safety training programs and hazard controls can lower workers' comp premiums and help when renegotiating general liability insurance with carriers.
 
 ## Sources
 
@@ -108,7 +104,6 @@ One thing I'd push back on: the idea that compliance is purely a cost center. I'
 - [29 CFR Part 1904: Recording and Reporting Occupational Injuries and Illnesses](https://www.ecfr.gov/current/title-29/subtitle-B/chapter-XVII/part-1904): The actual federal regulation governing OSHA recordkeeping requirements.
 
 ---
-
 
 *Photo: [Tima Miroshnichenko](https://www.pexels.com/@tima-miroshnichenko) via Pexels*
 

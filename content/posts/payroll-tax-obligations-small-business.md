@@ -25,7 +25,7 @@ author_title: "Small Business Lending Specialist"
 author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
 lastmod: 2026-07-08
 ---
-You hired your first employee on a Tuesday. By Friday, you realized you had no idea what you were supposed to withhold from their paycheck, where to send it, or when. And nobody warned you that missing a payroll tax deposit by even a few days can trigger a penalty from the IRS. I've seen this exact situation derail otherwise healthy small businesses, not because the owner was careless, but because payroll taxes are genuinely complicated and the learning curve arrives at the worst possible moment: right when you're excited about growing your team.
+Hiring a first employee often comes with a surprise: managing payroll withholding, deposits, and deadlines. Missing a payroll tax deposit by even a few days can trigger an IRS penalty. Many small business owners encounter payroll complications at the moment they're most excited about growth, when they're least prepared to handle complex tax rules.
 
 Here's what I want you to know before we go any further. Payroll taxes are not optional, they're not flexible, and the IRS does not accept "I didn't know" as a defense. But once you understand the moving parts, this becomes manageable. Let's walk through it.
 

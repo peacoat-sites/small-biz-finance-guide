@@ -20,9 +20,7 @@ The SBA officially doubled its cumulative borrowing cap, from $5 million to $10 
 
 If you're in manufacturing, construction, logistics, energy, or food production, stop what you're doing and read this carefully. This change was built for you.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Effective July 4, 2026, businesses can now borrow up to $5M via SBA 7(a) AND $5M via SBA 504, for a $10M combined total.</li><li style="margin:5px 0">The two programs are fully decoupled ,  your 504 balance no longer counts against your 7(a) limit.</li><li style="margin:5px 0">Small manufacturers with existing 504 loans can now also access up to $5M through 7(a).</li><li style="margin:5px 0">Capital-intensive sectors like manufacturing, construction, and logistics are the primary beneficiaries.</li><li style="margin:5px 0">Economists predict a possible 0.25% Fed rate hike by October 2026 ,  current SBA rates may be near their floor.</li></ul></div>
-
 
 ## What Actually Changed and Why It Matters
 
@@ -37,8 +35,6 @@ For small manufacturers specifically, there's an additional carve-out worth know
 ## The Two Programs Side by Side
 
 > **Helpful resource:** [The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 If you haven't used both programs before, here's a plain-English comparison to ground the conversation:
 
@@ -57,7 +53,7 @@ The practical read: if you're buying a building or a major piece of equipment an
 
 Here's the part I'd feel bad leaving out. Economists are currently forecasting a potential 0.25% Fed rate hike by October 2026. SBA 7(a) rates are variable and tied to the prime rate, so any Fed move will push those rates up within weeks. The 504 program uses fixed rates on the SBA/CDC portion, but rising market rates affect the overall cost of those deals too.
 
-I've seen borrowers sit on applications for three or four months because they were "almost ready" and end up paying meaningfully more by the time they closed. Right now, rates may be near their floor for this cycle. That's not a guarantee, and I'm not telling you to rush into a loan you haven't thought through. But if you've been watching this space and waiting for a good moment, this summer is a reasonable time to move.
+Borrowers who delay applications while "almost ready" often end up paying meaningfully more by closing time. Right now, rates may be near their floor for this cycle. That's not a guarantee, and I'm not telling you to rush into a loan you haven't thought through. But if you've been watching this space and waiting for a good moment, this summer is a reasonable time to move.
 
 Talk to an SBA-approved lender sooner rather than later. The application and underwriting process for these loans takes time, and locking in a rate matters. According to Forbes Advisor's coverage of this rule change, the expansion is expected to create real demand among capital-intensive businesses that were previously constrained by the old cap, so don't be surprised if lenders get busier.
 

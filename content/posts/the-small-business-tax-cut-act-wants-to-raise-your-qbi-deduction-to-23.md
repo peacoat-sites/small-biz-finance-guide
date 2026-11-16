@@ -33,8 +33,6 @@ So if you were worried about the deduction going away, that worry is gone. What 
 
 > **Helpful resource:** [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Three percentage points sounds small. It isn't.
 
 Say your business generates $200,000 in qualified business income. At 20%, you deduct $40,000 from your taxable income. At 23%, that deduction becomes $46,000. That extra $6,000 in deductible income, taxed at a 24% marginal rate, saves you $1,440 in federal taxes for that year alone. Scale that up to $400,000 in QBI, and you're looking at nearly $3,000 in annual savings from the rate change.
@@ -53,7 +51,7 @@ Here's what I tell people when they ask whether they should pay attention to a b
 
 This is where I want to be direct with you, because the temptation is to either ignore the bill until it passes or start making business decisions as if it already has. Neither is the right move.
 
-For 2026, plan around what's real: the 20% deduction, the $400 minimum, and the expanded phase-in thresholds. Make sure your entity structure is set up to actually capture the deduction you're entitled to. A surprising number of small business owners I've worked with over the years were leaving QBI money on the table because their bookkeeping wasn't clean enough to clearly identify qualified business income, or because they hadn't revisited their entity election in years.
+For 2026, plan around what's real: the 20% deduction, the $400 minimum, and the expanded phase-in thresholds. Make sure your entity structure is set up to actually capture the deduction you're entitled to. Many small business owners leave QBI money on the table because their bookkeeping isn't clean enough to clearly identify qualified business income, or because they haven't revisited their entity election in years.
 
 If H.R. 8415 does pass and takes effect for 2027, the 3-point increase won't require you to restructure anything. The deduction is calculated the same way; the percentage just gets better. But that's exactly why now is a good time to make sure your system is tight. If your records are a mess, you won't be ready to capture either rate cleanly.
 

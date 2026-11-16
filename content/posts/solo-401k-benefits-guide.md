@@ -27,7 +27,7 @@ lastmod: 2026-07-08
 ---
 Most small business owners I work with are leaving somewhere between $5,000 and $30,000 a year in tax deductions on the table. Not because they're doing anything wrong. Because nobody told them the Solo 401(k) existed.
 
-I've seen this play out dozens of times. A self-employed consultant, freelancer, or single-member LLC owner is diligently stashing money into a regular IRA every year, proud of themselves for saving anything at all. Then they find out their contribution limit was $7,000 when it could have been $66,000. That's a painful conversation to have in a tax planning meeting. Let's make sure you're not in that room.
+A common mistake among self-employed consultants, freelancers, and single-member LLC owners is stashing money into a regular IRA without realizing they qualify for much higher contribution limits. Many don't discover until tax planning time that their limit was $7,000 when it could have been $66,000. Let's make sure you're not in that room.
 
 ## What a Solo 401(k) Actually Is
 

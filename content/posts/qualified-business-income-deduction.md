@@ -60,7 +60,7 @@ This category trips people up. SSTBs include health, law, accounting, actuarial 
 
 If you're a solo consultant, a financial advisor, a physician in private practice, or a solo attorney, you're an SSTB. That doesn't automatically mean you get nothing. If your income falls below the threshold, you still get the full deduction. It's only when your income climbs into and above the phase-out range that the deduction starts shrinking and eventually disappears.
 
-One thing I've seen cause real confusion: a business can have an SSTB component and a non-SSTB component. A software company that also does consulting, for instance. The IRS has rules for separating those, and if the SSTB portion is less than 10% of gross receipts, you may be able to treat the whole thing as a non-SSTB. Worth discussing with your CPA, because the line isn't always obvious and the stakes are high enough to get it wrong.
+A common source of confusion: a business can have an SSTB component and a non-SSTB component. A software company that also does consulting, for instance. The IRS has rules for separating those, and if the SSTB portion is less than 10% of gross receipts, you may be able to treat the whole thing as a non-SSTB. Worth discussing with your CPA, because the line isn't always obvious and the stakes are high enough to get it wrong.
 
 ## How to Actually Calculate It
 

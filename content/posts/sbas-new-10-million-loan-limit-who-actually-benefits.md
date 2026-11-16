@@ -14,7 +14,7 @@ slug: "sbas-new-10-million-loan-limit-who-actually-benefits"
 affiliate_disclosure: true
 lastmod: 2026-07-07
 ---
-On July 4, 2026, the SBA officially doubles its combined 7(a) and 504 loan cap to $10 million, the highest lending ceiling in the agency's history. Administrator Kelly Loeffler announced the change on May 18 via Policy Notice 5000-879058, and the headlines have been loud ever since. "Small business lending just got supercharged." "A new era for growth capital." I'll be honest: when I first read through the policy details, my reaction was more complicated than that.
+On July 4, 2026, the SBA officially doubles its combined 7(a) and 504 loan cap to $10 million, the highest lending ceiling in the agency's history. Administrator Kelly Loeffler announced the change on May 18 via Policy Notice 5000-879058, and the headlines have been loud ever since. "Small business lending just got supercharged." "A new era for growth capital."
 
 Because here's what the headlines aren't leading with. The vast majority of small business borrowers in this country will never come close to these numbers. And in a year when bankruptcy filings are projected to climb another 20% on top of an already rough 2025, the timing of a major lending expansion deserves a harder look than most coverage is giving it.
 
@@ -35,8 +35,6 @@ The 7(a) program is the SBA's workhorse, used for working capital, equipment, bu
 | Established growth-stage businesses | - | Small | Significant |
 
 > **Helpful resource:** [Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 What surprised me when I dug into the FY2026 lending data was just how small most SBA loans actually are. According to NerdWallet's June 2026 analysis of current SBA data, businesses with five or fewer employees receive the majority of 7(a) loans, and their average loan amount is $377,192. Only 6.8% of all SBA borrowers receive loans larger than $2 million.
 

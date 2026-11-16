@@ -16,7 +16,7 @@ lastmod: 2026-07-07
 ---
 You're sitting in QuickBooks in June 2026, trying to reconcile your contractor payments, and you realize you have no idea whether to send Maria a 1099-NEC this year. She did $1,400 of work for you. Last year, that was a clear yes. This year? It depends on rules that changed in the middle of your fiscal year, that your accounting software may not have caught up with, and that multiple articles on the first page of Google are still getting wrong.
 
-I've seen this exact situation unfold a dozen times in the last six months. Two major 1099 thresholds changed at once, they changed in opposite directions from what most people expected, and they conflict with state rules in ways nobody warned small business owners about. Let's fix that.
+Two major 1099 thresholds changed at once, moving in opposite directions from what most people expected, and they conflict with state rules in ways small business owners should understand. Here's what changed.
 
 ## What Actually Changed, and When
 
@@ -37,8 +37,6 @@ So: contractors got a higher threshold, payment apps got a higher threshold too,
 
 > **Helpful resource:** [Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Several states never adopted the federal $20,000/200-transaction threshold in the first place, and they're not obligated to follow the federal rollback either. That means if you're running a business in a state like Vermont, Maryland, or Massachusetts, your payment processor may still send you, and your customers, a 1099-K at a much lower dollar amount than the federal floor.
 
 What most people don't realize is that the form gets issued based on where the transaction occurs or where the account is registered, not based on federal law alone. Venmo's own tax guidance for 2026 confirms that state thresholds can differ and that users should check their specific state rules. If you get a 1099-K from PayPal for $3,500 in sales, that's not a mistake. It's your state doing its own thing.
@@ -49,7 +47,7 @@ The practical headache here is mid-year bookkeeping. You may be tracking receiva
 
 This gets buried, but it matters. No 1099-K showing up in your mailbox does not mean the income disappears. The IRS has always required you to report all business income, regardless of whether a form is issued. A $15,000 year on Etsy is taxable even if Etsy never sends you anything.
 
-I've watched freelancers and side-hustle sellers convince themselves that staying under the reporting threshold means they're in the clear. That's not how it works. The form is a reporting mechanism, not a permission slip. Tax47's May 2026 analysis of the 2026 thresholds makes this distinction explicitly: the absence of a form shifts the recordkeeping burden to you, not away from you.
+A common mistake is assuming that staying under the reporting threshold means you're in the clear. That's not how it works. The form is a reporting mechanism, not a permission slip. Tax47's May 2026 analysis of the 2026 thresholds makes this distinction explicitly: the absence of a form shifts the recordkeeping burden to you, not away from you.
 
 This is especially relevant right now because the rule has changed five times in five years. Some people internalized the $600 threshold from a few years ago and started reporting everything carefully. Then they saw the $20,000 threshold restored and assumed they could relax their recordkeeping. Neither extreme is right. Clean records, regardless of thresholds, are your best protection.
 

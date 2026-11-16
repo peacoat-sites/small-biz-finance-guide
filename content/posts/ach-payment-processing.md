@@ -57,15 +57,13 @@ Check out [ACH processing benchmarks and setup guides on SCORE](https://www.scor
 
 > **Helpful resource:** [The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Credit card processing fees typically run 1.5% to 3.5% per transaction, sometimes more with certain card types or processors. On a $5,000 invoice, that's $75 to $175 gone before you even blink.
 
 ACH fees are usually flat. Somewhere between $0.25 and $1.50 per transaction, though some processors charge a small percentage for higher-volume or higher-risk accounts. On that same $5,000 invoice, you're looking at maybe $1.50. Full stop.
 
 That difference compounds fast. I worked with a client a few years ago, a B2B software company collecting about $80,000 a month from about 30 clients. They were running everything through Stripe credit card payments out of habit. When we switched their recurring billing to ACH, their monthly processing cost dropped from roughly $2,400 to under $150. Same revenue, same clients, just a different rail.
 
-Not every business can make that switch cleanly. Consumers resist ACH more than businesses do. B2C companies, especially ones selling lower-ticket items, often can't push customers off their credit cards without losing some of them. The research here is mixed on exact drop-off rates, but the practical reality I've seen is that B2B businesses can almost always move to ACH without friction, and B2C businesses have to be strategic about it.
+Not every business can make that switch cleanly. Consumers resist ACH more than businesses do. B2C companies, especially ones selling lower-ticket items, often can't push customers off their credit cards without losing some of them. The research on exact drop-off rates is mixed, but B2B businesses can almost always move to ACH without friction, while B2C businesses have to be strategic about it.
 
 **Save real money by auditing your processing costs before your next renewal.** If you're paying percentage-based fees on large recurring invoices, that's low-hanging fruit worth calculating today.
 
@@ -75,13 +73,13 @@ There are a few ways to accept ACH payments as a small business.
 
 Your bank may offer ACH origination directly, particularly if you're with a regional bank or credit union that courts business clients. This is often the cheapest per-transaction option, but the setup is clunkier, the reporting tools are usually thin, and you may need a minimum monthly volume to qualify.
 
-Third-party processors like Stripe, Square, Dwolla, Helcim, and Melio all offer ACH. Stripe charges 0.8% (capped at $5) for ACH direct debit. Dwolla is built specifically for ACH and has a pricing model designed for platforms that want to move money at scale. Melio is worth knowing about if you're handling B2B payments and vendor invoices, it's genuinely one of the cleaner interfaces I've seen for small businesses.
+Third-party processors like Stripe, Square, Dwolla, Helcim, and Melio all offer ACH. Stripe charges 0.8% (capped at $5) for ACH direct debit. Dwolla is built specifically for ACH and has a pricing model designed for platforms that want to move money at scale. Melio is worth knowing about if you're handling B2B payments and vendor invoices.
 
 What surprises most business owners is the authorization piece. To debit someone's bank account via ACH, you need explicit authorization, a signed or electronically confirmed agreement from the account holder. This isn't optional. Nacha's rules require it, and if you pull funds without proper authorization, you're exposed to disputes and potential fines. Most processors handle the authorization flow for you in their checkout or billing interfaces, but if you're building something custom or using direct bank origination, this is something you need to think through carefully. The [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed) also has guidance on payroll-related ACH obligations that's worth a look if you're setting up direct deposit for employees.
 
 Return codes are the other thing nobody warns you about. ACH has a whole taxonomy of return codes (R01 through R85 and beyond) that indicate why a transaction failed. R01 means insufficient funds. R02 is a closed account. R10 is an unauthorized debit. Your processor will surface these, but you need a process for handling them, especially if you're running recurring billing. Unhandled returns create cash flow gaps and customer service headaches.
 
-As Kathy Greenfield, a CPA with 22 years specializing in small business cash flow, told me: "The businesses that get into trouble with ACH are almost always the ones who set it up and walk away. You need to actually monitor your return rates. If your returns are consistently above 0.5%, processors start paying attention, and not in a good way."
+Businesses that get into trouble with ACH are almost always the ones who set it up and walk away. You need to monitor your return rates. If returns are consistently above 0.5%, processors start paying attention, and not in a good way.
 
 **Test your ACH return handling before you go live with any recurring billing setup** by running a small batch of transactions and confirming your system captures and flags failed payments correctly.
 
@@ -97,10 +95,9 @@ If you want to go deeper on payment systems architecture, Mike Seaman's [Payment
 
 **Get your customer authorization templates reviewed by a payments attorney or at minimum compare them to Nacha's published model language** before you start pulling from customer accounts at scale.
 
-
 ---
 
-The honest summary of ACH is this: it's not exciting, it's not new, and the setup takes a little more thought than just pasting in a Stripe link. But for any business collecting recurring payments, large invoices, or running payroll, it's almost certainly cheaper and more controllable than what you're using now. Worth one afternoon of your time to actually look at your options.
+ACH setup takes more thought than just pasting in a Stripe link. But for any business collecting recurring payments, large invoices, or running payroll, it's almost certainly cheaper and more controllable than what you're using now. Worth one afternoon of your time to actually look at your options.
 
 ---
 
@@ -115,7 +112,6 @@ The honest summary of ACH is this: it's not exciting, it's not new, and the setu
 - [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed)
 - [Payments Systems in the U.S.](https://www.amazon.com/Payments-Systems-U-S-Complete-Guide/dp/0982789742)
 - [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)
-
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 

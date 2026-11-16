@@ -35,11 +35,9 @@ For a business with $500,000 in qualifying 2023 R&D expenses, the difference is 
 
 > **Helpful resource:** [Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 You might be wondering whether your business is even eligible. The IRS defines "eligible small business" for purposes of this retroactive fix as companies with average annual gross receipts under $31 million across 2022 through 2024. If you're under that threshold and you had genuine qualifying R&D expenditures during any of those years, you should be talking to someone about this immediately.
 
-Here's the thing I want you to pay attention to, because it catches people off guard. The deadline isn't the same for every year. The July 6, 2026 date is the outer boundary set by IRS Revenue Procedure 2025-28, but the statute of limitations under Section 6511 applies independently to each tax year. For calendar-year partnerships and S-corporations that filed their 2022 returns by the March 15, 2023 deadline, that window closed on March 15, 2026. That one's already gone for many businesses. As JLK Rosenberger noted in their March 2026 analysis, this timing gap is exactly where small businesses are getting tripped up: they hear about the July 6 date and assume all three years are still open, when in some cases 2022 is already off the table.
+A common point of confusion: the deadline isn't the same for every year. The July 6, 2026 date is the outer boundary set by IRS Revenue Procedure 2025-28, but the statute of limitations under Section 6511 applies independently to each tax year. For calendar-year partnerships and S-corporations that filed their 2022 returns by the March 15, 2023 deadline, that window closed on March 15, 2026. That one's already gone for many businesses. This timing gap is where small businesses often get tripped up: they hear about the July 6 date and assume all three years are still open, when in some cases 2022 is already off the table.
 
 This is also why I'd push back against any instinct to wait until late June to start this process. The amended returns need to be prepared, reviewed, and filed. That takes time. If you're a C-corporation that filed your 2022 return on October 15, 2023, you may still have that year available. If you're an S-corp or partnership on a March 15 cycle, you likely don't. You need to know which situation you're in before you assume anything.
 

@@ -27,7 +27,6 @@ lastmod: 2026-07-08
 ---
 Most articles about opening a business bank account spend 800 words telling you to "gather your documents" and then stop. That's not advice. That's a checklist you could've written yourself. So let me cover what actually matters, including the part where most startups make an expensive mistake in the first 90 days.
 
-
 <div class="value-module">
  <div class="vm-head">Online Business Bank Account Comparison Matrix</div>
  <div class="vm-body">
@@ -68,7 +67,7 @@ One thing that trips people up: if your LLC was formed less than a week ago, som
 
 ## The Actual Application Process, Step by Step
 
-Here's what it looks like in real life. I'm walking through Mercury because it's the most streamlined I've seen, but the sequence is basically identical at Relay and Novo.
+The sequence is basically identical across Mercury, Relay, and Novo, though Mercury offers a particularly streamlined interface.
 
 **1. Go to the bank's site and start the application.** Mercury asks for your legal business name and state of formation first. Use the exact name on your Articles of Organization, not your DBA.
 
@@ -86,7 +85,7 @@ Here's what it looks like in real life. I'm walking through Mercury because it's
 
 ## The Mistake That Costs You Later
 
-Don't mix personal and business money. You've heard this before. But I've watched enough founders sweating through their first-year tax prep to know that most of them did exactly that for the first few months, "just until things got settled."
+Don't mix personal and business money. Many founders mix them for the first few months "just until things get settled," which complicates tax prep later.
 
 Once it's mixed, you spend hours reconstructing which charges were business expenses. Your bookkeeper charges you for that time. Your CPA charges you for that time. And if you're audited, a commingled account is one of the first red flags. The [SBA](https://www.sba.gov/) explicitly recommends keeping them separate from day one, and they're right.
 
@@ -103,7 +102,6 @@ That said, if you tend to spend whatever's in the account (most of us do), a two
 Once you have payroll, contractors, or multiple revenue streams, it's worth talking to a CPA about how to structure things around your actual tax obligations. Don't guess at the percentages.
 
 ---
-
 
 ## Sources & References
 

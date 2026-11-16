@@ -30,8 +30,6 @@ For context on how overdue this is: Congress last raised the 7(a) limit in 2010.
 
 > **Helpful resource:** [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Not every small business will find a use for $10 million in combined SBA financing. But for certain industries, this unlocks a deal structure that was genuinely impossible before.
 
 The clearest beneficiaries are in manufacturing, construction, logistics, and food production. These are businesses that carry significant fixed-asset needs (buildings, specialized equipment, production lines) alongside heavy working capital demands (inventory, payroll, receivables gaps). The 504 program was always the right tool for the fixed assets, long-term, fixed-rate, lower down payment. The 7(a) was always the right tool for the working capital side, more flexible, but variable rate and shorter term for some uses.
@@ -61,7 +59,7 @@ If you're in manufacturing and you've been sitting on a capital project because 
 
 What most people don't realize is that the 7(a) and 504 are designed for different jobs, and the lenders involved are often different too. The 7(a) goes through an SBA-approved bank or credit union. The 504 goes through a Certified Development Company (CDC), a nonprofit intermediary that works with a conventional lender on the remaining portion of the deal.
 
-In a stacked structure, you might be working with three parties at once: an SBA lender for the 7(a), a CDC for the 504, and the conventional bank participating in the 504. That's where I've seen deals get tangled, not because the concept is complicated, but because coordination takes longer than people expect.
+In a stacked structure, you might be working with three parties at once: an SBA lender for the 7(a), a CDC for the 504, and the conventional bank participating in the 504. Deals can get tangled in stacked structures, not because the concept is complicated, but because coordination takes longer than people expect.
 
 A few things worth knowing before you start:
 
@@ -73,7 +71,7 @@ The timeline on a 504 is typically longer than a 7(a). Plan for 60 to 90 days mi
 
 ## What to Actually Do With This Information
 
-I've seen too many business owners read about a program like this, think "that's interesting," and then do nothing because the process feels overwhelming. The process is not simple. But the structure here is real, and the math is genuinely better than it was three weeks ago.
+Many business owners read about a program like this, think it's interesting, and then do nothing because the process feels overwhelming.
 
 Start by calling your current bank and asking directly whether they're an SBA-preferred lender. Preferred lenders have delegated authority to approve loans faster, without SBA review. Then contact a CDC in your region (the SBA's website has a locator) to understand what the 504 piece of a deal would look like for your specific asset.
 
