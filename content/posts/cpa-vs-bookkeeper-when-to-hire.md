@@ -43,8 +43,6 @@ Here's where most people go sideways: they hire a CPA to do their bookkeeping. T
 
 > **Helpful resource:** [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 As of July 2026, here's what you're generally looking at on cost, across service types:
 
 | Role | Typical Annual Cost | What You're Actually Getting |
@@ -59,10 +57,6 @@ As of July 2026, here's what you're generally looking at on cost, across service
 Those ranges are wide because they vary dramatically by geography, business complexity, and the individual professional. A CPA in rural Kansas is going to price differently than one in Austin or Manhattan. I don't have good numbers on regional variance at the granular level, so I won't pretend I do. But the structure of these tiers is consistent across what I've seen in practice.
 
 What surprised me when I dug into this was how many small businesses are dramatically overpaying. According to a 2023 National Federation of Independent Business survey, about 40% of small business owners report spending more than $10,000 a year on combined accounting and tax services. For a lot of those businesses, a $5,400-a-year part-time bookkeeper plus a $2,000 annual CPA for the tax return would do the job.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical annual cost by service type</div><div class="sc-row"><span class="sc-label">Bookkeeping software only</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">$630</span></div><div class="sc-row"><span class="sc-label">Part-time remote bookkeeper</span><span class="sc-track"><span class="sc-bar" style="width:14%"></span></span><span class="sc-val">$6,600</span></div><div class="sc-row"><span class="sc-label">Tax-only CPA (annual)</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">$2,000</span></div><div class="sc-row"><span class="sc-label">CPA on retainer</span><span class="sc-track"><span class="sc-bar" style="width:38%"></span></span><span class="sc-val">$18,000</span></div><div class="sc-row"><span class="sc-label">Outsourced CFO firm</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$48,000</span></div><div class="sc-src">Source: Industry averages, current as of July 2026</div></div>
-
 
 ## When to Hire a Bookkeeper First
 
@@ -113,7 +107,6 @@ If you want to go deeper on building out a clean financial system before you hir
 - AICPA (American Institute of CPAs): Uniform CPA Examination pass rates and licensing requirements by state
 
 ---
-
 
 ---
 

@@ -31,9 +31,7 @@ A 2023 survey by the National Association of Professional Employer Organizations
 
 I'll be honest: when I first started recommending PEOs to clients about eight years ago, I thought it was a hard sell. Most [business owners](/business-owners-policy-bop/) I knew felt vaguely uncomfortable with the idea of a third party being technically listed as their "employer of record." That discomfort made sense. Once I walked through the actual numbers with them, though, the resistance usually dropped fast.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">PEO clients average 7-9% faster growth and ~14% lower turnover than non-PEO businesses (NAPEO 2023).</li><li style="margin:5px 0">Most PEO clients have 10-30 employees, this isn't just for large companies.</li><li style="margin:5px 0">PEO pricing typically runs $1,000-$1,500 per employee per year, or 2-12% of total payroll.</li><li style="margin:5px 0">You keep control of hiring, firing, and day-to-day management; the PEO handles HR administration.</li><li style="margin:5px 0">Businesses using a PEO save an estimated 35% on HR administration costs compared to handling it in-house.</li></ul></div>
-
 
 ## What a PEO Actually Does (and Doesn't Do)
 
@@ -47,8 +45,6 @@ The mechanics work like this. Once you sign on, your employees technically becom
 
 > **Helpful resource:** [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 This is where people often get burned by bad assumptions. PEO pricing generally comes in two structures: a flat per-employee-per-month fee, or a percentage of gross payroll. Neither is universally better. It depends on your average wage.
 
 | Pricing Model | Typical Range | Best For | Watch Out For |
@@ -61,10 +57,6 @@ This is where people often get burned by bad assumptions. PEO pricing generally 
 A client of mine, a Denver-based residential cleaning company with 18 employees, was paying roughly $23,000 a year trying to manage HR in-house: a part-time HR contractor at $55/hour for about 8 hours a week, plus payroll software, plus workers' comp premiums, plus one state compliance penalty she'd racked up. When she moved to a mid-market PEO (Insperity, in her case, at about $128/employee/month), her total annual cost came to around $27,648. Sounds like a step backward, right? Except she got access to a Fortune 500-quality health plan that cut her employee health contribution costs enough to nearly cover the difference, and she clawed back those 8 hours a week for actual management work. Net result: effectively cost-neutral on paper, significantly better in practice.
 
 That's a pattern I see consistently. The sticker price on a PEO looks like an added cost until you add up what you're currently spending to get worse service.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated annual HR cost: DIY vs. PEO (20-employee company)</div><div class="sc-row"><span class="sc-label">DIY: Payroll software</span><span class="sc-track"><span class="sc-bar" style="width:12%"></span></span><span class="sc-val">$4,200</span></div><div class="sc-row"><span class="sc-label">DIY: HR contractor</span><span class="sc-track"><span class="sc-bar" style="width:64%"></span></span><span class="sc-val">$22,880</span></div><div class="sc-row"><span class="sc-label">DIY: Workers comp (small co. rate)</span><span class="sc-track"><span class="sc-bar" style="width:24%"></span></span><span class="sc-val">$8,400</span></div><div class="sc-row"><span class="sc-label">PEO (all-in, ~$130/ee/mo)</span><span class="sc-track"><span class="sc-bar" style="width:88%"></span></span><span class="sc-val">$31,200</span></div><div class="sc-row"><span class="sc-label">DIY Total</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$35,480</span></div><div class="sc-src">Source: NAPEO 2023 benchmarking data, CFO experience</div></div>
-
 
 NAPEO's own benchmarking data puts the average HR admin savings at around 35% when comparing PEO clients to similarly-sized businesses managing HR internally. I don't have perfect independent verification of that figure (it's NAPEO's own survey, so take it as directional, not gospel), but it lines up with what I've seen in practice.
 
@@ -109,7 +101,6 @@ For anyone wanting to go deeper on the HR side of this, Mike Michalowicz's *Cloc
 - NAPEO "Economic Analysis of the PEO Industry" (Laurie Bassi, Dan McMurrer): Third-party study on PEO client outcomes including revenue growth and retention metrics.
 
 ---
-
 
 *Photo: [Pavel Danilyuk](https://www.pexels.com/@pavel-danilyuk) via Pexels*
 

@@ -31,9 +31,7 @@ So if you're sitting here wondering whether your cell phone counts as a [busines
 
 Here's the framework I walk every client through, and it starts with one uncomfortable question you actually have to answer honestly.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">You can deduct the business-use percentage of your cell phone bill and device cost, not the full amount.</li><li style="margin:5px 0">The IRS requires a "reasonable" estimate of business vs. personal use, backed by some documentation.</li><li style="margin:5px 0">A phone used 60% for business means 60% of the bill and 60% of the device cost are deductible.</li><li style="margin:5px 0">Self-employed filers claim this on Schedule C; employees lost this deduction after the 2017 Tax Cuts and Jobs Act.</li><li style="margin:5px 0">A dedicated business line eliminates the math entirely and is fully deductible.</li></ul></div>
-
 
 ## What "business use" actually means
 
@@ -49,8 +47,6 @@ The honest calculation you need to make is what percentage of your total phone u
 
 > **Helpful resource:** [Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Two things are potentially deductible: your monthly service bill and the cost of the device itself.
 
 **Monthly bill:** Multiply your average monthly bill by your business-use percentage. That's your monthly deduction. Multiply by 12 for the annual number.
@@ -62,10 +58,6 @@ Worked example: Monthly bill of $89, business use at 65% → $57.85/month deduct
 Worked example: iPhone 15 Pro purchased for $1,199, business use at 70% → $839.30 deductible in year of purchase under [Section 179](/how-to-stack-section-179-and-bonus-depreciation-in-2026/). If you financed it through the carrier, things get a bit more complicated and I'd honestly bring that to a CPA (the payments are spread across time, and so is your basis).
 
 **If your business pays the bill directly,** meaning the account is in the business's name and the business pays from its business bank account, you can deduct 100% of that line. This is the cleanest structure. I've seen people run a separate $35/month Google Fi line for business and a personal plan for everything else. Slightly annoying operationally, but it makes the tax treatment completely clean and you never have to estimate anything.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Annual cell phone deduction by use % ($89/mo bill)</div><div class="sc-row"><span class="sc-label">50% business</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">$534</span></div><div class="sc-row"><span class="sc-label">60% business</span><span class="sc-track"><span class="sc-bar" style="width:60%"></span></span><span class="sc-val">$641</span></div><div class="sc-row"><span class="sc-label">70% business</span><span class="sc-track"><span class="sc-bar" style="width:70%"></span></span><span class="sc-val">$748</span></div><div class="sc-row"><span class="sc-label">80% business</span><span class="sc-track"><span class="sc-bar" style="width:80%"></span></span><span class="sc-val">$856</span></div><div class="sc-row"><span class="sc-label">100% business line</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$1,068</span></div><div class="sc-src">Source: Rachel Green, calculated from IRS deduction methodology</div></div>
-
 
 ## How to document this without losing your mind
 
@@ -109,7 +101,6 @@ I resisted recommending this for years because it felt like overkill for small o
 - [IRS Schedule C Instructions (current year)](https://www.irs.gov/forms-pubs/about-schedule-c-form-1040): The official instructions for reporting business income and expenses, including listed property like phones.
 
 ---
-
 
 *Photo: [Andrea Piacquadio](https://www.pexels.com/@olly) via Pexels*
 

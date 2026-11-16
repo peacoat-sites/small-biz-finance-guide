@@ -31,9 +31,7 @@ Here's the number that should reset your assumptions: according to the Equipment
 
 Let me fix that.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Leasing preserves cash but costs more total: typically 20–40% above purchase price over the full term.</li><li style="margin:5px 0">Section 179 lets you deduct up to $1,160,000 in equipment purchases in the year you buy (2026 limit).</li><li style="margin:5px 0">Operating leases keep debt off your balance sheet; finance leases don't, they're essentially loans.</li><li style="margin:5px 0">If equipment obsoletes in under 3 years (tech, medical imaging), leasing usually wins on pure economics.</li><li style="margin:5px 0">Always compare total cost of ownership, not just monthly payment. Monthly payment math is how vendors win.</li></ul></div>
-
 
 ## The Two Types of Leases (and Why Most People Confuse Them)
 
@@ -49,8 +47,6 @@ The confusion costs people money. A business owner signs what looks like an "equ
 
 > **Helpful resource:** [Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's where most articles fail you. They'll say "leasing has lower monthly payments" and "buying builds equity" and then call it a day. That's not analysis, that's a brochure.
 
 Let's say you're looking at a commercial-grade laser engraver priced at $28,000.
@@ -62,10 +58,6 @@ Let's say you're looking at a commercial-grade laser engraver priced at $28,000.
 - **Operating lease:** $28,000 machine, 60-month term, lease factor of 0.019 (typical for this equipment tier). Monthly payment: around $532. Total paid: $31,920. You own nothing at the end. If you want it, you negotiate a buyout, often at fair market value.
 
 Scenario: A Denver-based sign shop leased a flatbed UV printer at $680/month for 48 months ($32,640 total) instead of buying the same unit at $22,500. They saved $4,500 in year-one cash. By month 48, they'd paid $10,140 more than the purchase price, owned nothing, and faced a $6,800 fair market buyout to keep it. Total cost to own via leasing: $39,440. Action taken: they should have financed with a small business equipment loan at 7% and claimed Section 179. Result: they'd have paid approximately $26,700 all-in (loan total plus down, minus tax benefit) and owned the machine free and clear.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">5-Year Total Cost: $28,000 Equipment (3 Scenarios)</div><div class="sc-row"><span class="sc-label">Buy + Section 179</span><span class="sc-track"><span class="sc-bar" style="width:64%"></span></span><span class="sc-val">$21,000</span></div><div class="sc-row"><span class="sc-label">Finance @ 7.5%</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$33,060</span></div><div class="sc-row"><span class="sc-label">Operating Lease</span><span class="sc-track"><span class="sc-bar" style="width:97%"></span></span><span class="sc-val">$31,920</span></div><div class="sc-src">Source: CFO estimate based on 2026 market rates and IRS Section 179 limits</div></div>
-
 
 ## When Leasing Actually Makes Sense
 
@@ -121,7 +113,6 @@ Real talk: the lease agreement is where the vendor gets paid and where you can g
 - ELFA *2026 Equipment Finance Industry Scorecard*: Annual industry report on financing volumes, lease types, and sector trends.
 
 ---
-
 
 *Photo: [Action Construction  Equipment Ltd. - ACE](https://www.pexels.com/@acecranesindia) via Pexels*
 

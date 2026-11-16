@@ -31,9 +31,7 @@ Let me be direct about what this article is: a decision tool. By the end, you'll
 
 The credential gap is bigger than most people think. A CPA license is issued by a state board, requires 150 credit hours of college coursework, a multi-part exam, and ongoing continuing education in accounting and auditing. An enrolled agent (EA) is licensed directly by the U.S. Treasury, passes a three-part Special Enrollment Examination administered by the IRS itself, and must complete 72 hours of continuing education every three years, with a minimum of 16 hours per year focused specifically on federal tax law. The IRS publishes its own EA requirements at its [small business tax](/small-business-tax-deductions/) center; the scope is narrower than a CPA's but considerably deeper on federal tax.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Enrolled agents are federally licensed tax specialists; CPAs are state-licensed accounting generalists.</li><li style="margin:5px 0">Both EAs and CPAs can represent you before the IRS in an audit, but EAs often specialize in exactly this.</li><li style="margin:5px 0">EA hourly rates typically run $150–$300; CPA rates commonly run $200–$500+ depending on firm and market.</li><li style="margin:5px 0">For pure tax work, bookkeeping, or IRS representation, an EA is often the better and cheaper choice.</li><li style="margin:5px 0">You need a CPA if you require audited financial statements, business valuations, or GAAP-compliant reporting.</li></ul></div>
-
 
 ## What Each License Actually Means
 
@@ -46,8 +44,6 @@ Here's the thing most articles skip: both credentials grant unlimited representa
 ## The Real Cost Comparison
 
 > **Helpful resource:** [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Fees vary by market, complexity, and reputation, so treat these as ranges rather than guarantees.
 
@@ -94,10 +90,6 @@ The question isn't CPA vs. EA as an ideology. It's: what does this specific pers
 
 What I'd avoid: the large generalist accounting firm where a staff associate handles your return under a CPA's signature, and neither one has spent significant time on IRS representation. You're paying for a brand, not depth.
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical hourly rate by credential and service type</div><div class="sc-row"><span class="sc-label">EA – Tax Prep</span><span class="sc-track"><span class="sc-bar" style="width:41%"></span></span><span class="sc-val">$185</span></div><div class="sc-row"><span class="sc-label">EA – IRS Audit Rep</span><span class="sc-track"><span class="sc-bar" style="width:50%"></span></span><span class="sc-val">$225</span></div><div class="sc-row"><span class="sc-label">CPA – Tax Prep</span><span class="sc-track"><span class="sc-bar" style="width:71%"></span></span><span class="sc-val">$320</span></div><div class="sc-row"><span class="sc-label">CPA – IRS Audit Rep</span><span class="sc-track"><span class="sc-bar" style="width:83%"></span></span><span class="sc-val">$375</span></div><div class="sc-row"><span class="sc-label">CPA – Audit/Attest</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$450</span></div><div class="sc-src">Source: Industry ranges, Michael Torres / July 2026 practitioner data</div></div>
-
-
 ## Sources
 
 - [IRS Enrolled Agent Information](https://www.irs.gov/tax-professionals/enrolled-agents): Official requirements, CE rules, and the Special Enrollment Examination overview from the U.S. Treasury/IRS.
@@ -107,7 +99,6 @@ What I'd avoid: the large generalist accounting firm where a staff associate han
 - IRS Publication 947, *Practice Before the IRS and Power of Attorney*: Defines which professionals have unlimited representation rights and under what circumstances.
 
 ---
-
 
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
 

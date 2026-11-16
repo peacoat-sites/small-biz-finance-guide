@@ -47,8 +47,6 @@ The [IRS small business tax center](https://www.irs.gov/businesses/small-busines
 
 > **Helpful resource:** [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Here's where I'll slow down, because this is the part that actually moves the needle.
 
 **Office and workspace costs.** If you rent dedicated office space, that rent is fully deductible. If you work from home, you can deduct a portion of your home expenses under the home office deduction. This one gets people nervous because of an old myth that it "triggers audits." As of 2026, there is no credible IRS data supporting that home office deductions are disproportionately flagged. Use it if you qualify. The simplified method lets you deduct $5 per square foot up to 300 square feet, so $1,500 max. The regular method requires calculating actual costs (mortgage interest or rent, utilities, insurance) as a percentage of your home, which often yields more but requires better recordkeeping.
@@ -86,10 +84,6 @@ People ask me all the time about the home office deduction vs. renting outside s
 | Meals (business) | 50% of actual cost | Claiming 100% or personal meals | Client entertainment, working lunches |
 | Section 179 equipment | Up to $1,220,000 in 2026 | Not documenting business use | Any capital purchase that year |
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated annual deductions by category (small service business)</div><div class="sc-row"><span class="sc-label">Home Office</span><span class="sc-track"><span class="sc-bar" style="width:67%"></span></span><span class="sc-val">$3,200</span></div><div class="sc-row"><span class="sc-label">Vehicle</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$4,800</span></div><div class="sc-row"><span class="sc-label">Technology &amp; Software</span><span class="sc-track"><span class="sc-bar" style="width:44%"></span></span><span class="sc-val">$2,100</span></div><div class="sc-row"><span class="sc-label">Marketing</span><span class="sc-track"><span class="sc-bar" style="width:75%"></span></span><span class="sc-val">$3,600</span></div><div class="sc-row"><span class="sc-label">Professional Dev</span><span class="sc-track"><span class="sc-bar" style="width:29%"></span></span><span class="sc-val">$1,400</span></div><div class="sc-row"><span class="sc-label">Meals &amp; Travel</span><span class="sc-track"><span class="sc-bar" style="width:56%"></span></span><span class="sc-val">$2,700</span></div><div class="sc-src">Source: IRS Publication 535 and CFO advisory estimates, 2026</div></div>
-
-
 These numbers come from my own estimates based on IRS Publication 535 guidance and patterns I've seen across small service businesses, not a formal study. Your actual numbers will vary. Treat them as directional, not gospel.
 
 ## Three Worked Examples
@@ -125,7 +119,6 @@ A book that's actually useful here, not just theoretical, is *[Profit First by M
 - [IRS Publication 587, Business Use of Your Home](https://www.irs.gov/publications/p587): Detailed guidance on home office deductions, including both simplified and regular methods.
 
 ---
-
 
 ---
 

@@ -3,7 +3,7 @@ title: "Editorial Policy"
 hide_title: true
 date: 2026-01-01
 draft: false
-description: "How Small Biz Finance Guide researches, writes, fact-checks, and maintains every article — our commitment to accuracy, source quality, and genuine usefulness."
+description: "How Small Biz Finance Guide researches, writes, fact-checks, and maintains every article, our commitment to accuracy, source quality, and genuine usefulness."
 ---
 
 # Editorial Policy
@@ -32,14 +32,14 @@ We trust sources that are created and maintained by the institutions that actual
 
 **Primary sources we rely on:**
 
-- **U.S. Internal Revenue Service** (IRS.gov, IRS publications) — for all tax-related guidance, deductions, filing requirements, and deadlines
-- **Small Business Administration** (sba.gov) — for lending program requirements, eligibility, terms, and application processes
-- **Consumer Financial Protection Bureau** (CFPB.gov) — for small business credit and lending practices, compliance requirements
-- **SCORE** (score.org) — nonprofit organization with volunteer business mentors and published financial planning resources
-- **Federal Reserve** — for small business credit surveys, monetary policy impacts, and economic data
-- **State Secretaries of State offices** — for business registration, business structure requirements, and filing deadlines
-- **U.S. Census Bureau** — for small business demographic and operational data
-- **State Department of Revenue/Taxation offices** — for state-specific tax requirements and deadlines
+- **U.S. Internal Revenue Service** (IRS.gov, IRS publications), for all tax-related guidance, deductions, filing requirements, and deadlines
+- **Small Business Administration** (sba.gov), for lending program requirements, eligibility, terms, and application processes
+- **Consumer Financial Protection Bureau** (CFPB.gov), for small business credit and lending practices, compliance requirements
+- **SCORE** (score.org), nonprofit organization with volunteer business mentors and published financial planning resources
+- **Federal Reserve**, for small business credit surveys, monetary policy impacts, and economic data
+- **State Secretaries of State offices**, for business registration, business structure requirements, and filing deadlines
+- **U.S. Census Bureau**, for small business demographic and operational data
+- **State Department of Revenue/Taxation offices**, for state-specific tax requirements and deadlines
 - **Academic journals and peer-reviewed research** on small business management and finance
 - **Published guidance from national accounting organizations** (AICPA, state CPA societies)
 

@@ -31,9 +31,7 @@ That's where a buy-sell agreement comes in. And if you're reading this, you migh
 
 I've sat across from enough [business owners](/the-new-1099-thresholds-small-business-owners-must-know-in-2026/) after a crisis hit to know that the ones who had a solid buy-sell in place walked out okay. The ones who didn't? Some of them are still in litigation years later.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A buy-sell agreement legally controls what happens to business ownership when a partner dies, retires, or exits.</li><li style="margin:5px 0">Without one, a deceased partner's spouse or heirs can legally become your new co-owner.</li><li style="margin:5px 0">Life insurance is the most common (and practical) funding mechanism for buyouts.</li><li style="margin:5px 0">Valuation method is the clause that causes the most disputes, get it right upfront.</li><li style="margin:5px 0">Drafting typically costs $1,500 to $10,000+ depending on complexity; the litigation alternative runs far higher.</li></ul></div>
-
 
 ## What a Buy-Sell Agreement Actually Does
 
@@ -49,8 +47,6 @@ A buy-sell agreement can also restrict who can own shares. If your partner wants
 
 > **Helpful resource:** [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Not all buy-sell agreements are built the same way. The structure you choose affects who buys the departing owner's interest, how the money flows, and what the tax implications look like.
 
 **Cross-purchase agreements:** Each individual owner agrees to buy out the departing owner's share. If there are three equal partners and one dies, the two remaining owners each buy half of the departing owner's interest directly. Simple in concept, complicated with more than three or four owners because each owner needs separate life insurance on every other owner. With five partners that's 20 policies. That math gets unwieldy fast.
@@ -58,10 +54,6 @@ Not all buy-sell agreements are built the same way. The structure you choose aff
 **Entity-purchase (or redemption) agreements:** The business itself buys back the departing owner's interest. One set of policies, owned by the company. Cleaner administratively, but the tax treatment is different, especially for C-corps where there can be a dividend issue on proceeds. Consult a CPA before locking in this structure.
 
 **Hybrid (or wait-and-see) agreements:** The business gets the first right of refusal to buy the interest. If it can't or won't, the remaining owners step in. This is the most flexible, which is probably why it's become the most popular structure for small businesses with two to four owners.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Average annual life insurance premium per $1M policy (term, age 40, healthy)</div><div class="sc-row"><span class="sc-label">20-year term</span><span class="sc-track"><span class="sc-bar" style="width:11%"></span></span><span class="sc-val">$850</span></div><div class="sc-row"><span class="sc-label">30-year term</span><span class="sc-track"><span class="sc-bar" style="width:19%"></span></span><span class="sc-val">$1,450</span></div><div class="sc-row"><span class="sc-label">Universal life</span><span class="sc-track"><span class="sc-bar" style="width:54%"></span></span><span class="sc-val">$4,200</span></div><div class="sc-row"><span class="sc-label">Whole life</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$7,800</span></div><div class="sc-src">Source: LIMRA industry data, 2025</div></div>
-
 
 ## The Valuation Problem (This Is Where Things Get Messy)
 
@@ -123,7 +115,6 @@ Three worked examples, because the abstract version doesn't stick:
 - Deloitte Private, *Family Business and Succession Planning Survey (2024)*: Data on small business succession planning gaps and ownership dispute frequency
 
 ---
-
 
 *Photo: [Pixabay](https://www.pexels.com/@pixabay) via Pexels*
 

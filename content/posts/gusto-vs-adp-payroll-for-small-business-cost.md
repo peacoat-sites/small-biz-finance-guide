@@ -47,8 +47,6 @@ That's not unique to her situation. It's the pattern.
 
 > **Helpful resource:** [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 Current pricing as of July 2026 (note: ADP pricing is estimated from publicly available quotes and client reports, since ADP does not publish rates):
 
 | Plan | Gusto | ADP Run |
@@ -63,10 +61,6 @@ Current pricing as of July 2026 (note: ADP pricing is estimated from publicly av
 | Time tracking | Plus and above | Add-on |
 | Workers' comp integration | Included (Gusto partners) | Add-on |
 | Setup/implementation fee | None | Sometimes waived, sometimes ~$150-$300 |
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated monthly cost for 10-employee small business (fully loaded)</div><div class="sc-row"><span class="sc-label">Gusto Simple</span><span class="sc-track"><span class="sc-bar" style="width:43%"></span></span><span class="sc-val">$100</span></div><div class="sc-row"><span class="sc-label">Gusto Plus</span><span class="sc-track"><span class="sc-bar" style="width:85%"></span></span><span class="sc-val">$200</span></div><div class="sc-row"><span class="sc-label">ADP Run Essential</span><span class="sc-track"><span class="sc-bar" style="width:46%"></span></span><span class="sc-val">$109</span></div><div class="sc-row"><span class="sc-label">ADP Run Enhanced (w/ add-ons)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$235</span></div><div class="sc-src">Source: Gusto published pricing + ADP client quotes, July 2026</div></div>
-
 
 The per-employee fee difference feels like ADP wins, and at very low headcount it sometimes does. But Gusto's bundled approach means you're less likely to face sticker shock three months in.
 
@@ -103,7 +97,6 @@ One thing almost nobody warns you about: switching payroll platforms mid-year is
 - PCMag Business Software Reviews (2026): Third-party feature and usability comparisons of Gusto vs. ADP Run
 
 ---
-
 
 ---
 

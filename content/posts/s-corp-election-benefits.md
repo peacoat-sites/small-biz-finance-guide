@@ -31,9 +31,7 @@ I'll be honest: when I first started working with solo consultants and small LLC
 
 The S-corp election itself isn't a business structure. It's a tax classification. You're telling the IRS to treat your LLC or corporation like a pass-through entity with a specific twist: you split your income between a "reasonable salary" and distributions, and only the salary portion gets hit with the 15.3% self-employment tax. That distinction sounds simple. The downstream implications are not.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">S-corp election can save $8,000–$15,000+ annually for owners earning $80,000+ in net profit</li><li style="margin:5px 0">Only salary, not distributions, is subject to 15.3% self-employment/payroll tax</li><li style="margin:5px 0">You must file Form 2553 with the IRS, typically within 75 days of wanting it to take effect</li><li style="margin:5px 0">Running an S-corp costs real money: payroll processing, bookkeeping, and a CPA add $3,000–$6,000/year</li><li style="margin:5px 0">Not every owner benefits ,  the math flips negative under roughly $50,000–$60,000 net profit</li></ul></div>
-
 
 ## The Number That Makes This Worth Your Time
 
@@ -49,8 +47,6 @@ The IRS is aware that owners could abuse this by taking a $1 salary and $500,000
 
 > **Helpful resource:** [AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
-
-
 This is where I see the most honest confusion. People hear "S-corp savings" and forget to subtract the cost of running the thing. Let me show you the real numbers.
 
 | Cost Item | Typical Annual Range | Notes |
@@ -65,10 +61,6 @@ This is where I see the most honest confusion. People hear "S-corp savings" and 
 The reason I break this out as a table is that the "savings" number means nothing without netting it against these costs. At $80,000 in profit, your SE tax savings might be around $4,500. If your state is California and your CPA is expensive, you could be close to break-even or even slightly negative. At $130,000 in profit, the savings more than double and the overhead stays roughly flat. This is a fixed-cost structure with variable benefit, which means there's a clear crossover point.
 
 My rough rule, and I want to be careful here because every situation is different: if your net profit is consistently above $70,000–$80,000, the math almost always favors the election. Below $50,000, it usually doesn't. Between $50,000 and $70,000, run the numbers for your specific state and get a second opinion from a CPA you trust.
-
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Estimated net annual S-corp savings by profit level</div><div class="sc-row"><span class="sc-label">$60K profit</span><span class="sc-track"><span class="sc-bar" style="width:6%"></span></span><span class="sc-val">$800</span></div><div class="sc-row"><span class="sc-label">$80K profit</span><span class="sc-track"><span class="sc-bar" style="width:25%"></span></span><span class="sc-val">$3,200</span></div><div class="sc-row"><span class="sc-label">$100K profit</span><span class="sc-track"><span class="sc-bar" style="width:48%"></span></span><span class="sc-val">$6,100</span></div><div class="sc-row"><span class="sc-label">$130K profit</span><span class="sc-track"><span class="sc-bar" style="width:73%"></span></span><span class="sc-val">$9,400</span></div><div class="sc-row"><span class="sc-label">$160K profit</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$12,800</span></div><div class="sc-src">Source: CFO consulting estimates, 2026</div></div>
-
 
 These are net figures after subtracting approximately $4,500 in average annual administrative costs. The numbers assume a reasonable salary set at roughly 50–55% of net profit, which is a common starting point (though not a universal rule). Your CPA may suggest a different ratio based on your industry.
 
@@ -113,7 +105,6 @@ The savings aren't magical in the first year. The structure pays off when you st
 - [Social Security Administration 2026 Wage Base Announcement](https://www.ssa.gov/): Annual update to the Social Security taxable wage base ($176,100 for 2026)
 
 ---
-
 
 ---
 

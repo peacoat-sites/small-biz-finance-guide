@@ -31,9 +31,7 @@ The short version: SBA commercial real estate loans, specifically the SBA 504 lo
 
 Here's the thing most people get wrong from the start: they think "SBA loan" means the SBA is your lender. It's not. The [Small Business](/small-business-employee-benefits/) Administration guarantees a portion of the loan against default, which gives banks the confidence to offer terms they otherwise wouldn't. You're still borrowing from a bank or a Certified Development Company (CDC). Understanding that distinction will save you a lot of confusion later.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">SBA 504 loans cover up to 90% of commercial real estate costs with down payments as low as 10%.</li><li style="margin:5px 0">Fixed rates on the CDC portion are typically tied to 10-year Treasury rates, often landing between 5.5% and 7% as of mid-2026.</li><li style="margin:5px 0">Owner-occupancy requirement: you must occupy at least 51% of the property you're buying.</li><li style="margin:5px 0">Loan amounts commonly range from $500,000 to $5.5 million, though larger projects are possible.</li><li style="margin:5px 0">Closing timelines average 60 to 90 days, sometimes longer for complex deals.</li></ul></div>
-
 
 ## The Two Programs Worth Knowing (and One You Can Mostly Ignore)
 
@@ -46,8 +44,6 @@ For commercial real estate, you'll almost always be looking at the SBA 504 loan.
 ## What the Numbers Actually Look Like
 
 > **Helpful resource:** [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 As of July 2026, the fixed rate on the CDC portion of a 504 loan has been running roughly in the 5.5% to 7% range depending on the debenture term and market conditions. The bank portion rate is negotiated directly with your lender and is typically variable or fixed at the bank's discretion, which is worth pushing on. Here's a side-by-side of the two main programs across the factors that actually matter for real estate:
 
@@ -98,10 +94,6 @@ Beyond the SBA guarantee fee, you're looking at: bank origination fees (typicall
 
 I made the mistake early in my career of helping a client budget only for the down payment and getting surprised by the closing cost stack. Now I run a full closing cost projection on day one. If you want a simple framework for this, Mike Michalowicz's *Profit First* won't give you an SBA-specific model, but it'll train you to think about reserves in a way that makes these moments less painful (Amazon affiliate link applies if you pick it up through this site).
 
-
-<style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">Typical SBA 504 Closing Cost Components</div><div class="sc-row"><span class="sc-label">SBA Guarantee Fee</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$18,000</span></div><div class="sc-row"><span class="sc-label">Bank Origination Fee</span><span class="sc-track"><span class="sc-bar" style="width:42%"></span></span><span class="sc-val">$7,500</span></div><div class="sc-row"><span class="sc-label">Appraisal</span><span class="sc-track"><span class="sc-bar" style="width:25%"></span></span><span class="sc-val">$4,500</span></div><div class="sc-row"><span class="sc-label">Phase I Environmental</span><span class="sc-track"><span class="sc-bar" style="width:14%"></span></span><span class="sc-val">$2,500</span></div><div class="sc-row"><span class="sc-label">CDC Packaging Fee</span><span class="sc-track"><span class="sc-bar" style="width:17%"></span></span><span class="sc-val">$3,000</span></div><div class="sc-row"><span class="sc-label">Title &amp; Legal</span><span class="sc-track"><span class="sc-bar" style="width:31%"></span></span><span class="sc-val">$5,500</span></div><div class="sc-src">Source: Industry experience, SBA fee schedules (2026)</div></div>
-
-
 *Figures based on a $1.5M project at typical 2026 rates; your costs will vary.*
 
 ## Sources
@@ -113,7 +105,6 @@ I made the mistake early in my career of helping a client budget only for the do
 - SBA Office of Capital Access, *504 Loan Program Annual Report (2025)*: Volume, approval rates, and borrower demographic data.
 
 ---
-
 
 ---
 
