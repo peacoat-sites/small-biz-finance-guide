@@ -54,8 +54,6 @@ The flip side: personal expenses don't become deductible just because you paid f
 
 ## The Deductions Most Small Business Owners Actually Use
 
-> **Helpful resource:** [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where most of the real money is.
 
 **Self-employment tax deduction.** If you're a sole proprietor or single-member LLC, you pay both sides of Social Security and Medicare, which currently totals 15.3% on net earnings up to the Social Security wage base. You can deduct half of that self-employment tax from your gross income. It doesn't reduce your self-employment tax, but it lowers your income tax. It's one of the first adjustments on Schedule 1 of your 1040.

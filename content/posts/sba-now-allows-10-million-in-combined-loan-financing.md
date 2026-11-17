@@ -20,7 +20,7 @@ The SBA officially doubled its cumulative borrowing cap, from $5 million to $10 
 
 If you're in manufacturing, construction, logistics, energy, or food production, stop what you're doing and read this carefully. This change was built for you.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Effective July 4, 2026, businesses can now borrow up to $5M via SBA 7(a) AND $5M via SBA 504, for a $10M combined total.</li><li style="margin:5px 0">The two programs are fully decoupled ,  your 504 balance no longer counts against your 7(a) limit.</li><li style="margin:5px 0">Small manufacturers with existing 504 loans can now also access up to $5M through 7(a).</li><li style="margin:5px 0">Capital-intensive sectors like manufacturing, construction, and logistics are the primary beneficiaries.</li><li style="margin:5px 0">Economists predict a possible 0.25% Fed rate hike by October 2026 ,  current SBA rates may be near their floor.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Effective July 4, 2026, businesses can now borrow up to $5M via SBA 7(a) AND $5M via SBA 504, for a $10M combined total.</li><li style="margin:5px 0">The two programs are fully decoupled, your 504 balance no longer counts against your 7(a) limit.</li><li style="margin:5px 0">Small manufacturers with existing 504 loans can now also access up to $5M through 7(a).</li><li style="margin:5px 0">Capital-intensive sectors like manufacturing, construction, and logistics are the primary beneficiaries.</li><li style="margin:5px 0">Economists predict a possible 0.25% Fed rate hike by October 2026, current SBA rates may be near their floor.</li></ul></div>
 
 ## What Actually Changed and Why It Matters
 
@@ -33,8 +33,6 @@ Now they're independent. A $5 million ceiling on each, and your usage of one doe
 For small manufacturers specifically, there's an additional carve-out worth knowing about. Businesses in that sector that already hold multiple 504 loans can now also access up to $5 million through the 7(a) program. That's a meaningful distinction, and it signals that the SBA is deliberately targeting capital-intensive industries that have historically been underserved by the cap structure.
 
 ## The Two Programs Side by Side
-
-> **Helpful resource:** [The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 If you haven't used both programs before, here's a plain-English comparison to ground the conversation:
 

@@ -45,8 +45,6 @@ A buy-sell agreement can also restrict who can own shares. If your partner wants
 
 ## The Three Main Structures
 
-> **Helpful resource:** [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Not all buy-sell agreements are built the same way. The structure you choose affects who buys the departing owner's interest, how the money flows, and what the tax implications look like.
 
 **Cross-purchase agreements:** Each individual owner agrees to buy out the departing owner's share. If there are three equal partners and one dies, the two remaining owners each buy half of the departing owner's interest directly. Simple in concept, complicated with more than three or four owners because each owner needs separate life insurance on every other owner. With five partners that's 20 policies. That math gets unwieldy fast.

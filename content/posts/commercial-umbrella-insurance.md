@@ -51,8 +51,6 @@ One thing to get straight: commercial umbrella is *not* the same as commercial e
 
 ## Who Needs It (and Who Needs It More Than They Think)
 
-> **Helpful resource:** [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Any business that could be named in a lawsuit should consider umbrella coverage. That's almost all of them. But the risk calculus is more urgent in a few specific situations.
 
 If your business involves physical property or people (clients, customers, vendors, the general public) on-site or in-the-field, your base liability limits will strain faster. Contractors. Restaurants. Retail stores. Anybody running a fleet of vehicles. Anybody who employs people who drive as part of the job.

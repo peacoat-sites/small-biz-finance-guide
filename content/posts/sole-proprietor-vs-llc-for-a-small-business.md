@@ -45,8 +45,6 @@ What surprised me early in my career was how *similar* the tax treatment actuall
 
 ## Liability: What "Protection" Actually Means in Practice
 
-> **Helpful resource:** [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where I want to be precise, because this gets oversimplified constantly.
 
 An LLC creates a legal wall between the business and your personal assets. If someone sues your LLC, they generally can't come after your house or personal savings. That "generally" is doing a lot of work in that sentence. Courts will "pierce the corporate veil" -- go right through your LLC to your personal assets, if you commingle funds, fail to maintain a separate [business bank account](/how-to-open-a-business-bank-account-online-for-startup/), or don't operate the LLC as a distinct entity.

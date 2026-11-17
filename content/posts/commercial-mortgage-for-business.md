@@ -59,8 +59,6 @@ That quote matters. If you're buying a property your business will fully occupy,
 | SBA 7(a) | Flexible | Up to $5 million max | Smaller purchases, mixed-use | Guarantee fee applies |
 | CMBS | Typically 20%+ | Varies | Larger properties, investors | Not recommended for first-time small business owners |
 
-> **Helpful resource:** [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 There's a lot of noise about commercial real estate financing options. I'm going to cut to the ones that actually matter for most small business owners.
 
 **Conventional commercial mortgages** come from banks and credit unions. They're relationship-driven loans, and this is where having a banking relationship before you need a loan pays off. Community banks are often more flexible than the big nationals for smaller deals (say, under $3 million). They're going to want 2 to 3 years of business tax returns, personal tax returns, a current balance sheet, profit and loss statements, and a rent roll if the property has tenants.

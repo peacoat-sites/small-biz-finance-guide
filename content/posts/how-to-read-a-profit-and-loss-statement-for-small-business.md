@@ -54,8 +54,6 @@ The P&L is one of three core financial statements. The [balance sheet](/reading-
 
 ## The Anatomy of the Thing: Walking Through Line by Line
 
-> **Helpful resource:** [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The structure of a P&L is logical once you see it as a series of subtractions. Let's go top to bottom.
 
 **Revenue (also called Sales or Income)**

@@ -33,10 +33,6 @@ The point here isn't that rates are good. It's that they're probably not getting
 
 ## Why July 29 Is a Concrete Deadline, Not a Marketing Gimmick
 
-> **Helpful resource:** [AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 The July 28-29 FOMC meeting is meaningful for one specific reason: it's the last scheduled decision before the market-implied probability of a hike becomes either more certain or more remote. If the Fed hikes on July 29, or signals strongly that a hike is coming in September or November, variable-rate loan spreads adjust quickly and fixed-rate deal terms tend to tighten.
 
 SBA 7(a) variable-rate loans are tied directly to prime. A 25-basis-point hike translates immediately into a 25-basis-point increase in your borrowing cost on any floating-rate balance. On a $500,000 variable-rate loan, that's an extra $1,250 per year. Not catastrophic in isolation, but stack two hikes on top of an already elevated rate environment and the math on your debt service changes in ways that matter for cash flow planning.
@@ -79,12 +75,12 @@ The rate environment of late 2024 and early 2025 trained a lot of small business
 
 ## Sources
 
-- [Current SBA Loan Interest Rates July 2026 ,  Lendio](https://www.lendio.com/blog/sba-loan-interest-rates) (July 2, 2026)
-- [SBA Loan Rates July 2026 ,  NerdWallet](https://www.nerdwallet.com/business/loans/learn/sba-loan-rates) (July 1, 2026)
-- [Current SBA 7(a) Loan Rates July 2026 ,  Bay Street Lending](https://www.baystreetlending.com/lending-resources/sba-loan-rates-and-terms) (July 1, 2026)
-- [When Will Interest Rates Go Down? ,  CNBC Select](https://www.cnbc.com/select/when-will-interest-rates-drop/) (July 2026)
-- [Average Business Loan Interest Rates: July 2026 ,  NerdWallet](https://www.nerdwallet.com/business/loans/learn/rates-fees) (July 1, 2026)
-- [Business Loan Rates 2026 ,  Business.com](https://www.business.com/articles/business-loan-interest-rates/) (Late June 2026)
+- [Current SBA Loan Interest Rates July 2026, Lendio](https://www.lendio.com/blog/sba-loan-interest-rates) (July 2, 2026)
+- [SBA Loan Rates July 2026, NerdWallet](https://www.nerdwallet.com/business/loans/learn/sba-loan-rates) (July 1, 2026)
+- [Current SBA 7(a) Loan Rates July 2026, Bay Street Lending](https://www.baystreetlending.com/lending-resources/sba-loan-rates-and-terms) (July 1, 2026)
+- [When Will Interest Rates Go Down?, CNBC Select](https://www.cnbc.com/select/when-will-interest-rates-drop/) (July 2026)
+- [Average Business Loan Interest Rates: July 2026, NerdWallet](https://www.nerdwallet.com/business/loans/learn/rates-fees) (July 1, 2026)
+- [Business Loan Rates 2026, Business.com](https://www.business.com/articles/business-loan-interest-rates/) (Late June 2026)
 
 ---
 

@@ -43,8 +43,6 @@ For a deeper look at valuation mechanics and positioning before sale, [*The Art 
 
 ## Getting Your House in Order: The Pre-Sale Preparation Phase
 
-> **Helpful resource:** [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 If you're planning to sell in the next 12 to 24 months, the single best use of your time right now is making your business look the way it would if you were trying to impress the most skeptical buyer imaginable.
 
 That means three years of clean, accurate financial statements. Not shoebox receipts. Not a QuickBooks file your bookkeeper kind of keeps updated. Formal profit and loss statements, balance sheets, and cash flow statements, ideally prepared or reviewed by a CPA. Buyers and their lenders need to verify your numbers, and anything that looks inconsistent will either kill the deal or drop your price.

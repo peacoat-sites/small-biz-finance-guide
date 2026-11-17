@@ -43,8 +43,6 @@ Good categorization saves you money at tax time, helps you manage cash flow, and
 
 ## The Core Business Expense Categories
 
-> **Helpful resource:** [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here are the categories you'll use most, what they include, and where people typically stumble.
 
 **Cost of Goods Sold (COGS)**

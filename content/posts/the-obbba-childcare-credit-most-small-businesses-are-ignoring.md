@@ -32,10 +32,6 @@ Treasury's specific guidance on intermediary platforms and resource-pooling arra
 
 ## The Real Numbers: Small Business vs. Larger Business
 
-> **Helpful resource:** [Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 The OBBBA drew a clear line between small businesses and everyone else.
 
 | Feature | Small Business (under ~$32M gross receipts) | Larger Business |
@@ -88,11 +84,11 @@ The IRS published its updated Section 45F guidance in June 2026. The structure i
 
 ## Sources
 
-- [IRS ,  Employer-Provided Child Care Credit: Tax Year 2026 and Later](https://www.irs.gov/businesses/small-businesses-self-employed/employer-provided-child-care-credit-tax-year-2026-and-later) (June 2026)
-- [Bipartisan Policy Center ,  45F Employer-Provided Child Care Tax Credit: 2026 Guide](https://bipartisanpolicy.org/explainer/45f-employer-provided-child-care-tax-credit-2026-guide/) (May 11, 2026)
-- [SVA Certified Public Accountants ,  OBBBA Expands Employer-Provided Childcare Tax Credit](https://accountants.sva.com/biz-tips/obbba-expands-employer-provided-childcare-tax-credit) (2025/2026)
-- [Catalyst CPA ,  Employer-Provided Childcare Credit 2026: Small Business Guide](https://catalyst-cpa.com/employer-provided-childcare-credit-2026-small-business-guide/) (May 18, 2026)
-- [KPM CPA ,  The OBBBA Makes Employer-Provided Child Care More Feasible In 2026](https://www.kpmcpa.com/the-obbba-makes-employer-provided-child-care-more-feasible-in-2026/) (August 2025)
+- [IRS, Employer-Provided Child Care Credit: Tax Year 2026 and Later](https://www.irs.gov/businesses/small-businesses-self-employed/employer-provided-child-care-credit-tax-year-2026-and-later) (June 2026)
+- [Bipartisan Policy Center, 45F Employer-Provided Child Care Tax Credit: 2026 Guide](https://bipartisanpolicy.org/explainer/45f-employer-provided-child-care-tax-credit-2026-guide/) (May 11, 2026)
+- [SVA Certified Public Accountants, OBBBA Expands Employer-Provided Childcare Tax Credit](https://accountants.sva.com/biz-tips/obbba-expands-employer-provided-childcare-tax-credit) (2025/2026)
+- [Catalyst CPA, Employer-Provided Childcare Credit 2026: Small Business Guide](https://catalyst-cpa.com/employer-provided-childcare-credit-2026-small-business-guide/) (May 18, 2026)
+- [KPM CPA, The OBBBA Makes Employer-Provided Child Care More Feasible In 2026](https://www.kpmcpa.com/the-obbba-makes-employer-provided-child-care-more-feasible-in-2026/) (August 2025)
 
 ---
 

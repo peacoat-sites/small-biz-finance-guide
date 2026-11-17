@@ -55,8 +55,6 @@ A chart of accounts groups your transactions into five categories:
 
 When you open QuickBooks, Wave, or FreshBooks, they'll give you a default chart of accounts. That's a starting point, not a final answer. Customize it to reflect how your business actually operates. A freelance designer doesn't need an "inventory" account. A product-based retailer absolutely does. Get this right early, and every financial report you run later will actually mean something.
 
-> **Helpful resource:** [QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20) walks through this setup step by step. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## Cash Basis vs. Accrual Basis: Pick One and Understand It
 
 | Accounting Method | Income Recording | Expense Recording | Best For | Cash vs. Profit |

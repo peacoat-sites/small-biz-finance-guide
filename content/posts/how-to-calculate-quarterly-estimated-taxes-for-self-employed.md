@@ -73,8 +73,6 @@ Let's do the real math. Say you're a freelance designer who expects to earn $85,
 
 This is also the logic behind IRS Form 1040-ES, which walks you through the same calculation with a worksheet. Download it even if you end up using software, because seeing the structure once makes everything else click.
 
-> **Helpful resource:** [AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## When and How to Pay
 
 The IRS payment schedule isn't evenly spaced by calendar quarter, which catches people every single time. For 2024, the due dates are April 15, June 17, September 16, and January 15, 2025. The second "quarter" only covers two months (May and June). It's a quirk of the IRS schedule, not a mistake.

@@ -50,8 +50,6 @@ What doesn't qualify: coverage available through a spouse's employer plan. This 
 
 ## The Net Profit Ceiling Nobody Talks About
 
-> **Helpful resource:** [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's the rule I think is most misunderstood: you can only deduct up to your net profit from self-employment. If your business lost money, or if your health insurance premiums exceed your net profit, your deduction caps at that net profit number.
 
 What surprised me when I dug deeper is how the calculation gets circular with a [solo 401(k) or SEP-IRA](/qualified-business-income-deduction/). Your self-employed retirement contribution also reduces your net profit, which affects how much health insurance you can deduct. The IRS even acknowledges this creates a loop requiring an iterative calculation. There are worksheets in IRS Publication 535 for exactly this reason. Most tax software handles it automatically, but if you're doing this by hand, get the worksheet or hire a CPA who knows it cold.

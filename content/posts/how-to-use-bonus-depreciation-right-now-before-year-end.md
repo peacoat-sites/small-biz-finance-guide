@@ -30,8 +30,6 @@ The "placed in service" requirement is the one that trips people up every fall. 
 
 ## Bonus Depreciation vs. Section 179: Which One to Use
 
-> **Helpful resource:** [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Both are available in 2026, and the interaction between them matters. Section 179 lets you expense the full cost of qualifying property in the year it's placed in service, but it has caps and phase-outs. Bonus depreciation has no dollar limit and no phase-out threshold.
 
 Here's how they compare side by side:

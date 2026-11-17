@@ -41,8 +41,6 @@ Here's where most people go sideways: they hire a CPA to do their bookkeeping. T
 
 ## The Numbers Behind the Decision
 
-> **Helpful resource:** [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 As of July 2026, here's what you're generally looking at on cost, across service types:
 
 | Role | Typical Annual Cost | What You're Actually Getting |

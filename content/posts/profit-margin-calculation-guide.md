@@ -45,8 +45,6 @@ You need all three because they diagnose different problems. A healthy gross mar
 
 ## How to Calculate Each One: Step by Step
 
-> **Helpful resource:** [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let's use a real example throughout. Say you own a small catering business. In a given month, you brought in $30,000 in revenue.
 
 ### Step 1: Calculate Gross Profit Margin

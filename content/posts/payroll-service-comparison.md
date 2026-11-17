@@ -43,8 +43,6 @@ The HR bundling is where pricing gets messy. Gusto, for example, layers three ti
 
 ## Side-by-Side: The Real Numbers
 
-> **Helpful resource:** [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 As of July 2026, here's how the main services compare for a business with 5 W-2 employees, paying monthly:
 
 | Service | Base Fee/Month | Per-Employee Fee | 5 Employees Total | Auto Tax Filing | Year-End W-2s | Notes |

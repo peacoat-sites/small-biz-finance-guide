@@ -52,8 +52,6 @@ Your personal credit score carries enormous weight at this stage. Most tradition
 | Personal loans | Variable | Bridge capital | Personal credit score |
 | Friends/family/peer lending | Variable | Early funding phase | Written loan terms |
 
-> **Helpful resource:** [Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Not every loan product is closed to you. Some are explicitly designed for early-stage businesses.
 
 **[SBA Microloans](/sba-microloan-program/).** The U.S. Small Business Administration's microloan program provides up to $50,000 through nonprofit intermediary lenders. These are some of the most startup-friendly loans that exist. Intermediaries often provide technical assistance alongside the capital, and they're more willing to look at character and potential rather than purely historical revenue. Average loan size is closer to $13,000 to $14,000, so it's not replacing a funding round, but it's real money.

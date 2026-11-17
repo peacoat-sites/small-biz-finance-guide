@@ -67,8 +67,6 @@ Also ask yourself: is this person going to generate revenue, save you time that 
 
 ## The Legal Setup You Can't Skip
 
-> **Helpful resource:** [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where most first-time employers get tripped up. Not because the steps are complicated, but because nobody handed them a checklist.
 
 Here's what needs to happen before your new hire shows up on day one.

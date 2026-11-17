@@ -50,8 +50,6 @@ The systems sold today (as of July 2026) generally fall into three categories:
 
 ## The Numbers That Should Drive Your Decision
 
-> **Helpful resource:** [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I'll be direct: this is where people get it wrong most often. They compare the monthly subscription costs and ignore the transaction fees. That's backwards.
 
 If you're processing $30,000 a month in card sales (not unusual for a busy retail shop or salon), the difference between a 2.6% flat rate and a 2.9% + $0.10 rate sounds trivial until you do the math. That gap is roughly $180 a month, or $2,160 a year. More than most monthly software fees.

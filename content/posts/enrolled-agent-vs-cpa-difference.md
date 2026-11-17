@@ -43,8 +43,6 @@ Both credentials grant unlimited representation rights before the IRS. That mean
 
 ## The Real Cost Comparison
 
-> **Helpful resource:** [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Fees vary by market, complexity, and reputation, so treat these as ranges rather than guarantees.
 
 | Service | Enrolled Agent (typical range) | CPA (typical range) |

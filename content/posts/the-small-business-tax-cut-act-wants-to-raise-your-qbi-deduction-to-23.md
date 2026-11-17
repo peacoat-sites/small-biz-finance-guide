@@ -31,8 +31,6 @@ So if you were worried about the deduction going away, that worry is gone. What 
 | Small business | $200,000 | $40,000 | $46,000 | $1,440 |
 | Medium business | $400,000 | $80,000 | $92,000 | $2,880 |
 
-> **Helpful resource:** [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Three percentage points sounds small. It isn't.
 
 Say your business generates $200,000 in qualified business income. At 20%, you deduct $40,000 from your taxable income. At 23%, that deduction becomes $46,000. That extra $6,000 in deductible income, taxed at a 24% marginal rate, saves you $1,440 in federal taxes for that year alone. Scale that up to $400,000 in QBI, and you're looking at nearly $3,000 in annual savings from the rate change.

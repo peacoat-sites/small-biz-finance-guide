@@ -50,8 +50,6 @@ If you're just starting out and can't afford full premiums, contributing even 50
 
 ## The Benefits That Cost Less Than You Think
 
-> **Helpful resource:** [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Retirement plans. Specifically, a SIMPLE IRA or a SEP-IRA for very small operations. These are far less expensive to administer than a 401(k), and the tax advantages for both you and your employees are real. A SIMPLE IRA requires you to either match employee contributions up to 3% of compensation or make a flat 2% contribution for all eligible employees. That's it. No plan document complexity, no annual testing, no $2,000 TPA fee. The [U.S. Small Business Administration (SBA)](https://www.sba.gov/) has solid plain-language guidance on retirement plan options for small employers if you want a comparison chart.
 
 PTO and flexible scheduling cost you almost nothing structurally, yet surveys consistently show they rank just behind health insurance in employee preference. A clear, written PTO policy matters more than the number of days. Employers offering 15 days of PTO with no written policy often lose employees who feel like they cannot actually take the time without guilt. Clarity is the product here.

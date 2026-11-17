@@ -45,8 +45,6 @@ I've set up both platforms for clients over the years. The single most reliable 
 
 ## The Actual Pricing (Current as of July 2026)
 
-> **Helpful resource:** [Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Pricing in this category changes frequently. Both companies discount heavily for the first few months, then reset to full rate. The numbers below are standard (non-promotional) monthly rates.
 
 | Plan | FreshBooks | QuickBooks |

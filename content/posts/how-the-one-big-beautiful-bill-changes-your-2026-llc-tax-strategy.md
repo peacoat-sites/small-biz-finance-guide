@@ -40,8 +40,6 @@ One caveat: the deduction still phases out for certain service businesses above 
 
 ## Bonus Depreciation Is Back at 100%. Use It on the Right Assets.
 
-> **Helpful resource:** [QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This got lost in the QBI conversation, but for asset-heavy operations, it's probably the bigger immediate win.
 
 The OBBBA restored [100% bonus depreciation](/how-to-use-100-bonus-depreciation-to-cut-your-2026-tax-bill/) for qualifying property acquired after January 19, 2025, and made it permanent. It also increased the Section 179 expensing cap from $1.25 million to $2.5 million. They're not the same thing and don't function identically, but the takeaway is straightforward: buy qualifying equipment, machinery, vehicles, or certain software this year, and you can write the whole cost off in 2026 instead of spreading it over five to seven years.

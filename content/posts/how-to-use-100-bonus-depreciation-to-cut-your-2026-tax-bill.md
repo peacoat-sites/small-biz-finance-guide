@@ -32,10 +32,6 @@ The reason mid-2026 is a critical window: equipment you buy and put into service
 | Section 179 Expensing (2026) | Up to $2,560,000 | $4,090,000 equipment spend | Capped by taxable income; elective; recognized by most states |
 | Section 179 Phase-Out | N/A | Disappears around $6,650,000 | Dollar-for-dollar reduction above threshold |
 
-> **Helpful resource:** [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 These two deductions are often described as interchangeable. They're not.
 
 Bonus depreciation under Section 168(k) applies automatically to new and used qualifying property. It can create or deepen a net operating loss, which you can carry forward to offset future profitable years. That makes it genuinely useful for businesses in a growth or investment phase who expect to be more profitable in 2027 or 2028.
@@ -77,9 +73,9 @@ The permanent restoration of 100% bonus depreciation removes the guessing game t
 ## Sources
 
 - [IRS: One Big Beautiful Bill Act Provisions](https://www.irs.gov/newsroom/one-big-beautiful-bill-provisions) (June 2026)
-- [U.S. Bank: Maximizing Deductions , Section 179 and Bonus Depreciation](https://www.usbank.com/corporate-and-commercial-banking/insights/credit-finance/equipment/maximize-deductions-section-179.html) (June 2026)
+- [U.S. Bank: Maximizing Deductions, Section 179 and Bonus Depreciation](https://www.usbank.com/corporate-and-commercial-banking/insights/credit-finance/equipment/maximize-deductions-section-179.html) (June 2026)
 - [Grant Thornton: OBBBA Offers New Ways to Accelerate Depreciation](https://www.grantthornton.com/insights/alerts/tax/2025/insights/obbba-offers-new-ways-to-accelerate-depreciation) (July 2025)
-- [Warren Averett: The One Big Beautiful Bill Act Breakdown , Bonus Depreciation](https://warrenaverett.com/insights/one-big-beautiful-bill-bonus-depreciation/) (January 2026)
+- [Warren Averett: The One Big Beautiful Bill Act Breakdown, Bonus Depreciation](https://warrenaverett.com/insights/one-big-beautiful-bill-bonus-depreciation/) (January 2026)
 - [Carr, Riggs & Ingram: Bonus Depreciation is Back! OBBBA Depreciation Changes](https://www.criadv.com/insight/obbba-bonus-depreciation-section-179-changes/) (May 2026)
 - [Anders CPA: Key Changes to Bonus Depreciation, Section 179 and Section 174 from OBBBA](https://anderscpa.com/learn/blog/obbb-bonus-depreciation-section-179-section-174-one-big-beautiful-bill-act/) (February 2026)
 

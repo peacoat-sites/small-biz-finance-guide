@@ -43,8 +43,6 @@ For commercial real estate, you'll almost always be looking at the SBA 504 loan.
 
 ## What the Numbers Actually Look Like
 
-> **Helpful resource:** [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 As of July 2026, the fixed rate on the CDC portion of a 504 loan has been running roughly in the 5.5% to 7% range depending on the debenture term and market conditions. The bank portion rate is negotiated directly with your lender and is typically variable or fixed at the bank's discretion, which is worth pushing on. Here's a side-by-side of the two main programs across the factors that actually matter for real estate:
 
 | Feature | SBA 504 | SBA 7(a) |

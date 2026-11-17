@@ -41,8 +41,6 @@ There's also a practical funding angle. When you apply for a business loan, a li
 
 ## What Documents You'll Typically Need to Open an Account
 
-> **Helpful resource:** [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Banks vary far more than people expect. Chase or Bank of America have stricter documentation requirements than a local community bank or credit union. Online banks like Relay or Mercury have simplified the process significantly for startups. But nearly every institution asks for a core set of documents.
 
 **For all business types:**

@@ -45,8 +45,6 @@ The facility itself comes with an expiration date, usually 12 to 36 months. Befo
 
 ## Secured vs. Unsecured: What You're Actually Being Asked to Sign
 
-> **Helpful resource:** [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Smaller revolvers (generally under $100,000) from fintech lenders are often unsecured, meaning no specific collateral. You'll pay for that flexibility with rates that can run anywhere from 10% to 25% APR depending on your creditworthiness. The application process is faster, sometimes 24 to 48 hours, and the documentation requirements are lighter.
 
 Bank-issued revolvers above $100,000 almost always require collateral. The two most common structures are asset-based lending (ABL), where you're borrowing against receivables and inventory, and blanket lien facilities, where the lender takes a security interest in substantially all business assets. ABL revolvers calculate your borrowing base monthly, which means your available credit actually fluctuates with your receivables balance. A $500,000 ABL facility might only let you draw $310,000 this month because your eligible receivables don't support more.

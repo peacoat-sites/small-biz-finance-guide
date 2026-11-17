@@ -50,8 +50,6 @@ The key constraint: the IRS requires that if you want to use standard mileage fo
 | Section 179 Deduction | Vehicles purchased outright or financed | Full cost deductible in year of purchase (subject to limits and business-use %) | Vehicle must be actively used for business; passenger vehicle caps apply |
 | Bonus Depreciation | New or used business vehicles | Immediate deduction of large percentage of cost in year one | Percentage steps down annually; confirm current rate with tax pro |
 
-> **Helpful resource:** [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where things get interesting for owners who purchased a vehicle outright or financed one.
 
 Under Section 179 of the tax code, you can deduct the full cost of qualifying business property in the year you buy it, rather than depreciating it over several years. Vehicles qualify, but there are limits based on vehicle type and business-use percentage. Passenger vehicles face relatively low annual caps. However, SUVs and trucks with a gross vehicle weight rating (GVWR) over 6,000 pounds fall into a different category with significantly higher deduction limits. This is why you'll sometimes hear business owners talk about buying a heavy SUV specifically for the tax write-off. That's not a myth. The math can be real. But the vehicle still has to be genuinely used for business.

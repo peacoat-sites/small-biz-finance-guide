@@ -42,8 +42,6 @@ But here's what that transition didn't change: the DUNS number still matters eno
 
 ## Why You Might Still Need One
 
-> **Helpful resource:** [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Your D&B profile and DUNS number are the foundation of your Dun & Bradstreet [business credit file](/business-credit-building-tips/). Suppliers, lenders, and corporate clients use D&B's database to check on businesses before extending credit terms or entering contracts. Net-30 accounts, vendor credit lines, corporate purchasing agreements, some bank products. All of these may pull your D&B profile.
 
 I've seen small manufacturers lose net-60 payment terms with a major supplier because they had no D&B profile at all. The supplier's credit department ran the check, found nothing, and defaulted to "cash in advance." That's not a hypothetical. That cost the business real cash flow.

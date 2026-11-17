@@ -49,8 +49,6 @@ One catch worth flagging: if you're also on Medicare, even just Part A, you can'
 | Self-Only | $1,650 | $8,300 | $4,300 | $1,000 |
 | Family | $3,300 | $16,600 | $8,550 | $1,000 |
 
-> **Helpful resource:** [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 For 2026, contribution limits are $4,300 for self-only coverage and $8,550 for family coverage. If you're 55 or older, you can add a $1,000 catch-up contribution on top.
 
 Here's why this is meaningful for the self-employed specifically. When you contribute to an HSA, that contribution reduces your adjusted gross income. Lower AGI can also affect your ACA premium tax credit calculations, which is its own layer of strategy worth discussing with your CPA (seriously, on this one particular point, a one-hour call is worth it). The interaction between HSA contributions, MAGI, and ACA subsidies is not simple, and getting it wrong in either direction costs you real money.

@@ -37,8 +37,6 @@ For small business owners, this isn't abstract. The prime rate sits at 6.75% as 
 | SBA 504 Fixed | Tied to Treasury yields | 10-year Treasury at 4.44%, 5-year at 4.19% | Moving upward for borrowers |
 | Conventional (community banks/credit unions) | Double digits+ | Collateral quality, credit file | Higher for weaker profiles |
 
-> **Helpful resource:** [AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let me give you the real numbers, because this is where a lot of business owners are working from outdated assumptions.
 
 SBA 7(a) fixed rates currently range from 9.75% to 14.75%, depending on loan size and term, according to data from Lendio and Bay Street Lending as of early July 2026. That spread is wide, and where you land in it depends on your credit profile, loan amount, and lender. SBA 504 loans, which are commonly used for commercial real estate and major equipment, are tied more directly to Treasury yields. The 10-year Treasury hit 4.44% and the 5-year came in at 4.19% on June 30, 2026. Those yields push 504 fixed rates higher and they've been moving in the wrong direction for borrowers.
@@ -77,12 +75,12 @@ Nobody can tell you with certainty where rates go from here. The Fed itself has 
 
 ## Sources
 
-- [Current SBA 7(a) Loan Rates July 2026 ,  Lendio](https://www.lendio.com/blog/sba-loan-interest-rates) (July 2, 2026)
-- [Current SBA 7(a) Loan Rates July 2026 ,  Bay Street Lending](https://www.baystreetlending.com/lending-resources/sba-loan-rates-and-terms) (July 1, 2026)
-- [SBA Loan Rates July 2026 ,  NerdWallet](https://www.nerdwallet.com/business/loans/learn/sba-loan-rates) (July 1, 2026)
-- [Business Loan Rates 2026: What to Expect ,  Business.com](https://www.business.com/articles/business-loan-interest-rates/) (June 2026)
+- [Current SBA 7(a) Loan Rates July 2026, Lendio](https://www.lendio.com/blog/sba-loan-interest-rates) (July 2, 2026)
+- [Current SBA 7(a) Loan Rates July 2026, Bay Street Lending](https://www.baystreetlending.com/lending-resources/sba-loan-rates-and-terms) (July 1, 2026)
+- [SBA Loan Rates July 2026, NerdWallet](https://www.nerdwallet.com/business/loans/learn/sba-loan-rates) (July 1, 2026)
+- [Business Loan Rates 2026: What to Expect, Business.com](https://www.business.com/articles/business-loan-interest-rates/) (June 2026)
 - [Intuit QuickBooks Small Business Index: July 2026](https://quickbooks.intuit.com/r/small-business-data/index/july-2026/) (July 2, 2026)
-- [How the Fed Rate Impacts Small-Business Loans ,  NerdWallet](https://www.nerdwallet.com/business/loans/learn/fed-rate-cut-small-business-loans) (June 2026)
+- [How the Fed Rate Impacts Small-Business Loans, NerdWallet](https://www.nerdwallet.com/business/loans/learn/fed-rate-cut-small-business-loans) (June 2026)
 
 ---
 

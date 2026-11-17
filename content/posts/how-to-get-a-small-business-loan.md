@@ -63,8 +63,6 @@ Know these five things cold before you walk into any meeting.
 | Invoice Financing/Factoring | Urgent cash needs against receivables | Fast funding; higher cost | Based on receivables |
 | Microloans | Startups, businesses without traditional credit | Nonprofit lenders and CDFIs | Typically under $50,000 |
 
-> **Helpful resource:** [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Not every loan is the right loan. Picking the wrong product can cost you thousands in interest or saddle you with terms your cash flow can't handle.
 
 **SBA Loans** are partially guaranteed by the federal government, which reduces risk for lenders and typically results in better terms for you. The SBA 7(a) loan is the most common, available up to $5 million, and covers working capital, equipment, real estate, and more. [SBA 504 loans](/sba-504-loan-commercial-property/) are structured specifically for major fixed assets like commercial real estate or heavy equipment. They take longer to close (often 60 to 90 days) but carry lower interest rates and longer repayment periods. If you qualify, the wait is worth it.

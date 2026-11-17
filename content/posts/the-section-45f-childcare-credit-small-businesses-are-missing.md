@@ -42,18 +42,14 @@ Here's a quick side-by-side so you can see the before and after:
 |---|---|---|
 | Credit rate | 25% of qualified expenses | 50% of qualified expenses |
 | Annual cap | $150,000 | $600,000 (inflation-indexed from 2027) |
-| Facility ownership required? | Effectively yes for most | No ,  third-party contracts qualify |
-| Resource pooling allowed? | No | Yes ,  small businesses can jointly contract |
+| Facility ownership required? | Effectively yes for most | No, third-party contracts qualify |
+| Resource pooling allowed? | No | Yes, small businesses can jointly contract |
 | Gross receipts threshold | N/A | Under $32 million average annual |
 | Carryforward period | 20 years | 20 years |
 
 The carryforward provision is worth flagging. If your tax liability in 2026 is low and you can't use the full credit, it doesn't disappear. It carries forward for up to 20 years. That's meaningful for early-stage businesses that are building expenses before profits catch up.
 
 ## The Third-Party Provider Rule Is the Real Game Changer
-
-> **Helpful resource:** [Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
 
 Here's what I tell people when they first hear about this credit and immediately assume it doesn't apply to them: you do not need to build a daycare. You do not need to run one. You do not even need to contract directly with a facility on your own.
 
@@ -87,7 +83,7 @@ Tax credits at this scale, dollar-for-dollar, with a $600,000 ceiling and a 20-y
 
 ## Sources
 
-- [Employer-Provided Child Care Credit ,  Tax Year 2026 and Later (IRS)](https://www.irs.gov/businesses/small-businesses-self-employed/employer-provided-child-care-credit-tax-year-2026-and-later) (June 2026)
+- [Employer-Provided Child Care Credit, Tax Year 2026 and Later (IRS)](https://www.irs.gov/businesses/small-businesses-self-employed/employer-provided-child-care-credit-tax-year-2026-and-later) (June 2026)
 - [Employer Childcare Credit Quadruples for Small Businesses in 2026 (SelfEmployed.com)](https://www.selfemployed.com/news/employer-childcare-credit-2026/) (April 17, 2026)
 - [OBBBA Supercharges the Employer Childcare Credit for 2026 (Financial Dream Team)](https://www.financialdreamteam.com/tax/obbba-supercharges-the-employer-childcare-credit-for-2026/) (February 17, 2026)
 - [Understanding OBBB Enhancements to Employer Leave and Childcare Credits (Thomson Reuters)](https://tax.thomsonreuters.com/news/understanding-obbb-enhancements-to-employer-leave-and-childcare-credits/) (February 4, 2026)

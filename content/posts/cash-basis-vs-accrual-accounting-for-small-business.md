@@ -47,8 +47,6 @@ The flip side: cash basis tells you something accrual doesn't, which is exactly 
 
 ## The IRS Has Opinions, and They're Non-Negotiable
 
-> **Helpful resource:** [Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 As of July 2026, the IRS rules on this are clear enough, though the thresholds have shifted over the years and people still cite outdated numbers.
 
 If your business is a C corporation or a partnership with a C corporation partner, and your average annual gross receipts over the prior three years exceed $30 million, you're required to use accrual. If you're a smaller pass-through entity (S corp, [sole proprietorship](/llc-vs-sole-proprietorship-taxes/), partnership of individuals), the threshold is the same $30 million for the accrual requirement, but there's an important carve-out for businesses that carry inventory.

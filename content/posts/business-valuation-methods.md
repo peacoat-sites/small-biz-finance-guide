@@ -43,8 +43,6 @@ What you want is to understand three or four core methods well enough to triangu
 
 ## The Income Approach: What Your Earnings Are Actually Worth
 
-> **Helpful resource:** [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is the method most buyers and lenders care about most. The income approach asks one central question: how much money is this business going to generate, and what is that stream of income worth today?
 
 The most common version for small businesses is the **Seller's Discretionary Earnings (SDE) multiple**.

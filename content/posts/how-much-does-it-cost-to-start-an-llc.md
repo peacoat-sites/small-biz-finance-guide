@@ -57,10 +57,6 @@ One thing I'll tell clients right away: get your EIN directly from IRS.gov. It's
 
 ## State Filing Fees, Side by Side
 
-> **Helpful resource:** [The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 The variance here is genuinely large. Wyoming, New Mexico, and Montana are the go-to states if you want to minimize cost and are willing to manage some complexity around registering as a foreign LLC if you actually operate elsewhere.
 
 

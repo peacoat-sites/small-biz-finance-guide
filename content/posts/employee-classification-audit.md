@@ -42,8 +42,6 @@ What most people don't know: there's actually an IRS program called [Section 350
 
 ## How Worker Classification Is Actually Determined
 
-> **Helpful resource:** [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where conventional wisdom gets people into trouble. A lot of business owners think that if someone signed a contract calling them an independent contractor, they're legally a contractor. That's wrong. The label you use in a contract is almost irrelevant. What matters is the economic reality of the relationship.
 
 The IRS uses what's called the "Common Law" test, which looks at behavioral control (do you control how the work is done?), financial control (do you control the business aspects of the worker's job?), and the type of relationship (are there written contracts, employee benefits, permanency?). The DOL uses something different: an "economic reality" test, which leans more heavily on whether the worker is economically dependent on your business. And a number of states have adopted the "ABC test," which is even stricter.

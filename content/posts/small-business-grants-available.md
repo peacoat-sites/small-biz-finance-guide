@@ -45,8 +45,6 @@ Grants are competitive. Think of it less like a lottery, more like a job applica
 
 ## Where the Money Actually Comes From
 
-> **Helpful resource:** [Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Grant sources fall into distinct categories, and the difference matters. Each has its own application process, timeline, and eligibility requirements.
 
 **Federal grants** come through government agencies. [Grants.gov](https://www.grants.gov/) is the main portal, listing thousands of active opportunities. Most federal small business grants tie to research and innovation, specifically through the Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR) programs. If you're tech-focused or in R&D, these deserve a serious look. General "small business" federal grants unattached to a specific purpose are rare.

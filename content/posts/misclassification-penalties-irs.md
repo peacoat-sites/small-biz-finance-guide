@@ -50,8 +50,6 @@ What most people don't realize is that no single factor is automatically disqual
 | No 1099s filed | No | Unintentional | 3.0% of wages | 40% of employee share | Rates double without documentation |
 | Willful misclassification | Any | Willful | Full withholding owed | Full employer + employee shares | Most severe; no offsets allowed |
 
-> **Helpful resource:** [The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where I want you to pay close attention, because the numbers are genuinely shocking if you haven't seen them laid out.
 
 Under Section 3509 of the Internal Revenue Code, if the IRS determines you misclassified employees, the penalties depend heavily on whether you filed 1099s for those workers and whether the misclassification was "intentional."

@@ -55,8 +55,6 @@ Here's what I tell people when they ask which tier to start on: start with Enhan
 
 *Pricing as of 2025-2026; actual costs vary by state, employee count, and negotiation. Always request a full written fee schedule including year-end charges before signing.*
 
-> **Helpful resource:** [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ADP doesn't publish pricing publicly. I find this obnoxious, frankly, and so do most of my clients. You have to call or request a quote. Based on current pricing, RUN Essential typically starts around $59-79/month for up to a handful of employees, plus a per-employee fee that currently runs $4-8 per person per pay period depending on negotiation and tier.
 
 Yes, you can negotiate. ADP sales reps have flexibility on the base rate, especially if you mention you're also looking at Gusto or Paychex. It's possible to get 3-6 months free or a meaningful discount on the monthly base by asking directly, especially if you mention you're also looking at Gusto or Paychex. Don't skip this step.

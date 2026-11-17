@@ -28,10 +28,6 @@ One more thing worth knowing: starting in 2027, the $2,000 threshold will be ind
 
 ## What You Need to Update Right Now
 
-> **Helpful resource:** [AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Here's what I tell people when they come to me mid-year with this kind of change: the risk isn't that you don't know about it. The risk is that your systems still don't know about it.
 
 Your accounting software almost certainly had a $600 alert trigger built in, and many platforms didn't automatically update that threshold when the law changed. QuickBooks, for example, has published updated guidance as recently as June 2026 walking users through how to adjust their 1099 vendor tracking settings. If you haven't gone into your software and manually changed that threshold, you may be generating phantom alerts for payments between $600 and $2,000, which creates unnecessary busywork and the potential for misfilings next January.

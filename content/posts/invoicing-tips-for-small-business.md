@@ -63,8 +63,6 @@ A common mistake is leaving payment terms vague on invoices. When terms aren't e
 
 ## Set Payment Terms That Actually Work for Your Cash Flow
 
-> **Helpful resource:** [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Net 30 became the default in B2B almost by accident. It's not law. It's a convention, and it's one that usually works against small businesses with their own bills to pay.
 
 Think about what net 30 actually means. You complete the work, send the invoice, and wait up to 30 days to get paid. If your client is slow with mail or has a backlog in accounting, you're looking at 45 days or more. Your money is sitting in someone else's bank account.

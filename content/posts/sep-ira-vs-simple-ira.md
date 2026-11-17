@@ -38,8 +38,6 @@ That one distinction shapes almost every other difference between them.
 | Employer match required | No | Yes |
 | Eligibility restrictions on plan changes | Flexible | 2-year waiting period to switch plans |
 
-> **Helpful resource:** [QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 For 2024, a SEP IRA lets you contribute up to 25% of each eligible employee's compensation, capped at $69,000 per person. If you're a solo operator or self-employed with no staff, that ceiling is genuinely meaningful. A profitable year can mean a very large tax-deferred contribution.
 
 A SIMPLE IRA caps employee deferrals at $16,000 in 2024, with a $3,500 catch-up contribution allowed if you're 50 or older. The employer match is typically either 2% of compensation for all eligible employees, or a dollar-for-dollar match up to 3% of compensation. Either way, the total going in per person is far lower than a SEP.

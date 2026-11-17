@@ -41,8 +41,6 @@ One thing I tell every client when they first file: the SE tax is based on 92.35
 
 ## The Rate Breakdown
 
-> **Helpful resource:** [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The 15.3% rate isn't monolithic. It has two pieces, and the Social Security piece has a ceiling.
 
 | Component | Rate | 2026 Wage Base Cap | Notes |

@@ -44,8 +44,6 @@ There's a second requirement that gets less attention: the space must be your *p
 
 ## Who Can Take This Deduction (and Who Can't, Full Stop)
 
-> **Helpful resource:** [QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Employees. I'll just say it directly: if you're a [W-2 employee](/1099-vs-w2-explained/), you cannot take the home office deduction under current federal tax law. That changed with the Tax Cuts and Jobs Act, and as of July 2026, it hasn't changed back. It doesn't matter that your employer sent you home during a company restructuring. It doesn't matter that you "have to" work from home. Federal deduction, gone.
 
 Many assume they can deduct a spare bedroom as a home office simply because their employer closed a regional office. This doesn't qualify; the IRS requires exclusive and regular business use in that specific space, not just because your workplace relocated.

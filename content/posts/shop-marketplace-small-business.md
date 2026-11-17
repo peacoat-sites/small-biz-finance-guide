@@ -51,8 +51,6 @@ Who benefits most in practice: a cleaning company with 12 employees earning $38,
 | Dental practice (Ohio) | 18 | Under $50,000 | ~$52,000 | ~$19,500 | ~$84,500 |
 | Food truck (Tennessee) | 8 | $34,000 | Higher via SHOP | ~$11,200 | Higher overall |
 
-> **Helpful resource:** [Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 As of July 2026, SHOP operates primarily through HealthCare.gov for most states, though a handful of states run their own SHOP exchanges. California (Covered California for Small Business), New York, and Colorado run independent state exchanges with their own plan inventories and rules.
 
 The enrollment path is straightforward, if a little clunky:

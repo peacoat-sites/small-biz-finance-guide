@@ -32,10 +32,6 @@ What changed is the reporting trigger, not the documentation discipline. Keep co
 
 ## State Conformity Is the Landmine Nobody Mentions
 
-> **Helpful resource:** [Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Here's what surprised me when I went deep on this: the federal change doesn't automatically apply to your state obligations. According to analysis from Pease Bell published in June 2026, some states, including Massachusetts and Vermont, still require 1099 filing at the $600 threshold. If you have contractors in those states, you're operating under two different rules at the same time.
 
 | Threshold Level | Who It Applies To | What You Must File |
@@ -66,7 +62,7 @@ The threshold change is real administrative relief. But the businesses that bene
 
 ## Sources
 
-- [The $600 1099 Rule Is Dead ,  New $2000 Threshold Explained](https://www.cfo.bot/blog/1099-reporting-threshold-2000-guide) (April 26, 2026)
+- [The $600 1099 Rule Is Dead, New $2000 Threshold Explained](https://www.cfo.bot/blog/1099-reporting-threshold-2000-guide) (April 26, 2026)
 - [1099 Threshold 2026: OBBBA Act Form 1099 Reporting Changes – Pease Bell](https://www.peasebell.com/insights/the-obbba-act-form-1099-reporting/) (June 2026)
 - [1099 Reporting Thresholds 2026 New Filing Requirements | Tab Service](https://www.tabservice.com/blog/1099-reporting-thresholds-2026-when-new-filing-requirements-take-effect/) (June 11, 2026)
 - [Preparing for OBBBA Payroll & Reporting Changes | Meaden & Moore](https://www.meadenmoore.com/blog/tax/preparing-for-obbba-payroll-reporting-changes-meaden-moore) (Late 2025 / updated 2026)

@@ -41,8 +41,6 @@ The lender still carries a portion of the risk. So you're being evaluated by two
 
 ## The Core Eligibility Requirements
 
-> **Helpful resource:** [Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Most applicants trip up right here. They assume profitability is the main thing. It matters, but it's just one factor.
 
 **Business type and size.** Your business must qualify as "small" under SBA size standards, which vary by industry. For most businesses, you're looking at either a revenue cap or an employee count cap. A manufacturing company might qualify with up to 500 employees, while a retail business hits a revenue ceiling. Check the SBA's size standards tool at sba.gov for your specific NAICS code.

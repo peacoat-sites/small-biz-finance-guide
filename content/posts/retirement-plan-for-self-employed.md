@@ -41,8 +41,6 @@ You also get to choose the plan that fits your business model instead of accepti
 
 ## The Four Plans Worth Knowing
 
-> **Helpful resource:** [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 There are more than four retirement options for self-employed people if you want to get technical, but honestly, most of them aren't worth your time. Here are the ones I actually recommend, and when each makes sense.
 
 **SEP-IRA** (Simplified Employee Pension): The easiest to open, the easiest to maintain, and the most forgiving if your income varies year to year. You can contribute up to 25% of net self-employment income, up to a 2026 maximum of $70,000. Zero paperwork beyond the initial setup. You can fund it up to your tax filing deadline (including extensions), so if it's April and you don't know what you made yet, you have time. Banks like Fidelity and Vanguard let you open one online in about 20 minutes.

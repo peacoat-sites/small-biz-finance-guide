@@ -43,8 +43,6 @@ That said, there are also businesses that incorporate as actual S corps, the tra
 
 ## The Self-Employment Tax Math (Where the Real Money Is)
 
-> **Helpful resource:** [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is the crux of it, and I want to show you the numbers that actually matter.
 
 When you're a single-member LLC (or a sole prop), every dollar of profit you earn is subject to self-employment tax, which is 15.3% on the first $168,600 of net income (as of 2026, with the Social Security wage base adjusting annually). Above that, you still owe 2.9% Medicare tax on everything, plus an additional 0.9% if you're high-earning. That's on top of your federal and state income taxes.

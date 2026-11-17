@@ -54,8 +54,6 @@ A business can have a decent Intelliscore but still get flagged on the Financial
 
 ## How Your Business Credit File Gets Built
 
-> **Helpful resource:** [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Your Experian business file is fed by a handful of data sources: vendors and suppliers who report to Experian, financial institutions, court records (UCC filings, tax liens, judgments), and collection agencies. Experian also pulls some public data on its own.
 
 The part that surprises most business owners: **not all of your vendors report to Experian**. Some report to D&B instead. Some report to Equifax. Some don't report to anyone. When I work with a client who's been in business three years but has a thin credit file, usually the first thing I find is that they've been paying their vendors on time, but those vendors don't report. All that good payment history is invisible.

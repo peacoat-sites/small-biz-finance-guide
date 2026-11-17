@@ -49,8 +49,6 @@ What surprised me was how often this structure actually makes more sense than a 
 | Merchant Cash Advance | 30%+ APR | Quick access | Extremely high cost |
 | SBA 7(a) Loan | Varies | Established businesses | Requires revenue history |
 
-> **Helpful resource:** [The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 HELOCs are tied to the prime rate, which means the interest rate floats. In a rising rate environment that's a real risk. In a stable or declining one, you're often looking at rates that beat personal loans, credit cards, and many small business loans by a significant margin. As of mid-2026, HELOC rates at major lenders are generally running in the 7-9% range for well-qualified borrowers, which compares favorably against business lines of credit at 10-14% or [merchant cash advances](/merchant-cash-advance-risks/) that can carry effective APRs well above 30%.
 
 No, I'm not saying a HELOC is always cheaper. Points, appraisal fees, and annual fees add up. But on a dollar-for-dollar basis, for a borrower with good credit and meaningful equity, it's hard to beat on cost.

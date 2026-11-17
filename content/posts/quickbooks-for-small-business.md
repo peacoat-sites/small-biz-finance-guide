@@ -50,8 +50,6 @@ If you sell physical goods with any real volume, skip Essentials entirely and go
 
 ## Setting Up Your Chart of Accounts (Don't Botch This Part)
 
-> **Helpful resource:** [Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I'll be direct: this is the step that makes or breaks your QuickBooks setup, and almost every guide glosses over it in three sentences.
 
 Your chart of accounts is the skeleton of your books. Every transaction lands somewhere in it. If the skeleton is wrong, the body is wrong, and you'll spend tax season explaining to your CPA why your "meals and entertainment" category has $14,000 in it that's actually subcontractor payments.

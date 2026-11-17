@@ -45,8 +45,6 @@ What surprised me was how often small business owners assume their file is clean
 
 ## The Three Bureaus and Where to Monitor Them
 
-> **Helpful resource:** [Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's the comparison I wish someone had handed me ten years ago. Prices are current as of July 2026, though these do shift:
 
 | Bureau | Free Access? | Paid Monitoring Cost (approx.) | What It Covers |

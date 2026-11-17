@@ -56,8 +56,6 @@ Photography side business, four consecutive loss years, no documented marketing 
 | Photography side business, 4 consecutive loss years, no documented marketing | Hobby loss provisions (Section 183) | $6,200 in assessed taxes and penalties on ~$18,000 claimed expenses | Included in assessment |
 | Restaurant with clean records, income 11% below local median | Statistical review based on industry norms | Five-month examination, no additional tax assessed | $4,500 in CPA fees |
 
-> **Helpful resource:** [Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is the part most people underestimate. If you're in a cash-intensive business, you're in a higher-risk category full stop. Restaurants, car washes, nail salons, landscapers, contractors, food trucks. The IRS has industry-specific examination techniques for these sectors, and agents are trained to reconstruct income from indirect methods, like your bank deposits, cost of goods sold, or even your electricity usage, if they think your reported revenue is light.
 
 I worked with a restaurant owner in 2023 who had genuinely tidy books, good POS records, separate business and personal accounts. His audit came out clean. But it took five months and roughly $4,500 in CPA fees to get there. The trigger? His reported income was about 11% below the statistical median for similarly sized restaurants in his zip code. That was enough.

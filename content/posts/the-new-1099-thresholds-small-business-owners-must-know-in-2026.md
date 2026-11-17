@@ -35,8 +35,6 @@ So: contractors got a higher threshold, payment apps got a higher threshold too,
 
 ## The State Mismatch Nobody's Talking About
 
-> **Helpful resource:** [Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Several states never adopted the federal $20,000/200-transaction threshold in the first place, and they're not obligated to follow the federal rollback either. That means if you're running a business in a state like Vermont, Maryland, or Massachusetts, your payment processor may still send you, and your customers, a 1099-K at a much lower dollar amount than the federal floor.
 
 What most people don't realize is that the form gets issued based on where the transaction occurs or where the account is registered, not based on federal law alone. Venmo's own tax guidance for 2026 confirms that state thresholds can differ and that users should check their specific state rules. If you get a 1099-K from PayPal for $3,500 in sales, that's not a mistake. It's your state doing its own thing.
@@ -74,7 +72,7 @@ The bottom line is that 2026 simplified some things and complicated others at th
 ## Sources
 
 - [Form 1099-K Reporting Requirements for 2026 | Tab Service Company](https://www.tabservice.com/blog/form-1099-k-reporting-requirements/) (June 2026)
-- [1099-K Threshold 2026: Venmo, PayPal, Cash App , Tax47](https://www.ehm-tech.com/tax-calculator-us/blog/1099-k-threshold-2026-venmo-paypal/) (May 2026)
+- [1099-K Threshold 2026: Venmo, PayPal, Cash App, Tax47](https://www.ehm-tech.com/tax-calculator-us/blog/1099-k-threshold-2026-venmo-paypal/) (May 2026)
 - [Small Business Tax Changes for 2026 | 1-800Accountant](https://1800accountant.com/blog/tax-changes-for-2026) (March 10, 2026)
 - [2026 1099-K Rules for Venmo & PayPal: The $600 Fact-Check | The Data Pulse Hub](https://thedatapulsehub.com/2026/01/27/2026-1099-k-venmo-paypal-rules/) (January 27, 2026)
 - [About Current Tax Laws | Venmo (official)](https://help.venmo.com/cs/articles/about-current-tax-laws-vhel103) (2026)

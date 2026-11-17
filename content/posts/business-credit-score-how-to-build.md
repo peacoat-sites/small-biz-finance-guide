@@ -45,8 +45,6 @@ The practical upshot: if you've never deliberately built business credit, your b
 
 ## How to Get Your Business Credit Foundation in Place
 
-> **Helpful resource:** [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Before any score can be built, fix the infrastructure first. No shortcuts.
 
 Get your EIN from the IRS if you don't have one. It's free at IRS.gov and takes about ten minutes online. This is the identifier that anchors your business credit file.

@@ -47,8 +47,6 @@ What actually kills applications isn't a mediocre credit score. It's unpredictab
 
 ## "SBA Loans Take Forever"
 
-> **Helpful resource:** [QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The six-months-to-close horror story is real, but it's not typical, and it's almost always self-inflicted.
 
 SBA preferred lenders, banks with delegated authority to approve loans internally without SBA review, process applications in 2 to 5 weeks for straightforward requests. The full SBA review process for standard cases runs 5 to 10 business days once the file is complete. Most closings land somewhere between 30 and 90 days, depending on the lender, the loan size, and how prepared the borrower is.

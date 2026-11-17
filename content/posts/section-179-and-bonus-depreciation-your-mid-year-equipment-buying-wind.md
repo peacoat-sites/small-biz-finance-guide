@@ -32,16 +32,14 @@ What most people don't realize is that Section 179 and bonus depreciation aren't
 
 ## The Real Dollar Difference in 2026
 
-> **Helpful resource:** [Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let me show you why the new numbers matter in practice.
 
 | Scenario | 2025 Rules | 2026 Rules |
 |---|---|---|
 | Equipment purchase | $1,800,000 | $1,800,000 |
 | Year-one deduction | ~$1,470,000 | $1,800,000 |
-| Difference in deductible amount | ,  | +$330,000 |
-| Tax savings difference (21% rate) | ,  | ~$69,300 |
+| Difference in deductible amount |, | +$330,000 |
+| Tax savings difference (21% rate) |, | ~$69,300 |
 
 The figures above are drawn from Section179.org's 2026 deduction guide and reflect the kind of real-world difference the rule change creates for businesses doing meaningful capital investment. If you're buying $500,000 in equipment, the math is proportionally smaller but the logic is the same: more of your purchase cost disappears from taxable income in year one, rather than being spread over five to seven years through standard depreciation.
 

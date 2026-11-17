@@ -32,10 +32,6 @@ That's one reason the SBA wants to shift the default measure. For most non-servi
 
 ## What Actually Changes for Your Industry
 
-> **Helpful resource:** [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 The range of proposed threshold changes is significant. Some industries would see modest adjustments. Others would see dramatic rewrites. The computer systems design sector is the clearest example. Under the current rule, NAICS 5415 carries a $34 million revenue threshold. Under the proposed standard, that number jumps to $531 million, according to the SBA's own published figures. That's not a rounding error. That's a reclassification that would pull a large chunk of the mid-market tech services sector into [small business](/small-business-credit-card-guide/) eligibility overnight.
 
 Here's a side-by-side look at how the structure of the rule itself changes:
@@ -46,8 +42,8 @@ Here's a side-by-side look at how the structure of the rule itself changes:
 | Primary measure (most industries) | Annual revenue | Employee headcount |
 | Standard grouping level | 6-digit NAICS (narrow) | 4- and 5-digit NAICS (broader) |
 | NAICS 5415 revenue threshold | $34 million | $531 million |
-| Estimated firms gaining small status | ,  | ~114,541 |
-| Estimated firms losing small status | ,  | Fewer than 200 |
+| Estimated firms gaining small status |, | ~114,541 |
+| Estimated firms losing small status |, | Fewer than 200 |
 
 The consolidation from narrow to broader NAICS codes is itself a significant structural shift. Right now, two companies in closely related sub-industries might face different thresholds. Under the proposal, they'd fall under the same standard. That could help businesses that were caught in an oddly narrow category with a low cap.
 
@@ -76,12 +72,12 @@ If your business is on the boundary, don't restructure or make major capital dec
 The SBA is not in the business of making itself smaller. This proposal expands access, and significantly so. If your business has been sitting on the wrong side of an arbitrary threshold for years, that may be about to change.
 
 ## Sources
-- [SBA Issues Proposed Rules on Industry Size Standards ,  SBA Office of Advocacy](https://advocacy.sba.gov/2026/08/20/sba-issues-proposed-rules-on-industry-size-standards-and-revised-size-standards-methodology/) (August 20, 2026)
-- [SBA Proposes to Fundamentally Redefine 'Small Business' ,  Wiley Law](https://www.wiley.law/alert-SBA-Proposes-to-Fundamentally-Redefine-Small-Business) (August 2026)
-- [Small Is About to Get a Lot Bigger ,  Government Contracts Law Blog](https://www.governmentcontractslaw.com/2026/08/small-is-about-to-get-a-lot-bigger-sba-proposes-to-rewrite-the-size-standards-for-nearly-every-industry-that-sells-to-the-government/) (August 2026)
-- [SBA's Proposed Expansion of Small Business Program Eligibility ,  Congressional Research Service](https://www.congress.gov/crs-product/IN12740) (2026)
-- [Best Small Business Loans of November 2026 ,  NerdWallet](https://www.nerdwallet.com/business/loans/best) (November 2026)
-- [Comment Period Extension ,  Regulations.gov Docket SBA-2026-0199](https://www.regulations.gov/document/SBA-2026-0199-2726) (September 2026)
+- [SBA Issues Proposed Rules on Industry Size Standards, SBA Office of Advocacy](https://advocacy.sba.gov/2026/08/20/sba-issues-proposed-rules-on-industry-size-standards-and-revised-size-standards-methodology/) (August 20, 2026)
+- [SBA Proposes to Fundamentally Redefine 'Small Business', Wiley Law](https://www.wiley.law/alert-SBA-Proposes-to-Fundamentally-Redefine-Small-Business) (August 2026)
+- [Small Is About to Get a Lot Bigger, Government Contracts Law Blog](https://www.governmentcontractslaw.com/2026/08/small-is-about-to-get-a-lot-bigger-sba-proposes-to-rewrite-the-size-standards-for-nearly-every-industry-that-sells-to-the-government/) (August 2026)
+- [SBA's Proposed Expansion of Small Business Program Eligibility, Congressional Research Service](https://www.congress.gov/crs-product/IN12740) (2026)
+- [Best Small Business Loans of November 2026, NerdWallet](https://www.nerdwallet.com/business/loans/best) (November 2026)
+- [Comment Period Extension, Regulations.gov Docket SBA-2026-0199](https://www.regulations.gov/document/SBA-2026-0199-2726) (September 2026)
 
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 

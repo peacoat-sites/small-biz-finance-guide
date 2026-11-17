@@ -45,8 +45,6 @@ Worked example: A software founder retaining $500,000 annually for product devel
 
 ## The ownership and investor rules that will box you in
 
-> **Helpful resource:** [Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is the section most articles bury, and it shouldn't be buried, because this is often the deciding factor.
 
 S-corps have hard restrictions baked in. You can have no more than 100 shareholders. Every single one must be a U.S. citizen or permanent resident. You cannot have another corporation or an LLC as a shareholder. And you get one class of stock, period. No preferred shares, no different dividend rights, no liquidation preferences.

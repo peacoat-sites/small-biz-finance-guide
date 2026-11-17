@@ -45,8 +45,6 @@ Construction, staffing, trucking, and professional services often use factoring 
 | Non-Recourse Factoring | Factor informs client to pay directly | Higher | Protection against client insolvency (limited) |
 | Non-Notification Factoring | Client pays you, you remit to factor | Highest | Maintaining confidential client relationships |
 
-> **Helpful resource:** [Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Not all factoring agreements are the same. This is where business owners get surprised.
 
 With **recourse factoring**, if your client doesn't pay the invoice, you're on the hook. The factor comes back to you for the money. This is more common and also cheaper because the factor carries less risk.

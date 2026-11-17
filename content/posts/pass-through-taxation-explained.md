@@ -55,8 +55,6 @@ That last row is where a lot of the "S-corp tax savings" conversation comes from
 
 ## The Part Nobody Explains Well: Self-Employment Tax
 
-> **Helpful resource:** [The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where I see clients get blindsided. They hear "pass-through means you avoid double taxation" and assume their tax burden is light. It's not always light. In fact, for a profitable sole prop or single-member LLC, the self-employment tax alone can feel brutal.
 
 As of 2026, self-employment tax is 15.3% on the first $168,600 of net self-employment income (12.4% Social Security plus 2.9% Medicare), and then 2.9% on anything above that threshold. You can deduct half of SE tax on your personal return, which softens the blow a bit. But when you're pulling $120,000 in net profit from a sole prop, you're looking at roughly $16,955 in SE tax before income tax even enters the picture.

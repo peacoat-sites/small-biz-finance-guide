@@ -45,8 +45,6 @@ The [IRS small business tax center](https://www.irs.gov/businesses/small-busines
 
 ## What Actually Qualifies: The Real Categories
 
-> **Helpful resource:** [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where I'll slow down, because this is the part that actually moves the needle.
 
 **Office and workspace costs.** If you rent dedicated office space, that rent is fully deductible. If you work from home, you can deduct a portion of your home expenses under the home office deduction. This one gets people nervous because of an old myth that it "triggers audits." As of 2026, there is no credible IRS data supporting that home office deductions are disproportionately flagged. Use it if you qualify. The simplified method lets you deduct $5 per square foot up to 300 square feet, so $1,500 max. The regular method requires calculating actual costs (mortgage interest or rent, utilities, insurance) as a percentage of your home, which often yields more but requires better recordkeeping.

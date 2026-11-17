@@ -48,8 +48,6 @@ Here's the useful frame: your income statement tells you if you're winning. Your
 | Financing Activities | How are we funding the business? | Not perpetually dependent on debt |
 | Net Change in Cash | Did we end up with more or less cash? | Positive or intentionally managed |
 
-> **Helpful resource:** [QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Every cash flow statement splits into three activities. Each one answers a different question about where your money comes from and where it goes.
 
 **Operating Activities**

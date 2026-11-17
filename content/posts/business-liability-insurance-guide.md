@@ -62,8 +62,6 @@ Each is a separate policy with its own premium and coverage limits. An independe
 
 ## How Much Coverage Do You Actually Need
 
-> **Helpful resource:** [Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Small business owners get into trouble here constantly. They buy the cheapest policy available, hit the minimum coverage limit, and move on. Then a claim comes in that exceeds the limit and suddenly they're personally on the hook for the rest.
 
 General liability limits typically come in two numbers: per-occurrence and aggregate. A common starting policy might be $1 million per occurrence and $2 million aggregate. That means the insurer pays up to $1 million on any single claim and $2 million total in a policy year.

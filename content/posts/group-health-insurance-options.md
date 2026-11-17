@@ -51,8 +51,6 @@ One thing I've noticed after years of working through plan selection with client
 
 ## The Numbers You Actually Need to See
 
-> **Helpful resource:** [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 As of July 2026, here's what group health insurance realistically costs for small businesses. These figures draw from the KFF 2025 Employer Health Benefits Survey and current [SHOP Marketplace](/shop-marketplace-small-business/) data. Take them as ranges, not guarantees, and note that your state, workforce age, and plan type all move these meaningfully.
 
 | Plan Type | Avg. Monthly Employee Premium (single) | Avg. Monthly Employer Cost (single) | Annual Deductible (typical) |

@@ -44,10 +44,6 @@ Where Xero stumbles: payroll in the U.S. is an add-on (Gusto integration works w
 
 ## Getting Set Up Without Making a Mess of It
 
-> **Helpful resource:** [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 The first decision is your start date, and most people get this wrong. They pick January 1st because it feels clean. But if you're starting in October, that means you'll have nine months of transactions to import or enter manually before you're current. Unless you actually plan to do that historical work, pick today's date and start fresh. Catch up the prior months with a summary journal entry from your accountant.
 
 The second decision is your chart of accounts. Xero gives you a default template based on industry. Use it as a starting point, delete what doesn't apply, and resist the urge to create 40 custom accounts in week one. A chart of accounts with 25 well-used categories beats one with 80 categories where transactions go to the wrong place half the time. You can always add accounts later. Cleaning up a chart of accounts that got messy early is painful.

@@ -41,8 +41,6 @@ What saved it was the 7(a) loan guaranty program, which grew steadily through th
 
 ## The 1960s and 1970s: Social Policy Gets Added to the Mix
 
-> **Helpful resource:** [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is the period most people skip, but it matters. The SBA's early years were almost exclusively about access to capital. Then came the civil rights movement, urban unrest, and a federal government trying to respond through economic inclusion. The SBA got handed a new job: help minority-owned and disadvantaged businesses.
 
 The 8(a) Business Development Program grew out of this era, formalized through the 1978 amendments to the Small Business Act. It's named for a section of the Act and is still one of the more misunderstood programs the agency runs. Qualifying businesses can receive set-aside federal contracts and mentoring for up to nine years. It's a real program with real money, but the application process is, to put it gently, thorough. Plan for a wait measured in months, not weeks.

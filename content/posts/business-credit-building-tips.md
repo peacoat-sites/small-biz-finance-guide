@@ -36,8 +36,6 @@ Get your EIN from the IRS if you haven't already. The [IRS small business tax ce
 
 ## Start With Vendors Who Report to Commercial Bureaus
 
-> **Helpful resource:** [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's what I tell people when they're starting from zero: don't go straight to a bank. Go to your vendors.
 
 Certain business suppliers offer what's called "net 30" accounts. You buy supplies or products, and you have 30 days to pay. When you pay, they report your payment history to the commercial credit bureaus. This is the quietest, least-risky way to start building a credit file.

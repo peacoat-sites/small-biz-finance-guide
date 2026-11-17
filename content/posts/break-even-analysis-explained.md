@@ -60,8 +60,6 @@ Both versions give you the same answer approached from different angles.
 | Payment processing fees | % of sale | Variable | Reduces contribution margin |
 | Sales commissions | Per unit or % | Variable | Reduces contribution margin |
 
-> **Helpful resource:** [Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The formula only works if you split your costs correctly. Most people mess this up.
 
 **Fixed costs** don't change based on how much you sell. Rent, salaries, insurance, software subscriptions, loan payments. Whether you sell 10 units or 10,000 this month, these costs hit your P&L the same way.

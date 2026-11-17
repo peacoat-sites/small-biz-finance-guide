@@ -32,8 +32,6 @@ That $4,500 in additional deduction is real money coming off the top of your tax
 
 ## The Political Story Behind This Bill
 
-> **Helpful resource:** [Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 What surprised me most when I dug into this is that H.R. 8415 isn't a fresh idea. It's a comeback attempt.
 
 The House-passed version of what became the One Big Beautiful Bill Act of 2025 had *already* included the 23% rate. The Senate stripped it out before final passage. So what got signed into law made the 20% deduction permanent, which was genuinely significant since it had been set to expire after 2025. But the 23% piece didn't make it.

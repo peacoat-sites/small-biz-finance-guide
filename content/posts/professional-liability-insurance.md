@@ -39,8 +39,6 @@ There are also meaningful carve-outs you need to read carefully. Most policies e
 
 ## Claims-Made vs. Occurrence: The One Thing Most People Get Wrong
 
-> **Helpful resource:** [Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I got this wrong for years. I thought it was just contract language.
 
 Almost every professional liability policy sold today is "claims-made," which means the policy only covers you if both the incident AND the claim happen while the policy is active. If your policy lapses, or you switch insurers and don't buy tail coverage, you can be left exposed for work you did years ago.

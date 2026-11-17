@@ -45,8 +45,6 @@ The confusion costs people money. A business owner signs what looks like an "equ
 
 ## Running the Actual Numbers
 
-> **Helpful resource:** [Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Most articles on this topic fall short. They'll say "leasing has lower monthly payments" and "buying builds equity" and then call it a day. That's not analysis, that's a brochure.
 
 Let's say you're looking at a commercial-grade laser engraver priced at $28,000.

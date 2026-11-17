@@ -50,8 +50,6 @@ What probably doesn't need a key man policy: your operations manager who's great
 
 ## How Much Coverage to Buy
 
-> **Helpful resource:** [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where I'll push back on the generic advice you usually see, which recommends "five to ten times salary." That's a lazy starting point.
 
 Salary multiples work fine for personal life insurance because you're replacing income. Key man coverage is replacing something different: the financial damage the business would suffer. Those aren't the same number.

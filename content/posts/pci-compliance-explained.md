@@ -53,8 +53,6 @@ The more dangerous setup is when card data touches your own systems in any way. 
 | SAQ D | Merchants storing cardholder data or not fitting other categories | Highest | Hundreds of controls required |
 | Other (A-EP, B, B-IP, C, etc.) | Merchants with various payment architectures | Medium | Varies by specific setup |
 
-> **Helpful resource:** [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Most small merchants are required to complete a Self-Assessment Questionnaire, or SAQ, annually. There are multiple versions (A, A-EP, B, B-IP, C, D, and a few others), and which one applies to you depends entirely on how you accept payments.
 
 SAQ A is the easiest. It's for merchants who've fully outsourced card processing to a third party and don't store, process, or transmit cardholder data themselves. As of the 4.0 standard, even SAQ A now includes some new requirements around scripts on your checkout page that didn't exist before. Still short, but not the one-pager it used to be.

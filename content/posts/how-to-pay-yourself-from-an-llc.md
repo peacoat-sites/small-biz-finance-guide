@@ -45,8 +45,6 @@ If you've never filed Form 2553 and nobody's mentioned it to you, you're probabl
 
 ## Owner's Draws: The Default Path
 
-> **Helpful resource:** [QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 For most single-member and multi-member LLCs, the mechanics of paying yourself are genuinely simple, almost anticlimactically so. You transfer money from your business bank account to your personal bank account. That's it. No payroll software. No withholding. No forms filed in the moment.
 
 What you do need to do is keep records. Every draw should be documented: date, amount, and a note that it's an owner's draw. In QuickBooks, you'd categorize it under "Owner's Draw" or "Owner's Equity." In a spreadsheet, you'd log it manually. Either way, your bookkeeper or CPA needs to be able to look at that transaction and know it wasn't a business expense, because if you accidentally code it as an expense, you've just understated your taxable income, which is a problem.

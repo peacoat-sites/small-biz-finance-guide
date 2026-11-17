@@ -46,8 +46,6 @@ Independent contractors are a different story. If you pay a 1099 contractor, you
 | FUTA | 0.6% | Employer only | Effectively 0.6% after state unemployment tax credit in most cases |
 | Federal Income Tax | Varies | Withheld from employee | Based on W-4 form and IRS withholding tables |
 
-> **Helpful resource:** [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's the tax structure in plain terms. Every time you run payroll, you're dealing with FICA taxes. FICA stands for Federal Insurance Contributions Act, and it covers Social Security and Medicare.
 
 Currently, Social Security is taxed at 12.4% of wages up to a wage base limit that adjusts annually, split evenly between you and the employee. Medicare is taxed at 2.9%, also split evenly. So your total FICA obligation as an employer is 7.65% of each employee's gross wages on your end, and you withhold another 7.65% from the employee's paycheck. High earners (above $200,000 in wages) have an additional 0.9% Medicare surtax withheld from their pay, but you don't match that one.

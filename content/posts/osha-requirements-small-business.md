@@ -48,8 +48,6 @@ What surprised me, when I actually pulled the OSHA inspection data a few years b
 
 ## The Recordkeeping Rules (And the Exception That Confuses Everyone)
 
-> **Helpful resource:** [QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where size actually does matter, a little. Employers with 10 or fewer employees are partially exempt from OSHA's injury and illness recordkeeping requirements, meaning you don't have to maintain OSHA 300 logs. But there's a catch most people miss: you still have to report certain severe injuries to OSHA directly, regardless of size.
 
 As of 2026, the reporting requirements are:

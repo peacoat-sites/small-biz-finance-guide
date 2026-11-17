@@ -72,8 +72,6 @@ Seller financing stacked onto an SBA 7(a) loan is something the SBA explicitly a
 
 For deeper reading on deal structures, *Buyout: The Insider's Guide to Buying Your Own Company* by Rick Rickertsen (available [on Amazon](https://www.amazon.com/s?k=buyout+business+acquisition+book)) is blunt about the parts most business brokers want you to ignore.
 
-> **Helpful resource:** [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20) is a top-rated option for organizing documents. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ## What Lenders Are Actually Looking At
 
 An acquisition loan approval hinges on four things, roughly in this order:

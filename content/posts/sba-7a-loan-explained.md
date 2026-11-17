@@ -37,8 +37,6 @@ The maximum loan amount is $5 million. The SBA guarantees up to 85% on loans of 
 
 ## Who Qualifies and What Lenders Are Actually Looking For
 
-> **Helpful resource:** [The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where most coverage goes soft. Articles list the official eligibility criteria, which are accurate but incomplete. Yes, your business must be for-profit, operate in the U.S., meet the SBA's size standards (which vary by industry), and have reasonable owner equity invested. You can check size standards on the [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed) for tax classification purposes, but the SBA's own size standards tool on their website is where you verify eligibility.
 
 What articles rarely say plainly: the SBA sets the floor, but the lender sets the real bar.

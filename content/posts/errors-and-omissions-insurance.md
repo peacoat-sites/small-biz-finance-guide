@@ -53,8 +53,6 @@ I made a version of this mistake myself early in my consulting career, switching
 
 ## Who Actually Needs It
 
-> **Helpful resource:** [Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Honestly? More people than realize it. The traditional list includes accountants, lawyers, doctors, architects, engineers, and consultants. But the category has expanded significantly. As of June 2026, I'm regularly advising clients in marketing agencies, software development, real estate, HR consulting, financial advising, and even recruiting and staffing to carry it. If you give advice, produce work product, or manage a process on someone else's behalf, you have E&O exposure.
 
 **A freelance graphic designer, $1,800/year policy** → Client claimed a logo she delivered was too similar to an existing trademark, creating rebranding costs. The client demanded $40,000. The insurer settled for $22,000. Designer paid her deductible of $2,500 and moved on. Without coverage, she'd likely have paid out of pocket or spent more fighting it.

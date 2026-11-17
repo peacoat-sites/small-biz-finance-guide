@@ -54,8 +54,6 @@ Result: $8/month net savings on fees, 6 hours a month back in her schedule, and 
 
 ## How to Actually Compare Accounts
 
-> **Helpful resource:** [The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Don't compare features. Compare your transaction profile against each bank's fee schedule.
 
 Here's how I walk clients through it. Pull three months of bank statements and answer these four questions:

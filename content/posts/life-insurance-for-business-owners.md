@@ -47,8 +47,6 @@ One thing that trips people up: key person policies are owned by the business an
 
 ## Term vs. Permanent: What Actually Makes Sense
 
-> **Helpful resource:** [The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Everybody has an opinion on this. Here's mine, formed after 18 years of looking at business owners' balance sheets.
 
 For most owners under 55, term life is the right answer for buy-sell and personal income replacement coverage. It's straightforward, affordable, and sized to the period when you actually need it. Permanent life (whole life, universal life, indexed universal life) is more expensive and more complex, and the sales pitch around "building cash value" often papers over the fact that you're paying two to three times the premium for a benefit that may take decades to make financial sense.

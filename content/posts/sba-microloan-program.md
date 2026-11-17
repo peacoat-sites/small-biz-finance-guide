@@ -37,8 +37,6 @@ The program is administered through the [U.S. Small Business Administration](htt
 
 ## Who It's Actually For
 
-> **Helpful resource:** [QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The Microloan program exists for two types of borrowers that traditional banks routinely turn away: startups with no revenue history and established small businesses that are too small to qualify for conventional financing.
 
 It works especially well for sole proprietors, home-based businesses, micro-enterprises with fewer than five employees, and businesses in underserved communities. Women-owned, veteran-owned, and minority-owned businesses are specifically prioritized by many intermediary lenders, though the program is open to all eligible small businesses.

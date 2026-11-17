@@ -45,8 +45,6 @@ That's not unique to her situation. It's the pattern.
 
 ## The Real Cost Comparison
 
-> **Helpful resource:** [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Current pricing as of July 2026 (note: ADP pricing is estimated from publicly available quotes and client reports, since ADP does not publish rates):
 
 | Plan | Gusto | ADP Run |

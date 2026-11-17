@@ -28,8 +28,6 @@ For context on how overdue this is: Congress last raised the 7(a) limit in 2010.
 
 ## Who Actually Benefits From This
 
-> **Helpful resource:** [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Not every small business will find a use for $10 million in combined SBA financing. But for certain industries, this unlocks a deal structure that was genuinely impossible before.
 
 The clearest beneficiaries are in manufacturing, construction, logistics, and food production. These are businesses that carry significant fixed-asset needs (buildings, specialized equipment, production lines) alongside heavy working capital demands (inventory, payroll, receivables gaps). The 504 program was always the right tool for the fixed assets, long-term, fixed-rate, lower down payment. The 7(a) was always the right tool for the working capital side, more flexible, but variable rate and shorter term for some uses.

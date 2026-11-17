@@ -71,8 +71,6 @@ For financing, Section 179 works on equipment you've financed, not just purchase
 
 For readers wanting a deeper framework on business tax strategy, Mike Piper's *Taxes Made Simple* (available on Amazon, and yes, the site may earn a commission) is one of the clearest plain-language resources I've found for small business owners trying to understand how these deductions fit together.
 
-> **Helpful resource:** [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20) is a solid option for organizing business documents. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 ### FAQ
 
 #### Can I take Section 179 on used equipment?

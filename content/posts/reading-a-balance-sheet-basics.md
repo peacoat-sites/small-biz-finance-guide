@@ -56,8 +56,6 @@ Your P&L tells you whether you made money. Your balance sheet tells you whether 
 | Current Liabilities | Within 12 months | Accounts payable, short-term loans, accrued expenses, deferred revenue |
 | Long-Term Liabilities | Beyond 12 months | Business loans, mortgages, long-term leases, deferred tax liabilities |
 
-> **Helpful resource:** [Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Every balance sheet, whether it's one page or ten, organizes itself into three buckets. Here's what lives in each one.
 
 **Assets**

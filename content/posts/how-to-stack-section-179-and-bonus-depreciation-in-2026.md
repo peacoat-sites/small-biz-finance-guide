@@ -29,10 +29,6 @@ On the Section 179 side, the pre-OBBBA limit was $1.25 million with a phase-out 
 
 ## How Stacking Actually Works
 
-> **Helpful resource:** [AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 This is where a lot of owners get confused, and I want to be direct about what stacking means in practice because the order matters.
 
 Section 179 goes first. You elect it on a piece of equipment, and it reduces your taxable income by the purchase price of that asset, up to the deduction limit. Then, if there's any remaining eligible basis on that equipment or on other qualifying property you didn't elect Section 179 for, 100% bonus depreciation covers the rest. The result for most small businesses is a full first-year write-off on qualifying equipment purchases, regardless of whether you mix and match the two methods.

@@ -43,8 +43,6 @@ The businesses that belong on Schedule C: sole proprietors, freelancers, indepen
 
 ## The Expenses Section Is Where Most People Leave Money Behind
 
-> **Helpful resource:** [Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Part II of Schedule C has 28 numbered lines covering specific [expense categories](/business-expense-categories-guide/). People tend to fill in the obvious ones (advertising, supplies) and ignore the ones that feel uncertain. That's a mistake.
 
 Here are the categories that most self-employed people underuse:

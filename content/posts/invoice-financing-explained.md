@@ -45,8 +45,6 @@ I worked with a staffing agency in 2023 that had this backwards in their head. T
 
 ## The Real Cost: Let Me Show You the Numbers That Matter
 
-> **Helpful resource:** [The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where I get impatient with how invoice financing is often described online. You'll see fees quoted as "1% to 3% per invoice" and think, "that's not bad." It isn't bad for a 30-day invoice. It's a different conversation entirely for a 90-day invoice.
 
 Here's the table I use with clients to make this concrete:

@@ -48,8 +48,6 @@ A lot of owners make the mistake of thinking a job title does the work here. It 
 
 ## Overtime: Where Most Violations Actually Happen
 
-> **Helpful resource:** [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Overtime math sounds easy until you get into the weeds. Here's where I see small businesses get tripped up most often.
 
 The FLSA workweek is a fixed, recurring 168-hour period (seven consecutive 24-hour days). You define it, but once you do, you can't rearrange it retroactively to reduce overtime liability. You can't average hours across two weeks. If someone works 50 hours in week one and 30 in week two, you owe them 10 hours of overtime for week one, period. That's not how a lot of owners think about it, but that's how the law works.

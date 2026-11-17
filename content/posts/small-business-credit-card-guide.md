@@ -39,8 +39,6 @@ The U.S. Small Business Administration has resources specifically about [buildin
 
 ## How Business Credit Cards Actually Work (and Where They Differ from Personal Cards)
 
-> **Helpful resource:** [QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 You might be wondering if a business card is basically just a personal card with a different logo. It's not quite that simple. There are some meaningful differences you should understand before you apply.
 
 **Personal guarantee.** Almost every small business credit card requires one. If your business can't pay the bill, you're personally on the hook. This is standard and shouldn't scare you off, but it does mean that the card's payment history can affect your personal credit score depending on the issuer. Some report to both personal and business credit bureaus. Some only report to business bureaus. Ask before you apply.

@@ -43,8 +43,6 @@ On paper, that's fine. In practice, it creates problems.
 
 ## Why Single-Member LLCs Should Still Get One
 
-> **Helpful resource:** [The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I used to tell clients this was optional for solo LLCs. I was wrong, and I figured that out the hard way after a client of mine had her business account application rejected three times because she'd been giving vendors her SSN, which flagged the account setup as a potential identity risk. Small moment. Expensive lesson.
 
 Here's what actually happens in the real world. Nearly every bank, credit union, and business payment platform will ask for an EIN when you try to open a business account. Chase, Bank of America, Mercury, Relay, even your local community bank. They want that number. Some will technically accept an SSN for a sole proprietor, but an LLC is not a [sole proprietorship](/llc-vs-sole-proprietorship-taxes/), even a single-member one. The bank's compliance department often treats them differently, and without an EIN, you can get stuck in a documentation loop that wastes weeks.

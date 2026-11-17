@@ -43,8 +43,6 @@ Personal credit and business credit are different scoring systems, different bur
 
 ## The Credit-Building Mechanics (This Is the Part That Actually Matters)
 
-> **Helpful resource:** [QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Dun & Bradstreet's PAYDEX score runs from 1 to 100. A score of 80 means you pay on time. A score above 80 means you tend to pay early. Below 80, and you're in territory that makes other vendors and lenders nervous.
 
 To generate a PAYDEX score at all, D&B requires at least three trade lines reporting. That's it. Three vendors reporting on-time payments, and you have a score. A new business can realistically hit that threshold in 90 to 180 days if they're deliberate about it.

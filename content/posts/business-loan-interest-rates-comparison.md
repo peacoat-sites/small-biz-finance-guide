@@ -39,8 +39,6 @@ Your own financial profile matters just as much. A business with three years of 
 
 ## The Main Loan Types and What They Typically Cost
 
-> **Helpful resource:** [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Understanding where you fit starts with knowing which product you're actually comparing.
 
 **SBA Loans** are the gold standard for small business borrowers in terms of rate. The [U.S. Small Business Administration](https://www.sba.gov/) sets maximum interest rate guidelines for its most popular programs. SBA 7(a) loans, the most common, typically carry rates tied to a base rate like the prime rate or SOFR, plus a lender spread. That spread is capped by the SBA depending on loan size and maturity. You'll often find a rate that competes closely with conventional bank financing. The tradeoff is time. SBA loans require documentation, underwriting, and approval that can take weeks or longer.

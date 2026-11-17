@@ -43,8 +43,6 @@ The mechanics work like this. Once you sign on, your employees technically becom
 
 ## The Real Cost Math
 
-> **Helpful resource:** [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 This is where people often get burned by bad assumptions. PEO pricing generally comes in two structures: a flat per-employee-per-month fee, or a percentage of gross payroll. Neither is universally better. It depends on your average wage.
 
 | Pricing Model | Typical Range | Best For | Watch Out For |

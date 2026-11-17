@@ -41,8 +41,6 @@ If you need $300,000 to buy out a partner and renovate your retail space, that's
 
 ## How the Money Actually Flows (This Part Gets Glossed Over)
 
-> **Helpful resource:** [Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The 7(a) is straightforward. A single lender, usually a bank or credit union approved by the SBA, makes you the loan. The SBA guarantees a portion of it (up to 85% on loans under $150,000, up to 75% on larger ones). One institution. One closing. One set of documents. Done.
 
 The 504 is a three-party structure, and most people don't know this going in.

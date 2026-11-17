@@ -48,8 +48,6 @@ Traditional banks like Chase Business Complete Banking? Only consider them if yo
 
 ## What You Actually Need to Apply
 
-> **Helpful resource:** [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where the "gather your documents" articles fail you. The list isn't the same for every business structure, and some documents trip people up because they don't exist yet.
 
 For a sole proprietor, it's simple. You need your Social Security number, a DBA (Doing Business As) certificate if you're operating under a name other than your own, and a government-issued ID. Some online banks will open an account with just that in under 10 minutes.

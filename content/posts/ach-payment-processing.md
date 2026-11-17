@@ -55,8 +55,6 @@ Check out [ACH processing benchmarks and setup guides on SCORE](https://www.scor
 | ACH | $0.25 - $1.50 | Flat | Same-day or 1-2 business days |
 | ACH (Stripe) | 0.8% (capped at $5) | Percentage | 1-2 business days |
 
-> **Helpful resource:** [The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Credit card processing fees typically run 1.5% to 3.5% per transaction, sometimes more with certain card types or processors. On a $5,000 invoice, that's $75 to $175 gone before you even blink.
 
 ACH fees are usually flat. Somewhere between $0.25 and $1.50 per transaction, though some processors charge a small percentage for higher-volume or higher-risk accounts. On that same $5,000 invoice, you're looking at maybe $1.50. Full stop.

@@ -34,10 +34,6 @@ The practical implication is that your payroll software needs a line item that i
 
 ## The W-2 Reporting Problem Nobody's Solved Yet
 
-> **Helpful resource:** [QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Here's what surprised me when I went deep on this: as of mid-2026, the IRS has still not finalized the Box 12 codes that employers will use to report qualified overtime premiums and tips on 2026 W-2s. The guidance is coming. It hasn't arrived.
 
 This puts small [business owners](/business-owners-policy-bop/) in a genuinely awkward position. You need to be tracking this data now, with specificity, because you can't reconstruct it accurately in January from vague payroll totals. But the exact reporting format is still in flux. What that means practically: document everything in a format that can be mapped to whatever code the IRS lands on. Don't wait to start capturing the data just because the final box designation isn't confirmed.
@@ -79,12 +75,12 @@ I want to be straight about one thing: the final reporting rules here are still 
 
 ## Sources
 
-- [New IRS Guidance on Overtime and Tip Reporting Under the OBBBA ,  Venable LLP](https://www.venable.com/insights/publications/2026/01/new-irs-guidance-on-overtime-and-tip-reporting) (January 7, 2026)
-- [OBBBA's 'No Tax on Overtime' Rule: What Small Business Owners Must Report on 2026 W-2s ,  TaxBandits Blog](https://blog.taxbandits.com/obbbas-no-tax-on-overtime-rule-what-small-business-owners-must-report-on-2026-w-2s/) (May 18, 2026)
-- [One Big Beautiful Bill Act ,  PayrollOrg Hot Topics](https://payroll.org/compliance/compliance-overview/hot-topics/one-big-beautiful-bill-act) (2026)
-- [OBBBA Overtime and Tips: 2025 and 2026 Implementation Guide ,  GNA Partners](https://www.gnapartners.com/resources/articles/obbba-one-big-beautiful-bill-act) (December 30, 2025)
-- [OBBBA 2025–2028: Tax Breaks for Tips and Overtime Pay ,  BT CPA](https://www.btcpa.net/insights/obbba-2025-2028-tax-breaks-for-tips-and-overtime-pay) (March 30, 2026)
-- [What the OBBBA Means for Small Businesses ,  Payroll Partners](https://payrollpartners.com/what-the-obbba-means-for-small-businesses-more-than-just-a-tax-change/) (May 4, 2026)
+- [New IRS Guidance on Overtime and Tip Reporting Under the OBBBA, Venable LLP](https://www.venable.com/insights/publications/2026/01/new-irs-guidance-on-overtime-and-tip-reporting) (January 7, 2026)
+- [OBBBA's 'No Tax on Overtime' Rule: What Small Business Owners Must Report on 2026 W-2s, TaxBandits Blog](https://blog.taxbandits.com/obbbas-no-tax-on-overtime-rule-what-small-business-owners-must-report-on-2026-w-2s/) (May 18, 2026)
+- [One Big Beautiful Bill Act, PayrollOrg Hot Topics](https://payroll.org/compliance/compliance-overview/hot-topics/one-big-beautiful-bill-act) (2026)
+- [OBBBA Overtime and Tips: 2025 and 2026 Implementation Guide, GNA Partners](https://www.gnapartners.com/resources/articles/obbba-one-big-beautiful-bill-act) (December 30, 2025)
+- [OBBBA 2025–2028: Tax Breaks for Tips and Overtime Pay, BT CPA](https://www.btcpa.net/insights/obbba-2025-2028-tax-breaks-for-tips-and-overtime-pay) (March 30, 2026)
+- [What the OBBBA Means for Small Businesses, Payroll Partners](https://payrollpartners.com/what-the-obbba-means-for-small-businesses-more-than-just-a-tax-change/) (May 4, 2026)
 
 *Photo: [Vitaly Gariev](https://www.pexels.com/@silverkblack) via Pexels*
 

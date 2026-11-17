@@ -32,8 +32,6 @@ More than 90% of U.S. businesses are structured as pass-throughs, meaning sole p
 
 ## What the Law Actually Says Right Now
 
-> **Helpful resource:** [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The Section 199A deduction, as enacted in Pub. L. 119-21, lets eligible pass-through business owners deduct up to 20% of their qualified business income from their taxable income. The deduction is now permanent, which is genuinely good news after years of it being a temporary provision set to expire. But permanent at 20% is different from 23%, and anyone building a projection for the back half of 2026 needs to use the right number.
 
 A few other mechanics matter here. The deduction has income thresholds and phase-outs for specified service trades or businesses (things like law, consulting, and financial services). W-2 wage limitations kick in at higher income levels. These haven't changed. If you were already working around them, that work still applies.
@@ -70,12 +68,12 @@ The misinformation will keep circulating because correcting things is less share
 
 ## Sources
 
-- [QBI Deduction 2026: What Actually Changed, and What Didn't ,  Manay CPA](https://www.manaycpa.com/qbi-deduction-2026-what-actually-changed-and-what-didnt/) (late July 2026)
+- [QBI Deduction 2026: What Actually Changed, and What Didn't, Manay CPA](https://www.manaycpa.com/qbi-deduction-2026-what-actually-changed-and-what-didnt/) (late July 2026)
 - [NFIB Supports Legislation to Increase the Small Business Deduction to 23%](https://www.nfib.com/news/press-release/nfib-supports-legislation-to-increase-the-small-business-deduction-to-23/) (April 23, 2026)
-- [H.R. 8415 ,  Small Business Tax Cut Act of 2026 (Congress.gov)](https://www.congress.gov/bill/119th-congress/house-bill/8415/text) (April 21, 2026)
-- [QBI Deduction Increase Gains Support ,  Frazier & Deeter](https://www.frazierdeeter.com/insights/article/tax-committee-members-continue-to-pursue-qbi-deduction-increase/) (June 24, 2026)
-- [Update on the Small Business Tax Deduction: What to Know in 2026 ,  ARF Financial](https://www.arffinancial.com/update-on-the-small-business-tax-deduction-what-to-know-in-2026/) (May 28, 2026)
-- [Small Business Tax Cut Act Would Raise Key Deductions for SMBs ,  ASBN](https://www.asbn.com/articles/small-business-tax-cut-act-would-raise-key-deductions-for-smbs/) (April 30, 2026)
+- [H.R. 8415, Small Business Tax Cut Act of 2026 (Congress.gov)](https://www.congress.gov/bill/119th-congress/house-bill/8415/text) (April 21, 2026)
+- [QBI Deduction Increase Gains Support, Frazier & Deeter](https://www.frazierdeeter.com/insights/article/tax-committee-members-continue-to-pursue-qbi-deduction-increase/) (June 24, 2026)
+- [Update on the Small Business Tax Deduction: What to Know in 2026, ARF Financial](https://www.arffinancial.com/update-on-the-small-business-tax-deduction-what-to-know-in-2026/) (May 28, 2026)
+- [Small Business Tax Cut Act Would Raise Key Deductions for SMBs, ASBN](https://www.asbn.com/articles/small-business-tax-cut-act-would-raise-key-deductions-for-smbs/) (April 30, 2026)
 
 *Photo: [Polina Tankilevitch](https://www.pexels.com/@polina-tankilevitch) via Pexels*
 

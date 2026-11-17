@@ -41,8 +41,6 @@ Vehicle expenses deserve their own paragraph. Claiming 100 percent business use 
 
 ## Cash-Heavy Businesses and the Specific Problem of Underreported Income
 
-> **Helpful resource:** [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Restaurants, salons, contractors who take cash, freelancers paid in Venmo before it was reportable, any business where revenue doesn't flow cleanly through a single bank account and payment processor, these businesses face higher baseline scrutiny, and that's not going to change.
 
 The IRS has gotten notably better at matching 1099-K data from payment processors, and the threshold changes (though implementation has been delayed repeatedly) are tightening the net further. The [U.S. Small Business Administration's financial guidance](https://www.sba.gov/) won't save you here, but clean books will. If your reported income doesn't reconcile with what your bank deposits show, that's a problem regardless of whether the IRS ever looks.

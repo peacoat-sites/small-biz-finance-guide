@@ -34,8 +34,6 @@ The 7(a) program is the SBA's workhorse, used for working capital, equipment, bu
 | Manufacturers (with FY2026 incentives) | - | Subset | High |
 | Established growth-stage businesses | - | Small | Significant |
 
-> **Helpful resource:** [Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 What surprised me when I dug into the FY2026 lending data was just how small most SBA loans actually are. According to NerdWallet's June 2026 analysis of current SBA data, businesses with five or fewer employees receive the majority of 7(a) loans, and their average loan amount is $377,192. Only 6.8% of all SBA borrowers receive loans larger than $2 million.
 
 Let that sit for a second. We're celebrating a $10 million ceiling when nearly 93% of borrowers never exceed $2 million.

@@ -43,8 +43,6 @@ Beyond legal and contractual requirements, there's a third category: coverage yo
 
 ## The Core Coverage Types Every Small Business Should Know
 
-> **Helpful resource:** [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Let's go through the main policies without burying you in insurance jargon.
 
 **General Liability Insurance (GL)** is the foundation. It covers third-party bodily injury and property damage claims. If a customer slips and falls in your store, or you accidentally damage a client's property while doing work, GL is what responds. Most small businesses need at least $1 million per occurrence and $2 million aggregate. Service businesses, retail shops, contractors, home-based operations, freelancers, everyone in this category should have it.

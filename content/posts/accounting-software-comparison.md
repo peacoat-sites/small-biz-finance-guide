@@ -43,8 +43,6 @@ The market is currently dominated by four main players for businesses under $5 m
 
 ## The Core Four, Honestly
 
-> **Helpful resource:** [Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 **QuickBooks Online** is the industry standard, and that's both its strength and its trap. Your accountant almost certainly uses it. Your bookkeeper knows it. If you ever hire outside help, QB is the lowest-friction option, because trained QuickBooks users are everywhere. Switching to less common software can make it harder to find local help, potentially raising hiring costs. That's a real cost people don't factor in.
 
 That said, QuickBooks has gotten expensive and bloated. The Simple Start tier at $35/month won't let you track bills or manage 1099 contractors. QuickBooks Plus at $90/month adds project tracking and inventory, but honestly? Most businesses buying Plus are paying for features they never configure. I've audited clients' software spend more than once and found them on Plus when Simple Start would have been fine.

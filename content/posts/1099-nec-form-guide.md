@@ -45,10 +45,6 @@ You can verify these distinctions on [the IRS small business tax center](https:/
 
 ## The W-9 Is Your Cheat Code
 
-> **Helpful resource:** [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 Before you pay anyone who might require a 1099-NEC, get a completed Form W-9 from them. That form gives you their legal name, business name if different, tax classification, and taxpayer identification number (either a Social Security number or EIN). Without it, you're guessing at year-end, and guessing wrong means filing corrections.
 
 The W-9 also tells you whether the contractor is incorporated. If box 3 on their W-9 shows "C Corporation" or "S Corporation," you typically don't need to file a 1099-NEC. It's right there on the form, which is why collecting it before the first payment is non-negotiable.

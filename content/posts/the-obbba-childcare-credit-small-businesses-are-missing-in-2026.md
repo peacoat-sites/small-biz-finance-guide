@@ -34,10 +34,6 @@ A few things still apply. The childcare must be for your employees' qualifying d
 
 ## The Math, and Why It Actually Moves the Needle
 
-> **Helpful resource:** [Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
-
-
 | Credit Version | Rate | Annual Cap | Max Annual Savings |
 |---|---|---|---|
 | Pre-2026 (old Section 45F) | 25% | $150,000 | $37,500 |
@@ -67,12 +63,12 @@ The Section 45F credit was essentially a tax code relic before this year. With f
 
 ## Sources
 
-- [Employer-Provided Child Care Credit, Tax Year 2026 and Later (Section 45F, OBBBA) ,  IRS](https://www.irs.gov/businesses/small-businesses-self-employed/employer-provided-child-care-credit-tax-year-2026-and-later) (June 2026)
-- [Employer Childcare Credit Quadruples for Small Businesses in 2026 ,  SelfEmployed.com](https://www.selfemployed.com/news/employer-childcare-credit-2026/) (April 17, 2026)
-- [Employer-Provided Childcare Credit 2026: Small Business Guide ,  Catalyst CPA](https://catalyst-cpa.com/employer-provided-childcare-credit-2026-small-business-guide/) (May 18, 2026)
-- [Employer Childcare Tax Credit: Your Essential 2026 Guide ,  Foncannon CPA Group](https://foncannontax.com/employer-childcare-tax-credit-2026/) (February 25, 2026)
-- [Understanding OBBB Enhancements to Employer Leave and Childcare Credits ,  Thomson Reuters / EY](https://tax.thomsonreuters.com/news/understanding-obbb-enhancements-to-employer-leave-and-childcare-credits/) (February 4, 2026)
-- [How One-Owner Businesses Win with the New 50% Childcare Credit ,  Schmerling Financial Group](https://www.sfg-planner.com/blog/how-one-owner-businesses-win-with-the-new-50-childcare-credit) (March 18, 2026)
+- [Employer-Provided Child Care Credit, Tax Year 2026 and Later (Section 45F, OBBBA), IRS](https://www.irs.gov/businesses/small-businesses-self-employed/employer-provided-child-care-credit-tax-year-2026-and-later) (June 2026)
+- [Employer Childcare Credit Quadruples for Small Businesses in 2026, SelfEmployed.com](https://www.selfemployed.com/news/employer-childcare-credit-2026/) (April 17, 2026)
+- [Employer-Provided Childcare Credit 2026: Small Business Guide, Catalyst CPA](https://catalyst-cpa.com/employer-provided-childcare-credit-2026-small-business-guide/) (May 18, 2026)
+- [Employer Childcare Tax Credit: Your Essential 2026 Guide, Foncannon CPA Group](https://foncannontax.com/employer-childcare-tax-credit-2026/) (February 25, 2026)
+- [Understanding OBBB Enhancements to Employer Leave and Childcare Credits, Thomson Reuters / EY](https://tax.thomsonreuters.com/news/understanding-obbb-enhancements-to-employer-leave-and-childcare-credits/) (February 4, 2026)
+- [How One-Owner Businesses Win with the New 50% Childcare Credit, Schmerling Financial Group](https://www.sfg-planner.com/blog/how-one-owner-businesses-win-with-the-new-50-childcare-credit) (March 18, 2026)
 
 *Photo: [Helena Lopes](https://www.pexels.com/@helenalopes) via Pexels*
 

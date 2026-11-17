@@ -31,7 +31,7 @@ So let me do that now, clearly, without the pitch.
 
 Revenue-based financing (RBF) is a funding structure where a lender gives you a lump sum upfront, and you pay it back as a fixed percentage of your monthly revenue until you've repaid a predetermined total amount. No fixed monthly payment. No equity given up. The payments flex with your business: a slow month means a smaller payment, a strong month means you pay it off faster. That's the core mechanic, and it's genuinely different from a term loan or a line of credit in ways that matter.
 
-<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">RBF repayment is a fixed % of monthly revenue (typically 2–8%), not a fixed dollar amount.</li><li style="margin:5px 0">Total repayment is a "factor rate" on the original advance, usually 1.2x–1.5x (meaning $100K becomes $120K–$150K owed).</li><li style="margin:5px 0">Approval is based on revenue history, not credit score or collateral; many lenders want 6+ months of $10K+/month in revenue.</li><li style="margin:5px 0">RBF works best for businesses with predictable, recurring revenue ,  SaaS, e-commerce, subscription services.</li><li style="margin:5px 0">Effective APR can exceed 40–80% annualized. Run the numbers before you sign.</li></ul></div>
+<div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">RBF repayment is a fixed % of monthly revenue (typically 2–8%), not a fixed dollar amount.</li><li style="margin:5px 0">Total repayment is a "factor rate" on the original advance, usually 1.2x–1.5x (meaning $100K becomes $120K–$150K owed).</li><li style="margin:5px 0">Approval is based on revenue history, not credit score or collateral; many lenders want 6+ months of $10K+/month in revenue.</li><li style="margin:5px 0">RBF works best for businesses with predictable, recurring revenue, SaaS, e-commerce, subscription services.</li><li style="margin:5px 0">Effective APR can exceed 40–80% annualized. Run the numbers before you sign.</li></ul></div>
 
 ## How the math actually works
 
@@ -44,8 +44,6 @@ The fixed repayment amount feels psychologically safe ("I know exactly what I ow
 What this chart should make clear: if your business has a blowout quarter and pays the advance off quickly, your cost of capital shoots up. That's counterintuitive but mathematically unavoidable with a fixed total repayment structure.
 
 ## Who it actually makes sense for
-
-> **Helpful resource:** [Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
 
 I'll be direct here: RBF is a solid tool for a specific type of business. It's not a universal fix.
 

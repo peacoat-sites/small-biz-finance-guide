@@ -41,8 +41,6 @@ I've seen clients come in convinced their only options were a high-interest onli
 
 ## How CDFI Loans Differ From Bank Loans
 
-> **Helpful resource:** [Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's what makes CDFIs structurally different from a conventional bank:
 
 **Underwriting philosophy.** Banks rely heavily on credit scores, collateral, and two to three years of strong financials. CDFIs look at the full picture: your character, your business plan, your community ties, your cash flow patterns, sometimes your personal story. A score in the low 600s won't automatically disqualify you.

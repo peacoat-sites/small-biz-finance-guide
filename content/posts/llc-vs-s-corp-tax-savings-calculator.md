@@ -57,8 +57,6 @@ And that "before costs" part is where a lot of the breathless "save thousands wi
 
 *Above reasonable salary; threshold depends on state and accounting costs.
 
-> **Helpful resource:** [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Most free LLC vs. S corp calculators online do a decent job of computing the self-employment tax differential. What they don't account for is the additional overhead of actually running as an S corp. These are real costs that eat into your tax savings.
 
 **Payroll processing.** You have to run a legitimate payroll for yourself. Services like Gusto (starting around $46/month plus $6 per employee) or QuickBooks Payroll run you roughly $600 to $800 a year at minimum. You could theoretically process it manually, but honestly, don't. The compliance risk isn't worth it.

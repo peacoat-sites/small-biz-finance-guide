@@ -57,8 +57,6 @@ I've watched clients [lose this deduction in audits](/irs-audit-triggers-small-b
 
 ## The Two Calculation Methods: Regular vs. Simplified
 
-> **Helpful resource:** [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Once you've confirmed you qualify, pick your calculation method. The IRS gives you two paths, and which one makes sense depends on your specifics.
 
 ### The Simplified Method

@@ -45,8 +45,6 @@ What surprised me when I worked through this is how often business owners apply 
 | Applied First | Yes (IRS-required sequencing) | After Section 179 |
 | State Conformity | Varies by state | Non-conforming in CA, NY, NJ, PA |
 
-> **Helpful resource:** [QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 If you're profitable, expect to stay profitable, and your state conforms to federal tax law, Section 179 is often the cleaner starting point. You get an immediate deduction, you can target it precisely, and you avoid creating an NOL you might not need.
 
 The $2.56 million limit sounds enormous, and for most small businesses, it is. The phase-out starts at $4.09 million in total qualifying property placed in service during the year. If you're under that threshold, you've got a lot of runway. According to Landmark CPAs, the new limits make Section 179 a practical tool for a much wider range of businesses than it was even two years ago.

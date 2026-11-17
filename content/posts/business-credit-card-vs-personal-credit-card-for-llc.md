@@ -51,8 +51,6 @@ I'd also argue the productivity loss is underrated. When tax season comes and yo
 | Accounting separation | Yes | Yes | Yes |
 | Separate paper trail for IRS | Yes | No | Yes |
 
-> **Helpful resource:** [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The practical differences between a business credit card and a personal one are bigger than most people expect, and smaller than the card companies want you to think.
 
 **What's genuinely different:**

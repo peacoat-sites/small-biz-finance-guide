@@ -41,8 +41,6 @@ The cost is expressed as a "factor rate," usually somewhere between 1.1 and 1.5.
 
 ## The Real Risks You Need to Understand
 
-> **Helpful resource:** [Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 **The cost compounds in a specific, dangerous way.**
 
 Most MCAs now use fixed daily ACH withdrawals rather than a percentage of sales. Your repayment doesn't slow down when business slows down. You agreed to pay $800 a day regardless of what came in the door. A bad week gives you nothing. That rigidity is what turns a short-term cash crunch into a spiral. You can't make payroll, so you take a second MCA to cover the first one. I've sat across from business owners stacked three deep in MCAs, paying a combined $2,400 a day out of their account before a single employee got paid or a single vendor got called.

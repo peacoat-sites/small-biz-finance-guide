@@ -47,8 +47,6 @@ The Solo 401(k) has two levers. You're wearing two hats: employee and employer. 
 
 ## Side-by-Side: What Actually Matters
 
-> **Helpful resource:** [Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 | Feature | Solo 401(k) | SEP-IRA |
 |---|---|---|
 | 2026 max contribution | $70,000 (+$7,500 catch-up if 50+) | $70,000 (hard ceiling, rarely reached) |

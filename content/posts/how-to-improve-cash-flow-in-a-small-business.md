@@ -52,8 +52,6 @@ The IRS small business tax center also has guidance on estimated tax payments th
 
 ## Fix Your Receivables Before You Touch Anything Else
 
-> **Helpful resource:** [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Accounts receivable is where most service businesses hemorrhage cash flow without realizing it. And the fix is more behavioral than financial.
 
 Start with payment terms. Net-30 is a default, not a law. Many clients will accept Net-15 or even pay on receipt if you simply ask. The businesses that don't ask are leaving 30 days of float on the table for zero reason.

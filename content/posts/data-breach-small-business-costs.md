@@ -51,8 +51,6 @@ That last part matters a lot. California's CCPA, New York's SHIELD Act, and doze
 | HIPAA Fines (healthcare) | $100-$50,000 per violation | Annual caps can reach $1.9M per violation category |
 | Total Breach Cost (small business) | $120,000-$500,000+ | Depends on data type and affected states |
 
-> **Helpful resource:** [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's how the costs actually land. I'll use a realistic scenario because the abstract numbers don't land the same way.
 
 **Scenario:** A 20-person regional HR consulting firm. They store employee records for about 40 small business clients. A credential-stuffing attack compromises their cloud file storage. Roughly 4,200 individual employee records are exposed: names, Social Security numbers, salary data.

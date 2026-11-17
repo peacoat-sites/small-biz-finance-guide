@@ -57,8 +57,6 @@ That framework covers 95% of it. Everything else is just execution.
 | Retail Shop | 2x-4x | Location-dependent, owner-driven sales |
 | Process-Driven Company | 6x-8x+ | Documented systems, transferable operations, growth trajectory |
 
-> **Helpful resource:** [Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's where owners get tripped up: they think they know what their business is worth because they know their revenue. Revenue isn't value. A $3 million revenue business with 6% net margins, one customer representing 40% of sales, and zero documented processes is worth a fraction of what a $3 million revenue business with 18% margins, diversified accounts, and a management team that runs without you looks like to a buyer.
 
 Businesses trade on multiples of EBITDA (earnings before interest, taxes, depreciation, and amortization), and that multiple depends on industry, risk profile, growth trajectory, and how transferable the business actually is. A Main Street service company, a local manufacturer, a retail shop might go for 2x to 4x EBITDA. Process-driven companies in certain sectors pull 6x, 8x, sometimes more.

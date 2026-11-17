@@ -45,8 +45,6 @@ What struck me was how many legitimately differentiated services were still pric
 
 ## The Three Pricing Strategies Worth Knowing (And One Most People Skip)
 
-> **Helpful resource:** [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Three models show up constantly, and then a fourth that most small business owners never even hear about until someone finally explains it.
 
 **Cost-plus pricing** is what we just covered. It has a place, especially in manufacturing or product businesses with predictable input costs, but leaning on it alone is risky.

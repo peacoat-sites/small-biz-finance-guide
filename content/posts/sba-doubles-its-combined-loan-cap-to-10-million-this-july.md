@@ -36,8 +36,6 @@ What most people don't realize is how quietly that cap strangled growth for busi
 | Maximum total SBA debt | $5M | $10M | +$5M |
 | Manufacturer with unlimited 504 carve-out | Limited by 7(a) balance | Full $5M 7(a) + unlimited 504 | Decoupled |
 
-> **Helpful resource:** [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Under the new structure, the two programs are essentially decoupled. A borrower can now hold up to $5 million in 7(a) financing and up to $5 million in 504 financing, simultaneously, for a combined ceiling of $10 million. That means the scenario above flips completely. Your $3 million 7(a) balance no longer eats into your 504 eligibility. You have the full $5 million in 504 capacity available for a commercial real estate deal or equipment purchase, independent of what you already owe on the 7(a) side.
 
 For small manufacturers, the benefit compounds further. Manufacturers already had a carve-out allowing unlimited 504 loans, one per distinct project. Now they can stack up to $5 million in 7(a) financing on top of that. A manufacturer running multiple capital projects simultaneously could theoretically carry significantly more SBA-backed debt than was ever possible before July 4.

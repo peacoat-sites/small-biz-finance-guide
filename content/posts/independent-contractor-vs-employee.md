@@ -41,8 +41,6 @@ But here's the catch: the IRS, the Department of Labor, and most state agencies 
 
 ## The Tests That Determine Worker Classification
 
-> **Helpful resource:** [Profit First by Mike Michalowicz](https://www.amazon.com/dp/1119475347?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 There's no single federal rule. That's what makes this complicated. The IRS uses one framework, the Department of Labor uses another (especially under the Fair Labor Standards Act), and your state might use a completely different test. Some states, like California, use an extremely strict ABC test that presumes everyone is an employee unless the hiring business can prove otherwise.
 
 The IRS uses a common law control test built around three broad categories.

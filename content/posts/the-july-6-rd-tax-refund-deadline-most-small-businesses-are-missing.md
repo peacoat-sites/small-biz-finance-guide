@@ -33,8 +33,6 @@ For a business with $500,000 in qualifying 2023 R&D expenses, the difference is 
 | 2024 | March 15, 2025 | March 15, 2028 | Open |
 | 2022 (C-corporations) | October 15, 2023 | October 15, 2026 | Open (but narrowing) |
 
-> **Helpful resource:** [Traction: Get a Grip on Your Business by Gino Wickman](https://www.amazon.com/dp/0399562990?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 You might be wondering whether your business is even eligible. The IRS defines "eligible small business" for purposes of this retroactive fix as companies with average annual gross receipts under $31 million across 2022 through 2024. If you're under that threshold and you had genuine qualifying R&D expenditures during any of those years, you should be talking to someone about this immediately.
 
 A common point of confusion: the deadline isn't the same for every year. The July 6, 2026 date is the outer boundary set by IRS Revenue Procedure 2025-28, but the statute of limitations under Section 6511 applies independently to each tax year. For calendar-year partnerships and S-corporations that filed their 2022 returns by the March 15, 2023 deadline, that window closed on March 15, 2026. That one's already gone for many businesses. This timing gap is where small businesses often get tripped up: they hear about the July 6 date and assume all three years are still open, when in some cases 2022 is already off the table.

@@ -40,8 +40,6 @@ That said, there are real opportunities here, and I want to walk you through the
 
 ## Federal Grants Worth Knowing About
 
-> **Helpful resource:** [The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 **SBIR and STTR Programs.** If you're building anything tech-adjacent, science-based, or research-driven, the Small Business Innovation Research (SBIR) and Small Business Technology Transfer (STTR) programs are the most legitimate and substantial federal grant pipeline available. Awards in Phase I typically run around $275,000 to $300,000, and Phase II can go substantially higher. These aren't fast, and they're not easy. The application process is intensive and the review cycles are long. But the money is real and the competition, while stiff, is at least merit-based. The [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed) won't help you here, but the Small Business Administration's SBIR portal is where to start.
 
 **SBA Programs.** The SBA doesn't offer direct grants to most for-profit businesses (a point of confusion I see constantly), but it administers several grant-like programs through intermediaries, and it funds Small Business Development Centers (SBDCs) that can connect you with state-level grant opportunities. If you haven't talked to your local SBDC yet, do that before you apply for anything.

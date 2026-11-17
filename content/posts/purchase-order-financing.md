@@ -39,8 +39,6 @@ Here's what most people miss: PO financing is built specifically for product-bas
 
 ## How the Process Actually Works
 
-> **Helpful resource:** [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 The general flow goes like this, though every lender has their own wrinkles:
 
 You receive a confirmed purchase order from a creditworthy customer. You apply to a PO financing company with that PO, your supplier quote, and some basic financials. The lender evaluates whether your customer is likely to pay (their credit matters more than yours at this stage, which is one of the more counterintuitive things about this product). If approved, the lender pays your supplier directly, sometimes 100% of the cost, sometimes 70-90%. You produce and ship the goods. Your customer receives the order and the invoice. They pay. The lender takes their fees and principal from that payment, and you get the remainder.

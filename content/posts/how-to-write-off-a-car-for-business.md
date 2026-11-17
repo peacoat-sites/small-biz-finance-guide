@@ -50,8 +50,6 @@ One thing most people don't realize: if you start with the standard mileage rate
 
 ## The Mileage Log: The One Thing That Will Save or Kill Your Deduction
 
-> **Helpful resource:** [Adams Business Expense Record Book](https://www.amazon.com/dp/B09JQLB8YD?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I'm going to be blunt about this because it's the area where I see deductions fall apart most often during an audit.
 
 The IRS doesn't care how many miles you think you drove. They care how many miles you can prove you drove, for business, with a contemporaneous record. That means a log kept at or near the time of each trip. Not reconstructed from memory in December. Not "estimated." A log.

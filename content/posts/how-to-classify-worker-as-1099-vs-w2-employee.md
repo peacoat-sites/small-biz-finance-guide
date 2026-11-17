@@ -47,8 +47,6 @@ No single factor is automatically decisive. The IRS weighs the full picture. Mos
 
 ## The DOL Adds Another Wrinkle
 
-> **Helpful resource:** [QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Here's something a lot of [small business owners](/sba-loans-now-require-100-us-citizenship-what-small-business-owners-mu/) don't realize: the IRS isn't the only agency with an opinion. The Department of Labor has its own "economic reality" test for determining whether someone is an employee under the Fair Labor Standards Act, and it doesn't perfectly match the IRS framework.
 
 As of July 2026, the DOL uses a multi-factor economic reality test that weighs things like how integral the work is to your business, whether the worker has the opportunity for profit or loss, the degree of permanence of the relationship, and whether the worker uses independent business judgment. State agencies add yet another layer. California's ABC test, for example, is famously strict: a worker is presumed to be an employee unless you can prove all three of very specific conditions. If you operate in California, that's a separate research project.

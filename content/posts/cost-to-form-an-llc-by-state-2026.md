@@ -96,8 +96,6 @@ The table below shows current 2026 filing fees and key annual costs for all 50 s
 
 ## The States That Will Actually Surprise You
 
-> **Helpful resource:** [AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 California and New York deserve their own conversation because they're both popular and genuinely punishing in ways that the quick-google answer misses.
 
 California charges every LLC a minimum $800 annual franchise tax, due even if your business made zero dollars. No exemption for new businesses in their first year as of 2026 (that temporary exemption expired). For example, someone forming a California LLC for a side project that hasn't launched yet would owe $800 before earning a single dollar. If you're a California resident running a small or part-time business, that $800 floor is real money and worth factoring into whether you even need an LLC yet.

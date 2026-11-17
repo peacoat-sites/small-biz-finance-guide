@@ -47,8 +47,6 @@ A few insurers also let you add coverage for data breaches, equipment breakdown,
 
 ## What a BOP Won't Cover (This Is Where People Get Burned)
 
-> **Helpful resource:** [The E-Myth Revisited by Michael Gerber](https://www.amazon.com/dp/1591845572?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I'll be blunt: a BOP is not a complete insurance solution. It's a starting point.
 
 Workers' compensation is separate and legally required in nearly every state the moment you have employees. Professional liability (also called errors and omissions, or E&O) is separate, and if you're a consultant, accountant, designer, or anyone who gives advice for money, you need it. Commercial auto is separate. Health insurance is separate. Cyber liability, depending on your business, may be separate (though some BOPs now include a thin layer of it).

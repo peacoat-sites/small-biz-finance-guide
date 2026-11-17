@@ -53,8 +53,6 @@ Wave Receipts, the iOS and Android app, scans receipt photos and pulls the data 
 | Inventory management | ✗ | N/A |
 | Project tracking & time billing | ✗ | N/A |
 
-> **Helpful resource:** [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 I'll be direct about this part, since most reviews skip over it.
 
 Wave makes money on payment processing and payroll. Accept credit card payments through Wave invoices and you'll pay 2.9% plus $0.60 per transaction for Visa, Mastercard, and Discover, plus 3.4% and $0.60 for American Express. That's on par with Stripe or Square, maybe slightly steeper on AmEx. It's not predatory, just realistic.

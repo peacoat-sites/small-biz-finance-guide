@@ -62,8 +62,6 @@ That last one is where a lot of founders stumble. Unit economics, the revenue an
 
 ## The Five Components You Actually Need
 
-> **Helpful resource:** [Financial Statements: A Step-by-Step Guide](https://www.amazon.com/dp/1118982428?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 You don't need a 40-tab model. A 40-tab spreadsheet for a pre-revenue company usually signals that the founder is hiding behind complexity. I'd rather see five tight, defensible schedules than a spreadsheet that takes 30 minutes to decode.
 
 **Revenue projections (12 to 36 months).** Go bottoms-up whenever possible. That means you're not saying "the market is $2 billion and we'll capture 1%." You're saying "we expect to sign 8 enterprise clients in Month 6, each paying $2,500/month, based on our current pipeline and a 90-day sales cycle." Bottoms-up projections are more credible and infinitely easier to defend. If you're pre-launch with no data yet, build two scenarios: a base case and a conservative case. Not a hockey stick and a nuclear apocalypse. Two reasonable ones.

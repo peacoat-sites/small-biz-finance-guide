@@ -51,8 +51,6 @@ The earlier you build your business with an exit in mind, the more options you'l
 | Employee Stock Ownership Plan (ESOP) | Legacy and employee ownership | Requires stable cash flows, 20+ employees, specialist setup |
 | Liquidation | Distressed situations | Typically returns lowest value |
 
-> **Helpful resource:** [AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20) is a top-rated option for this. *(As an Amazon Associate this site earns from qualifying purchases.)*
-
 Not every exit looks the same. The right path depends on your goals, your timeline, your industry, and honestly, your personal situation. Here are the primary options worth understanding.
 
 **Selling to an Outside Buyer**
