@@ -23,7 +23,7 @@ faqs:
     a: "The home office deduction can't create a net loss from your business (with some carryforward provisions under the regular method). If your business income is $0, your home office deduction that year is also $0. Unused amounts can carry forward to future years under the regular method."
   - q: "Does taking the home office deduction increase my audit risk?"
     a: "It used to be treated as a red flag, and that reputation lingers. The honest answer is: the IRS has gotten more sophisticated, and a clearly documented, legitimate home office deduction isn't the audit trigger it once was. The risk comes from claiming it when the exclusive-use standard isn't genuinely met, not from claiming it at all."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most coverage of the home office deduction spends three paragraphs explaining what it is, then buries the one thing you actually need to know: the IRS is not playing around with the word "exclusive." That single word has blown up more deductions than any audit I've ever seen.

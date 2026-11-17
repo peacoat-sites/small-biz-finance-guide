@@ -1,6 +1,7 @@
 ---
 title: "Schedule C Explained: Self-Employment Tax & Deductions"
 date: 2026-07-24T22:42:24.087063+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how Schedule C works for self-employed income, what deductions you can claim, and how it affects your taxes."
 image: "/img/heroes/5077055.jpg"

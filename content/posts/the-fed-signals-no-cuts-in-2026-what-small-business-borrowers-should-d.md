@@ -12,7 +12,7 @@ author_title: "Small Business Lending Specialist"
 author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
 slug: "the-fed-signals-no-cuts-in-2026-what-small-business-borrowers-should-d"
 affiliate_disclosure: true
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 A client called me last week, genuinely frustrated. She'd been sitting on an SBA loan application since March, waiting for rates to drop before she pulled the trigger. Her lender had told her in January to expect a cut or two by summer. Now it's July, the Fed just held for the fourth time in a row, the dot plot has shifted, and her equipment isn't getting any cheaper. "Should I just wait a little longer?" she asked. I had to tell her the honest answer: the window she was waiting for may not open this year.

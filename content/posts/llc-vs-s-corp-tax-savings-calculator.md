@@ -23,7 +23,7 @@ author: "Rachel Green"
 author_slug: "rachel-green"
 author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Every year, I watch otherwise sharp business owners lose anywhere from $3,000 to $12,000 in unnecessary self-employment taxes because they never ran the numbers on their entity structure. Not because they're careless. Because nobody sat down with them and showed them how the math actually works.
 

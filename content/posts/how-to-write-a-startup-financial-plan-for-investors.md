@@ -23,7 +23,7 @@ author: "Michael Torres"
 author_slug: "michael-torres"
 author_title: "Small Business Lending Specialist"
 author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Many founders get this backwards. They spend weeks building a beautiful financial model, then hand it to an investor and wonder why the conversation dies. The problem usually isn't the numbers. It's that the plan reads like a spreadsheet begging for validation instead of a business case looking for a partner.
 

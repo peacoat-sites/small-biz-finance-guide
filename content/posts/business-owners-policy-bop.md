@@ -1,6 +1,7 @@
 ---
 title: "Business Owners Policy: What's Actually Covered"
 date: 2026-07-22T22:42:51.963502+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Understand what a Business Owners Policy covers, who needs one, and how it protects your company from common risks."
 image: "/img/heroes/5915298.jpg"

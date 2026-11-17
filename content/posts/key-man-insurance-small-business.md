@@ -23,7 +23,7 @@ faqs:
     a: "The company owns the policy, so it can lapse it, surrender it for cash value (if it's a permanent policy), or transfer ownership to the departing employee as part of a severance or departure agreement. Term policies with no cash value are usually just cancelled. Have a clear exit plan in your policy documentation from day one."
   - q: "How does a lender know if I have key man insurance?"
     a: "Many SBA loans and bank credit facilities include key person clauses that require you to carry coverage as a loan condition. The lender may ask for proof of the policy as part of closing or annual review. If your loan documents have this language and you've let a policy lapse, you may technically be in default. Check those documents if you're not sure."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most coverage of key man insurance treats it like a checkbox item. Buy a policy, name the company as beneficiary, done. That framing misses about half of what makes this coverage matter, and almost everything that determines whether a claim actually pays out the way you expect.

@@ -1,6 +1,7 @@
 ---
 title: "Revolving Credit Facilities: How They Work and When to Use Them"
 date: 2026-07-26T22:41:01.127220+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Understand revolving credit facilities, how they differ from term loans, and whether this flexible borrowing option fits your business needs."
 image: "/img/heroes/7821467.jpg"

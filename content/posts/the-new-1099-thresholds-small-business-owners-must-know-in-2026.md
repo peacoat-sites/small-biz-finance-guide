@@ -12,7 +12,7 @@ author_title: "CPA & Lead Editor"
 author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
 slug: "the-new-1099-thresholds-small-business-owners-must-know-in-2026"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 You're sitting in QuickBooks in June 2026, trying to reconcile your contractor payments, and you realize you have no idea whether to send Maria a 1099-NEC this year. She did $1,400 of work for you. Last year, that was a clear yes. This year? It depends on rules that changed in the middle of your fiscal year, that your accounting software may not have caught up with, and that multiple articles on the first page of Google are still getting wrong.
 

@@ -23,7 +23,7 @@ author: "Michael Torres"
 author_slug: "michael-torres"
 author_title: "Small Business Lending Specialist"
 author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most people who want to buy a business think the hard part is finding the right one. I thought that too, until I spent six months watching a client lose a deal he'd been chasing for two years because he didn't understand how acquisition financing actually works before he needed it. The business was solid, the seller was motivated, and my client had decent credit. None of that mattered when the bank came back with a term sheet that required 30% down and a personal guarantee on his house. He walked. The seller sold to someone else.
 

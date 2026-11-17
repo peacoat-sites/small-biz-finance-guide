@@ -1,6 +1,7 @@
 ---
 title: "How to Stack SBA 7(a) and 504 Loans Under the New $10M Rule"
 date: 2026-07-12T22:30:56.234262+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to leverage the new $10M rule to stack SBA 7(a) and 504 loans for maximum financing. Expert guidance on combining loan programs for your business."
 image: "/img/heroes/6694484.jpg"

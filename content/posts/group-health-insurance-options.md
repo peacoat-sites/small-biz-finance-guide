@@ -1,6 +1,7 @@
 ---
 title: "50% of Workers Miss Coverage: Group Health Insurance Options Explained"
 date: 2026-07-15T22:42:19.264842+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Explore group health insurance options for employers and employees. Compare plans, costs, and coverage to find the right fit for your organization."
 image: "/img/heroes/7108268.jpg"

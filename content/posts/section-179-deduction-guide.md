@@ -12,7 +12,7 @@ author_title: "CPA & Lead Editor"
 author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
 slug: "section-179-deduction-guide"
 affiliate_disclosure: true
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most small business owners hear "Section 179" for the first time from their accountant in December, usually right before they make a panicked equipment purchase they half-regret by February. The scramble is usually unnecessary. Understanding how this deduction works lets you plan for it in January instead of racing to a dealer lot on December 28th.
 

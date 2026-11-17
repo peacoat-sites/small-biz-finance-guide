@@ -23,7 +23,7 @@ author: "David Kim"
 author_slug: "david-kim"
 author_title: "Tax Strategist"
 author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most business owners spend years building something valuable, then give away a significant chunk of that value in the final six months before the sale. I've watched it happen more times than I'd like to admit. A seller gets an offer, gets excited, skips the preparation phase, and ends up leaving real money on the table, not because they were careless people, but because they didn't know what buyers actually look for when they open the hood. Selling a business is a completely different skill set than running one. And most people only do it once.
 

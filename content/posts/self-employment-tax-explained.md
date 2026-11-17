@@ -1,6 +1,7 @@
 ---
 title: "Self-Employment Tax Explained: 15.3% Rate Breakdown"
 date: 2026-08-12T22:23:56.396815+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Understand self-employment tax rates, calculate what you owe, and discover deductions to reduce your tax burden as a freelancer or business owner."
 image: "/img/heroes/7289715.jpg"

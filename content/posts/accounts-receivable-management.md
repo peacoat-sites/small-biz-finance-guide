@@ -23,7 +23,7 @@ author: "Michael Torres"
 author_slug: "michael-torres"
 author_title: "Small Business Lending Specialist"
 author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You did everything right. You landed the client, delivered the work, sent the invoice, and then... nothing. Two weeks pass. You follow up. Silence. Week five, you're staring at $14,000 sitting in your accounts receivable column that might as well be Monopoly money. Meanwhile, your rent is due, your supplier wants payment, and your bank account balance tells a completely different story than your profit and loss statement. This is the accounts receivable trap, and it catches good businesses every single day.
 

@@ -23,7 +23,7 @@ author: "Amanda Pierce"
 author_slug: "amanda-pierce"
 author_title: "Operations Finance Consultant"
 author_bio: "Amanda Pierce consults with small businesses on the day-to-day money mechanics that make or break them: cash flow, invoicing, and getting paid on time. She has cleaned up the books for dozens of owners. At Small Biz Finance Guide she covers cash flow and operational finance."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You walk into a bank, ask about a small business loan, and leave two hours later with a stack of paperwork, no clear answers, and a vague sense that you probably won't qualify. Sound familiar? Most small business owners don't get turned down because their business is bad. They get rejected because they showed up unprepared, applied to the wrong lender, or didn't understand what the bank was actually looking for. The good news: this is entirely fixable.
 

@@ -1,6 +1,7 @@
 ---
 title: "SBA Commercial Real Estate Loans: How to Qualify and Apply"
 date: 2026-07-18T22:33:14.939781+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how SBA commercial real estate loans work, qualification requirements, loan terms, and the application process for small business owners."
 image: "/img/heroes/4534504.jpg"

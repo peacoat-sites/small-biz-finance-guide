@@ -23,7 +23,7 @@ author: "Michael Torres"
 author_slug: "michael-torres"
 author_title: "Small Business Lending Specialist"
 author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You just got off a call with your bank. They quoted you an interest rate of 9.5% on a business term loan. Then a friend mentions her online lender offered her 24%. Another business owner in your Facebook group is bragging about his SBA loan at 6.8%. You're staring at three completely different numbers, and you have no idea if any of them are good, bad, or somewhere in between.
 

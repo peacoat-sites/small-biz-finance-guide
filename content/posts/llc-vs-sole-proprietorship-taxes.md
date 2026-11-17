@@ -23,7 +23,7 @@ author: "David Kim"
 author_slug: "david-kim"
 author_title: "Tax Strategist"
 author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Last April you filed taxes as a sole proprietor, watched that self-employment tax line hit 15.3% stacked on top of income tax, and thought: wait, wouldn't an LLC have been cheaper? Maybe a friend told you to "just form one." Maybe you read something online that made it sound bulletproof. The reality's messier, and getting it wrong costs real money either way.
 

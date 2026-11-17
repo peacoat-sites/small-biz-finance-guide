@@ -1,6 +1,7 @@
 ---
 title: "27% of Businesses Use Both: Line of Credit vs Credit Card"
 date: 2026-07-11T22:30:41.436069+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Compare business lines of credit and credit cards side by side. See rates, limits up to $40,000, and which option fits your cash flow needs best."
 image: "/img/heroes/7821467.jpg"

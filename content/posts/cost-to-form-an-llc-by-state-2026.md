@@ -1,6 +1,7 @@
 ---
 title: "LLC Formation Costs by State 2026: Complete Pricing Guide"
 date: 2026-08-01T22:38:00.942867+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Compare LLC formation costs across all 50 states for 2026. Find filing fees, registered agent costs, and total expenses by state."
 image: "/img/heroes/5668501.jpg"

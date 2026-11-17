@@ -1,6 +1,7 @@
 ---
 title: "Do You Need an EIN for Your LLC? When It's Required"
 date: 2026-08-04T22:43:36.717580+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn when your LLC needs an EIN, how to apply, and what happens if you operate without one. Clear requirements and next steps."
 image: "/img/heroes/7247407.jpg"

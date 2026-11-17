@@ -1,6 +1,7 @@
 ---
 title: "QuickBooks for Small Business: Setup, Features & Best Practices"
 date: 2026-07-13T22:37:02.930138+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how QuickBooks helps small businesses manage finances, invoicing, and taxes. Discover setup tips, key features, and whether it's right for your company."
 image: "/img/heroes/8297351.jpg"

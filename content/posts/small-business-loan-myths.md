@@ -1,6 +1,7 @@
 ---
 title: "90% of Small Business Loan Applicants Make These Mistakes"
 date: 2026-08-15T21:56:09.212616+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover the most common small business loan myths that hurt your approval odds. Learn what lenders actually look for."
 image: "/img/heroes/8428064.jpg"

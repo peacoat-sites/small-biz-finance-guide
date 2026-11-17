@@ -1,6 +1,7 @@
 ---
 title: "CPA vs Bookkeeper: When to Hire Each for Your Business"
 date: 2026-07-12T22:33:06.605194+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn when to hire a CPA versus a bookkeeper. Understand the cost differences and key responsibilities to make the right choice for your business."
 image: "/img/heroes/7821536.jpg"

@@ -23,7 +23,7 @@ faqs:
    a: "Don't panic, and don't respond alone. The type of audit matters: a correspondence audit (a letter requesting specific documentation) is very different from an in-person field audit. In either case, get a CPA or tax attorney involved before you respond. What you say and what you produce in the first response sets the frame for everything that follows."
  - q: "Can I reduce my audit risk by paying a higher tax bill?"
    a: "Not directly, but accuracy matters more than the amount owed. Returns that appear internally consistent, with deductions proportionate to revenue and industry norms, are less likely to be selected. If your numbers are legitimate but look unusual, attaching a brief explanatory statement to your return can reduce the chance of a follow-up inquiry."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most small business owners I talk to think an audit is something that happens to people who cheat. That assumption is expensive.

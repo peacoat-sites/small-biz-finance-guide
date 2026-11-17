@@ -1,6 +1,7 @@
 ---
 title: "How the One Big Beautiful Bill Reshapes Your 2026 Tax Year"
 date: 2026-07-30T22:46:07.382018+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Here's a meta description for that article:
 

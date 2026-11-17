@@ -1,6 +1,7 @@
 ---
 title: "Can You Write Off Your Cell Phone? 60% Business Use Rule"
 date: 2026-07-22T22:40:19.227857+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how much of your cell phone expense is tax deductible. Understand the business use percentage rules and documentation requirements for claiming deductions"
 image: "/img/heroes/3782208.jpg"

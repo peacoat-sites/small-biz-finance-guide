@@ -1,6 +1,7 @@
 ---
 title: "Professional Liability Insurance: Protection Every Service Business Needs"
 date: 2026-07-14T22:41:27.357271+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn what professional liability insurance covers, why your business needs it, and how to choose the right policy for your industry and risks."
 image: "/img/heroes/7821684.jpg"

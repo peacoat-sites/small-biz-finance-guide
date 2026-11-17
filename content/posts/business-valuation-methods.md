@@ -23,7 +23,7 @@ author: "David Kim"
 author_slug: "david-kim"
 author_title: "Tax Strategist"
 author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You just got an offer to buy your business. The number on the table either makes you feel robbed or handed the lottery. The problem? You have no idea which one it is. Owners often accept offers 40% below actual value without learning valuation basics. Others walk away from fair deals anchored to numbers pulled from nowhere. Both are avoidable. That's what this is for.
 

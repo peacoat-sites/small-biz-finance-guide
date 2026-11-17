@@ -1,6 +1,7 @@
 ---
 title: "Retirement Plans for the Self-Employed: 5 Best Options"
 date: 2026-07-11T22:33:29.123572+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover the top retirement plan options for self-employed workers, how each one works, and which might save you the most on taxes."
 image: "/img/heroes/8511936.jpg"

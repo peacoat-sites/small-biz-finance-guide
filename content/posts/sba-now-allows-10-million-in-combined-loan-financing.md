@@ -1,6 +1,7 @@
 ---
 title: "SBA Now Allows $10 Million in Combined Loan Financing"
 date: 2026-07-24T22:44:23.274263+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "SBA now permits up to $10 million in combined loan financing for small businesses. Learn about eligibility requirements, application process, and how to maximiz"
 image: "/img/heroes/5849563.jpg"

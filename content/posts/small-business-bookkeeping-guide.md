@@ -23,7 +23,7 @@ author: "Rachel Green"
 author_slug: "rachel-green"
 author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most small business owners don't realize they have a bookkeeping problem until tax season hits and their accountant flags unreconciled bank transactions spanning months. When books are disorganized, CPA bills often double due to cleanup work, and owners lack clarity on profitability. That's not a tax problem. It's a bookkeeping problem, and it starts long before April.
 

@@ -12,7 +12,7 @@ author_title: "Operations Finance Consultant"
 author_bio: "Amanda Pierce consults with small businesses on the day-to-day money mechanics that make or break them: cash flow, invoicing, and getting paid on time. She has cleaned up the books for dozens of owners. At Small Biz Finance Guide she covers cash flow and operational finance."
 slug: "sbas-new-10-million-loan-limit-who-actually-benefits"
 affiliate_disclosure: true
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 On July 4, 2026, the SBA officially doubles its combined 7(a) and 504 loan cap to $10 million, the highest lending ceiling in the agency's history. Administrator Kelly Loeffler announced the change on May 18 via Policy Notice 5000-879058, and the headlines have been loud ever since. "Small business lending just got supercharged." "A new era for growth capital."
 

@@ -1,6 +1,7 @@
 ---
 title: "S-Corp Election Benefits: Save $15,000+ Annually"
 date: 2026-08-07T01:05:38.948551+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover how S-corp elections reduce self-employment taxes. Learn if this strategy saves you thousands and fits your business structure."
 image: "/img/heroes/6962998.jpg"

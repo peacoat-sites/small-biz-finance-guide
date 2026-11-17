@@ -23,7 +23,7 @@ faqs:
     a: "Some programs specifically target pre-revenue startups, particularly in innovation and research categories. Most programs, though, want to see at least some demonstrated traction. Check eligibility carefully before investing application time."
   - q: "What's the biggest mistake founders make when applying for grants?"
     a: "Applying for grants they don't actually fit. Founders get excited about the dollar amount and ignore the program's stated priorities. Grant committees notice when an application is generic or poorly aligned, and it's the fastest path to rejection. Apply to fewer programs with stronger fit, not every program you can find."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 A common misconception about grants is that they're basically free money waiting to be claimed. In reality, the grant landscape is messier, more competitive, and more specific than most "top 10 grants" lists suggest.

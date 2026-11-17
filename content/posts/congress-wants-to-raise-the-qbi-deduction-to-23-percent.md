@@ -1,6 +1,7 @@
 ---
 title: "Congress Wants to Raise the QBI Deduction to 23 Percent"
 date: 2026-07-10T22:42:26.588538+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover how Congress plans to raise the QBI deduction from 20% to 23%, what it means for small business owners, and how the change could impact your tax bill."
 image: "/img/heroes/6928994.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Cash vs Accrual Accounting: Which Method Fits Your Business"
 date: 2026-07-19T22:35:47.084090+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Understand the key differences between cash and accrual accounting methods. Learn which approach works best for your small business finances and growth."
 image: "/img/heroes/8292894.jpg"

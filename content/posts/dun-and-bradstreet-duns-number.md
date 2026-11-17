@@ -23,7 +23,7 @@ faqs:
    a: "No. A DUNS number and your D&B business credit profile are entirely separate from your personal credit reports. Registering for one does not trigger any inquiry or change on your personal Equifax, Experian, or TransUnion files. Business credit and personal credit are different systems."
  - q: "Do I need a DUNS number if I'm a sole proprietor?"
    a: "You can get one, and it might help if you're applying for vendor credit accounts or working with corporate clients who check D&B. But if you're a true one-person operation with no employees and you're only working with individual consumers, you probably don't need it yet. Get it when a specific opportunity requires it, not just to have it."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most business owners discover they need a DUNS number mid-application for something important: a government contract, bank loan, or vendor account. A field appears asking for a DUNS Number, and there's no clear answer. You're trying to move fast, and suddenly you're filling out forms on a website that looks outdated, trying to figure out if you already have a number you didn't know about.

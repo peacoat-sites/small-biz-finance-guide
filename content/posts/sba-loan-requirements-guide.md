@@ -23,7 +23,7 @@ author: "Michael Torres"
 author_slug: "michael-torres"
 author_title: "Small Business Lending Specialist"
 author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You fill out the pre-qualification form, wait two weeks, and get back a vague email: "don't quite meet the requirements." No explanation. No roadmap. Just a polite rejection.
 

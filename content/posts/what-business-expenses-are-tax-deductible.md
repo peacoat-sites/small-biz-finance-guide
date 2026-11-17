@@ -1,6 +1,7 @@
 ---
 title: "162 Tax-Deductible Business Expenses You Should Know"
 date: 2026-07-09T22:58:27.745281+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Discover which business expenses are tax deductible, from the $10,000 SALT cap to $3,000 loss limits, and keep more of what you earn."
 image: "/img/heroes/8297031.jpg"

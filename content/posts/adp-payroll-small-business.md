@@ -23,7 +23,7 @@ faqs:
     a: "RUN is designed for small businesses (typically under 50 employees). Workforce Now is a more complex, enterprise-oriented platform with deeper HR functionality. If someone is steering a small business toward Workforce Now, ask hard questions about why."
   - q: "Does ADP integrate with QuickBooks?"
     a: "Yes, ADP RUN has a QuickBooks integration that syncs payroll journal entries into QuickBooks automatically. It works reasonably well, though some users report needing to do occasional manual reconciliation. It's not as seamless as using QuickBooks Payroll natively, but it's functional."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most business owners I talk to come to ADP the same way: someone recommended it, or they Googled "payroll software small business" and ADP kept showing up. They sign up, get a little overwhelmed by the interface, and then aren't totally sure if they're using it right or overpaying for features they don't need. If that's you, good. You're in the right place.

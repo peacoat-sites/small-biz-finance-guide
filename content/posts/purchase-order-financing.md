@@ -23,7 +23,7 @@ faqs:
    a: "This is the risk that keeps PO financing lenders up at night, and it's something you need to understand clearly before signing anything. If your customer doesn't pay, you still owe the lender. The repayment obligation doesn't disappear. Read every agreement with your CPA or a contracts attorney before you move forward."
  - q: "Are there PO financing companies that specialize in specific industries?"
    a: "Yes, and it's worth finding one that does. Lenders who specialize in apparel, food and beverage, or electronics, for example, will have faster underwriting and more realistic expectations about your supplier timelines and margins. A generic working capital lender may technically offer PO financing but won't understand your industry's nuances the way a specialist does."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most business owners discover purchase order financing at the worst possible time: they've just landed the biggest order of their company's life, and they're about to have to turn it down because they can't afford to manufacture or source the product.
 

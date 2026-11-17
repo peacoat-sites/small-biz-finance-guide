@@ -1,6 +1,7 @@
 ---
 title: "Net 30 Vendor Accounts: 15 Ways to Manage Cash Flow"
 date: 2026-07-20T22:41:14.785973+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to leverage net 30 vendor accounts to improve cash flow management and negotiate better payment terms with suppliers."
 image: "/img/heroes/7821540.jpg"

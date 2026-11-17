@@ -23,7 +23,7 @@ author: "Rachel Green"
 author_slug: "rachel-green"
 author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most small business owners set their prices once, early on, usually in a panic, and then never touch them again. A common pattern: a new owner checks what competitors charge, cuts their rate by 10% to "win business," and treats that number as fixed. Two years later, with costs climbed and 60-hour weeks spent grinding, the business feels like a treadmill. The price was the problem from day one. They just didn't realize it.
 

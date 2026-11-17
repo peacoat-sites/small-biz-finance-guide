@@ -23,7 +23,7 @@ author: "Michael Torres"
 author_slug: "michael-torres"
 author_title: "Small Business Lending Specialist"
 author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Hiring a first employee often comes with a surprise: managing payroll withholding, deposits, and deadlines. Missing a payroll tax deposit by even a few days can trigger an IRS penalty. Many small business owners encounter payroll complications at the moment they're most excited about growth, when they're least prepared to handle complex tax rules.
 

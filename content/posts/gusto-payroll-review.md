@@ -1,6 +1,7 @@
 ---
 title: "Gusto Payroll Review: Features, Pricing, and Setup"
 date: 2026-07-27T22:41:50.721853+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Explore Gusto's payroll software capabilities, costs, and ease of use to determine if it's the right solution for your business needs."
 image: "/img/heroes/1604024.jpg"

@@ -9,7 +9,7 @@ author: "Rachel Green"
 author_slug: "rachel-green"
 author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
-lastmod: 2026-07-07
+lastmod: 2026-11-16T16:00:00Z
 ---
 Thinking about ditching your [steady paycheck](/1099-vs-w2-explained/) for that business idea you can't stop thinking about? Before you file the paperwork or tell your boss you're out, you need to be honest about where you actually stand right now.
 

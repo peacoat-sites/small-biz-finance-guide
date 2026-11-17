@@ -23,7 +23,7 @@ faqs:
     a: "Sometimes, yes. Demonstrated good-faith response, documented pre-incident security practices, and cooperation with investigators all factor in. This is not a guarantee, and the variation between regulators is significant. Don't build your financial plan around hoping for a reduced fine."
   - q: "Should I tell my clients immediately if I think we had a breach?"
     a: "Don't make any public or client-facing statements before you've engaged legal counsel and have at least a preliminary understanding of what happened. Premature or inaccurate disclosures can create additional liability. Get your attorney on the phone first, then your forensic team, then communicate."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 A data breach at a 12-person accounting firm. No ransomware, no dramatic hack. Just one employee clicking a phishing link in what looked like a DocuSign email. The attacker sat quietly in their email system for six weeks before anyone noticed. By the time it was over, that firm had spent just over $340,000 to clean it up. They didn't have cyber insurance. They almost didn't survive it.

@@ -1,5 +1,4 @@
 baseURL = "https://smallbizfinanceguide.com/"
-enableGitInfo = true
 languageCode = "en-us"
 title = "Small Biz Finance Guide"
 

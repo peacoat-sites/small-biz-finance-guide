@@ -23,7 +23,7 @@ author: "Rachel Green"
 author_slug: "rachel-green"
 author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You've got a business idea, a solid plan, and maybe $8,000 in the bank. The bank says no. The credit card limit won't cover what you need. And every SBA loan guide you find online talks about $250,000 minimums and two years of tax returns like you're already a mid-size operation. If that's where you are right now, the SBA Microloan program is probably the most relevant funding option you haven't looked at closely enough.
 

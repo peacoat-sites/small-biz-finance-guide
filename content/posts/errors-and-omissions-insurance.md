@@ -23,7 +23,7 @@ faqs:
    a: "Match your limit to your largest realistic contract exposure, not your average project. If your biggest client relationship represents $2 million in potential liability if something goes wrong, a $500K policy isn't doing much work for you. A common starting point for small service businesses is $1 million per-occurrence / $2 million aggregate, but your broker should stress-test that against your actual client contracts."
  - q: "Can a client sue me even if I didn't do anything wrong?"
    a: "Yes. That's the part people underestimate. A dissatisfied client can file a claim based on their perception of what went wrong. You may be completely in the right and still spend significant money defending yourself. E&O coverage pays those defense costs whether the claim has merit or not, which is often the more valuable benefit for small businesses."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 Most service businesses I've worked with buy E&O insurance after something bad happens. A client claims a mistake cost them money, a lawyer sends a letter, and suddenly everyone's very interested in a policy they could have had for a few hundred dollars a year. I've sat across from enough business owners in that exact position to tell you: buying it after the fact isn't buying it at all.

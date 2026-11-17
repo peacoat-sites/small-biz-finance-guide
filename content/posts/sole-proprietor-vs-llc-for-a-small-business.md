@@ -1,6 +1,7 @@
 ---
 title: "Sole Proprietor vs LLC: Which Structure Protects Your Business"
 date: 2026-07-29T22:38:13.111303+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Compare sole proprietorship and LLC structures for small business. Explore liability protection, taxes, costs, and setup requirements to choose the right legal "
 image: "/img/heroes/6170188.jpg"

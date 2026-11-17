@@ -1,6 +1,7 @@
 ---
 title: "How to Write Off Your Car as a Business Expense"
 date: 2026-07-08T22:43:42.488494+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how to deduct your car for business use, including mileage vs. actual costs, Section 179, and what records you need to keep for the IRS."
 image: "/img/heroes/29726512.jpg"

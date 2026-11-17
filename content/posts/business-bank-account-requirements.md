@@ -23,7 +23,7 @@ author: "Rachel Green"
 author_slug: "rachel-green"
 author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 A surprisingly large number of small business owners run their company finances through a personal checking account for months, sometimes years, before realizing the damage it causes. Mixing personal and business finances can cost thousands in accounting fees to untangle before tax season and may cause loss of legal liability protection. Mixing personal and business money isn't just sloppy. It can pierce the corporate veil for LLCs and corporations, meaning your personal assets become fair game if your business gets sued. Opening a dedicated business bank account isn't optional. It's foundational.
 

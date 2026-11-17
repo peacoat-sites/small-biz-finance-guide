@@ -12,7 +12,7 @@ author_title: "Small Business Lending Specialist"
 author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
 slug: "how-to-stack-bonus-depreciation-and-section-179-under-the-obbba"
 affiliate_disclosure: true
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most small business owners heard the headline: the One Big Beautiful Bill Act brought back 100% bonus depreciation. What they didn't hear was the fine print that could make a real difference in how much of that benefit they actually keep. The strategy here is more nuanced than the press coverage suggests, particularly after the IRS issued Notice 2026-11 in January.
 

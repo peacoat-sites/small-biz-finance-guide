@@ -1,6 +1,7 @@
 ---
 title: "100% Bonus Depreciation 2024: What Changed for Your Business"
 date: 2026-07-17T22:30:38.192136+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Understand 100% bonus depreciation rules for 2024 and how the phase-out through 2026 affects your tax deductions and business equipment purchases."
 image: "/img/heroes/5466808.jpg"

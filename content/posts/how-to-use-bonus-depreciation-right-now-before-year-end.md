@@ -1,6 +1,7 @@
 ---
 title: "How to Use Bonus Depreciation Right Now Before Year-End"
 date: 2026-08-11T22:23:58.119394+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Maximize tax savings before year-end with bonus depreciation. Learn how to claim immediate deductions on business assets and reduce your 2024 tax liability toda"
 image: "/img/heroes/7175981.jpg"

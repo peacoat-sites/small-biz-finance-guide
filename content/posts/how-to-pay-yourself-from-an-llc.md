@@ -1,6 +1,7 @@
 ---
 title: "How to Pay Yourself From an LLC: 5 Methods Explained"
 date: 2026-07-10T22:40:17.279972+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn the smartest ways to pay yourself from an LLC, from owner's draws to salaries. Avoid tax mistakes and choose the right method for your business."
 image: "/img/heroes/5717846.jpg"

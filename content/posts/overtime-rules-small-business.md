@@ -23,7 +23,7 @@ faqs:
    a: "Under federal law, the statute of limitations is two years for unintentional violations and three years for willful violations. Some states allow longer lookback periods. This is one reason clean records matter so much."
  - q: "Are salaried managers automatically exempt from overtime?"
    a: "No. Salary alone doesn't create exemption. The employee's weekly salary must meet the current federal threshold (verify this currently, as it's been in flux), and their job duties must genuinely meet one of the FLSA's exemption categories. Consult a CPA or employment attorney before classifying any position as exempt."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 Most small business owners I talk to are operating on a version of overtime law that's about five years out of date, half-remembered from when they hired their first employee, and honestly just wrong in a few key places. That's not a criticism. It's genuinely confusing, and the federal government hasn't made it easier.
 

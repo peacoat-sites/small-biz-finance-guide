@@ -1,6 +1,7 @@
 ---
 title: "1099 vs W2 Employee: The Classification Rules You Need"
 date: 2026-07-17T22:32:37.073321+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn the IRS guidelines for classifying workers as independent contractors or employees. Avoid costly misclassification penalties."
 image: "/img/heroes/6814521.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Solo 401k vs SEP IRA: Which Saves Small Owners More"
 date: 2026-07-19T22:33:47.110054+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Compare solo 401k and SEP IRA retirement plans for self-employed business owners. See contribution limits, tax benefits, and which fits your needs."
 image: "/img/heroes/7545329.jpg"

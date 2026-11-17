@@ -1,6 +1,7 @@
 ---
 title: "Section 179 and Bonus Depreciation: Your Mid-Year Equipment Buying Window"
 date: 2026-07-18T22:36:00.295044+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Maximize tax deductions this year. Learn how Section 179 and bonus depreciation can help you save on equipment purchases before year-end deadlines."
 image: "/img/heroes/7621015.jpg"

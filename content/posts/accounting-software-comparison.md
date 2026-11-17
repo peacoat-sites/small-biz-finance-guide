@@ -1,6 +1,7 @@
 ---
 title: "11 Best Accounting Software Options Compared"
 date: 2026-07-28T22:42:11.556474+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Compare top accounting software with detailed pricing, features, and ratings. Find the right solution for your business needs."
 image: "/img/heroes/33175651.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "How the SBA Built America's Small Business Support System"
 date: 2026-08-13T22:24:52.690020+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Explore how the Small Business Administration evolved from its 1953 founding to become the primary federal advocate for entrepreneurs and small business owners."
 image: "/img/heroes/36984942.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "Life Insurance for Business Owners: Key Coverage You Need"
 date: 2026-08-08T22:02:34.927832+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how life insurance protects your business, covers debts, and secures your employees' future. Essential policies for business owners explained."
 image: "/img/heroes/23496699.jpg"

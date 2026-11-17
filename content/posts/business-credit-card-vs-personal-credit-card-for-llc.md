@@ -23,7 +23,7 @@ faqs:
    a: "Realistically, six to twelve months of consistent on-time payments before you'll see a meaningful business credit profile with Dun & Bradstreet or Experian Business. If you want to accelerate it, pair your credit card use with net-30 vendor accounts that report to business bureaus, like Uline, Grainger, or Quill."
  - q: "What if I accidentally use my business card for a personal purchase?"
    a: "It happens. The clean fix is to reimburse the business for that amount right away, treat it as a personal draw or owner contribution in your books, and note it clearly. Don't just ignore it. One uncategorized charge won't sink you, but a pattern of them will make your financial statements meaningless and your accountant frustrated."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 
 A common mistake is forming an LLC but continuing to use personal credit cards for business purchases. This feels easier in the moment, but mixing personal and business charges creates accounting headaches. Six months in, you'll hand your accountant a pile of mixed receipts, your books will be messy, and your tax prep bill will spike. A dedicated business card from the start keeps your finances clean and avoids this problem.

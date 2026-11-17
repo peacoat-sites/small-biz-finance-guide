@@ -1,6 +1,7 @@
 ---
 title: "Business Credit Monitoring: Protect Your Company's Financial Reputation"
 date: 2026-07-23T22:38:15.447103+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how business credit monitoring works, why it matters for your company, and what to look for in a monitoring service to protect your finances."
 image: "/img/heroes/8511936.jpg"

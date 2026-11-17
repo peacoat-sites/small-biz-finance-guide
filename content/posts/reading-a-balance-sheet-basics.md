@@ -23,7 +23,7 @@ author: "Rachel Green"
 author_slug: "rachel-green"
 author_title: "CFO Consultant"
 author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You're sitting across from a banker, a potential investor, or maybe just your own accountant, and someone slides a page of numbers in front of you. Three columns, a bunch of line items, totals at the bottom. Everyone in the room assumes you understand it. You nod. You don't fully understand it. This moment happens to smart, capable business owners regularly, and it doesn't have to.
 

@@ -1,6 +1,7 @@
 ---
 title: "Pass-Through Taxation Explained: How It Works for Your Business"
 date: 2026-08-02T22:38:38.972296+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Understand pass-through taxation and how it affects your business income. Learn which entities qualify and the tax advantages for owners."
 image: "/img/heroes/8962449.jpg"

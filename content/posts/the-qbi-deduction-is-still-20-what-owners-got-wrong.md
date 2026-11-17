@@ -1,6 +1,7 @@
 ---
 title: "The QBI Deduction Is Still 20%: What Owners Got Wrong"
 date: 2026-08-05T22:42:15.091019+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "The QBI deduction remains at 20% for most business owners. Learn what common misconceptions exist and how to correctly claim this valuable tax benefit for your "
 image: "/img/heroes/6927355.jpg"

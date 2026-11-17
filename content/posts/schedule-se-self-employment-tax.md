@@ -1,6 +1,7 @@
 ---
 title: "Schedule SE Self-Employment Tax: What You Actually Owe"
 date: 2026-07-14T22:39:20.513515+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Calculate your self-employment tax with Schedule SE. Learn the 15.3% rate, deductible portion, and how it works with Form 1040."
 image: "/img/heroes/4939614.jpg"

@@ -1,6 +1,7 @@
 ---
 title: "OSHA Requirements for Small Business: Essential Compliance Guide"
 date: 2026-08-10T22:19:33.661771+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn OSHA's key requirements for small businesses, including workplace safety standards, recordkeeping, inspections, and how to stay compliant."
 image: "/img/heroes/6791487.jpg"

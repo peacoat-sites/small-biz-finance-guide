@@ -1,6 +1,7 @@
 ---
 title: "Buy-Sell Agreements: Protect Your Business Partnership"
 date: 2026-07-20T22:38:42.520055+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn what buy-sell agreements are, why they matter for business owners, and how to structure one that protects your company and co-owners."
 image: "/img/heroes/261621.jpg"

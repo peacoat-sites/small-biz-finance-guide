@@ -1,6 +1,7 @@
 ---
 title: "$120K Business? Why Revenue-Based Financing Might Work"
 date: 2026-08-09T22:04:08.788337+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how revenue-based financing works for growing businesses. Understand the terms, costs, and when RBF makes sense for your company."
 image: "/img/heroes/33175651.jpg"

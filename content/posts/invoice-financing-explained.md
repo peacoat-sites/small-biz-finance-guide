@@ -1,6 +1,7 @@
 ---
 title: "Invoice Financing: How 90% of Businesses Get Faster Cash"
 date: 2026-07-31T22:41:47.655148+00:00
+lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how invoice financing works, from 30-90 day payment terms to funding rates. See if it's right for your business cash flow needs."
 image: "/img/heroes/7821529.jpg"

@@ -23,7 +23,7 @@ author: "David Kim"
 author_slug: "david-kim"
 author_title: "Tax Strategist"
 author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
-lastmod: 2026-07-08
+lastmod: 2026-11-16T16:00:00Z
 ---
 You opened your business checking account, you're tracking expenses in a spreadsheet, and someone, maybe your accountant, maybe a mentor, maybe a podcast you half-listened to while doing inventory, told you that you need a business credit card. But nobody really explained *why*, or what happens if you pick the wrong one, or whether your personal credit score is about to take a hit just for applying. If that sounds familiar, you're in the right place.
 
