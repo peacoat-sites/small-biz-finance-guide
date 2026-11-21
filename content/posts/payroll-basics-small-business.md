@@ -107,7 +107,7 @@ Mistakes in payroll fall into predictable categories. Knowing them puts you ahea
 
 If you're building out your broader financial system at the same time, a solid foundation in [small business bookkeeping](/small-business-bookkeeping-guide/) will help you understand how payroll entries connect to your financial statements.
 
-For owners who want a deeper reference on the mechanics of running small business accounting, [Accounting Made Simple by Mike Piper](https://www.amazon.com/dp/0981454224?tag=contentportfo-20) is a straightforward, jargon-free read. The site may earn a small commission if you purchase through that link, but it's a book I genuinely recommend.
+For owners who want a deeper reference on the mechanics of running small business accounting, [Accounting Made Simple by Mike Piper](https://www.amazon.com/dp/0981454224?tag=contentportfo-20) is a straightforward, jargon-free read. The site may earn a small commission if you purchase through that link, It is a practical resource well worth reading.
 
 ## Payroll and Your Bigger Financial Picture
 

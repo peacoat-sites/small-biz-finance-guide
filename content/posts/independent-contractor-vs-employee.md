@@ -93,7 +93,7 @@ Misclassification penalties aren't slaps on the wrist. If the IRS determines you
 
 The Department of Labor can also pursue unpaid overtime and minimum wage claims if workers who should have been employees were denied those protections. And at the state level, unemployment insurance agencies run their own audits. A single complaint from a disgruntled worker who files for unemployment and gets denied because they were labeled a contractor can trigger a full audit of your worker classifications.
 
-For example, a business can receive an audit notice based on a complaint from a competitor's disgruntled ex-contractor, even if the business followed standard practices. Once triggered, an audit can sweep up every contractor relationship the business has. The resulting bill, once penalties and interest are calculated, can be serious enough to put the business's cash position at genuine risk.
+For example, a business could receive an audit notice based on a complaint from a disgruntled worker, even if the business had followed standard practices. Once triggered, an audit can sweep up every contractor relationship the business has. The resulting bill, once penalties and interest are calculated, can be serious enough to put the business's cash position at genuine risk.
 
 ## How to Protect Your Business Right Now
 

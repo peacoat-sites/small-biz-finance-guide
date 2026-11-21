@@ -42,7 +42,7 @@ What trips people up is the difference between the two main structures. In **[in
 
 **Invoice discounting** keeps the invoice on your books. You're borrowing against it, and you still manage the collection relationship with your customer. They often never know the arrangement exists. This structure is more common for larger, established businesses and typically requires more financial documentation to qualify. If you want to keep the financing invisible to your clients, discounting is the path, though it's not always available to early-stage companies.
 
-For example, a staffing agency might have this backwards in its thinking. A business might assume factoring is "better" because larger companies use it. But if that business has four anchor clients it has serviced for years, the notice of assignment could make one of those clients nervous enough to call in directly asking if the company is in financial trouble. Factoring may be the right tool for [cash flow](/how-to-improve-cash-flow-in-a-small-business/). It was the wrong tool for that particular client relationship.
+For example, a business might think through this scenario the wrong way. It might assume factoring is "better" because larger companies use it. But if that business has four anchor clients it has serviced for years, the notice of assignment could make one of those clients nervous enough to call in directly asking whether the company is in financial trouble. Factoring may be the right tool for [cash flow](/how-to-improve-cash-flow-in-a-small-business/). It can be the wrong tool for a business where long-term client relationships depend on direct, uninterrupted billing.
 
 ## The Real Cost: Let Me Show You the Numbers That Matter
 
