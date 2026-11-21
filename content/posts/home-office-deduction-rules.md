@@ -21,8 +21,8 @@ faqs:
    a: "Keep a floor plan or sketch with measurements showing the dedicated office space and total home square footage. Keep all utility bills, insurance statements, rent or mortgage records, and repair invoices for the year. A few photos of the dedicated space are a smart idea too. The Consumer Financial Protection Bureau's small business resources reinforce the importance of consistent recordkeeping as a general financial health practice, and nowhere is that more true than here."
 author: "Sarah Johnson"
 author_slug: "sarah-johnson"
-author_title: "CPA & Lead Editor"
-author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
+author_title: "Accounting and Tax"
+author_bio: "Sarah Johnson is the byline used at Small Biz Finance Guide for articles on small business accounting and tax basics. It is a pen name, not a CPA; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 You set up a dedicated room in your house for your business two years ago. You've been paying rent, utilities, and internet every single month. But at tax time, your accountant tells you that you've never claimed the home office deduction, and you've been leaving real money on the table. That scenario plays out thousands of times every year. The home office deduction is one of the most misunderstood, most feared, and most underutilized deductions available to self-employed people and small business owners. People either skip it entirely because they're afraid of an audit, or they claim it wrong and create a mess. Let's clear that up.

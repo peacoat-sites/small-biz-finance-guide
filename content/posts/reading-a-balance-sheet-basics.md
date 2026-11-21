@@ -21,8 +21,8 @@ faqs:
    a: "Yes, and understanding that is part of financial literacy. Companies can time asset purchases or delay recording liabilities to make a snapshot look better than reality. Aggressive depreciation schedules, inflated inventory valuations, and premature revenue recognition are all things that can distort the picture. That's why audited financial statements matter for any serious transaction, and why asking questions when numbers don't feel right is always the right move."
 author: "Rachel Green"
 author_slug: "rachel-green"
-author_title: "CFO Consultant"
-author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
+author_title: "Financial Systems"
+author_bio: "Rachel Green is the byline used at Small Biz Finance Guide for articles on bookkeeping systems, reporting and planning for growth. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You're sitting across from a banker, a potential investor, or maybe just your own accountant, and someone slides a page of numbers in front of you. Three columns, a bunch of line items, totals at the bottom. Everyone in the room assumes you understand it. You nod. You don't fully understand it. This moment happens to smart, capable business owners regularly, and it doesn't have to.

@@ -8,8 +8,8 @@ categories: ["trending"]
 tags: ["july", "refund", "deadline", "most", "small"]
 author: "David Kim"
 author_slug: "david-kim"
-author_title: "Tax Strategist"
-author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
+author_title: "Business Taxes"
+author_bio: "David Kim is the byline used at Small Biz Finance Guide for articles on small business tax planning and deductions. It is a pen name, not a tax professional; how articles are researched and checked is explained in our editorial standards."
 slug: "the-july-6-rd-tax-refund-deadline-most-small-businesses-are-missing"
 affiliate_disclosure: true
 lastmod: 2026-11-16T16:00:00Z

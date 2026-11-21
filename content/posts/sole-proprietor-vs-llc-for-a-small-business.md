@@ -9,8 +9,8 @@ categories: ["Business Structure"]
 tags: ["sole", "proprietor", "small", "business"]
 author: "Rachel Green"
 author_slug: "rachel-green"
-author_title: "CFO Consultant"
-author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
+author_title: "Financial Systems"
+author_bio: "Rachel Green is the byline used at Small Biz Finance Guide for articles on bookkeeping systems, reporting and planning for growth. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 slug: "sole-proprietor-vs-llc-for-a-small-business"
 affiliate_disclosure: true
 faqs:

@@ -21,8 +21,8 @@ faqs:
    a: "Not necessarily. Net income is an accounting figure. What you can actually distribute depends on your cash position, upcoming obligations, reinvestment needs, and your business structure. An S-corp owner, for instance, has separate rules around distributions versus salary. Always talk to your CPA before making large owner distributions, particularly around tax time."
 author: "Rachel Green"
 author_slug: "rachel-green"
-author_title: "CFO Consultant"
-author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
+author_title: "Financial Systems"
+author_bio: "Rachel Green is the byline used at Small Biz Finance Guide for articles on bookkeeping systems, reporting and planning for growth. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Many small business owners can tell you their bank balance to the dollar. Ask them what their net profit margin was last quarter, though, and you'll often get a long pause. That gap, right there, is exactly why the income statement exists, and exactly why so many business owners are flying blind without realizing it.

@@ -8,9 +8,10 @@ image: "/img/heroes/6120252.jpg"
 categories: ["Financing"]
 author: "Sarah Johnson"
 author_slug: "sarah-johnson"
-author_title: "CPA & Lead Editor"
+author_title: "Accounting and Tax"
 tags: ["prime rate", "federal funds rate", "treasury", "business loans"]
 lastmod: 2026-07-08
+author_bio: "Sarah Johnson is the byline used at Small Biz Finance Guide for articles on small business accounting and tax basics. It is a pen name, not a CPA; how articles are researched and checked is explained in our editorial standards."
 ---
 
 Every business loan, line of credit, and card you carry is priced off one of the benchmarks below. The table pulls the current Prime Rate, Federal Funds Rate, and 10-Year Treasury yield directly from Federal Reserve data, refreshed monthly. If you have ever wondered why your variable-rate line moved when you did nothing, the answer is almost always a change in one of these three numbers.

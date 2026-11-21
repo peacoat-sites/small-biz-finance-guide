@@ -21,8 +21,8 @@ faqs:
    a: "Start by figuring out which type of margin is the problem. Low gross margin usually means your pricing is too low or your direct costs are too high. Low operating margin usually means overhead is eating you alive. Low net margin might mean debt service or tax exposure. Each diagnosis has a different fix. Don't just raise prices reflexively. Do the math first, find the leak, and fix that specifically."
 author: "David Kim"
 author_slug: "david-kim"
-author_title: "Tax Strategist"
-author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
+author_title: "Business Taxes"
+author_bio: "David Kim is the byline used at Small Biz Finance Guide for articles on small business tax planning and deductions. It is a pen name, not a tax professional; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You just quoted a client $850 for a job, they paid on the spot, and it felt like a win. But by the time you bought materials, drove to the site, paid your helper for three hours, and covered your share of that month's software subscription, you walked away with maybe $90. That's not a margin. That's a near-miss. And if you're running a business where that's happening regularly, you're not really making money, you're just staying busy.

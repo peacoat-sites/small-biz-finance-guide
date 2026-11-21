@@ -21,8 +21,8 @@ faqs:
    a: "Strategically, rarely. Tactically, sometimes. Discounting to fill capacity in a genuinely slow period is different from discounting as a default sales move. The problem with habitual discounting is that it trains buyers to wait for deals and undermines your anchor price. If you want to offer incentives, structure them differently: early payment discounts, bundled packages at a better per-unit rate, or loyalty pricing for long-term clients. These reward the right behavior without signaling that your standard rate is negotiable."
 author: "Rachel Green"
 author_slug: "rachel-green"
-author_title: "CFO Consultant"
-author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
+author_title: "Financial Systems"
+author_bio: "Rachel Green is the byline used at Small Biz Finance Guide for articles on bookkeeping systems, reporting and planning for growth. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most small business owners set their prices once, early on, usually in a panic, and then never touch them again. A common pattern: a new owner checks what competitors charge, cuts their rate by 10% to "win business," and treats that number as fixed. Two years later, with costs climbed and 60-hour weeks spent grinding, the business feels like a treadmill. The price was the problem from day one. They just didn't realize it.

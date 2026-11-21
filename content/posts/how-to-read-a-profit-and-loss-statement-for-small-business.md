@@ -21,8 +21,8 @@ faqs:
    a: "You don't strictly need it, but trying to build one manually in a spreadsheet is error-prone and time-consuming. QuickBooks Online starts around $35/month for the Simple Start plan. Wave is free. FreshBooks runs $19-$55/month depending on the tier. Any of these will generate a P&L in a few clicks once your transactions are categorized correctly, and correct categorization is where a bookkeeper earns their fee."
 author: "David Kim"
 author_slug: "david-kim"
-author_title: "Tax Strategist"
-author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
+author_title: "Business Taxes"
+author_bio: "David Kim is the byline used at Small Biz Finance Guide for articles on small business tax planning and deductions. It is a pen name, not a tax professional; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Many small business owners can tell you their bank balance down to the dollar but struggle to explain their profit and loss statement. That gap costs real money in preventable ways: overestimating profit margins, missing slow bleeds in overhead, taking distributions they can't actually afford.

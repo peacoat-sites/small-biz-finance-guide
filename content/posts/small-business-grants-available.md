@@ -21,8 +21,8 @@ faqs:
    a: "For many smaller grants and local programs, a full formal business plan isn't required. A clear, well-written executive summary describing your business, your market, your financials, and your goals will often suffice. That said, if you're targeting larger or more competitive grants, a professional business plan strengthens your application considerably. Resources like The Lean Startup by Eric Ries or Business Plan Pro software can help you build one efficiently. (Disclosure: this site may earn a commission on Amazon purchases.)"
 author: "Michael Torres"
 author_slug: "michael-torres"
-author_title: "Small Business Lending Specialist"
-author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
+author_title: "Business Lending"
+author_bio: "Michael Torres is the byline used at Small Biz Finance Guide for articles on SBA loans, lines of credit and how lenders review applications. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 $25,000. No loan. No debt. No equity traded away. That's what your competitor down the street just got, and they did it by applying for a small business grant.

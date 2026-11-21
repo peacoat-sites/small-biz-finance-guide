@@ -21,8 +21,8 @@ faqs:
    a: "Some states have begun requiring more disclosure, and California's SB 1235 (passed in 2018) now mandates APR-equivalent disclosures on commercial financing products over certain thresholds. Federal protections are still limited compared to consumer lending. It's a patchwork, and it's worth checking your state's current rules before signing."
 author: "Amanda Pierce"
 author_slug: "amanda-pierce"
-author_title: "Operations Finance Consultant"
-author_bio: "Amanda Pierce consults with small businesses on the day-to-day money mechanics that make or break them: cash flow, invoicing, and getting paid on time. She has cleaned up the books for dozens of owners. At Small Biz Finance Guide she covers cash flow and operational finance."
+author_title: "Cash Flow"
+author_bio: "Amanda Pierce is the byline used at Small Biz Finance Guide for articles on cash flow, invoicing and day-to-day business finance. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 If you're reading this, there's a decent chance someone already pitched you a merchant cash advance. Maybe it was an email, a phone call, or a pop-up ad promising "$50,000 in 24 hours, no credit check required." And part of you was tempted, because you needed the money and the bank said no, or the bank said yes but wanted six weeks and paperwork you didn't have time to gather.

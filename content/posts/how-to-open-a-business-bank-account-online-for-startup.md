@@ -21,8 +21,8 @@ faqs:
    a: "With a fully formed LLC and all documents ready, Mercury and Novo typically approve accounts within one to three business days. Some applicants get same-day approval. The account number and routing number are usually available immediately after approval, even before your debit card arrives."
 author: "Rachel Green"
 author_slug: "rachel-green"
-author_title: "CFO Consultant"
-author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
+author_title: "Financial Systems"
+author_bio: "Rachel Green is the byline used at Small Biz Finance Guide for articles on bookkeeping systems, reporting and planning for growth. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most articles about opening a business bank account spend 800 words telling you to "gather your documents" and then stop. That's not advice. That's a checklist you could've written yourself. So let me cover what actually matters, including the part where most startups make an expensive mistake in the first 90 days.

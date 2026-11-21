@@ -21,8 +21,8 @@ faqs:
    a: "The IRS imposes a failure-to-deposit penalty that starts at 2% for deposits 1-5 days late and escalates to 15% for amounts still unpaid more than 10 days after the IRS issues a notice. These aren't theoretical penalties. They show up, they add up, and they affect businesses that simply forgot or had a cash crunch. If you know you're going to miss a deposit, contact the IRS proactively or work with a tax professional. Ignoring it always makes it worse."
 author: "Sarah Johnson"
 author_slug: "sarah-johnson"
-author_title: "CPA & Lead Editor"
-author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
+author_title: "Accounting and Tax"
+author_bio: "Sarah Johnson is the byline used at Small Biz Finance Guide for articles on small business accounting and tax basics. It is a pen name, not a CPA; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You hired your first employee last Tuesday. By Friday, you realized you have absolutely no idea how payroll works. What do you withhold? When do you send the money to the government? What happens if you get it wrong? If that scenario sounds familiar, you're not alone. Payroll is one of the most common places small business owners get tripped up, not because it's impossibly complex, but because nobody ever sat down and explained it clearly. Let's fix that.

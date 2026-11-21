@@ -9,8 +9,8 @@ categories: ["Financing"]
 tags: ["revenue-based", "financing", "explained"]
 author: "David Kim"
 author_slug: "david-kim"
-author_title: "Tax Strategist"
-author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
+author_title: "Business Taxes"
+author_bio: "David Kim is the byline used at Small Biz Finance Guide for articles on small business tax planning and deductions. It is a pen name, not a tax professional; how articles are researched and checked is explained in our editorial standards."
 slug: "revenue-based-financing-explained"
 affiliate_disclosure: true
 faqs:

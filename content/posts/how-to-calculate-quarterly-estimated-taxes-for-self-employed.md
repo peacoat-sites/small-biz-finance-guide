@@ -21,8 +21,8 @@ faqs:
    a: "Yes, and this is a common situation. If you have a regular job with withholding and you also have freelance or side business income, you need to estimate whether your W-2 withholding plus any side income taxes will fall short of the $1,000 threshold. One option is to increase your W-2 withholding (by filing a new W-4 with your employer) to cover your side income taxes, which eliminates the need for separate quarterly payments. It's a clean solution if the side income is relatively predictable."
 author: "David Kim"
 author_slug: "david-kim"
-author_title: "Tax Strategist"
-author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
+author_title: "Business Taxes"
+author_bio: "David Kim is the byline used at Small Biz Finance Guide for articles on small business tax planning and deductions. It is a pen name, not a tax professional; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Most advice about quarterly estimated taxes starts in the wrong place. It leads with the IRS payment schedule, or maybe a vague warning about penalties, and skips the thing you actually need first: a clear picture of what you're estimating and why the math works the way it does. So let's fix that.

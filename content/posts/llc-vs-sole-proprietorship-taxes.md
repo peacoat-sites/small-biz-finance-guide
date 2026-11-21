@@ -21,8 +21,8 @@ faqs:
    a: "Yes, but timing matters for taxes. If you form an LLC and elect S-corp status mid-year, the election typically applies to a full tax year unless you're newly forming the entity. There are specific rules about when elections take effect, and getting this wrong can mean your election doesn't apply when you expect it to. This is exactly the kind of detail that warrants a conversation with a CPA before you file Form 2553."
 author: "David Kim"
 author_slug: "david-kim"
-author_title: "Tax Strategist"
-author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
+author_title: "Business Taxes"
+author_bio: "David Kim is the byline used at Small Biz Finance Guide for articles on small business tax planning and deductions. It is a pen name, not a tax professional; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Last April you filed taxes as a sole proprietor, watched that self-employment tax line hit 15.3% stacked on top of income tax, and thought: wait, wouldn't an LLC have been cheaper? Maybe a friend told you to "just form one." Maybe you read something online that made it sound bulletproof. The reality's messier, and getting it wrong costs real money either way.

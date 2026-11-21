@@ -21,8 +21,8 @@ faqs:
    a: "Yes, and this catches people off guard. The SBA 504 carries a prepayment penalty for the first ten years of the loan, structured as a declining percentage. It's front-loaded: the penalty is highest in early years and phases out. If you're considering selling the property or refinancing within the first decade, understand this cost before you commit."
 author: "David Kim"
 author_slug: "david-kim"
-author_title: "Tax Strategist"
-author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
+author_title: "Business Taxes"
+author_bio: "David Kim is the byline used at Small Biz Finance Guide for articles on small business tax planning and deductions. It is a pen name, not a tax professional; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Most small business owners think you buy [commercial property](/commercial-mortgage-for-business/) after you've already made it. Save up a fat down payment, prove success, then *maybe* a bank talks to you. Here's what I found digging into SBA 504 loans: that assumption is completely backwards. The 504 program was built specifically to get businesses into owned real estate sooner, with less cash upfront and at fixed rates that actually let you plan ten or twenty years ahead. After watching clients bleed money to landlords for years, dealing with lease uncertainty and rent hikes they couldn't control, I'll say it plainly: I wish I'd pushed more of them toward ownership earlier.

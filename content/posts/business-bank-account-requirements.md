@@ -21,8 +21,8 @@ faqs:
    a: "Business bank accounts are generally not credit decisions, so your credit score matters less than you might think. However, banks do run identity verification and ChexSystems checks. If you have a history of unpaid bank fees or overdrafts, a traditional bank may decline you. Credit unions and newer online banks like Relay tend to be more accessible in those situations."
 author: "Rachel Green"
 author_slug: "rachel-green"
-author_title: "CFO Consultant"
-author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
+author_title: "Financial Systems"
+author_bio: "Rachel Green is the byline used at Small Biz Finance Guide for articles on bookkeeping systems, reporting and planning for growth. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 A surprisingly large number of small business owners run their company finances through a personal checking account for months, sometimes years, before realizing the damage it causes. Mixing personal and business finances can cost thousands in accounting fees to untangle before tax season and may cause loss of legal liability protection. Mixing personal and business money isn't just sloppy. It can pierce the corporate veil for LLCs and corporations, meaning your personal assets become fair game if your business gets sued. Opening a dedicated business bank account isn't optional. It's foundational.

@@ -21,8 +21,8 @@ faqs:
    a: "In almost every case, yes. Any individual who owns 20% or more of the business must sign a personal guarantee, meaning your personal assets are on the line if the business defaults. Spouses of majority owners may also be required to sign in community property states. This is standard and not negotiable in most circumstances. Understand it before you sign, and make sure your CPA has reviewed the full terms."
 author: "Amanda Pierce"
 author_slug: "amanda-pierce"
-author_title: "Operations Finance Consultant"
-author_bio: "Amanda Pierce consults with small businesses on the day-to-day money mechanics that make or break them: cash flow, invoicing, and getting paid on time. She has cleaned up the books for dozens of owners. At Small Biz Finance Guide she covers cash flow and operational finance."
+author_title: "Cash Flow"
+author_bio: "Amanda Pierce is the byline used at Small Biz Finance Guide for articles on cash flow, invoicing and day-to-day business finance. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You walk into a bank asking about a small business loan. The banker smiles, nods, and eventually mentions something called an "SBA 7(a) loan" as if you should already know what that means. Maybe you nod back. Most people do. Then they go home, search the internet, and find articles full of bureaucratic language that explain the program without ever explaining what it actually means for *your* business, *your* bank account, and the decision in front of you right now. That's the gap this article closes.

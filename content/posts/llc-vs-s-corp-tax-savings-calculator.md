@@ -21,8 +21,8 @@ faqs:
    a: "Yes, and the math changes. In a multi-member LLC taxed as a partnership, each partner pays self-employment tax on their share of active business income. The S corp comparison still applies, but now you're coordinating reasonable salaries for multiple owners, which adds complexity. The break-even analysis is similar in concept but needs to be run for each owner individually."
 author: "Rachel Green"
 author_slug: "rachel-green"
-author_title: "CFO Consultant"
-author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
+author_title: "Financial Systems"
+author_bio: "Rachel Green is the byline used at Small Biz Finance Guide for articles on bookkeeping systems, reporting and planning for growth. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Every year, I watch otherwise sharp business owners lose anywhere from $3,000 to $12,000 in unnecessary self-employment taxes because they never ran the numbers on their entity structure. Not because they're careless. Because nobody sat down with them and showed them how the math actually works.

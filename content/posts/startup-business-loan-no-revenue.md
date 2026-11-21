@@ -21,8 +21,8 @@ faqs:
    a: "A loan has to be repaid on a fixed schedule with interest, regardless of whether your business succeeds. An investment (equity financing) means someone gives you capital in exchange for ownership, and their return depends on the business performing. Loans make more sense when you can model a clear repayment path. Equity might make more sense when your capital needs are large and your path to profitability is longer or less certain."
 author: "Rachel Green"
 author_slug: "rachel-green"
-author_title: "CFO Consultant"
-author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
+author_title: "Financial Systems"
+author_bio: "Rachel Green is the byline used at Small Biz Finance Guide for articles on bookkeeping systems, reporting and planning for growth. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most people assume you need revenue to get a business loan. I used to tell clients the same thing. Then I started actually digging into what lenders are approving right now, and here's what surprised me: the market has shifted, especially for pre-revenue startups who show up prepared. You're not locked out. But you do need to understand what you're actually selling to a lender when you have no sales history.

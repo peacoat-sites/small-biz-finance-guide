@@ -21,8 +21,8 @@ faqs:
    a: "The standard $1M per occurrence / $2M aggregate is the starting point and sufficient for most small businesses. But if you work with larger corporate clients, they may require $2M per occurrence in your contract. Check your client contracts and commercial lease before settling on limits, not after."
 author: "Michael Torres"
 author_slug: "michael-torres"
-author_title: "Small Business Lending Specialist"
-author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
+author_title: "Business Lending"
+author_bio: "Michael Torres is the byline used at Small Biz Finance Guide for articles on SBA loans, lines of credit and how lenders review applications. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most small business owners I talk to walk in with a number already locked in their head: "I've heard it's like $500 a year, maybe $1,000 tops." Here's the problem. That assumption doesn't always sink you. But it does often enough that when reality hits, it hits hard.

@@ -21,8 +21,8 @@ faqs:
    a: "In the early stages, doing it yourself gives you an understanding of your numbers that you simply can't buy. But once you're past roughly $200,000 in annual revenue or adding employees, your time is worth more than the cost of a part-time bookkeeper, and the risk of DIY errors grows. The small business bookkeeping guide can help you decide what level of help makes sense for where you are right now."
 author: "Amanda Pierce"
 author_slug: "amanda-pierce"
-author_title: "Operations Finance Consultant"
-author_bio: "Amanda Pierce consults with small businesses on the day-to-day money mechanics that make or break them: cash flow, invoicing, and getting paid on time. She has cleaned up the books for dozens of owners. At Small Biz Finance Guide she covers cash flow and operational finance."
+author_title: "Cash Flow"
+author_bio: "Amanda Pierce is the byline used at Small Biz Finance Guide for articles on cash flow, invoicing and day-to-day business finance. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You're sitting at your kitchen table in early April with a shoebox full of receipts, staring at your laptop, wondering: does that client lunch go under "meals," "marketing," or "entertainment"? The printer ink from Target, is that "office supplies" or "equipment"? And your phone bill, the business portion, where does that live?

@@ -21,8 +21,8 @@ faqs:
    a: "The general rule is three years from the date you filed, which covers the standard audit window. But if the IRS suspects you've underreported income by more than 25 percent, that window extends to six years. Keep anything related to asset purchases (equipment, property) for as long as you own the asset, plus three years after you dispose of it."
 author: "Michael Torres"
 author_slug: "michael-torres"
-author_title: "Small Business Lending Specialist"
-author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
+author_title: "Business Lending"
+author_bio: "Michael Torres is the byline used at Small Biz Finance Guide for articles on SBA loans, lines of credit and how lenders review applications. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most small business owners who get audited didn't do anything wrong. That's the part nobody tells you. They just looked wrong on paper, and that distinction matters enormously.

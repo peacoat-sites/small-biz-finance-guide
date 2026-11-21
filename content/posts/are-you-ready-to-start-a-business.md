@@ -7,8 +7,8 @@ date: 2026-05-27T10:00:00+00:00
 tags: ["starting a business", "entrepreneurship", "business readiness", "small business", "self-assessment"]
 author: "Rachel Green"
 author_slug: "rachel-green"
-author_title: "CFO Consultant"
-author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
+author_title: "Financial Systems"
+author_bio: "Rachel Green is the byline used at Small Biz Finance Guide for articles on bookkeeping systems, reporting and planning for growth. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Thinking about ditching your [steady paycheck](/1099-vs-w2-explained/) for that business idea you can't stop thinking about? Before you file the paperwork or tell your boss you're out, you need to be honest about where you actually stand right now.

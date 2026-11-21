@@ -21,8 +21,8 @@ faqs:
    a: "Yes. The moment you start operating, even informally, you have exposure. If you're meeting with potential clients before you've 'officially opened,' taking on a first project while still setting things up, or storing inventory in your garage, you can already face a claim. Don't wait until the business feels 'real enough' to get covered. Talk to a broker early, even if your initial coverage is minimal and you build it out as you grow."
 author: "Rachel Green"
 author_slug: "rachel-green"
-author_title: "CFO Consultant"
-author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
+author_title: "Financial Systems"
+author_bio: "Rachel Green is the byline used at Small Biz Finance Guide for articles on bookkeeping systems, reporting and planning for growth. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 A plumber in Ohio gets sued after a pipe repair floods a client's basement. A freelance graphic designer's laptop is stolen from a coffee shop. A retail shop owner's employee slips on a wet floor and breaks a wrist. In each case, the business owner who had the right insurance coverage walked away intact. The one who didn't? They're still paying off the damage years later. Insurance isn't glamorous, but skipping it or getting the wrong kind is one of the fastest ways to destroy a business you've spent years building.

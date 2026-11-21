@@ -21,8 +21,8 @@ faqs:
    a: "Yes. If an employee is injured while performing work-related duties at home, that injury can be a compensable workers' comp claim. The challenge is that remote injuries are harder to verify and investigate. Having a clear remote work policy that defines work hours and a designated work area is useful documentation if a claim ever arises."
 author: "Rachel Green"
 author_slug: "rachel-green"
-author_title: "CFO Consultant"
-author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
+author_title: "Financial Systems"
+author_bio: "Rachel Green is the byline used at Small Biz Finance Guide for articles on bookkeeping systems, reporting and planning for growth. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your part-time delivery driver slips on a wet floor at a client's office three weeks in. Broken wrist. Six weeks without work. The medical bills alone: $14,000. If you don't have workers' comp insurance, that's coming straight out of your pocket, plus his lost wages, plus whatever legal fees pile up when he sues. This happens thousands of times a year to business owners who swore they were too small to worry about it.

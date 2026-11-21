@@ -21,8 +21,8 @@ faqs:
    a: "If you provide advice, services, or expertise that clients rely on to make business or financial decisions, you probably need professional liability (E&O). General liability doesn't cover economic losses caused by professional errors or omissions. Ask yourself: if a client said 'your work cost us money,' would GL cover that? Almost certainly not. That's exactly what E&O is for."
 author: "Sarah Johnson"
 author_slug: "sarah-johnson"
-author_title: "CPA & Lead Editor"
-author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
+author_title: "Accounting and Tax"
+author_bio: "Sarah Johnson is the byline used at Small Biz Finance Guide for articles on small business accounting and tax basics. It is a pen name, not a CPA; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Your catering business is three months old. A guest slips on a wet floor at an event you managed, breaks their wrist, and the medical bills hit $18,000. Then the lawsuit arrives. Without general liability insurance, that $18,000 plus legal fees comes straight out of your pocket, potentially your personal savings if you haven't properly separated your finances.

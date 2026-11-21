@@ -21,8 +21,8 @@ faqs:
    a: "Generally no. You can't use both programs to finance the same project. In theory, a business could have one loan of each type for different purposes at different times, but you can't stack them on the same transaction. If you're unsure which fits your situation, a conversation with an SBA lender and a CDC simultaneously will get you an honest read faster than researching it alone."
 author: "Sarah Johnson"
 author_slug: "sarah-johnson"
-author_title: "CPA & Lead Editor"
-author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
+author_title: "Accounting and Tax"
+author_bio: "Sarah Johnson is the byline used at Small Biz Finance Guide for articles on small business accounting and tax basics. It is a pen name, not a CPA; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most business owners walk into an SBA loan conversation knowing two things: the loans exist, and they're supposedly hard to get. That's about where the useful public knowledge ends. The 7(a) and the 504 get lumped together constantly, treated like two flavors of the same thing, and that framing costs people real money.

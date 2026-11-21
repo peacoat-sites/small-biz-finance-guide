@@ -21,8 +21,8 @@ faqs:
    a: "Yes, open it before you make your first business transaction, not after. The cost of opening a no-fee account is zero, and the habit of keeping everything separate starts from day one. Waiting until you have revenue to open a business account means you'll have a period of mixed transactions to clean up later, which is avoidable."
 author: "David Kim"
 author_slug: "david-kim"
-author_title: "Tax Strategist"
-author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
+author_title: "Business Taxes"
+author_bio: "David Kim is the byline used at Small Biz Finance Guide for articles on small business tax planning and deductions. It is a pen name, not a tax professional; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You opened a business checking account two years ago because the bank rep said it was "free," and now you're staring at a $16 monthly fee on a statement wondering when that changed. Or maybe you're brand new to your LLC and you've already been burned once by a personal checking account that bled fees you didn't see coming. Either way, you're here because you want a real business account for your LLC that doesn't charge you just for existing. That's a completely reasonable thing to want, and there are genuinely good options available right now. Let me walk you through what actually matters.

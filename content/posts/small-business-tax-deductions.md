@@ -21,8 +21,8 @@ faqs:
    a: "The IRS generally has three years from your filing date to audit your return, assuming you've reported your income fully. That window extends to six years if the IRS believes you've underreported income by more than 25%, and there's no time limit in cases of fraud. A practical rule: keep all business tax records and supporting documentation for at least seven years. Digital storage makes this easy. There's no reason to throw anything away."
 author: "Sarah Johnson"
 author_slug: "sarah-johnson"
-author_title: "CPA & Lead Editor"
-author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
+author_title: "Accounting and Tax"
+author_bio: "Sarah Johnson is the byline used at Small Biz Finance Guide for articles on small business accounting and tax basics. It is a pen name, not a CPA; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 You paid $4,800 last year for a business phone plan, office supplies, accounting software, and a work-related online course. If you didn't deduct those expenses, you handed that money to the IRS without a fight. That's not a tax strategy. That's a donation.

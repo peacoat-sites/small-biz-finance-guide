@@ -21,8 +21,8 @@ faqs:
    a: "Most lenders want to see at least two years of financial statements, sometimes three. They'll focus on revenue trends, your debt-to-income ratio, your net profit margin, and your cash flow from operations. A profitable income statement with a weak balance sheet (too much debt) or inconsistent cash flow can still result in a loan denial. This is exactly why maintaining clean, accurate financials year-round matters so much, not just at application time."
 author: "Sarah Johnson"
 author_slug: "sarah-johnson"
-author_title: "CPA & Lead Editor"
-author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
+author_title: "Accounting and Tax"
+author_bio: "Sarah Johnson is the byline used at Small Biz Finance Guide for articles on small business accounting and tax basics. It is a pen name, not a CPA; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You got the business running. Customers are coming in, sales are happening, money is moving. But somewhere between the excitement of early momentum and the reality of actually *running* a company, you hit a wall. Your bookkeeper hands you three reports at the end of the month, or your accountant emails a PDF before tax season, and you stare at the numbers feeling like you're reading a foreign language. If that's where you are right now, you're not behind. You're exactly where most small business owners are when they first start taking their finances seriously. The goal here is simple: by the time you finish reading this, those documents won't feel intimidating anymore.

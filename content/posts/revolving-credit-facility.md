@@ -9,8 +9,8 @@ categories: ["Financing"]
 tags: ["revolving", "credit", "facility"]
 author: "Amanda Pierce"
 author_slug: "amanda-pierce"
-author_title: "Operations Finance Consultant"
-author_bio: "Amanda Pierce consults with small businesses on the day-to-day money mechanics that make or break them: cash flow, invoicing, and getting paid on time. She has cleaned up the books for dozens of owners. At Small Biz Finance Guide she covers cash flow and operational finance."
+author_title: "Cash Flow"
+author_bio: "Amanda Pierce is the byline used at Small Biz Finance Guide for articles on cash flow, invoicing and day-to-day business finance. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 slug: "revolving-credit-facility"
 affiliate_disclosure: true
 faqs:

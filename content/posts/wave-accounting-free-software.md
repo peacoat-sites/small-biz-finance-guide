@@ -21,8 +21,8 @@ faqs:
    a: "Yes. You can add an accountant as a 'collaborator' under Settings, and they'll get their own login with access to your books. Most accountants who work with small businesses are familiar with Wave, though some strongly prefer QuickBooks because that's what their own workflows are built around. Worth asking before you commit."
 author: "Michael Torres"
 author_slug: "michael-torres"
-author_title: "Small Business Lending Specialist"
-author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
+author_title: "Business Lending"
+author_bio: "Michael Torres is the byline used at Small Biz Finance Guide for articles on SBA loans, lines of credit and how lenders review applications. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most free accounting software for small business is either deliberately hamstrung or masquerading as "free forever" before the paywall hits. Wave is different.

@@ -21,8 +21,8 @@ faqs:
    a: "This one's legitimately nuanced. Telling key employees early can help you retain them through a transition and gives you allies in the process. Telling the broader team too early can create anxiety and turnover. Most advisors suggest bringing in key managers once the plan is solidified but before any deal is actively in motion. Use your judgment based on your team's culture."
 author: "Rachel Green"
 author_slug: "rachel-green"
-author_title: "CFO Consultant"
-author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
+author_title: "Financial Systems"
+author_bio: "Rachel Green is the byline used at Small Biz Finance Guide for articles on bookkeeping systems, reporting and planning for growth. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most business owners spend twenty years building something and about twenty minutes thinking about what happens to it when they're gone. I was guilty of the same thing early on. I helped a lot of entrepreneurs get their books clean, their cash flow tight, their tax exposure minimal. Succession planning? That was a conversation for later, always later.

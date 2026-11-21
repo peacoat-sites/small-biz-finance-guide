@@ -21,8 +21,8 @@ faqs:
     a: "Call your insurer or the breach response hotline on your policy before you do almost anything else. Seriously, before you call a random IT vendor, before you notify customers, before you post anything publicly. Many policies require prompt notification to the insurer as a condition of coverage, and your insurer may have pre-approved vendors who cost you nothing out of pocket. Acting on your own first can complicate the claim."
 author: "Rachel Green"
 author_slug: "rachel-green"
-author_title: "CFO Consultant"
-author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
+author_title: "Financial Systems"
+author_bio: "Rachel Green is the byline used at Small Biz Finance Guide for articles on bookkeeping systems, reporting and planning for growth. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 Most small business owners I talk to don't think about cyber liability insurance until after something goes wrong. A client's credit card data gets lifted. A ransomware attack freezes the booking system for a week. An employee clicks a phishing email and suddenly the payroll account is drained. By then, it's too late to buy the policy you wish you'd had.

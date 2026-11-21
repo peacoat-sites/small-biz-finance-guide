@@ -21,8 +21,8 @@ faqs:
    a: "Mostly in what the audience is expecting. A lender reviewing a small business loan wants to see conservative projections, existing cash flow, and repayment capacity. An investor in a startup is often underwriting future potential and expects some level of ambition in the numbers. You're also typically building around a funding-and-growth model rather than a steady-state profitability model. The components are similar; the framing, the assumptions, and the risk tolerance are quite different."
 author: "Michael Torres"
 author_slug: "michael-torres"
-author_title: "Small Business Lending Specialist"
-author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
+author_title: "Business Lending"
+author_bio: "Michael Torres is the byline used at Small Biz Finance Guide for articles on SBA loans, lines of credit and how lenders review applications. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Many founders get this backwards. They spend weeks building a beautiful financial model, then hand it to an investor and wonder why the conversation dies. The problem usually isn't the numbers. It's that the plan reads like a spreadsheet begging for validation instead of a business case looking for a partner.

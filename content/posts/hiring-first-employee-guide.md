@@ -21,8 +21,8 @@ faqs:
    a: "No. Paying employees in cash without proper tax withholding and reporting is illegal, regardless of whether they agree to it. You're still required to withhold payroll taxes, file employer returns, and issue W-2s at year end. 'Cash' is a payment method, not a classification. Employers who skip these obligations face back taxes, penalties, and in serious cases, criminal liability. It's not worth the risk."
 author: "Amanda Pierce"
 author_slug: "amanda-pierce"
-author_title: "Operations Finance Consultant"
-author_bio: "Amanda Pierce consults with small businesses on the day-to-day money mechanics that make or break them: cash flow, invoicing, and getting paid on time. She has cleaned up the books for dozens of owners. At Small Biz Finance Guide she covers cash flow and operational finance."
+author_title: "Cash Flow"
+author_bio: "Amanda Pierce is the byline used at Small Biz Finance Guide for articles on cash flow, invoicing and day-to-day business finance. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-07-08
 ---
 You've been doing everything yourself for two years. The late nights, the client calls, the bookkeeping, the deliveries. Business is finally growing, and you're turning down work because there aren't enough hours in the day. Hiring your first employee feels like the obvious next step. It also feels terrifying. And honestly? That's the right reaction. Because hiring someone for the first time isn't just a people decision. It's a legal, financial, and operational transformation that most business owners are completely unprepared for.

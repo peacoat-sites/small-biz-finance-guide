@@ -21,8 +21,8 @@ faqs:
    a: "You should have one, and most lenders will require at least 12 months of business bank statements. Beyond the application, operating your business through a dedicated business account is fundamental to keeping clean financial records. Mixing personal and business finances is one of the most common accounting mistakes I see, and it creates serious problems at tax time and during any loan underwriting process."
 author: "Michael Torres"
 author_slug: "michael-torres"
-author_title: "Small Business Lending Specialist"
-author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
+author_title: "Business Lending"
+author_bio: "Michael Torres is the byline used at Small Biz Finance Guide for articles on SBA loans, lines of credit and how lenders review applications. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You fill out the pre-qualification form, wait two weeks, and get back a vague email: "don't quite meet the requirements." No explanation. No roadmap. Just a polite rejection.

@@ -21,8 +21,8 @@ faqs:
    a: "Not always, but often yes. Many lenders ask for 10% to 20% down, especially for larger purchases. Some lenders offer 100% financing, but those deals frequently carry higher rates or require very strong credit. A down payment also reduces your total interest cost over the life of the loan, so if you have the cash available, putting some down usually makes financial sense."
 author: "David Kim"
 author_slug: "david-kim"
-author_title: "Tax Strategist"
-author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
+author_title: "Business Taxes"
+author_bio: "David Kim is the byline used at Small Biz Finance Guide for articles on small business tax planning and deductions. It is a pen name, not a tax professional; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 A restaurant owner I worked with a few years back almost signed a $94,000 equipment lease for commercial kitchen appliances because the monthly payment "felt manageable." She hadn't read the buyout clause. At the end of a 60-month term, she'd have paid nearly $112,000 total and still wouldn't own the equipment without writing another check. That's the kind of thing nobody warns you about until it's too late.

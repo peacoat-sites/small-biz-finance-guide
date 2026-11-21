@@ -21,8 +21,8 @@ faqs:
    a: "Yes, absolutely. QuickBooks, FreshBooks, and Wave all generate cash flow statements and can give you real-time visibility into your position. That said, software is only as good as the data you put into it. Reconcile your accounts regularly, categorize transactions consistently, and don't let months pile up without review. A good bookkeeper, even part-time, can keep your books clean enough for the software to be genuinely useful. For tax-related decisions tied to cash flow management, always loop in a CPA."
 author: "Amanda Pierce"
 author_slug: "amanda-pierce"
-author_title: "Operations Finance Consultant"
-author_bio: "Amanda Pierce consults with small businesses on the day-to-day money mechanics that make or break them: cash flow, invoicing, and getting paid on time. She has cleaned up the books for dozens of owners. At Small Biz Finance Guide she covers cash flow and operational finance."
+author_title: "Cash Flow"
+author_bio: "Amanda Pierce is the byline used at Small Biz Finance Guide for articles on cash flow, invoicing and day-to-day business finance. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You built a profitable business and still can't make payroll. That sentence sounds like a contradiction, but it's one of the most common disasters I watch small business owners walk into. Profit is an accounting concept. Cash is what keeps the lights on. When those two things fall out of sync, even a growing business can collapse. According to the [U.S. Small Business Administration (SBA)](https://www.sba.gov/), cash flow problems are consistently cited among the top reasons small businesses fail, not bad products, not weak demand, not poor management in the traditional sense. Just cash, running out at the wrong moment.

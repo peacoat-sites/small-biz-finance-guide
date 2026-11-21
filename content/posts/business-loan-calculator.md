@@ -7,7 +7,7 @@ image: "/img/heroes/6863183.jpg"
 categories: ["Banking"]
 tags: ["business loan", "calculator", "financing", "APR", "MCA"]
 slug: "business-loan-calculator"
-author: "James Okafor"
+author: "Amanda Pierce"
 affiliate_disclosure: true
 faqs:
  - q: "How is a business loan monthly payment calculated?"
@@ -19,6 +19,9 @@ faqs:
  - q: "Is a 7-year or 10-year term better for a business loan?"
    a: "Longer terms lower your monthly payment but significantly increase total interest paid. A 10-year term on a $100,000 loan at 8% costs roughly $45,600 in interest vs. about $20,000 on a 5-year term. Choose based on cash flow needs versus total cost."
 lastmod: 2026-07-08
+author_slug: "amanda-pierce"
+author_title: "Cash Flow"
+author_bio: "Amanda Pierce is the byline used at Small Biz Finance Guide for articles on cash flow, invoicing and day-to-day business finance. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 ---
 Understanding the true cost of a business loan before you sign is one of the most important steps any entrepreneur can take. Whether you are considering an SBA 7(a) loan, a bank term loan, or a merchant cash advance, knowing your monthly payment, total interest burden, and payoff timeline lets you compare offers on a level playing field and negotiate from a position of knowledge.
 

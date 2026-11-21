@@ -1,40 +1,38 @@
 ---
-title: "About Amanda Pierce"
+title: "About Small Biz Finance Guide"
 hide_title: true
-description: "Learn about Amanda Pierce, the Small Business Finance Editor behind smallbizfinanceguide.com."
+date: 2026-01-01
+draft: false
+description: "What Small Biz Finance Guide covers, who writes it and how articles are produced."
 layout: "about-page"
-author_slug: "amanda-pierce"
-author_name: "Amanda Pierce"
-person_name: "Amanda Pierce"
 ---
 
-# About Amanda Pierce
+## About Small Biz Finance Guide
 
-I've run small businesses. Not hypothetically,  I've signed leases, made payroll, dealt with slow months, and figured out which loans were worth taking and which weren't. That hands-on experience across two different industries taught me more about small business finance than any book could, and it's the foundation of everything I write here.
+Small Biz Finance Guide covers the money side of running a small business: forming an entity, taxes, financing, cash flow and bookkeeping.
 
-I started Small Biz Finance Guide because I kept running into the same problem: when I needed clear answers about SBA loans, business credit, cash flow management, or quarterly taxes, I found either overly simplified blog posts or jargon-heavy content written for accountants. I wanted a resource that treated small business owners as intelligent adults who needed real, practical information,  not sales pitches dressed up as advice.
+## Who writes here
 
-Every article I publish here is written with the question in mind: what would have helped me when I was in the middle of this situation?
+Articles are published under pen names, each covering one part of the site:
 
-## Why I Started Small Biz Finance Guide
+- **[Amanda Pierce](/amanda-pierce/)**: cash flow, invoicing and day-to-day business finance
+- **[David Kim](/david-kim/)**: small business tax planning and deductions
+- **[Michael Torres](/michael-torres/)**: SBA loans, lines of credit and how lenders review applications
+- **[Rachel Green](/rachel-green/)**: bookkeeping systems, reporting and planning for growth
+- **[Sarah Johnson](/sarah-johnson/)**: small business accounting and tax basics
 
-When I was launching my second business, I spent weeks trying to understand the difference between SBA 7(a) and SBA 504 loans, what my debt-service coverage ratio needed to look like to qualify, and how to structure my business credit profile before applying. The information was scattered across dozens of sites, most of it incomplete or outdated.
+## How we work
 
-I built Small Biz Finance Guide to be the resource I needed back then,  a place where you can get a complete, honest picture of a financial topic without having to cross-reference five different sources or talk to a salesperson first.
+Articles are drafted with AI writing tools from public sources and pass an automated accuracy check before they are published. The full process, the sources we rely on and the limits of what this site can tell you are in our [editorial standards](/editorial-standards/).
 
-## What You'll Find Here
+## Important limits
 
-- **Business funding:** SBA loans, microloans, business lines of credit, and alternative financing
-- **Business credit:** How to build it, protect it, and use it strategically
-- **Cash flow management:** Forecasting, managing gaps, and avoiding common mistakes
-- **Small business taxes:** Quarterly payments, deductions, entity structure basics
-- **Bookkeeping basics:** Setting up your books, tools, and when to hire a bookkeeper
-- **Banking and accounts:** Business checking, merchant services, and payment processing
+Tax rules, state filing fees and loan program terms change, and many depend on your state and situation. Use our figures and calculators as starting points, confirm current rules with the IRS, your state and the SBA, and talk to a CPA, enrolled agent or business attorney before acting on a tax or legal decision. SCORE mentors and Small Business Development Centers offer free or low-cost counseling.
 
-## A Note on Our Content
+## Affiliate disclosure
 
-All content on Small Biz Finance Guide is researched using publicly available data, government resources (SBA.gov, IRS.gov), and my own experience as a business operator. I link to authoritative sources wherever possible. This site does not provide financial, legal, or accounting advice,  every situation is different, and major financial decisions should involve a qualified professional.
+Some links on this site are affiliate links, including Amazon links. If you buy through them we may earn a commission at no extra cost to you.
 
-## Get in Touch
+## Contact
 
-Have a question, a topic you'd like covered, or a correction to flag? I want to hear from you. Visit the [contact page](/contact/) and send me a note.
+Questions, corrections or topic requests: use the [contact page](/contact/).

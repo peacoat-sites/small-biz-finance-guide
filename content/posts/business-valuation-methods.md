@@ -21,8 +21,8 @@ faqs:
    a: "Honestly? Now. I've had clients come to me saying they just need a quick valuation because they're about to take on a partner, apply for an SBA loan, or draft a buy-sell agreement, and they had no idea what their business was worth. A buy-sell agreement without an agreed valuation method is a lawsuit waiting to happen. A partnership deal without knowing your starting value is a recipe for resentment. Getting a baseline valuation, even a rough one, while there's no pressure is far better than scrambling when there is. If you want to go deeper on the subject, Shannon Pratt's Valuing a Business i"
 author: "David Kim"
 author_slug: "david-kim"
-author_title: "Tax Strategist"
-author_bio: "David Kim is a tax strategist who works with self-employed individuals and small business owners to minimize tax liability through proactive planning. He believes most small business owners overpay taxes every year simply because they do not know what is deductible. At Small Biz Finance Guide, he covers quarterly estimated taxes, deduction strategies, retirement account options for business owners, and year-end tax planning."
+author_title: "Business Taxes"
+author_bio: "David Kim is the byline used at Small Biz Finance Guide for articles on small business tax planning and deductions. It is a pen name, not a tax professional; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You just got an offer to buy your business. The number on the table either makes you feel robbed or handed the lottery. The problem? You have no idea which one it is. Owners often accept offers 40% below actual value without learning valuation basics. Others walk away from fair deals anchored to numbers pulled from nowhere. Both are avoidable. That's what this is for.

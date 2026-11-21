@@ -7,7 +7,7 @@ image: "/img/heroes/7681097.jpg"
 categories: ["Accounting"]
 tags: ["break-even", "calculator", "self-employment tax", "SE tax", "profitability"]
 slug: "break-even-calculator"
-author: "James Okafor"
+author: "Amanda Pierce"
 affiliate_disclosure: true
 faqs:
  - q: "What is a break-even point in business?"
@@ -19,6 +19,9 @@ faqs:
  - q: "How much should I set aside for self-employment taxes?"
    a: "A conservative rule of thumb is to set aside 25-30% of net profit to cover both SE tax (roughly 14.1% effective rate) and federal income tax. If your income is higher and you are in the 22% or 24% bracket, consider 30-35%."
 lastmod: 2026-07-08
+author_slug: "amanda-pierce"
+author_title: "Cash Flow"
+author_bio: "Amanda Pierce is the byline used at Small Biz Finance Guide for articles on cash flow, invoicing and day-to-day business finance. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 ---
 Two questions haunt every freelancer and small business owner come tax time: *How much do I need to sell to break even?* and *How much will I actually owe in self-employment taxes?* They're not optional questions. They're the foundation of every pricing decision and every quarterly payment, and getting them wrong creates real financial pain in April.
 

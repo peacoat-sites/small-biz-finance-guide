@@ -21,8 +21,8 @@ faqs:
    a: "Wave is consistently solid. It's free, it handles invoicing and basic accounting, it sends automatic reminders, and it connects to a payment processor if you want to accept credit cards (fees apply for card processing). For most solo freelancers billing under six figures, Wave handles everything you need."
 author: "Sarah Johnson"
 author_slug: "sarah-johnson"
-author_title: "CPA & Lead Editor"
-author_bio: "Sarah Johnson is a CPA who has worked exclusively with small businesses for over a decade, from sole proprietors to companies with 50 employees. She has seen the same tax mistakes made over and over by business owners who were never taught how business finances actually work, and her writing is aimed at closing that gap. At Small Biz Finance Guide, she covers accounting fundamentals, tax deductions, entity structures, and working with a CPA effectively."
+author_title: "Accounting and Tax"
+author_bio: "Sarah Johnson is the byline used at Small Biz Finance Guide for articles on small business accounting and tax basics. It is a pen name, not a CPA; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 You send the invoice. Then you wait. A week goes by. Then two. You follow up, feeling awkward about it, and the client responds with "Oh, I didn't get that" or "We'll process it next cycle." Meanwhile, your rent is due and your cash flow looks like a heart monitor after a sprint. If you've been in business more than six months, you know this feeling. And the frustrating part is that most of the pain is preventable.

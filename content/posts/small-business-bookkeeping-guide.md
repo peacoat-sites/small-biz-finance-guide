@@ -21,8 +21,8 @@ faqs:
    a: "Generally yes, bookkeeping software subscriptions and fees paid to a bookkeeper are ordinary and necessary business expenses and are typically deductible. However, tax rules have nuances and your specific situation matters. Please consult a CPA to confirm what's deductible in your case and to make sure you're claiming deductions correctly."
 author: "Rachel Green"
 author_slug: "rachel-green"
-author_title: "CFO Consultant"
-author_bio: "Rachel Green is a fractional CFO who has helped dozens of small businesses build the financial infrastructure they need to grow sustainably. She focuses on the systems and dashboards that give business owners clarity on where their money is going and what they can actually afford. At Small Biz Finance Guide, she covers financial planning, cash flow management, and building the systems that let you make confident decisions."
+author_title: "Financial Systems"
+author_bio: "Rachel Green is the byline used at Small Biz Finance Guide for articles on bookkeeping systems, reporting and planning for growth. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most small business owners don't realize they have a bookkeeping problem until tax season hits and their accountant flags unreconciled bank transactions spanning months. When books are disorganized, CPA bills often double due to cleanup work, and owners lack clarity on profitability. That's not a tax problem. It's a bookkeeping problem, and it starts long before April.

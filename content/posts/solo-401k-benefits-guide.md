@@ -21,8 +21,8 @@ faqs:
    a: "If you're a sole proprietor filing a Schedule C, you have until your tax filing deadline, including extensions (so October 15, 2025 if you file an extension). But again: the plan itself must have been established by December 31, 2024. Contributions and plan establishment have different deadlines, and mixing them up is a costly mistake."
 author: "Michael Torres"
 author_slug: "michael-torres"
-author_title: "Small Business Lending Specialist"
-author_bio: "Michael Torres has spent years on the lending side of small business finance, structuring SBA loans and lines of credit and seeing why applications get approved or rejected. He shows owners how lenders actually read their numbers. At Small Biz Finance Guide he covers SBA loans and business financing."
+author_title: "Business Lending"
+author_bio: "Michael Torres is the byline used at Small Biz Finance Guide for articles on SBA loans, lines of credit and how lenders review applications. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
 Most small business owners I work with are leaving somewhere between $5,000 and $30,000 a year in tax deductions on the table. Not because they're doing anything wrong. Because nobody told them the Solo 401(k) existed.
