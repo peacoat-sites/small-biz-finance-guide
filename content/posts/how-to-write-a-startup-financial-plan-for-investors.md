@@ -29,7 +29,7 @@ Many founders get this backwards. They spend weeks building a beautiful financia
 
 A startup financial plan for investors isn't an accounting exercise. It's a persuasion document that happens to use numbers. Once you internalize that distinction, everything about how you build it changes.
 
-I've reviewed hundreds of these over the years. Most of the advice floating around on this topic is either too generic to be useful or written by people who've never actually sat across from a skeptical early-stage investor. So here's what actually works.
+Most of the advice floating around on this topic is either too generic to be useful or written by people who have never actually sat across from a skeptical early-stage investor. So here's what actually works.
 
 ---
 
@@ -62,7 +62,7 @@ That last one is where a lot of founders stumble. Unit economics, the revenue an
 
 ## The Five Components You Actually Need
 
-You don't need a 40-tab model. A 40-tab spreadsheet for a pre-revenue company usually signals that the founder is hiding behind complexity. I'd rather see five tight, defensible schedules than a spreadsheet that takes 30 minutes to decode.
+You don't need a 40-tab model. A 40-tab spreadsheet for a pre-revenue company usually signals that the founder is hiding behind complexity. Five tight, defensible schedules beat a spreadsheet that takes 30 minutes to decode.
 
 **Revenue projections (12 to 36 months).** Go bottoms-up whenever possible. That means you're not saying "the market is $2 billion and we'll capture 1%." You're saying "we expect to sign 8 enterprise clients in Month 6, each paying $2,500/month, based on our current pipeline and a 90-day sales cycle." Bottoms-up projections are more credible and infinitely easier to defend. If you're pre-launch with no data yet, build two scenarios: a base case and a conservative case. Not a hockey stick and a nuclear apocalypse. Two reasonable ones.
 

@@ -26,11 +26,11 @@ faqs:
 lastmod: 2026-11-16T16:00:00Z
 ---
 
-Most business owners I sit down with don't realize they have a classification problem until someone else finds it for them. That someone is usually the IRS.
+Most business owners don't realize they have a classification problem until someone else finds it for them. That someone is usually the IRS.
 
 An employee classification audit is essentially a formal examination of whether the people doing work for your business are labeled correctly: [employee versus independent contractor](/independent-contractor-vs-employee/). It sounds administrative. It isn't. Get it wrong and you're looking at back payroll taxes, penalties, and in some cases, benefit liabilities that can run into tens of thousands of dollars. Misclassification can be expensive. A single misclassified worker might trigger back taxes and penalties in the tens of thousands of dollars after a Department of Labor investigation, even for a small operation.
 
-You might be wondering: "Am I actually at risk, or is this something that happens to other businesses?" Here's what I tell people: if you have 1099 contractors who work regular hours, use your equipment, follow your processes, and couldn't easily say no to your assignments, at least some of them are probably employees under federal rules. That's not a judgment call. That's the law as it currently stands.
+You might be wondering: "Am I actually at risk, or is this something that happens to other businesses?" The general rule of thumb is this: if you have 1099 contractors who work regular hours, use your equipment, follow your processes, and couldn't easily say no to your assignments, at least some of them are probably employees under federal rules. That's not a judgment call. That's the law as it currently stands.
 
 ## Why This Audit Matters More Than You Think
 
@@ -46,7 +46,7 @@ Here's where conventional wisdom gets people into trouble. A lot of business own
 
 The IRS uses what's called the "Common Law" test, which looks at behavioral control (do you control how the work is done?), financial control (do you control the business aspects of the worker's job?), and the type of relationship (are there written contracts, employee benefits, permanency?). The DOL uses something different: an "economic reality" test, which leans more heavily on whether the worker is economically dependent on your business. And a number of states have adopted the "ABC test," which is even stricter.
 
-I made the mistake early in my consulting career of thinking the IRS test was the only one that mattered. Then I had a client in California get hit with a state audit using ABC rules on a worker who easily would have passed the IRS test. Different analysis, different outcome.
+A common mistake is assuming the IRS test is the only one that matters. For example, a business in California could face a state audit using ABC rules on a worker who would have passed the IRS test. Different analysis, different outcome.
 
 A practical way to think about it: ask yourself these questions about each contractor you use.
 
@@ -62,7 +62,7 @@ If you're nodding at three or more of those, you have exposure worth looking at.
 
 You don't need to wait for a government letter. In fact, please don't. A voluntary self-audit, done properly, gives you options. An IRS audit just gives you a deadline.
 
-Here's how I walk clients through it:
+Here is a practical way to work through it:
 
 **Step 1: Pull every 1099 you've issued in the past three years.** List the workers, their annual pay, the nature of their work, and how long they've been with you. This is your starting inventory.
 
@@ -76,11 +76,11 @@ Here's how I walk clients through it:
 
 **Worked examples:**
 
-Plumbing subcontractor setup (20 workers classified as 1099, all working exclusively for one contractor, using the contractor's vans, following dispatcher instructions) → Owner self-audited, worked with a CPA to use the VCSP → Settled the federal liability for approximately 10% of back FICA taxes on the most recent year, reclassified workers going forward, avoided a DOL investigation.
+For example, consider a plumbing contractor with 20 workers classified as 1099, all working exclusively for that business, using company vans, and following dispatcher instructions: a self-audit and VCSP application could settle the federal liability for approximately 10% of back FICA taxes on the most recent year, with workers reclassified going forward and a DOL investigation avoided.
 
-Freelance graphic designer (one contractor working 30+ hours a week, doing only this client's work, using client-provided Adobe licenses) → Client received an IRS notice, had not self-audited → Ended up owing approximately two years of back payroll taxes plus penalties; total exposure roughly $22,000 on a $55,000 annual pay rate.
+For example, if a business engages a single contractor working 30+ hours a week exclusively on that client's projects using client-provided software licenses, and an IRS notice arrives without a prior self-audit, the resulting exposure could reach approximately two years of back payroll taxes plus penalties, totaling roughly $22,000 on a $55,000 annual pay rate.
 
-Marketing agency with 8 remote writers (each worked for multiple clients, set their own hours, provided their own tools, worked project-to-project) → Self-audit confirmed legitimate contractor status → No reclassification needed; owner now keeps a documentation file for each contractor as protection.
+For example, a marketing agency with 8 remote writers who each work for multiple clients, set their own hours, provide their own tools, and work project-to-project could conduct a self-audit, confirm legitimate contractor status, and avoid reclassification entirely, while keeping a documentation file for each contractor as ongoing protection.
 
 ## What Happens During an Actual Audit
 
@@ -88,7 +88,7 @@ If you do get a letter, from the IRS or DOL, the first thing to understand is th
 
 The IRS will typically send a questionnaire. The DOL may send an investigator. Both will want to see contracts, payment records, communications, and evidence of how the work was actually performed. Your records (or lack of them) will do most of the talking. If you've been sloppy about documentation, that hurts you.
 
-One thing I tell every client: don't volunteer information beyond what's asked. Answer the specific question. Let your advisor handle the narrative.
+A key principle: don't volunteer information beyond what's asked. Answer the specific question. Let your advisor handle the narrative.
 
 [SCORE's mentorship resources](https://www.score.org/) include guidance on employment compliance that's genuinely useful if you're in the early stages of understanding your exposure, and free access to a mentor who's been through it can save you from panicking in the wrong direction. The [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/) also have plain-language material on worker rights that helps you understand what regulators are actually looking at.
 

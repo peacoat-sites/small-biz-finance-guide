@@ -36,7 +36,7 @@ Revenue-based financing (RBF) is a funding structure where a lender gives you a 
 
 ## How the math actually works
 
-Here's where I see people get tripped up. RBF lenders don't quote you an interest rate. They quote a "factor rate," which is a multiplier applied to the amount you borrow. A factor rate of 1.35 on a $100,000 advance means you'll repay exactly $135,000, total, period. The question is only how fast.
+This is where business owners commonly get tripped up. RBF lenders don't quote you an interest rate. They quote a "factor rate," which is a multiplier applied to the amount you borrow. A factor rate of 1.35 on a $100,000 advance means you'll repay exactly $135,000, total, period. The question is only how fast.
 
 If your agreed remittance rate is 6% of monthly revenue and you're doing $80,000 a month, you're paying $4,800/month. At that pace, you retire a $135,000 balance in about 28 months. But if revenue jumps to $120,000, you're paying $7,200/month and you're done in roughly 19 months. Faster payoff sounds better, but it also means a higher effective APR because you're paying the same total cost in less time.
 
@@ -50,9 +50,9 @@ I'll be direct here: RBF is a solid tool for a specific type of business. It's n
 
 The ideal candidate is a company with consistent monthly revenue, ideally recurring or subscription-based, that needs capital to accelerate growth rather than survive a crisis. SaaS companies, e-commerce brands with predictable repeat purchase rates, digital agencies with retainer revenue: these are the businesses where RBF shines. A three-year-old SaaS platform doing $85,000 in monthly recurring revenue (MRR) that wants $300,000 to hire two engineers is a textbook use case.
 
-Where it tends to go sideways is with seasonal businesses or any company using the capital to plug a [cash flow](/how-to-improve-cash-flow-in-a-small-business/) hole rather than fund growth. I worked with a restaurant group in late 2024 that took an RBF advance to cover payroll during a slow stretch. Their revenue was lumpy, the remittance percentage stayed fixed, and during their dead months, even the "flexible" payment was brutal. They made it work, but it was close. RBF assumes revenue keeps flowing. If yours doesn't, the flexibility disappears fast.
+Where it tends to go sideways is with seasonal businesses or any company using the capital to plug a [cash flow](/how-to-improve-cash-flow-in-a-small-business/) hole rather than fund growth. For example, a restaurant group that takes an RBF advance to cover payroll during a slow stretch faces real risk. If revenue is lumpy and the remittance percentage stays fixed, during dead months even the "flexible" payment can be brutal. Businesses in that situation may make it work, but it can be close. RBF assumes revenue keeps flowing. If yours doesn't, the flexibility disappears fast.
 
-The other business type where I'd hesitate: companies that are growing so fast that they'll accidentally pay the advance off in five months. You'll end up with an effective APR in the 80s, and there are almost certainly cheaper options for a business in hypergrowth.
+The other business type to approach with caution: companies that are growing so fast that they'll accidentally pay the advance off in five months. You'll end up with an effective APR in the 80s, and there are almost certainly cheaper options for a business in hypergrowth.
 
 ## How RBF compares to the alternatives
 
@@ -79,7 +79,7 @@ Most RBF lenders will ask for: three to six months of bank statements, access to
 
 The forgotten document is usually a clear summary of your existing debt obligations. RBF lenders care about your revenue, but they care equally about what percentage of that revenue is already committed to other lenders. If you're already remitting 10% of revenue to another advance and you take on another 6%, you've just handed over 16% of your topline before paying a single operational expense.
 
-Typical timeline from application to funding: three to seven business days for most online RBF lenders. Some are faster. A bank took one of my clients 11 weeks for a term loan decision. That timeline difference is real, and for some situations, it's the whole reason RBF makes sense.
+Typical timeline from application to funding: three to seven business days for most online RBF lenders. Some are faster. Bank term loan decisions can routinely take 11 weeks or more. That timeline difference is real, and for some situations, it's the whole reason RBF makes sense.
 
 Here are some worked examples:
 
@@ -97,7 +97,7 @@ Almost every article about RBF talks about the repayment flexibility. Almost non
 
 Most RBF agreements have a floor. If your revenue falls below a certain threshold, some lenders have the right to demand minimum payments regardless of your revenue. That clause is often buried. Read Section 6 of any RBF agreement carefully (or have your attorney do it). SCORE, which offers free mentorship through score.org and has knowledgeable volunteers with alternative lending experience, can sometimes help you parse these terms before you sign.
 
-I'm not saying RBF is a trap. I'm saying the "your payments flex with your revenue" pitch is accurate under normal conditions and may not hold under stress conditions. Know the difference before you sign.
+RBF is not a trap. The "your payments flex with your revenue" pitch is accurate under normal conditions and may not hold under stress conditions. Know the difference before you sign.
 
 ## Sources
 

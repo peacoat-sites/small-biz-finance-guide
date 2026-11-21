@@ -26,9 +26,9 @@ faqs:
     a: "Once you're set up with a funder (onboarding typically takes three to seven business days with document verification), subsequent advances on approved invoices usually fund within 24 hours and sometimes same day. The first advance after onboarding might take a little longer while they verify the specific client and invoice. If a funder is promising same-day funding before you've completed onboarding, be skeptical."
 ---
 
-Forty percent of [small business](/small-business-credit-card-guide/) failures are linked to cash flow problems, not bad products or bad ideas. That number comes from a U.S. Bank study that's been cited so many times it's practically furniture in the small business world, but I still find it jarring every time I say it out loud. Because most of those businesses had money owed to them. The cash existed. It was just sitting in someone else's account, behind a 30-, 60-, or 90-day payment term.
+Forty percent of [small business](/small-business-credit-card-guide/) failures are linked to cash flow problems, not bad products or bad ideas. That number comes from a U.S. Bank study that's been cited so many times it's practically furniture in the small business world, but it remains jarring every time it comes up. Because most of those businesses had money owed to them. The cash existed. It was just sitting in someone else's account, behind a 30-, 60-, or 90-day payment term.
 
-That's exactly the problem invoice financing was built to solve. And if you're reading this, you might be wondering whether it's actually a legitimate tool or some kind of predatory lending dressed up in polite language. Fair question. Here's what I tell people who sit down across from me with a stack of unpaid invoices and a payroll deadline coming up fast: it depends on the deal, and you need to understand the mechanics before you sign anything.
+That's exactly the problem invoice financing was built to solve. And if you're reading this, you might be wondering whether it's actually a legitimate tool or some kind of predatory lending dressed up in polite language. Fair question. The answer for any business owner sitting on a stack of unpaid invoices with a payroll deadline coming up fast is the same: it depends on the deal, and you need to understand the mechanics before you sign anything.
 
 Let me walk you through how it actually works.
 
@@ -42,13 +42,13 @@ What trips people up is the difference between the two main structures. In **[in
 
 **Invoice discounting** keeps the invoice on your books. You're borrowing against it, and you still manage the collection relationship with your customer. They often never know the arrangement exists. This structure is more common for larger, established businesses and typically requires more financial documentation to qualify. If you want to keep the financing invisible to your clients, discounting is the path, though it's not always available to early-stage companies.
 
-I worked with a staffing agency in 2023 that had this backwards in their head. They thought factoring was "better" because they'd heard larger companies use it. But they had four anchor clients they'd been servicing for years, and the notice of assignment made one of those clients nervous enough to call them directly asking if they were in financial trouble. Factoring was the right tool for [cash flow](/how-to-improve-cash-flow-in-a-small-business/). It was the wrong tool for that particular client relationship.
+For example, a staffing agency might have this backwards in its thinking. A business might assume factoring is "better" because larger companies use it. But if that business has four anchor clients it has serviced for years, the notice of assignment could make one of those clients nervous enough to call in directly asking if the company is in financial trouble. Factoring may be the right tool for [cash flow](/how-to-improve-cash-flow-in-a-small-business/). It was the wrong tool for that particular client relationship.
 
 ## The Real Cost: Let Me Show You the Numbers That Matter
 
-This is where I get impatient with how invoice financing is often described online. You'll see fees quoted as "1% to 3% per invoice" and think, "that's not bad." It isn't bad for a 30-day invoice. It's a different conversation entirely for a 90-day invoice.
+This is where the common online descriptions of invoice financing fall short. You'll see fees quoted as "1% to 3% per invoice" and think, "that's not bad." It isn't bad for a 30-day invoice. It's a different conversation entirely for a 90-day invoice.
 
-Here's the table I use with clients to make this concrete:
+The following table makes this concrete:
 
 | Invoice Value | Advance Rate | Fee (%) | Term | Fee Cost | Effective APR |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@ That chart looks almost too tidy, I know. The reason 2% at 30 days and 2% at 60 
 
 ## Who Qualifies (And Who This Isn't For)
 
-Here's what I find interesting about invoice financing from a credit perspective: the funder is mostly underwriting your customer, not you. They want to know if your client is a real, creditworthy business that pays its invoices. Your business being six months old matters far less than whether your client is a Fortune 500 company or a well-established regional firm.
+One notable feature of invoice financing from a credit perspective is that the funder is mostly underwriting your customer, not you. They want to know if your client is a real, creditworthy business that pays its invoices. Your business being six months old matters far less than whether your client is a Fortune 500 company or a well-established regional firm.
 
 That's genuinely useful for newer companies. Traditional bank loans are almost impossible to get without two to three years of financials. Invoice financing can be accessible in month eight if you have solid clients and clean invoices.
 
@@ -76,13 +76,13 @@ The businesses that tend to get the most value out of this tool: staffing agenci
 
 It's a poor fit if you're in retail, if most of your clients are consumers, or if your average invoice is under $1,000 or so. Some funders won't touch invoices below $5,000. The economics just don't work at small invoice sizes.
 
-A worked example: A small IT consulting firm with $180,000 in outstanding invoices (net-45 terms, three enterprise clients) applied for a $50,000 line of credit at their bank and got denied due to limited operating history. They applied to a factoring company instead, got approved in four days, received advances on two invoices totaling $94,000 at 85%, and used that cash to hire two additional contractors to fill a new contract. Revenue for the quarter ended up 34% higher than the previous quarter. The financing cost was roughly $3,200 in factoring fees. Net outcome: strongly positive.
+For example, imagine a small IT consulting firm with $180,000 in outstanding invoices (net-45 terms, three enterprise clients) that applies for a $50,000 line of credit at its bank and gets denied due to limited operating history. If that firm applies to a factoring company instead, it might get approved in four days, receive advances on two invoices totaling $94,000 at 85%, and use that cash to hire two additional contractors to fill a new contract. Revenue for the quarter could end up 34% higher than the previous quarter. The financing cost in that scenario would be roughly $3,200 in factoring fees. Net outcome: strongly positive.
 
 ## Choosing a Funder: What to Actually Look For
 
-I want to be direct here: not all invoice financing companies are reputable. Some factoring agreements include long-term contracts with termination penalties, minimum volume requirements, or recourse clauses that make you personally liable if your client doesn't pay. That last one matters a lot. **Recourse factoring** means if your client defaults, you owe the money back. **Non-recourse factoring** means the funder absorbs that loss, though they'll price that risk into a higher fee.
+Not all invoice financing companies are reputable. Some factoring agreements include long-term contracts with termination penalties, minimum volume requirements, or recourse clauses that make you personally liable if your client doesn't pay. That last one matters a lot. **Recourse factoring** means if your client defaults, you owe the money back. **Non-recourse factoring** means the funder absorbs that loss, though they'll price that risk into a higher fee.
 
-Some specific things I'd ask every funder before signing:
+Here are specific things to ask every funder before signing:
 
 - What's your advance rate, and is it fixed or variable by client?
 - Do you require a minimum monthly volume?
@@ -91,9 +91,9 @@ Some specific things I'd ask every funder before signing:
 - Who handles collections, and what's your process if a client is slow to pay?
 - Will my clients receive a notice of assignment?
 
-A few names that come up consistently in the small business space as of 2026: Triumph Business Capital (strong in trucking and freight), altLINE (good for smaller businesses), and BlueVine, which has shifted its product mix but remains relevant. That said, the market moves, and I'd encourage you to compare at least three quotes. The American Receivables Corporation and FundThrough are also worth looking at if you have larger invoices.
+A few names that come up consistently in the small business space as of 2026: Triumph Business Capital (strong in trucking and freight), altLINE (good for smaller businesses), and BlueVine, which has shifted its product mix but remains relevant. That said, the market moves, and comparing at least three quotes is strongly advisable. The American Receivables Corporation and FundThrough are also worth looking at if you have larger invoices.
 
-If you want to go deeper on the mechanics before talking to a funder, I'd genuinely recommend [*The Art of Startup Fundraising* by Alejandro Cremades](https://www.amazon.com/dp/1119191831?tag=contentportfo-20) (Amazon affiliate link, full disclosure), not because it focuses on invoice financing specifically, but because it gives you a clean mental model for evaluating any financing structure against your actual business needs.
+For anyone who wants to go deeper on the mechanics before talking to a funder, [*The Art of Startup Fundraising* by Alejandro Cremades](https://www.amazon.com/dp/1119191831?tag=contentportfo-20) (Amazon affiliate link, full disclosure) is worth reading, not because it focuses on invoice financing specifically, but because it offers a clear mental model for evaluating any financing structure against actual business needs.
 
 ## Sources
 

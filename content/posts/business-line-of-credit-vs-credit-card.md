@@ -46,7 +46,7 @@ The other thing most articles don't mention: draws from a line of credit don't u
 
 That chart tells the whole story in four rows. If you have strong credit and a banking relationship, a line of credit is cheaper by a meaningful margin. If you're in the "fair credit" bucket and going to an online lender like Bluevine or Fundbox, the rate gap with a card narrows considerably, and the card's flexibility and rewards might actually win on a cost-adjusted basis.
 
-Here's the comparison I use with clients when we're running the actual numbers:
+Here is a comparison for running the actual numbers:
 
 | Feature | Bank Line of Credit | Online Line of Credit | Business Credit Card |
 |---|---|---|---|
@@ -59,15 +59,15 @@ Here's the comparison I use with clients when we're running the actual numbers:
 | Affects personal credit? | Less directly | Varies | Yes (utilization) |
 | Best for | Large, irregular expenses | Fast cash needs | Small daily expenses |
 
-The collateral question is one that surprises first-timers. Many bank lines of credit, especially above $50,000, require a blanket lien on business assets or a personal guarantee. I've sat across from clients who thought they were getting an unsecured facility and discovered on page three of the term sheet that they'd pledged their receivables. Read the security agreement. Every time.
+The collateral question is one that surprises first-timers. Many bank lines of credit, especially above $50,000, require a blanket lien on business assets or a personal guarantee. It is not uncommon for business owners to discover on page three of the term sheet that they have pledged their receivables. Read the security agreement. Every time.
 
 ## When the Credit Card Actually Wins
 
 I'll be honest: I'm biased toward lines of credit for most working capital needs, but the card is genuinely better in a few specific scenarios.
 
-Scenario 1: A retail shop owner spends $3,200/month on supplies from vendors who take cards. She earns 2% cash back on a Chase Ink Business Cash card. That's $768 annually, and she pays the balance monthly so the 26% APR never applies. She's using the card as a payment tool, not a financing tool. That's smart.
+For example, consider a retail shop owner who spends $3,200/month on supplies from vendors who take cards. She earns 2% cash back on a Chase Ink Business Cash card. That's $768 annually, and she pays the balance monthly so the 26% APR never applies. She's using the card as a payment tool, not a financing tool. That's smart.
 
-Scenario 2 (where it goes wrong): A contractor draws $55,000 on his business card to cover a payroll gap during a slow quarter. At 24.9% APR, carrying that for four months while waiting on client payments costs him about $4,580 in interest. He should have had a line of credit in place before the slow quarter hit, not scrambled for a card during it.
+For example, if a contractor draws $55,000 on his business card to cover a payroll gap during a slow quarter, at 24.9% APR, carrying that for four months while waiting on client payments costs roughly $4,580 in interest.  A line of credit should be in place before the slow quarter hits, not scrambled for during it.
 
 The Consumer Financial Protection Bureau's small business resource section makes a point I agree with: the best time to establish a line of credit is before you need it. Counterintuitive, but banks are more comfortable lending to businesses that don't look desperate.
 
@@ -75,11 +75,11 @@ The Consumer Financial Protection Bureau's small business resource section makes
 
 Most articles give you a generic checklist. What matters most in practice is often overlooked.
 
-For a bank line of credit, lenders typically want to see at least two years of business history, $100,000+ in annual revenue, and a business credit score above 75 on the Dun & Bradstreet scale (or a personal FICO above 680 if the business is young). I made the mistake early in my career of advising a client to apply for a bank LOC with only 14 months of business history. Declined in six days. Online lenders are more flexible, but you'll pay for that flexibility in rate.
+For a bank line of credit, lenders typically want to see at least two years of business history, $100,000+ in annual revenue, and a business credit score above 75 on the Dun & Bradstreet scale (or a personal FICO above 680 if the business is young). Applying for a bank line of credit with only 14 months of business history is a common misstep. Applications in that situation are routinely declined within days. Online lenders are more flexible, but you'll pay for that flexibility in rate.
 
 One thing lenders look for that nobody talks about: average daily balance in your business checking account. Many banks want to see $10,000 or more sitting in the account on average before they'll underwrite a line. It sounds circular, but it signals cash flow stability. When you're prepping an application, park a little extra in checking for 60 days before you apply.
 
-Scenario 3: A two-year-old marketing agency with $380,000 in annual revenue applied for a $75,000 line of credit at their local community bank. They had a 720 personal FICO, two years of tax returns showing profitability, and an average daily balance of $22,000. Approved in 11 business days at 8.75% APR. That's the profile banks want.
+For example, a hypothetical two-year-old marketing agency with $380,000 in annual revenue applying for a $75,000 line of credit at a local community bank might look like this: with a 720 personal FICO, two years of tax returns showing profitability, and an average daily balance of $22,000, approval in 11 business days at 8.75% APR is a realistic outcome.   
 
 ## Which One to Get First (If You're Starting From Zero)
 

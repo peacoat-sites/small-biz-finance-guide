@@ -26,7 +26,7 @@ faqs:
     a: "You need an SBA-participating lender for the bank portion, and not every bank participates. Most major regional banks and many community banks do. The CDC side is always handled by an SBA-certified CDC, not a regular bank. Ask your bank directly whether they're an SBA-participating lender, and if not, the SBA's Lender Match tool at sba.gov can connect you with ones who are."
 ---
 
-Most [small business owners](/sba-loans-now-require-100-us-citizenship-what-small-business-owners-mu/) come to me with the same expression when I bring up SBA commercial real estate loans: a sort of hopeful squint, like they've heard the words before but aren't sure if they actually apply to them. You might be wondering whether you even qualify, or whether the process is as painful as your cousin who tried to get an SBA loan three years ago made it sound. Both are fair concerns. Let me give you a straight answer on both.
+Many [small business owners](/sba-loans-now-require-100-us-citizenship-what-small-business-owners-mu/) approach SBA commercial real estate loans with the same expression: a sort of hopeful squint, like they've heard the words before but aren't sure if they actually apply to them. You might be wondering whether you even qualify, or whether the process is as painful as your cousin who tried to get an SBA loan three years ago made it sound. Both are fair concerns. Let me give you a straight answer on both.
 
 The short version: SBA commercial real estate loans, specifically the SBA 504 loan program and, less commonly, the SBA 7(a) program used for real estate, are some of the best financing tools available to small [business owners](/the-new-1099-thresholds-small-business-owners-must-know-in-2026/) who want to own their building. The terms are genuinely hard to beat. The process is genuinely hard to love. But if you understand the structure going in, it's manageable, and the long-term payoff is real.
 
@@ -61,7 +61,7 @@ The prepayment penalty on 504 is something nobody warns you about clearly enough
 
 ## The Qualification Side
 
-You might be wondering whether your business actually qualifies. Here's what I tell people: the bar is more accessible than you'd expect, but there are real gates.
+You might be wondering whether your business actually qualifies. The bar is more accessible than most people expect, but there are real gates.
 
 Your business must be for-profit and meet SBA size standards, which vary by industry but generally mean under 500 employees for manufacturers and under $7.5 million to $38.5 million in average annual receipts for others. You need a tangible net worth under $20 million and average net income under $6.5 million (after taxes) for the two years before application. Check the current thresholds at SBA.gov directly, because these numbers have been adjusted before and could be again.
 
@@ -69,7 +69,7 @@ Personal credit matters a lot. Most lenders want to see a personal FICO above 68
 
 Here's what catches people off guard: the collateral requirements. For 504, the real estate itself is typically the primary collateral. The SBA also requires personal guarantees from anyone owning 20% or more of the business. That means your personal assets are on the line. This is standard, and not negotiable.
 
-Worked example: A veterinary practice in suburban Ohio, operating six years, wanted to buy a $1.2 million building rather than continue paying $11,400 a month in rent. They brought 10% ($120,000) from business reserves, the bank covered $600,000 at a negotiated fixed rate, and the CDC debenture covered $480,000 at a fixed rate locked at closing. Monthly payment on the combined structure: approximately $7,900. They cut their occupancy cost by $3,500 a month and own an appreciating asset. That's the math that makes 504 worth the paperwork.
+For example, consider a veterinary practice operating six years that wanted to buy a $1.2 million building rather than continue paying $11,400 a month in rent. They brought 10% ($120,000) from business reserves, the bank covered $600,000 at a negotiated fixed rate, and the CDC debenture covered $480,000 at a fixed rate locked at closing. Monthly payment on the combined structure: approximately $7,900. They cut their occupancy cost by $3,500 a month and own an appreciating asset. That's the math that makes 504 worth the paperwork.
 
 ## What the Application Process Actually Involves
 
@@ -83,7 +83,7 @@ The environmental Phase I is the one that surprises people most. Even for seemin
 
 Find your CDC through the SBA's online locator. CDCs are nonprofit organizations certified by the SBA, and they do most of the legwork on the debenture side. Your bank and the CDC will work in parallel, which sometimes means you're coordinating three parties simultaneously: yourself, the bank, and the CDC. SCORE (score.org) can connect you with a mentor who has worked through this process and can help you track the moving pieces without paying consultant fees.
 
-Worked example: A restaurant group in Nashville wanted to buy a 4,800 square foot building for $875,000. Application to closing took 94 days. The biggest delay: the appraisal came in at $842,000, triggering a renegotiation with the seller. Once resettled at $850,000, the deal proceeded without further issues. Lesson: don't assume the purchase price and appraised value will match, and build a renegotiation clause into your purchase agreement.
+For example, imagine a restaurant group seeking to buy a 4,800 square foot building for $875,000. Application to closing took 94 days. The biggest delay: the appraisal came in at $842,000, triggering a renegotiation with the seller. Once resettled at $850,000, the deal proceeded without further issues. Lesson: don't assume the purchase price and appraised value will match, and build a renegotiation clause into your purchase agreement.
 
 ## The Costs Nobody Itemizes for You
 
@@ -91,7 +91,7 @@ SBA loans are not free to originate. The fees are real, and they compound. The S
 
 Beyond the SBA guarantee fee, you're looking at: bank origination fees (typically 0.5% to 1% of the bank portion), CDC packaging fees (usually $2,500 to $3,500), legal fees, title insurance, recording fees, and the appraisal and environmental report costs already mentioned. Budget 2% to 4% of total project cost in closing costs. On a $1 million project, that's $20,000 to $40,000 out of pocket at closing beyond your down payment.
 
-I made the mistake early in my career of helping a client budget only for the down payment and getting surprised by the closing cost stack. Now I run a full closing cost projection on day one. If you want a simple framework for this, Mike Michalowicz's *Profit First* won't give you an SBA-specific model, but it'll train you to think about reserves in a way that makes these moments less painful (Amazon affiliate link applies if you pick it up through this site).
+A common mistake is budgeting only for the down payment and getting surprised by the closing cost stack. Running a full closing cost projection on day one helps avoid that surprise. If you want a simple framework for this, Mike Michalowicz's *Profit First* won't give you an SBA-specific model, but it'll train you to think about reserves in a way that makes these moments less painful (Amazon affiliate link applies if you pick it up through this site).
 
 *Figures based on a $1.5M project at typical 2026 rates; your costs will vary.*
 
@@ -107,7 +107,7 @@ I made the mistake early in my career of helping a client budget only for the do
 
 ---
 
-One last thing, and I say this to every client before they sign anything: have a CPA review the full transaction structure before you close. The depreciation treatment of the building, the impact on your personal balance sheet, and the interaction with your business entity type all have tax implications that a good CPA will spot and a banker won't volunteer. The SBA 504 is a powerful tool. Use it with your eyes open.
+One last thing: have a CPA review the full transaction structure before you close. The depreciation treatment of the building, the impact on your personal balance sheet, and the interaction with your business entity type all have tax implications that a good CPA will spot and a banker won't volunteer. The SBA 504 is a powerful tool. Use it with your eyes open.
 
 *Photo: [Adrien Olichon](https://www.pexels.com/@adrien-olichon-1257089) via Pexels*
 

@@ -26,11 +26,11 @@ faqs:
 lastmod: 2026-11-16T16:00:00Z
 ---
 
-Most business owners I've talked to don't find out they've been misclassifying workers or miscalculating overtime until there's already a problem. An employee files a complaint with the Department of Labor, or they get a letter, or they're talking to a lawyer. That's a painful way to learn about the Fair Labor Standards Act. Let's get ahead of it.
+Many business owners don't find out they've been misclassifying workers or miscalculating overtime until there's already a problem. An employee files a complaint with the Department of Labor, or they get a letter, or they're talking to a lawyer. That's a painful way to learn about the Fair Labor Standards Act. Let's get ahead of it.
 
 The FLSA is federal law, and it sets the floor on wages, overtime, recordkeeping, and child labor rules for most private employers in the U.S. It doesn't care how small you are or how tight your margins are. If you have employees, it applies to you.
 
-Here's what I tell people who are just starting to think about this: the FLSA isn't actually that complicated at its core. What makes it dangerous is the details, and the places where common small business practices quietly drift out of compliance.
+Here's the thing for anyone just starting to think about this: the FLSA isn't actually that complicated at its core. What makes it dangerous is the details, and the places where common small business practices quietly drift out of compliance.
 
 ## Who's Covered (and the Classification Problem)
 
@@ -48,7 +48,7 @@ A lot of owners make the mistake of thinking a job title does the work here. It 
 
 ## Overtime: Where Most Violations Actually Happen
 
-Overtime math sounds easy until you get into the weeds. Here's where I see small businesses get tripped up most often.
+Overtime math sounds easy until you get into the weeds. Here's where small businesses get tripped up most often.
 
 The FLSA workweek is a fixed, recurring 168-hour period (seven consecutive 24-hour days). You define it, but once you do, you can't rearrange it retroactively to reduce overtime liability. You can't average hours across two weeks. If someone works 50 hours in week one and 30 in week two, you owe them 10 hours of overtime for week one, period. That's not how a lot of owners think about it, but that's how the law works.
 
@@ -62,7 +62,7 @@ The FLSA requires you to keep specific payroll records for non-exempt employees,
 
 Three years sounds like a lot. It isn't, because the statute of limitations for a FLSA violation is two years (three for willful violations). That means if a dispute comes up, those records are your defense. Garbage records make it nearly impossible to fight a claim, even if you actually paid someone correctly.
 
-Most payroll software handles this automatically. If you're still running payroll on spreadsheets and writing checks by hand, that's the first thing I'd change.
+Most payroll software handles this automatically. If you're still running payroll on spreadsheets and writing checks by hand, switching to dedicated payroll software should be a priority.
 
 ## The Piece Nobody Wants to Talk About: Retaliation
 
@@ -74,7 +74,7 @@ If an employee raises a pay question, treat it like a systems issue to investiga
 
 ## What a Simple FLSA Audit Looks Like
 
-You don't need to hire a lawyer to do a basic internal review. Here's what I'd actually do, working through it yourself:
+You don't need to hire a lawyer to do a basic internal review, and working through it yourself is a reasonable starting point. Here's what a straightforward self-review looks like:
 
 Pull your employee list and categorize every worker as exempt, non-exempt, or contractor. For anyone you've been treating as a contractor, run them through the economic reality test honestly. For anyone exempt, pull up their job description and compare it against the actual duties test criteria, not just the title.
 
@@ -84,7 +84,7 @@ Check your recordkeeping. Are timesheets being kept? Signed by employees? Stored
 
 Finally, look at your minimum wage compliance. Federal minimum wage is currently $7.25 per hour, but a lot of states and cities are higher, and the FLSA requires you to meet whichever floor applies. This is a real trap for businesses that operate across multiple locations.
 
-I'd recommend doing this review annually, honestly. An hour of your time once a year is much cheaper than a DOL investigation.
+Doing this review annually is a sound practice. An hour of your time once a year is much cheaper than a DOL investigation.
 
 ---
 

@@ -30,7 +30,7 @@ Most people treat this decision like it's about prestige. Like forming an LLC is
 
 The other mistake is equally real: a contractor with $180,000 a year in revenue operating as a sole proprietor is one lawsuit away from their personal savings getting wiped out. Both errors are real. And the annoying truth is, the right answer depends almost entirely on your specific situation.
 
-So let me tell you what I've actually seen across 18 years of this work, and what the numbers say.
+Here is what the evidence and common experience show, along with what the numbers say.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A sole proprietorship costs $0 to start; an LLC costs $50–$500 in state filing fees, varying by state.</li><li style="margin:5px 0">Sole proprietors have unlimited personal liability, one lawsuit can reach your personal bank account and assets.</li><li style="margin:5px 0">An LLC separates personal from business assets, but only if you maintain it properly (separate accounts, clean books).</li><li style="margin:5px 0">For most businesses under $40K/year with low liability exposure, sole proprietor is often fine to start.</li><li style="margin:5px 0">Self-employment tax is identical under both structures; an LLC taxed as an S-corp can reduce it, but not until you have real profit to justify the complexity.</li></ul></div>
 
@@ -42,7 +42,7 @@ Start with the basics. A sole proprietorship is automatic. You start selling ser
 
 An LLC (Limited Liability Company) is a separate legal entity you create by filing Articles of Organization with your state. As of July 2026, filing fees range from $50 in Kentucky to $500 in Massachusetts, with most states landing somewhere between $50 and $200. Some states also charge annual fees or franchise taxes, California, infamously, charges an $800 annual minimum franchise tax no matter what your LLC earns.
 
-What surprised me early in my career was how *similar* the tax treatment actually is by default. Unless you elect otherwise, a single-member LLC is taxed exactly like a sole proprietorship: everything flows to your Schedule C. Same forms, same self-[employment tax](/schedule-se-self-employment-tax/) rate (15.3% on your net earnings up to the Social Security wage base, currently $168,600 for 2026, then 2.9% above that). The protection is real. The default tax difference is not.
+What surprises many business owners is how *similar* the tax treatment actually is by default. Unless you elect otherwise, a single-member LLC is taxed exactly like a sole proprietorship: everything flows to your Schedule C. Same forms, same self-[employment tax](/schedule-se-self-employment-tax/) rate (15.3% on your net earnings up to the Social Security wage base, currently $168,600 for 2026, then 2.9% above that). The protection is real. The default tax difference is not.
 
 ## Liability: What "Protection" Actually Means in Practice
 
@@ -50,7 +50,7 @@ Here's where I want to be precise, because this gets oversimplified constantly.
 
 An LLC creates a legal wall between the business and your personal assets. If someone sues your LLC, they generally can't come after your house or personal savings. That "generally" is doing a lot of work in that sentence. Courts will "pierce the corporate veil" -- go right through your LLC to your personal assets, if you commingle funds, fail to maintain a separate [business bank account](/how-to-open-a-business-bank-account-online-for-startup/), or don't operate the LLC as a distinct entity.
 
-A worked example: A freelance web developer, $65K/year in revenue, sole proprietor. A client claimed his work caused a security breach and sued for $210,000. No LLC, no separation, no protection. His personal checking account was fair game. He settled for $47,000 out of pocket. That same scenario with a properly maintained LLC, separate account, annual report filed on time, and his personal assets are off the table.
+For example, consider a freelance web developer earning $65K/year in revenue operating as a sole proprietor. A client claimed his work caused a security breach and sued for $210,000. No LLC, no separation, no protection. His personal checking account was fair game. He settled for $47,000 out of pocket. That same scenario with a properly maintained LLC, separate account, annual report filed on time, and his personal assets are off the table.
 
 Conversely: A part-time Etsy seller making $18,000 a year selling hand-poured candles? The liability risk is low, the income doesn't justify the overhead, and a solid general liability insurance policy (usually $400 to $600 a year from carriers like Hiscox or Next Insurance) plugs most of the practical exposure gap without the administrative burden of an LLC.
 
@@ -58,7 +58,7 @@ The [U.S. Small Business Administration](https://www.sba.gov/) actually covers t
 
 ## The Tax Angle People Miss Until It's Too Late
 
-I'll be honest: I got this wrong myself early on. For years I defaulted to telling clients that the tax treatment was essentially the same between a sole proprietor and a single-member LLC, so the decision was "just" about liability. That's true at lower income levels. It stops being true somewhere around $60,000 to $80,000 in *net profit*, and here's why.
+This is a point that is easy to get wrong initially. It is easy to assume that the tax treatment is essentially the same between a sole proprietor and a single-member LLC, so the decision is "just" about liability. That's true at lower income levels. It stops being true somewhere around $60,000 to $80,000 in *net profit*, and here's why.
 
 An LLC can elect to be taxed as an S-corporation. Under that election, you pay yourself a "reasonable salary" -- say, $45,000, and take the rest as a distribution. You only pay self-employment tax on the salary portion, not the distribution. At $100,000 in net profit, that could mean saving somewhere in the range of $5,000 to $8,000 per year in SE tax, depending on your situation. The catch: you now need payroll, a separate payroll tax filing, potentially a bookkeeper, and a CPA who knows S-corp returns. That extra complexity costs real money, often $1,500 to $3,000 a year in accounting fees. So the math only tips positive once the savings exceed the cost of maintaining it.
 
@@ -86,15 +86,15 @@ Note: California's $70 formation fee is separate from the $800 annual franchise 
 
 ## How to Actually Decide
 
-Here's the framework I use with clients. It's not complicated, but it requires honesty about where you actually are.
+Here is a practical framework for making the decision. It's not complicated, but it requires honesty about where you actually are.
 
 If you're in the early stages, under $40,000 in annual revenue, low liability exposure (coaching, writing, certain consulting work), and you're not sure the business will stick, start as a sole proprietor. Keep clean records. Open a separate bank account anyway (seriously, just do this from day one). Get liability insurance if clients or products create any risk. Revisit the structure once you hit $40,000 to $60,000 in net profit or once you take on a client contract that requires an LLC.
 
 If you have real liability exposure, you work in people's homes, handle client data, produce physical products, give advice that could cause financial harm, form the LLC. The annual fee and the paperwork are worth it. The [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/) have decent plain-language guides on this if you want to read the legal reasoning in non-lawyer terms.
 
-A second worked example: A personal trainer in Denver, $52,000 gross, working out of clients' homes. Formed an LLC in Colorado ($50 filing fee), opened a dedicated business checking account at a local credit union, and got a $1M general liability policy for $38 per month through Hiscox. Total annual overhead for the structure: around $506. Piece of mind that a client injury claim won't touch his apartment and car: genuinely worth it.
+For example, a personal trainer earning $52,000 gross and working out of clients' homes could form an LLC in Colorado ($50 filing fee), open a dedicated business checking account, and get a $1M general liability policy for $38 per month through Hiscox.  Total annual overhead for that structure would be around $506. The peace of mind that a client injury claim would not touch personal assets is generally worth that cost.
 
-A common scenario that almost always ends with someone paying back taxes and penalties is a freelancer who earns $110,000 in net profit as a sole proprietor and never talks to a CPA about the S-corp election. Anyone at that income level should at least have the conversation. The accounting costs to explore it are minor.
+A common scenario that almost always ends with someone paying back taxes and penalties involves a freelancer who earns $110,000 in net profit as a sole proprietor and never discusses the S-corp election with a CPA. Anyone at that income level should at least have the conversation. The accounting costs to explore it are minor.
 
 ## Sources
 

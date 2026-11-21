@@ -90,7 +90,7 @@ This tells you how much federal income tax to withhold. The current version repl
 Every state does this differently. Search "[your state] employer registration" or check your state's Department of Revenue and Department of Labor websites. Some states require separate registrations for income tax withholding and unemployment insurance.
 
 **Step 4: Choose a payroll system or provider.**
-Manual payroll calculations are error-prone and I'd steer you away from them. Payroll software like Gusto, QuickBooks Payroll, or ADP handles most of the calculation and deposit logistics for you. Some file on your behalf. Know which tasks the software handles and which ones remain yours.
+Manual payroll calculations are error-prone and best avoided. Payroll software like Gusto, QuickBooks Payroll, or ADP handles most of the calculation and deposit logistics for you. Some file on your behalf. Know which tasks the software handles and which ones remain yours.
 
 **Step 5: Set up your Electronic Federal Tax Payment System (EFTPS) account.**
 This is the IRS's system for depositing payroll taxes. Even if your payroll software makes deposits automatically, set this up yourself and verify deposits are landing. Don't let a software glitch catch you by surprise.

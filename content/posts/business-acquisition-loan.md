@@ -25,9 +25,9 @@ author_title: "Business Lending"
 author_bio: "Michael Torres is the byline used at Small Biz Finance Guide for articles on SBA loans, lines of credit and how lenders review applications. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-Most people who want to buy a business think the hard part is finding the right one. I thought that too, until I spent six months watching a client lose a deal he'd been chasing for two years because he didn't understand how acquisition financing actually works before he needed it. The business was solid, the seller was motivated, and my client had decent credit. None of that mattered when the bank came back with a term sheet that required 30% down and a personal guarantee on his house. He walked. The seller sold to someone else.
+Most people who want to buy a business think the hard part is finding the right one. Consider a buyer who spent two years chasing the right deal, only to lose it because he didn't understand how acquisition financing actually works before he needed it. The business was solid, the seller was motivated, and the buyer had decent credit. None of that mattered when the bank came back with a term sheet that required 30% down and a personal guarantee on his house. The buyer walked. The seller sold to someone else.
 
-That's why I'm giving you a real, honest picture of business acquisition loans, not the version your banker hands you in a glossy brochure.
+What follows is a real, honest picture of business acquisition loans, not the version your banker hands you in a glossy brochure.
 
 <div class="value-module">
  <div class="vm-head">Acquisition Loan Comparison by Source</div>

@@ -26,7 +26,7 @@ faqs:
     a: "You don't legally need one in most states, but operating without one is genuinely risky. Mixing personal and business funds -- 'commingling' is the legal term, is one of the main ways the liability protection of an LLC gets pierced in court. A separate account also makes bookkeeping infinitely cleaner and makes it possible to actually document owner's draws. Open one. It takes 20 minutes and usually costs nothing at an online bank like Relay or Mercury."
 ---
 
-Most LLC owners I talk to have been running their business for six, eight, sometimes twelve months before anyone sits them down and actually explains this. They've been doing whatever felt reasonable, transferring money when the account looked healthy, paying themselves "when there's enough," keeping their fingers crossed that it all washes out at tax time. It doesn't, and the IRS notice that arrives later is never fun.
+Many LLC owners have been running their business for six, eight, sometimes twelve months before anyone sits them down and actually explains this. They've been doing whatever felt reasonable, transferring money when the account looked healthy, paying themselves "when there's enough," keeping their fingers crossed that it all washes out at tax time. It doesn't, and the IRS notice that arrives later is never fun.
 
 Here's what nobody tells you clearly at the start: how you pay yourself from an LLC depends almost entirely on how that LLC is taxed. Not how it's structured legally. How it's taxed. And you might not even know which category you're in.
 
@@ -52,7 +52,7 @@ What you do need to do is keep records. Every draw should be documented: date, a
 
 The other thing people get wrong here: draws are not tax-deductible for the business. You can't treat them as a payroll expense. The money you take out doesn't reduce your LLC's taxable income the way an employee's salary would.
 
-When I set up a new LLC client's books, I always create a dedicated "Owner's Draw" equity account on day one. The first time I skipped that step for a client (early in my career, long story), we spent an embarrassing amount of time at year-end untangling a year's worth of transfers from business expenses. One categorization error can cascade badly.
+Best practice is to create a dedicated "Owner's Draw" equity account on day one when setting up an LLC's books. Skipping that step can mean spending significant time at year-end untangling a year's worth of transfers from business expenses. One categorization error can cascade badly.
 
 ## The S-Corp Payroll Path
 
@@ -81,17 +81,17 @@ This is the part that surprises people most. When you're a default LLC (not S-co
 
 You'll also owe estimated quarterly taxes. If you don't pay them, you'll owe penalties when you file. The due dates are typically April 15, June 15, September 15, and January 15, though those shift when they fall on weekends or holidays. The U.S. Small Business Administration has good plain-language guidance on this if you want a starting point, and the IRS's own Publication 505 covers the withholding and estimated tax mechanics in detail.
 
-I made the quarterly tax mistake myself in my first year of self-employment, not the LLC, a different solo venture back in the early 2000s. Paid everything in April, got hit with a small but annoying underpayment penalty. It wasn't catastrophic, maybe $200, but it was avoidable. Set aside 25 to 30% of every draw in a separate savings account from day one. That's not a precise number, but it's a reasonable starting point while you figure out your actual effective rate.
+This is a common mistake for new self-employed business owners. Paying everything in April instead of making quarterly payments can result in an underpayment penalty. The penalty may not be catastrophic, but it is avoidable. Set aside 25 to 30% of every draw in a separate savings account from day one. That's not a precise number, but it's a reasonable starting point while you figure out your actual effective rate.
 
 The Consumer Financial Protection Bureau's small business resources have helpful frameworks for thinking about cash flow management, which dovetails directly with the "when and how much to draw" question, worth a read if you're in the early stages of building your system.
 
 ## A Few Real-World Scenarios
 
-**Scenario 1:** A freelance designer, single-member LLC, earns about $75,000 in net profit. She takes draws throughout the year totaling $55,000. She still owes taxes on all $75,000. The $20,000 left in the account doesn't reduce her tax bill. Action: Her CPA sets her up with quarterly estimated payments based on projected income. Result: No surprise tax bill in April, no underpayment penalty.
+For example, if a freelance designer with a single-member LLC earns $75,000 in net profit but takes only $55,000 in draws, she still owes taxes on all $75,000, because the $20,000 left in the account does not reduce her tax bill. Working with a CPA to set up quarterly estimated payments based on projected income helps avoid a surprise tax bill in April and any underpayment penalty.
 
-**Scenario 2:** A two-person LLC (partners at 50/50) generating $200,000 in net profit. Neither partner takes formal payroll. Each partner receives a K-1 showing $100,000 in income and owes SE tax on that amount plus any guaranteed payments. Action: They consult an attorney and restructure guaranteed payments for specific services each partner performs, which are documented in the operating agreement. Result: Cleaner books, clearer tax treatment, no year-end confusion about who owes what.
+For example, in a two-person LLC with 50/50 ownership generating $200,000 in net profit, neither partner takes formal payroll, and each receives a K-1 showing $100,000 in income and owes SE tax on that amount plus any guaranteed payments. Consulting an attorney to restructure guaranteed payments for specific services each partner performs, documented in the operating agreement, can produce cleaner books, clearer tax treatment, and less year-end confusion about who owes what.
 
-**Scenario 3:** An e-commerce business owner, LLC elects S-corp treatment after two years of growing revenue. Pays himself a $70,000 salary, takes $60,000 in distributions on $130,000 in net profit. Action: Uses Gusto for payroll, files quarterly 941s. Result: Payroll tax is assessed on $70,000 instead of $130,000, saving a meaningful amount relative to the default single-member structure, exact savings depending on his deduction profile, which his CPA calculated before making the election.
+For example, if an e-commerce business owner elects S-corp treatment after two years of growing revenue, pays himself a $70,000 salary, and takes $60,000 in distributions on $130,000 in net profit, using a payroll service and filing quarterly 941s means payroll tax is assessed on $70,000 instead of $130,000, saving a meaningful amount relative to the default single-member structure, with exact savings depending on the owner's deduction profile as calculated by a CPA before making the election.
 
 ## Sources
 

@@ -109,7 +109,7 @@ Many grants open once per year only. Create a calendar of deadlines and set aler
 
 ## Common Mistakes That Kill Grant Applications
 
-I've reviewed countless grant applications. The same mistakes keep showing up.
+The same mistakes keep showing up across countless grant applications. The same mistakes keep showing up.
 
 **Vague use-of-funds statements.** "To grow my business" isn't an answer. "To purchase two industrial-grade espresso machines to expand our café's daily output capacity from 200 to 400 drinks" is an answer. Be specific.
 

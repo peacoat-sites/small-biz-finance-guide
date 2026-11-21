@@ -26,7 +26,7 @@ faqs:
 lastmod: 2026-11-16T16:00:00Z
 ---
 
-Most business owners I talk to assume a commercial mortgage works roughly like a residential one. Same basic idea, right? You find a property, you apply for a loan, you make monthly payments. That assumption has cost people I know real money, in wasted time, wrong loan structures, and deals that fell apart at the last minute because nobody explained the rules upfront.
+Many business owners assume a commercial mortgage works roughly like a residential one. Same basic idea, right? You find a property, you apply for a loan, you make monthly payments. That assumption has cost business owners real money, in wasted time, wrong loan structures, and deals that fell apart at the last minute because nobody explained the rules upfront.
 
 Here's what's actually happening when you go after commercial real estate financing, and what you need to know before you walk into a bank or a broker's office.
 
@@ -44,7 +44,7 @@ Down payments are bigger. Expect 20% to 35% down for most conventional commercia
 
 Rates are generally higher than residential rates and float more. As of this year, commercial mortgage rates from conventional lenders are running roughly 6.5% to 9% depending on the property type, your creditworthiness, and the loan structure. That range is wide on purpose because it actually is that variable.
 
-"Commercial real estate lending is fundamentally a business credit decision," says David Bitner, former head of capital markets research at Cushman & Wakefield, with over 20 years in CRE. "Lenders are underwriting cash flow, not just collateral. If the property or business can't demonstrate sustainable income, the loan doesn't get done regardless of personal credit scores."
+Commercial real estate lending is fundamentally a business credit decision. "Lenders are underwriting cash flow, not just collateral. If the property or business can't demonstrate sustainable income, the loan doesn't get done regardless of personal credit scores."
 
 That quote matters. If you're buying a property your business will fully occupy, lenders will scrutinize your business financials closely, not just your personal tax returns.
 
@@ -77,7 +77,7 @@ One thing I want to be direct about: bridge loans and hard money lenders exist, 
 
 ## How Lenders Underwrite Your Deal
 
-This is where I see the most confusion, and honestly the most preventable loan rejections.
+This is where the most confusion arises, and the most preventable loan rejections occur.
 
 Commercial lenders use a metric called the Debt Service Coverage Ratio, or DSCR. It measures whether the property (or your business) generates enough income to cover the loan payments. The formula is simple: Net Operating Income divided by Annual Debt Service. Most lenders want a DSCR of at least 1.25, meaning the property generates $1.25 for every $1.00 in debt payments. Some require 1.35 or higher.
 
@@ -113,9 +113,9 @@ Closing: 1 to 2 weeks to prepare documents after underwriting approval.
 
 Total realistic timeline from application to close: 60 to 120 days. SBA 504 deals often take 4 to 6 months. Plan for the longer end. If a seller or your own business plan requires a faster close, talk to a bridge lender and understand the cost of that speed.
 
-"The biggest mistake owner-occupants make is signing a purchase contract with a 45-day financing contingency when conventional commercial lending simply doesn't move that fast," says James Nakamura, senior loan officer at a regional bank in Northern California with 12 years in commercial lending. "You either need a longer contingency or you need to be very far along in pre-approval before you go under contract."
+The biggest mistake owner-occupants make is signing a purchase contract with a 45-day financing contingency when conventional commercial lending simply does not move that fast. "You either need a longer contingency or you need to be very far along in pre-approval before you go under contract."
 
-I'd add: get a pre-qualification letter before you make an offer, and if possible get it from the lender you actually intend to use.
+Get a pre-qualification letter before making an offer, and if possible get it from the lender you actually intend to use.
 
 *I'd also strongly recommend picking up a copy of [NOLO's "Every Landlord's Legal Guide"](https://www.amazon.com/dp/1413331181) if you're buying investment or mixed-use property. The site may earn a commission.*
 

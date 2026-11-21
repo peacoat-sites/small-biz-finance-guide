@@ -25,9 +25,9 @@ author_title: "Financial Systems"
 author_bio: "Rachel Green is the byline used at Small Biz Finance Guide for articles on bookkeeping systems, reporting and planning for growth. It is a pen name; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-Most business owners spend twenty years building something and about twenty minutes thinking about what happens to it when they're gone. I was guilty of the same thing early on. I helped a lot of entrepreneurs get their books clean, their cash flow tight, their tax exposure minimal. Succession planning? That was a conversation for later, always later.
+Most business owners spend twenty years building something and about twenty minutes thinking about what happens to it when they're gone.   Succession planning? That was a conversation for later, always later.
 
-Then I watched a client die. He was 61, ran a $4.2 million-a-year HVAC company outside Columbus, dropped dead of a heart attack on a Tuesday. His wife had no idea what the business was worth. Didn't know who the key accounts were. Didn't know where the operating accounts were held. The company sold for about 40 cents on the dollar nine months later because buyers could smell the desperation. Every vulture in the market circled at once.
+Consider what happens when a business owner dies without a plan. For example, a 61-year-old owner of a $4.2 million-a-year HVAC company outside Columbus could drop dead of a heart attack on a Tuesday. The spouse may have no idea what the business is worth. She may not know who the key accounts are. She may not know where the operating accounts are held. In such a scenario, the company may sell for about 40 cents on the dollar nine months later because buyers can smell the desperation. Every vulture in the market circles at once.
 
 That's not an outlier. That's what happens when there's no plan.
 

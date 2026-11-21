@@ -25,7 +25,7 @@ author_title: "Business Taxes"
 author_bio: "David Kim is the byline used at Small Biz Finance Guide for articles on small business tax planning and deductions. It is a pen name, not a tax professional; how articles are researched and checked is explained in our editorial standards."
 lastmod: 2026-11-16T16:00:00Z
 ---
-A restaurant owner I worked with a few years back almost signed a $94,000 equipment lease for commercial kitchen appliances because the monthly payment "felt manageable." She hadn't read the buyout clause. At the end of a 60-month term, she'd have paid nearly $112,000 total and still wouldn't own the equipment without writing another check. That's the kind of thing nobody warns you about until it's too late.
+For example, a restaurant owner might almost sign a $94,000 equipment lease for commercial kitchen appliances because the monthly payment "felt manageable." She hadn't read the buyout clause. At the end of a 60-month term, she'd have paid nearly $112,000 total and still wouldn't own the equipment without writing another check. That's the kind of thing nobody warns you about until it's too late.
 
 Equipment financing sounds straightforward. You need a piece of equipment, you don't have the cash to buy it outright, someone lends you money or gives you the equipment to use. But the details inside that transaction can mean the difference between a smart capital decision and a five-year mistake.
 
@@ -71,13 +71,13 @@ For leases, ask specifically:
 - Who pays for maintenance, insurance, and property taxes on the equipment?
 - Is there an early termination clause and what does it cost?
 
-That last one has hurt a lot of people. I worked with a printing company that needed to upgrade equipment 18 months into a 60-month lease. The early termination penalty was effectively the remaining payments minus a small discount. They were locked in for years.
+That last one has hurt a lot of people. For example, a printing company that needs to upgrade equipment 18 months into a 60-month lease can face a costly surprise. The early termination penalty was effectively the remaining payments minus a small discount. They were locked in for years.
 
 The [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/) have useful guidance on reading financial contracts carefully. If you're dealing with complex lease terms, spending $300 on an hour with a CPA or business attorney before signing is absolutely worth it.
 
 ## Where to Actually Get Equipment Financing
 
-Your options, roughly in order of where I'd start:
+Your options, roughly in order of where to start:
 
 **Your existing bank or credit union.** If you have a solid relationship and decent financials, start here. Rates tend to be lower. The process is slower, and approval criteria are stricter, but if you qualify, you'll usually pay less.
 
@@ -93,7 +93,7 @@ Be skeptical of any lender who calls you unsolicited, pushes urgency hard, or wo
 
 Section 179 of the tax code lets you deduct the full purchase price of qualifying equipment in the year you put it into service, up to certain limits (limits adjust annually, so check current IRS guidance or ask your CPA). Bonus depreciation rules add another layer of potential deduction. These benefits apply to purchased equipment and some finance leases, but generally not to operating leases.
 
-This is genuinely one of those areas where a conversation with your CPA before you decide on loan versus lease can change the math significantly. I can't give you one-size-fits-all tax advice here because the right answer depends on your income, entity type, and current year tax situation.
+This is genuinely one of those areas where a conversation with your CPA before you decide on loan versus lease can change the math significantly. There is no one-size-fits-all tax answer here because the right approach depends on your income, entity type, and current year tax situation.
 
 For deeper reading on the financial structure side of these decisions, Mike Michalowicz's *[Profit First](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=contentportfo-20)* won't cover equipment financing specifically, but his framework for thinking about cash flow decisions is genuinely useful context.
 

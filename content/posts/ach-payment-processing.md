@@ -28,7 +28,7 @@ lastmod: 2026-11-16T16:00:00Z
 
 Most small business owners set up ACH payments the same way they set up their email: they pick whatever's easiest, click through the setup screens, and never think about it again. That's a mistake that quietly costs them money every month.
 
-I'll be honest, I didn't give ACH nearly enough credit for the first several years I was advising clients. We'd talk about merchant accounts, payment terminals, Stripe fees. ACH felt like a background utility, something banks handled invisibly. What surprised me was how much complexity is hiding underneath something that looks so simple, and how badly most small business owners are getting the short end of it.
+ACH doesn't get nearly enough credit from small business advisors. The conversation usually centers on merchant accounts, payment terminals, and Stripe fees. ACH tends to feel like a background utility, something banks handle invisibly. There is far more complexity hiding underneath something that looks so simple, and most small business owners are getting the short end of it.
 
 So let me give you the real story.
 
@@ -42,7 +42,7 @@ It's also not a credit card transaction. No interchange fees, no card network, n
 
 The ACH network processes in batches, historically a few times per business day. Nacha has pushed same-day ACH processing aggressively, and as of this year, same-day ACH covers the vast majority of transactions under $1 million. But "same day" in ACH terms still means hours, not seconds. If you're expecting instant settlement, you'll be disappointed.
 
-As Sara Spivey, a payments industry consultant with over 20 years advising fintechs and community banks, puts it: "ACH is genuinely underutilized by small businesses. Most owners hear 'two to three business day settlement' and tune out. But for recurring revenue, payroll, or B2B invoices over a few hundred dollars, it's almost always the right call on cost."
+ACH is genuinely underutilized by small businesses: most owners hear "two to three business day settlement" and tune out, but for recurring revenue, payroll, or B2B invoices over a few hundred dollars, it is almost always the right call on cost.
 
 Check out [ACH processing benchmarks and setup guides on SCORE](https://www.score.org/) to see how other small businesses in your industry are handling payment infrastructure.
 
@@ -59,7 +59,7 @@ Credit card processing fees typically run 1.5% to 3.5% per transaction, sometime
 
 ACH fees are usually flat. Somewhere between $0.25 and $1.50 per transaction, though some processors charge a small percentage for higher-volume or higher-risk accounts. On that same $5,000 invoice, you're looking at maybe $1.50. Full stop.
 
-That difference compounds fast. I worked with a client a few years ago, a B2B software company collecting about $80,000 a month from about 30 clients. They were running everything through Stripe credit card payments out of habit. When we switched their recurring billing to ACH, their monthly processing cost dropped from roughly $2,400 to under $150. Same revenue, same clients, just a different rail.
+That difference compounds fast. For example, consider a B2B software company collecting about $80,000 a month from about 30 clients. If they were running everything through Stripe credit card payments out of habit, the math changes dramatically once they switch rails. Switching recurring billing to ACH could drop monthly processing costs from roughly $2,400 to under $150. Same revenue, same clients, just a different payment rail.
 
 Not every business can make that switch cleanly. Consumers resist ACH more than businesses do. B2C companies, especially ones selling lower-ticket items, often can't push customers off their credit cards without losing some of them. The research on exact drop-off rates is mixed, but B2B businesses can almost always move to ACH without friction, while B2C businesses have to be strategic about it.
 
@@ -89,7 +89,7 @@ Payroll ACH is your company pushing money out to employees' bank accounts. This 
 
 Customer payment ACH (sometimes called ACH debit) is you pulling money from a customer's bank account. This is more sensitive from a compliance and dispute standpoint. The customer has more recourse to dispute a pull than they do a push. Set up authorizations carefully, communicate clearly with customers about when funds will be pulled, and check with a CPA about how to handle returns and refunds cleanly in your books.
 
-If you want to go deeper on payment systems architecture, Mike Seaman's [Payments Systems in the U.S.](https://www.amazon.com/Payments-Systems-U-S-Complete-Guide/dp/0982789742) (Amazon, note the site may earn a commission) is the most thorough plain-English guide I've found.
+For a deeper look at payment systems architecture, [Payments Systems in the U.S.](https://www.amazon.com/Payments-Systems-U-S-Complete-Guide/dp/0982789742) (Amazon, note the site may earn a commission) is a thorough plain-English guide worth consulting.
 
 **Get your customer authorization templates reviewed by a payments attorney or at minimum compare them to Nacha's published model language** before you start pulling from customer accounts at scale.
 

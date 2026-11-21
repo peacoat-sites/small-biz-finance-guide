@@ -36,7 +36,7 @@ Let me fix that.
 
 ## The Two Types of Leases (and Why Most People Confuse Them)
 
-There's an operating lease and a finance lease (what used to be called a capital lease before ASC 842 changed the accounting rules). Most [small business owners](/sba-loans-now-require-100-us-citizenship-what-small-business-owners-mu/) don't know the difference. I didn't either the first time a client handed me a stack of lease agreements to review, and I had to go back to basics fast.
+There's an operating lease and a finance lease (what used to be called a capital lease before ASC 842 changed the accounting rules). Most [small business owners](/sba-loans-now-require-100-us-citizenship-what-small-business-owners-mu/) don't know the difference. The distinction is easy to miss without a close read of the agreement.
 
 An **operating lease** means you're essentially renting. You use the equipment, make payments, and at the end of the term, you return it or renew. The asset doesn't show up as something you own on your balance sheet. For a lot of small businesses, this is attractive because it keeps debt ratios cleaner if you're trying to qualify for other financing.
 
@@ -56,7 +56,7 @@ Let's say you're looking at a commercial-grade laser engraver priced at $28,000.
 
 - **Operating lease:** $28,000 machine, 60-month term, lease factor of 0.019 (typical for this equipment tier). Monthly payment: around $532. Total paid: $31,920. You own nothing at the end. If you want it, you negotiate a buyout, often at fair market value.
 
-Scenario: A Denver-based sign shop leased a flatbed UV printer at $680/month for 48 months ($32,640 total) instead of buying the same unit at $22,500. They saved $4,500 in year-one cash. By month 48, they'd paid $10,140 more than the purchase price, owned nothing, and faced a $6,800 fair market buyout to keep it. Total cost to own via leasing: $39,440. Action taken: they should have financed with a small business equipment loan at 7% and claimed Section 179. Result: they'd have paid approximately $26,700 all-in (loan total plus down, minus tax benefit) and owned the machine free and clear.
+For example, if a sign shop leased a flatbed UV printer at $680/month for 48 months ($32,640 total) instead of buying the same unit at $22,500, they would save $4,500 in year-one cash but pay $10,140 more than the purchase price by month 48, own nothing, and face a $6,800 fair market buyout to keep it, bringing the total cost to own via leasing to $39,440. Financing with a small business equipment loan at 7% and claiming Section 179 would have resulted in approximately $26,700 all-in (loan total plus down, minus tax benefit), with the machine owned free and clear.
 
 ## When Leasing Actually Makes Sense
 
@@ -91,7 +91,7 @@ That front-loaded deduction changes the buy-vs-lease comparison dramatically. It
 
 ## What to Ask Before You Sign Anything
 
-The lease agreement is where the vendor gets paid and where you can get burned. I've reviewed a lot of these, and the surprises cluster in a few predictable places.
+The lease agreement is where the vendor gets paid and where you can get burned. The surprises in lease agreements tend to cluster in a few predictable places.
 
 **The residual buyout clause.** What does it cost to own the equipment at end of term? "Fair market value" sounds reasonable until you realize the lessor determines fair market value. Get a fixed buyout amount in writing before you sign, or know that you're walking away.
 

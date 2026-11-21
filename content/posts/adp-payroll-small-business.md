@@ -40,7 +40,7 @@ For small businesses, ADP sells a product called **RUN Powered by ADP**. This is
 
 RUN handles the core payroll mechanics: calculating wages and deductions, running direct deposit, filing federal and state payroll taxes, generating W-2s and 1099s, and providing basic HR document templates. On the higher tiers, you get workers' comp integration, time tracking, and HR advisory access. As of July 2026, there are four RUN tiers: Essential, Enhanced, Complete, and HR Pro.
 
-Here's what I tell people when they ask which tier to start on: start with Enhanced, not Essential. The reason is simple. Essential doesn't include state unemployment insurance (SUI) tax filing in all states, which is one of the most annoying manual compliance tasks you'll encounter. The upgrade cost is usually around $10-20/month more, depending on your employee count, and it's worth it just to have that off your plate.
+For most small businesses, Enhanced is the better starting point than Essential. The reason is simple. Essential doesn't include state unemployment insurance (SUI) tax filing in all states, which is one of the most annoying manual compliance tasks you'll encounter. The upgrade cost is usually around $10-20/month more, depending on your employee count, and it's worth it just to have that off your plate.
 
 ---
 
@@ -55,7 +55,7 @@ Here's what I tell people when they ask which tier to start on: start with Enhan
 
 *Pricing as of 2025-2026; actual costs vary by state, employee count, and negotiation. Always request a full written fee schedule including year-end charges before signing.*
 
-ADP doesn't publish pricing publicly. I find this obnoxious, frankly, and so do most of my clients. You have to call or request a quote. Based on current pricing, RUN Essential typically starts around $59-79/month for up to a handful of employees, plus a per-employee fee that currently runs $4-8 per person per pay period depending on negotiation and tier.
+ADP doesn't publish pricing publicly, which most small business owners find frustrating. You have to call or request a quote. Based on current pricing, RUN Essential typically starts around $59-79/month for up to a handful of employees, plus a per-employee fee that currently runs $4-8 per person per pay period depending on negotiation and tier.
 
 Yes, you can negotiate. ADP sales reps have flexibility on the base rate, especially if you mention you're also looking at Gusto or Paychex. It's possible to get 3-6 months free or a meaningful discount on the monthly base by asking directly, especially if you mention you're also looking at Gusto or Paychex. Don't skip this step.
 
@@ -67,11 +67,9 @@ One thing that catches people off guard: year-end fees. W-2 processing, 1099 fil
 
 The setup process is more involved than competitors like Gusto, but it's manageable if you know what to gather upfront. Here's a real-world example of what this looks like in practice:
 
-**Scenario:** A retail shop owner in Denver with 6 employees, switching from manual payroll they'd been doing in Excel.
-**Action taken:** Gathered EIN, state tax IDs, prior-year W-2s, employee I-9s, and bank account info before calling ADP. Used the [SCORE mentorship network](https://www.score.org/) to connect with a retired HR advisor who helped verify the state UI account number.
-**Result:** Setup completed in about 3 hours across two sessions. First payroll ran successfully within 10 days of signing. The owner estimated she saved roughly 4 hours per pay period compared to the manual process.
+For example, a retail shop owner switching from manual Excel payroll might gather their EIN, state tax IDs, prior-year W-2s, employee I-9s, and bank account info before calling ADP, and could complete setup in about 3 hours across two sessions, with the first payroll running within 10 days of signing.
 
-The single biggest setup mistake I see is not having your state payroll tax account numbers ready. ADP needs these to file on your behalf. If you don't have them (because you're new or you've never set up payroll before), you'll need to apply with your state's department of labor first. That process can take 2-4 weeks, so don't assume you can start payroll next week if you're [starting from scratch](/how-to-set-up-payroll-for-small-business-first-employee/).
+The single biggest setup mistake businesses make is not having their state payroll tax account numbers ready. ADP needs these to file on your behalf. If you don't have them (because you're new or you've never set up payroll before), you'll need to apply with your state's department of labor first. That process can take 2-4 weeks, so don't assume you can start payroll next week if you're [starting from scratch](/how-to-set-up-payroll-for-small-business-first-employee/).
 
 A few things you'll need on hand:
 - Your federal EIN (Employer Identification Number)
@@ -92,9 +90,7 @@ Their direct deposit is reliable. ADP isn't perfect, but they're stable. For a b
 
 The workers' comp integration (on Complete and HR Pro tiers) is genuinely useful. Instead of a large annual premium payment and then a year-end audit, you pay workers' comp based on actual payroll each period. For businesses with variable headcount or seasonal staffing, this levels out cash flow nicely.
 
-**Scenario:** A small landscaping company with 12 employees, 8 of them seasonal.
-**Action taken:** Upgraded to Complete tier specifically for the pay-as-you-go workers' comp integration.
-**Result:** Eliminated a $14,000 lump-sum annual premium payment. Instead, they pay approximately $1,100-1,400/month depending on payroll that cycle. Year-end audit adjustments dropped from averaging $2,200 (sometimes owed, sometimes a refund) to under $300 variance.
+For example, a small landscaping company with seasonal workers could upgrade to the Complete tier for the pay-as-you-go workers' comp integration, eliminating a large lump-sum annual premium and instead paying approximately $1,100-1,400 per month depending on that cycle's payroll, potentially reducing year-end audit variances from roughly $2,200 to under $300.
 
 ---
 
@@ -110,7 +106,7 @@ One more thing: the mobile app is functional but not great. If you're managing p
 
 ## ADP vs. the Alternatives (Honest Take)
 
-Here's roughly how I'd frame the comparison as of this year, for a business with 1-25 employees:
+Here is a comparison of the main options as of this year, for a business with 1-25 employees:
 
 **Gusto** is easier to set up, has better UI, and has transparent pricing (starts around $46/month base + $6/employee/month as of July 2026). Better for startups and first-time employers. The tradeoff is they're smaller, and their tax filing support is less deep for multi-state complexity.
 
@@ -118,13 +114,13 @@ Here's roughly how I'd frame the comparison as of this year, for a business with
 
 **QuickBooks Payroll** makes sense almost exclusively if you're already running QuickBooks for accounting and want a native integration. The integration is genuinely clean. But their standalone payroll product isn't as strong as ADP's.
 
-For a business with multiple states, tipped employees, or significant complexity in comp structure, I'd lean toward ADP over Gusto. For a straightforward single-state business under 10 employees where ease of use is the priority, Gusto wins on simplicity. Neither answer is wrong, just different.
+For a business with multiple states, tipped employees, or significant complexity in comp structure, ADP is generally the stronger choice over Gusto. For a straightforward single-state business under 10 employees where ease of use is the priority, Gusto wins on simplicity. Neither answer is wrong, just different.
 
 ---
 
 ## A Word on Taxes and Professional Help
 
-ADP handles the mechanical filing, but it doesn't replace your CPA. How you classify workers, how you structure compensation, whether you should be doing payroll at all versus a different entity structure: those are judgment calls that require professional advice specific to your situation. I'd always recommend consulting a CPA before you finalize how you're running payroll, especially in your first year. (For book recommendations, *Profit First* by Mike Michalowicz (available on [Amazon](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X)) is a practical read on how to think about cash management alongside payroll, though note the site may earn a commission on that link.)
+ADP handles the mechanical filing, but it doesn't replace your CPA. How you classify workers, how you structure compensation, whether you should be doing payroll at all versus a different entity structure: those are judgment calls that require professional advice specific to your situation. Consulting a CPA before finalizing how payroll is structured is strongly advisable, especially in the first year. (For book recommendations, *Profit First* by Mike Michalowicz (available on [Amazon](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X)) is a practical read on how to think about cash management alongside payroll, though note the site may earn a commission on that link.)
 
 ---
 

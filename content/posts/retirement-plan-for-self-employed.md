@@ -26,7 +26,7 @@ faqs:
     a: "Absolutely not. The catch-up contribution provisions exist specifically because people start late. Someone in their mid-50s with a strong income and 10-12 years of aggressive saving can build a meaningful nest egg, especially with a Solo 401(k) or defined benefit plan. Start now, not next quarter."
 ---
 
-Most self-employed people I meet have been "meaning to set something up" for retirement for about three years longer than they're comfortable admitting. No judgment. You're running a business, wearing twelve hats, and the retirement question keeps getting bumped by whatever's on fire this week. I get it. But here's what I tell people when they finally sit down with me: the longer you wait, the more aggressive you'll have to be later, and aggressive saving is hard when you've got a business that still needs capital.
+Most self-employed people have been "meaning to set something up" for retirement for about three years longer than they're comfortable admitting. No judgment. You're running a business, wearing twelve hats, and the retirement question keeps getting bumped by whatever's on fire this week.  But the longer you wait, the more aggressive you'll have to be later, and aggressive saving is hard when you've got a business that still needs capital.
 
 So let's actually fix this.
 
@@ -42,13 +42,13 @@ You also get to choose the plan that fits your business model instead of accepti
 
 ## The Four Plans Worth Knowing
 
-There are more than four retirement options for self-employed people if you want to get technical, but honestly, most of them aren't worth your time. Here are the ones I actually recommend, and when each makes sense.
+There are more than four retirement options for self-employed people if you want to get technical, but honestly, most of them aren't worth your time. Here are the ones worth serious consideration, and when each makes sense.
 
 **SEP-IRA** (Simplified Employee Pension): The easiest to open, the easiest to maintain, and the most forgiving if your income varies year to year. You can contribute up to 25% of net self-employment income, up to a 2026 maximum of $70,000. Zero paperwork beyond the initial setup. You can fund it up to your tax filing deadline (including extensions), so if it's April and you don't know what you made yet, you have time. Banks like Fidelity and Vanguard let you open one online in about 20 minutes.
 
 **Solo 401(k)** (also called Individual 401(k) or i401(k)): More paperwork, more power. This one lets you contribute as both "employee" and "employer," which means you can shelter a much larger percentage of income at lower earnings levels compared to a SEP-IRA. Also the only self-employed plan that allows a loan provision or a Roth option. The catch: you must open it by December 31 of the tax year you want contributions to count. Miss that deadline and you're waiting another year.
 
-**SIMPLE IRA**: Designed for businesses with a handful of employees, not just a solo operator. If you have 1-10 employees and want to offer them something, this is where I'd start. Lower contribution limits than the other two (employee limit is $16,500 in 2026 for those under 50), but administratively simple.
+**SIMPLE IRA**: Designed for businesses with a handful of employees, not just a solo operator. If you have 1-10 employees and want to offer them something, the SIMPLE IRA is a reasonable starting point. Lower contribution limits than the other two (employee limit is $16,500 in 2026 for those under 50), but administratively simple.
 
 **Defined Benefit Plan**: Old-school pension math, powered by an actuary. If you're making serious money late in your career and want to shelter a lot of income fast, this can work. Owners can contribute $150,000+ a year to these plans. But the costs (think $1,500-$3,000 a year in actuarial fees) and the required annual contributions make it appropriate for a narrow slice of people. Not your first move.
 
@@ -65,13 +65,13 @@ Here's a direct comparison of what matters most:
 
 ## The Solo 401(k) Math That Surprises Everyone
 
-I'll be honest: I underestimated the Solo 401(k) for years. I kept defaulting to SEP-IRAs for solo clients because they're simpler. Then I ran the actual numbers side by side for a client who was netting around $80,000 a year, and I was embarrassed I hadn't pushed her harder toward the Solo 401(k) sooner.
+It is easy to underestimate the Solo 401(k). Many advisers default to SEP-IRAs for solo clients because they're simpler. But running the numbers side by side for someone netting around $80,000 a year shows why the Solo 401(k) often deserves a closer look.
 
 Here's why it matters at that income level:
 
-With a SEP-IRA, she could contribute 25% of net SE income (after the SE tax deduction), which worked out to roughly $14,100.
+With a SEP-IRA, contributing 25% of net SE income (after the SE tax deduction) works out to roughly $14,100 at that income level.
 
-With a Solo 401(k), she could contribute $23,500 as the "employee" contribution, plus about $10,600 as the "employer" contribution, for a total of roughly $34,100. Same income. More than twice the tax shelter.
+With a Solo 401(k), the same person could contribute $23,500 as the "employee" contribution, plus about $10,600 as the "employer" contribution, for a total of roughly $34,100. Same income. More than twice the tax shelter.
 
 **Worked example 1:** Freelance designer, $80K net income, age 41, no employees. SEP-IRA route → $14,100 deductible contribution. Solo 401(k) route → approximately $34,100 deductible contribution. Tax savings difference (assuming 24% federal bracket): roughly $4,800 per year. Over 20 years, with that extra money invested instead of paid in taxes, the gap compounds into something meaningful.
 
@@ -87,15 +87,15 @@ For a **SEP-IRA**, go to Fidelity, Vanguard, or Schwab. Look for "SEP-IRA" in th
 
 For a **Solo 401(k)**, it's a bit more involved. You'll sign an adoption agreement (Fidelity and Schwab both have them, free). You'll get a plan document. Once assets hit $250,000, you'll file IRS Form 5500-EZ annually, which most CPAs can handle in under an hour. One thing people don't expect: if you want a Roth Solo 401(k) option, not every provider offers it. Fidelity does. Vanguard's individual 401(k) does not, as of this writing.
 
-The IRS small business tax center has a plain-language comparison of plan types at irs.gov/businesses/small-businesses-self-employed that I refer clients to when they want to do their own reading. It's surprisingly clear.
+The IRS small business tax center has a plain-language comparison of plan types at irs.gov/businesses/small-businesses-self-employed for anyone who wants to do their own reading. It's surprisingly clear.
 
 ## What About Investing the Money Once It's In?
 
-I see people stall here too. They open the account, and then it sits in a money market fund for two years because they couldn't decide what to invest in.
+It is also common for people to stall at this stage. They open the account, and then it sits in a money market fund for two years because they couldn't decide what to invest in.
 
 My honest take: if you're more than 15 years from retirement and you don't have strong opinions, a target-date fund pegged to your expected retirement year is a defensible, low-cost choice. Vanguard's Target Retirement series has expense ratios around 0.08-0.10%. That's hard to beat. If you want to be more hands-on, a simple three-fund portfolio (US total market, international, bonds) is what most evidence-based financial writing points toward. The [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/) include some useful general investor education if you want to start there.
 
-For what it's worth, I use a three-fund approach in my own accounts. Nothing fancy. The boring stuff compounded over time is almost always what wins.
+ Nothing fancy. The boring stuff compounded over time is almost always what wins.
 
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">2026 Max Annual Contribution by Plan Type</div><div class="sc-row"><span class="sc-label">SEP-IRA</span><span class="sc-track"><span class="sc-bar" style="width:90%"></span></span><span class="sc-val">$70,000</span></div><div class="sc-row"><span class="sc-label">Solo 401(k)</span><span class="sc-track"><span class="sc-bar" style="width:90%"></span></span><span class="sc-val">$70,000</span></div><div class="sc-row"><span class="sc-label">Solo 401(k) with catch-up (55+)</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$77,500</span></div><div class="sc-row"><span class="sc-label">SIMPLE IRA</span><span class="sc-track"><span class="sc-bar" style="width:25%"></span></span><span class="sc-val">$19,500</span></div><div class="sc-row"><span class="sc-label">Traditional IRA only</span><span class="sc-track"><span class="sc-bar" style="width:9%"></span></span><span class="sc-val">$7,000</span></div><div class="sc-src">Source: IRS Publication 560 (2026)</div></div>
 
