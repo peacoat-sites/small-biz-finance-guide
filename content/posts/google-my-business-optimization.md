@@ -1,5 +1,5 @@
 ---
-title: "750 Google My Business Listings: Local SEO Strategy Guide"
+title: "Google Business Profile Optimization: A Local SEO Guide"
 date: 2026-11-22T21:51:43.515220+00:00
 draft: false
 description: "Learn how to optimize Google My Business for local search rankings. Discover proven tactics to boost visibility and attract more customers to your business."
