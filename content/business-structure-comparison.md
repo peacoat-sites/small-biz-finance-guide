@@ -34,8 +34,8 @@ That said, the "reasonable salary" rules for S-corps and the state-by-state diff
 
 ## Related Articles
 
-- [LLC Formation Guide](https://smallbizfinanceguide.com/how-to-form-an-llc/)
-- [S-Corp Tax Benefits Explained](https://smallbizfinanceguide.com/s-corp-taxes/)
-- [Business Liability Protection](https://smallbizfinanceguide.com/liability-protection/)
+- [What It Costs to Form an LLC by State](/cost-to-form-an-llc-by-state-2026/)
+- [S-Corp Election Benefits](/s-corp-election-benefits/)
+- [Business Liability Insurance Guide](/business-liability-insurance-guide/)
 
 *Ready to decide? Consult a CPA or business attorney to make the right choice for your situation.*
