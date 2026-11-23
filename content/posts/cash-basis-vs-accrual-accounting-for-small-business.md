@@ -30,7 +30,7 @@ Most advice on this topic starts with "it depends" and then gives you a flowchar
 
 Cash basis accounting records money when it moves: you send an invoice, you don't record revenue until the client pays. Accrual accounting records money when it's earned or owed, regardless of whether cash has changed hands. That's the whole difference. Everything else is downstream of that one fact.
 
-The reason this choice matters more than most [small business owners](/sba-loans-now-require-100-us-citizenship-what-small-business-owners-mu/) realize: it directly shapes what your financial statements tell you. And if your statements are lying to you, every decision you make from them is built on sand.
+The reason this choice matters more than most small business owners realize: it directly shapes what your financial statements tell you. And if your statements are lying to you, every decision you make from them is built on sand.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Cash basis is simpler and shows actual cash on hand; accrual shows true economic performance.</li><li style="margin:5px 0">Businesses with over $30 million in average annual gross receipts (3-year average) are generally required by the IRS to use accrual.</li><li style="margin:5px 0">Accrual accounting is required if you carry inventory and have revenues over $1 million, with narrow exceptions.</li><li style="margin:5px 0">Switching from cash to accrual requires IRS Form 3115 and can trigger a one-time income adjustment.</li><li style="margin:5px 0">Most service businesses under $5 million in annual revenue do fine on cash basis; product businesses almost always need accrual.</li></ul></div>
 
@@ -44,13 +44,13 @@ Scenario: Consultant bills $22,000 in December, collects in January. Cash basis 
 
 That volatility matters if you're trying to get a bank loan, bring on a partner, or just understand whether you actually had a good quarter.
 
-The flip side: cash basis tells you something accrual doesn't, which is exactly how much money you have right now. A lot of business owners using accrual have been surprised to find they're "profitable" on paper and broke in their [checking account](/best-business-checking-account-for-llc-no-monthly-fee/). That's a real phenomenon, it has a name (the cash flow paradox), and it bites product businesses especially hard.
+The flip side: cash basis tells you something accrual doesn't, which is exactly how much money you have right now. A lot of business owners using accrual have been surprised to find they're "profitable" on paper and broke in their checking account. That's a real phenomenon, it has a name (the cash flow paradox), and it bites product businesses especially hard.
 
 ## The IRS Has Opinions, and They're Non-Negotiable
 
 As of July 2026, the IRS rules on this are clear enough, though the thresholds have shifted over the years and people still cite outdated numbers.
 
-If your business is a C corporation or a partnership with a C corporation partner, and your average annual gross receipts over the prior three years exceed $30 million, you're required to use accrual. If you're a smaller pass-through entity (S corp, [sole proprietorship](/llc-vs-sole-proprietorship-taxes/), partnership of individuals), the threshold is the same $30 million for the accrual requirement, but there's an important carve-out for businesses that carry inventory.
+If your business is a C corporation or a partnership with a C corporation partner, and your average annual gross receipts over the prior three years exceed $30 million, you're required to use accrual. If you're a smaller pass-through entity (S corp, sole proprietorship, partnership of individuals), the threshold is the same $30 million for the accrual requirement, but there's an important carve-out for businesses that carry inventory.
 
 The inventory rule is where people get tripped up. The IRS historically required businesses with inventory to use accrual if revenues exceeded $1 million, though the Tax Cuts and Jobs Act raised the threshold significantly and created exceptions. My honest advice: if you sell physical products, don't try to self-interpret this. Sit down with a CPA who works with product businesses. The [U.S. Small Business Administration (SBA)](https://www.sba.gov/) has basic guidance on accounting methods that's worth a read, but tax elections with inventory get specific fast.
 

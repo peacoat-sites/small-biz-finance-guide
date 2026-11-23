@@ -30,7 +30,7 @@ Most business partnerships end. Not because people are bad partners, but because
 
 That's where a buy-sell agreement comes in. And if you're reading this, you might be wondering whether you actually need one, how much it costs, and whether it's the kind of thing you can just Google your way through. I'll give you honest answers to all three.
 
-I've sat across from enough [business owners](/the-new-2000-1099-threshold-what-small-businesses-must-do-now/) after a crisis hit to know that the ones who had a solid buy-sell in place walked out okay. The ones who didn't? Some of them are still in litigation years later.
+I've sat across from enough business owners after a crisis hit to know that the ones who had a solid buy-sell in place walked out okay. The ones who didn't? Some of them are still in litigation years later.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">A buy-sell agreement legally controls what happens to business ownership when a partner dies, retires, or exits.</li><li style="margin:5px 0">Without one, a deceased partner's spouse or heirs can legally become your new co-owner.</li><li style="margin:5px 0">Life insurance is the most common (and practical) funding mechanism for buyouts.</li><li style="margin:5px 0">Valuation method is the clause that causes the most disputes, get it right upfront.</li><li style="margin:5px 0">Drafting typically costs $1,500 to $10,000+ depending on complexity; the litigation alternative runs far higher.</li></ul></div>
 
@@ -69,7 +69,7 @@ You have a few options for how to set the buyout price:
 
 The fixed-price method is almost always a mistake unless you build in a mandatory annual review, and even then, most owners don't actually do the review. A fixed valuation can become dangerously outdated: a $400,000 valuation set in 2015 might trigger years later when the business is worth $2.1 million, leading to costly legal disputes and fees that can easily exceed $80,000.
 
-Formula-based valuation is my preferred starting point for [most small businesses](/the-section-45f-childcare-credit-small-businesses-are-missing/), with a backstop appraisal clause if the parties can't agree. Something like "3x trailing 12-month EBITDA, or independent appraisal if either party disputes the calculation within 30 days." It creates a clear default without locking you into a number that becomes wrong.
+Formula-based valuation is my preferred starting point for most small businesses, with a backstop appraisal clause if the parties can't agree. Something like "3x trailing 12-month EBITDA, or independent appraisal if either party disputes the calculation within 30 days." It creates a clear default without locking you into a number that becomes wrong.
 
 ## How the Buyout Gets Funded
 

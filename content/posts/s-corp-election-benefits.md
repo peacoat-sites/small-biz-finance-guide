@@ -26,9 +26,9 @@ faqs:
     a: "Generally yes, if you meet the income thresholds. The Section 199A deduction applies to qualified business income from pass-through entities including S-corps, subject to W-2 wage limitations at higher income levels. This is a genuinely complex area. A CPA who works with small businesses regularly will know how to model this for your situation."
 ---
 
-Most [small business owners](/sba-loans-now-require-100-us-citizenship-what-small-business-owners-mu/) leave somewhere between $8,000 and $15,000 on the table every single year. Not because of bad decisions. Because of a filing they never made.
+Most small business owners leave somewhere between $8,000 and $15,000 on the table every single year. Not because of bad decisions. Because of a filing they never made.
 
-I'll be honest: when I first started working with solo consultants and small LLCs back in the early 2000s, I thought S-corp elections were mostly a tax attorney gimmick. Something you did when you were "big enough." I was wrong, and it took watching a graphic designer in Austin nearly write a $23,000 self-[employment tax](/schedule-se-self-employment-tax/) check before I really dug into the math. What I found changed how I advise almost every client who clears a certain income threshold.
+I'll be honest: when I first started working with solo consultants and small LLCs back in the early 2000s, I thought S-corp elections were mostly a tax attorney gimmick. Something you did when you were "big enough." I was wrong, and it took watching a graphic designer in Austin nearly write a $23,000 self-employment tax check before I really dug into the math. What I found changed how I advise almost every client who clears a certain income threshold.
 
 The S-corp election itself isn't a business structure. It's a tax classification. You're telling the IRS to treat your LLC or corporation like a pass-through entity with a specific twist: you split your income between a "reasonable salary" and distributions, and only the salary portion gets hit with the 15.3% self-employment tax. That distinction sounds simple. The downstream implications are not.
 
@@ -36,7 +36,7 @@ The S-corp election itself isn't a business structure. It's a tax classification
 
 ## The Number That Makes This Worth Your Time
 
-The self-employment tax rate is 15.3% on the first $176,100 of net earnings (as of 2026, after the Social Security wage base adjustment) and 2.9% above that. When you're a [sole proprietor](/sole-proprietor-vs-llc-for-a-small-business/) or single-member LLC with no S-corp election, every dollar of profit gets that treatment. Every dollar.
+The self-employment tax rate is 15.3% on the first $176,100 of net earnings (as of 2026, after the Social Security wage base adjustment) and 2.9% above that. When you're a sole proprietor or single-member LLC with no S-corp election, every dollar of profit gets that treatment. Every dollar.
 
 An S-corp owner earning $120,000 in net profit might pay themselves a $65,000 salary (which gets payroll-taxed) and take $55,000 as a distribution (which doesn't). The SE tax savings on that $55,000 distribution: roughly $8,415 in a single year. Run that over five years and you're looking at $42,000 in cumulative savings, before compounding.
 

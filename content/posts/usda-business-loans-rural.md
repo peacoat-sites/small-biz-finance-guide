@@ -94,7 +94,7 @@ The application process has real teeth to it.
 
 **Step 4: Lender submits to USDA.** Once your lender approves your application internally, they submit a request for the guarantee to the USDA. This review process takes the bulk of the time.
 
-**Step 5: Conditional commitment and closing.** The USDA issues a conditional commitment letter. Your lender and attorney handle the closing documents, similar to a [commercial real estate closing](/commercial-mortgage-for-business/).
+**Step 5: Conditional commitment and closing.** The USDA issues a conditional commitment letter. Your lender and attorney handle the closing documents, similar to a commercial real estate closing.
 
 If you haven't put together a formal business plan before, [Tim Berry's *Lean Business Planning*](https://www.amazon.com/dp/1599186071?tag=contentportfo-20) can help you build projections that actually make sense to a lender without overcomplicating it.
 

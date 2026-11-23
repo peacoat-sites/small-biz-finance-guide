@@ -26,7 +26,7 @@ faqs:
     a: "A hard inquiry will appear on your business credit report, and potentially your personal credit report depending on whether the lender requires a personal guarantee (most will for small businesses). A single hard inquiry has a modest, short-lived impact. What matters more long-term is whether you're carrying a high balance relative to your limit, which can affect your utilization ratio on any reported revolving accounts."
 ---
 
-Most coverage of revolving credit facilities makes them sound like a sophisticated instrument reserved for mid-market companies with a CFO and a syndicated bank group. That framing is wrong, and it leaves a lot of [small business owners](/the-new-2000-1099-threshold-what-small-businesses-must-do-now/) either ignoring a tool that would actually help them, or misusing one because nobody explained the mechanics honestly.
+Most coverage of revolving credit facilities makes them sound like a sophisticated instrument reserved for mid-market companies with a CFO and a syndicated bank group. That framing is wrong, and it leaves a lot of small business owners either ignoring a tool that would actually help them, or misusing one because nobody explained the mechanics honestly.
 
 Here's what a revolving credit facility actually is: a pre-approved credit limit you can draw from, repay, and draw from again, repeatedly, over the life of the agreement. Think of it like a [business credit card](/business-credit-card-vs-personal-credit-card-for-llc/) with a much larger limit, lower interest rates, and actual underwriting behind it. You're not taking a lump-sum loan. You're accessing a pool of capital as you need it, paying interest only on what you've drawn, and restoring your available balance as you pay it back.
 
@@ -70,7 +70,7 @@ Current rates as of July 2026 are running higher than the pre-2022 norms, so don
 
 Revolving facilities are genuinely excellent for one category of problem: predictable, short-cycle cash gaps. Seasonal businesses. Service firms waiting on slow-paying clients. Distributors who need to buy inventory before the revenue arrives. A 45-day float covered by a revolver at 9% costs you far less than the cost of a lost client or a missed purchase discount.
 
-They are a bad fit for funding growth that won't generate cash for 12 or 24 months, or for covering operating losses you haven't addressed structurally. I've watched [business owners](/business-owners-policy-bop/) treat a revolver like a second P&L, drawing it up and never paying it down because the underlying business can't generate enough cash to support the balance. At that point you've effectively converted a revolving line into a permanent term loan at revolving-line pricing. That's an expensive way to fund a structural problem.
+They are a bad fit for funding growth that won't generate cash for 12 or 24 months, or for covering operating losses you haven't addressed structurally. I've watched business owners treat a revolver like a second P&L, drawing it up and never paying it down because the underlying business can't generate enough cash to support the balance. At that point you've effectively converted a revolving line into a permanent term loan at revolving-line pricing. That's an expensive way to fund a structural problem.
 
 Worked examples worth understanding:
 

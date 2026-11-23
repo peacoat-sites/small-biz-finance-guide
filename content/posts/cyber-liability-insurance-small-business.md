@@ -29,7 +29,7 @@ Most small business owners I talk to don't think about cyber liability insurance
 
 So let's talk about this before you're in that chair.
 
-Cyber liability insurance covers your business when a data breach, cyberattack, or digital security failure causes financial damage, to you, to your customers, or both. It's not the same as your [general liability policy](/business-liability-insurance-guide/), and it's not bundled into your BOP (business owner's policy) by default, even though a lot of people assume it is. That assumption has cost businesses I know real money.
+Cyber liability insurance covers your business when a data breach, cyberattack, or digital security failure causes financial damage, to you, to your customers, or both. It's not the same as your general liability policy, and it's not bundled into your BOP (business owner's policy) by default, even though a lot of people assume it is. That assumption has cost businesses I know real money.
 
 <div class="value-module">
   <div class="vm-head">Cyber Policy Coverage Comparison Matrix</div>

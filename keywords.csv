@@ -1,4 +1,37 @@
 keyword,category,priority
+is llc better than sole proprietorship,Business Structure,high
+is s corp worth it,Taxes,high
+at what income is s corp worth it,Taxes,high
+how much should i save for taxes self employed,Taxes,high
+how to pay quarterly taxes for llc,Taxes,high
+can i deduct meals as a business expense,Taxes,high
+can i deduct home office expenses if i work remotely,Taxes,high
+can i write off vehicle interest,Taxes,high
+can i write off vehicle repairs,Taxes,high
+vehicle write off for business 2026,Taxes,high
+what deductions can i claim without receipts,Taxes,high
+what deductions can i claim on 1099,Taxes,high
+why do i owe taxes this year,Taxes,high
+why do i owe taxes when i claim 0,Taxes,high
+what is estimated tax penalty,Taxes,high
+what is estimated tax safe harbor,Taxes,high
+how to reduce tax burden small business,Taxes,high
+are pass through entity taxes deductible,Taxes,high
+how to manage accounts payable effectively,Accounting,high
+how to track expenses in excel,Accounting,high
+what records do i need to keep for taxes,Accounting,high
+what to do if audited by irs,Taxes,high
+what does a negative cash flow mean,Cash Flow,high
+is my business profitable,Strategy,high
+can i get a business loan with bad credit,Financing,high
+what is business tax id number,Taxes,high
+hiring your spouse as an employee,HR,high
+can i change my business structure later,Business Structure,high
+how to change business structure with irs,Business Structure,high
+what are the benefits of having an s corp,Business Structure,high
+s corp with two owners,Business Structure,high
+how to start llc in texas,Business Structure,high
+how to start llc in florida,Business Structure,high
 how to get a small business loan,Financing,high
 small business grants available,Financing,high
 SBA loan requirements guide,Financing,high
@@ -99,44 +132,22 @@ business credit monitoring,Credit,medium
 net 30 vendor accounts,Credit,medium
 trade credit for business,Credit,medium
 history of small business administration,General Info,low
-small business definition SBA,General Info,low
-small business contribution to economy,General Info,low
-small business failure statistics,General Info,low
 why small businesses fail,General Info,low
-small business success factors,General Info,low
-SCORE mentorship program,Resources,low
 Small Business Development Center SBDC,Resources,low
-Women's Business Center resources,Resources,low
-Minority Business Development Agency,Resources,low
-veteran business programs,Resources,low
-HUBZone business explained,Resources,low
-8a certification SBA,Resources,low
-Chamber of Commerce benefits,Resources,low
-industry association membership,Resources,low
 networking for small business,Strategy,low
-trade show ROI small business,Strategy,low
 small business marketing budget,Strategy,low
 local SEO for small business,Strategy,low
 Google My Business optimization,Strategy,low
 referral program small business,Strategy,low
 customer retention vs acquisition cost,Strategy,low
 customer lifetime value calculation,Strategy,low
-NPS score explained,Strategy,low
-business plan template guide,Strategy,low
-lean business plan explained,Strategy,low
-business model canvas explained,Strategy,low
-SWOT analysis small business,Strategy,low
 competitive analysis guide,Strategy,low
 market research small business,Strategy,low
 customer persona development,Strategy,low
-value proposition explained,Strategy,low
 pricing psychology guide,Strategy,low
-loss leader strategy,Strategy,low
 bundle pricing strategy,Strategy,low
 subscription revenue model,Strategy,low
-franchise disclosure document FDD,Strategy,low
 international expansion small business,Strategy,low
-export assistance small business,Resources,low
 e-commerce for small business,Strategy,low
 Shopify vs WooCommerce small business,Strategy,low
 Amazon seller for small business,Strategy,low
@@ -154,19 +165,14 @@ accounts payable management,Accounting,low
 fixed vs variable expenses,Accounting,low
 accrual vs cash accounting,Accounting,low
 gross profit vs net profit,Accounting,low
-EBITDA explained,Accounting,low
 working capital explained,Accounting,low
 inventory management basics,Accounting,low
-depreciation methods explained,Accounting,low
 estimated tax payment schedule,Taxes,low
 self-employment tax explained,Taxes,low
 sales tax nexus small business,Taxes,low
 state income tax small business,Taxes,low
 payroll tax deposit schedule,Payroll,low
-W-2 form deadline small business,Payroll,low
 1099-NEC form guide,HR,low
-benefits required by law,HR,low
-FMLA small business applicability,HR,low
 ADA compliance small business,HR,low
 OSHA requirements small business,HR,low
 sba 7a loan vs sba 504 loan for small business,Financing,high
@@ -184,7 +190,6 @@ how much does general liability insurance cost for small business,Insurance,high
 how to write a startup financial plan for investors,Financial Planning,high
 bootstrapping vs raising venture capital for startups,Strategy,medium
 best retirement plan for small business owner solo 401k vs sep ira,Benefits,medium
-free startup business plan templates and financial tools,Resources,low
 how to pay yourself from an llc,How To Business,high
 how to separate business and personal finances,How To Business,medium
 can i write off my cell phone for business,Tax Deductions,medium

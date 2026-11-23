@@ -14,9 +14,9 @@ slug: "sba-is-redrawing-who-counts-as-small-and-it-affects-your-loans"
 affiliate_disclosure: true
 ---
 
-The SBA quietly dropped a 400-page proposed rule in August 2026, and it could change whether your business qualifies as "small" under federal definitions. That matters more than most owners realize, because the word "small" is not just a label. It's a gatekeeper. It determines whether you can apply for SBA 7(a) or 504 loans, bid on federal contracts reserved for [small businesses](/the-july-6-rd-tax-refund-deadline-most-small-businesses-are-missing/), or access dozens of other government programs. If you've ever been told your company is too big to qualify, this rule is worth your full attention.
+The SBA quietly dropped a 400-page proposed rule in August 2026, and it could change whether your business qualifies as "small" under federal definitions. That matters more than most owners realize, because the word "small" is not just a label. It's a gatekeeper. It determines whether you can apply for SBA 7(a) or 504 loans, bid on federal contracts reserved for small businesses, or access dozens of other government programs. If you've ever been told your company is too big to qualify, this rule is worth your full attention.
 
-Published on August 20, 2026 in the Federal Register (91 Fed. Reg. 53741), the proposal would collapse roughly 995 existing size standards down to 338 consolidated categories, organized at the 4- and 5-digit NAICS code level. The SBA estimates that approximately 114,541 firms would gain "small" status under the new framework. Fewer than 200 would lose it. Those are not small numbers. The comment period closed September 21, then got extended 60 days to November 20, 2026, per Regulations.gov Docket SBA-2026-0199. A final rule is not expected until sometime in 2027, so there's a window [right now](/how-to-use-100-bonus-depreciation-to-cut-your-2026-tax-bill/) to understand where you stand.
+Published on August 20, 2026 in the Federal Register (91 Fed. Reg. 53741), the proposal would collapse roughly 995 existing size standards down to 338 consolidated categories, organized at the 4- and 5-digit NAICS code level. The SBA estimates that approximately 114,541 firms would gain "small" status under the new framework. Fewer than 200 would lose it. Those are not small numbers. The comment period closed September 21, then got extended 60 days to November 20, 2026, per Regulations.gov Docket SBA-2026-0199. A final rule is not expected until sometime in 2027, so there's a window right now to understand where you stand.
 
 The timing is real. If your business is near a size threshold today, the rule change could open or close doors to capital and contracts within the next 12 to 18 months.
 
@@ -32,7 +32,7 @@ That's one reason the SBA wants to shift the default measure. For most non-servi
 
 ## What Actually Changes for Your Industry
 
-The range of proposed threshold changes is significant. Some industries would see modest adjustments. Others would see dramatic rewrites. The computer systems design sector is the clearest example. Under the current rule, NAICS 5415 carries a $34 million revenue threshold. Under the proposed standard, that number jumps to $531 million, according to the SBA's own published figures. That's not a rounding error. That's a reclassification that would pull a large chunk of the mid-market tech services sector into [small business](/small-business-credit-card-guide/) eligibility overnight.
+The range of proposed threshold changes is significant. Some industries would see modest adjustments. Others would see dramatic rewrites. The computer systems design sector is the clearest example. Under the current rule, NAICS 5415 carries a $34 million revenue threshold. Under the proposed standard, that number jumps to $531 million, according to the SBA's own published figures. That's not a rounding error. That's a reclassification that would pull a large chunk of the mid-market tech services sector into small business eligibility overnight.
 
 Here's a side-by-side look at how the structure of the rule itself changes:
 

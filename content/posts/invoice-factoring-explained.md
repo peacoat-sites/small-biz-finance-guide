@@ -64,7 +64,7 @@ Here's a realistic walk-through of how factoring actually operates:
 
 1. **You complete the work and issue an invoice.** The invoice needs to be clean, undisputed, and owed by a creditworthy business or government entity. Factors won't buy invoices from consumers, and they'll scrutinize the paying company's credit, not yours.
 
-2. **You apply with a factoring company.** Approval focuses heavily on your clients' ability to pay. Factoring is available to businesses that can't qualify for [traditional bank credit](/small-business-line-of-credit/) because the risk assessment is different. Expect to submit your accounts receivable aging report, some client information, and basic business documentation.
+2. **You apply with a factoring company.** Approval focuses heavily on your clients' ability to pay. Factoring is available to businesses that can't qualify for traditional bank credit because the risk assessment is different. Expect to submit your accounts receivable aging report, some client information, and basic business documentation.
 
 3. **The factor verifies the invoice.** They'll confirm with your client that the work was completed and the invoice is legitimate. This is standard.
 

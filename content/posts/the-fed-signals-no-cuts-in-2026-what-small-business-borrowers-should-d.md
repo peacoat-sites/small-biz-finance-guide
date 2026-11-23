@@ -57,11 +57,11 @@ What most people don't realize is that waiting for rates to fall is itself a fin
 
 This is where I try to be practical rather than just paint a bleak picture.
 
-First, if you have any variable-rate debt, especially a business line of credit or a floating-rate term loan, have a conversation with your lender about whether a [fixed-rate conversion or refinance](/why-small-business-borrowers-should-lock-in-rates-before-july-29/) makes sense. It won't always pencil out, but it's worth running the numbers before a potential hike makes it worse.
+First, if you have any variable-rate debt, especially a business line of credit or a floating-rate term loan, have a conversation with your lender about whether a fixed-rate conversion or refinance makes sense. It won't always pencil out, but it's worth running the numbers before a potential hike makes it worse.
 
 Second, if you've been on the fence about an [SBA loan for an investment](/sbas-new-10-million-loan-limit-who-actually-benefits/) that genuinely improves your business, stop treating rate timing like a stock trade. NerdWallet's analysis of how the Fed rate impacts small business loans makes a simple but important point: locking a fixed rate when the environment is uncertain is often the more conservative and protective move. Trying to time the bottom on rates is hard even for professional traders. For a business owner with real operational decisions to make, it's a distraction.
 
-Third, know your break-even on the borrowing. If you're taking a $200,000 [equipment loan](/how-to-use-100-bonus-depreciation-to-cut-your-2026-tax-bill/) at 11% to buy a machine that generates $60,000 in additional annual gross profit, run that math clearly before you walk into the bank. The rate matters, but so does the return. Owners sometimes reject a sensible loan because the rate feels high, only to lease the same equipment at a higher effective cost over time. The rate headline is not the whole story.
+Third, know your break-even on the borrowing. If you're taking a $200,000 equipment loan at 11% to buy a machine that generates $60,000 in additional annual gross profit, run that math clearly before you walk into the bank. The rate matters, but so does the return. Owners sometimes reject a sensible loan because the rate feels high, only to lease the same equipment at a higher effective cost over time. The rate headline is not the whole story.
 
 Fourth, if your credit profile needs work, start now. A 740 credit score and two years of clean financials will get you meaningfully better terms than a 680. That's a lever you control regardless of what the Fed does.
 

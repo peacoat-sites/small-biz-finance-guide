@@ -26,7 +26,7 @@ faqs:
     a: "The Solo 401(k) must be established by December 31 of the tax year. Contributions can be made up to your tax filing deadline (plus extensions). SEP-IRA can be both opened and funded up to the tax filing deadline including extensions, usually October 15 for sole proprietors."
 ---
 
-Only 13% of self-employed Americans have any retirement savings at all. That number stopped me cold the first time I saw it, because I work with [small business owners](/sba-loans-now-require-100-us-citizenship-what-small-business-owners-mu/) every day and I still wasn't prepared for how stark it was. Most of them are pouring every dollar back into the business, telling themselves they'll "figure out retirement later." Later has a way of never arriving.
+Only 13% of self-employed Americans have any retirement savings at all. That number stopped me cold the first time I saw it, because I work with small business owners every day and I still wasn't prepared for how stark it was. Most of them are pouring every dollar back into the business, telling themselves they'll "figure out retirement later." Later has a way of never arriving.
 
 If you're a sole proprietor or a single-member LLC with no employees (other than maybe a spouse), you're sitting on access to two of the most powerful retirement vehicles the IRS offers: the Solo 401(k) and the SEP-IRA. The question isn't which one sounds better. The question is which one actually lets you keep more of your money given your specific income, your business structure, and honestly, how much paperwork you're willing to deal with.
 
@@ -79,7 +79,7 @@ The IRS lays out the self-employed contribution limits clearly in [Publication 5
 
 ## Where the SEP-IRA Still Makes Sense
 
-Don't dismiss it. For some [business owners](/the-new-2000-1099-threshold-what-small-businesses-must-do-now/), the SEP is exactly right.
+Don't dismiss it. For some business owners, the SEP is exactly right.
 
 If you're making $300,000 or more in net SE income, both plans effectively top out at the same $70,000 ceiling, and the SEP gets you there without the plan document, the Form 5500-EZ once you cross $250K in assets, or the December 31 setup deadline pressure. You also have until your tax filing extension date (typically October 15 for sole proprietors) to open AND fund a SEP-IRA for the prior year. A Solo 401(k) has to be established by December 31 of the year you want to contribute for, even if you fund it later.
 

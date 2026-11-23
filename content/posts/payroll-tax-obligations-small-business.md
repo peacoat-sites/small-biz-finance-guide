@@ -1,5 +1,5 @@
 ---
-title: "Payroll Taxes: The Compliance Checklist Every Owner Needs"
+title: "Payroll Tax Obligations for Small Business: Compliance Checklist"
 date: 2026-05-26T07:03:11.616242+00:00
 draft: false
 description: "Learn how to manage payroll tax obligations as a small business owner. Discover key deadlines, filing requirements, and tips to stay compliant and avoid costly "

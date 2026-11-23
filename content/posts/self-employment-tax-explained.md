@@ -40,7 +40,7 @@ The IRS breaks self-employment tax into two pieces. Social Security takes 12.4% 
 
 The Social Security wage base is the number most people overlook. If you have a W-2 job on the side *and* freelance income, your W-2 wages count toward that $176,100 cap first. So if your employer already withheld Social Security on $100,000 of W-2 income, you only owe Social Security tax on your first $76,100 of self-employment earnings, not the full amount. Many people with both income types nearly overpay by thousands of dollars without realizing how this cap works.
 
-You calculate SE tax on *net* earnings, not gross revenue. That means your income after [business expenses](/small-business-tax-deductions/). The IRS uses 92.35% of your net profit for the SE tax calculation, which sounds like a weird quirk but it's actually built into the form. It adjusts for the fact that employees don't pay payroll tax on their employer's share.
+You calculate SE tax on *net* earnings, not gross revenue. That means your income after business expenses. The IRS uses 92.35% of your net profit for the SE tax calculation, which sounds like a weird quirk but it's actually built into the form. It adjusts for the fact that employees don't pay payroll tax on their employer's share.
 
 ## What You Actually Owe: A Quick Comparison
 
@@ -72,7 +72,7 @@ I made the mistake, early in my own consulting work, of ignoring this deduction 
 
 The IRS doesn't wait until April. If you expect to owe $1,000 or more in taxes for the year, they expect you to pay quarterly. The due dates in 2026 are April 15, June 16, September 15, and January 15, 2027. Missing these doesn't mean criminal penalties, but you will pay an underpayment penalty, which the IRS calculates using the federal short-term interest rate plus 3 percentage points. As of mid-2026, that's sitting around 7%, compounded daily.
 
-The safe harbor rule is your friend here. If you pay 100% of last year's total [tax bill](/how-to-use-100-bonus-depreciation-to-cut-your-2026-tax-bill/) through estimated payments (110% if your prior-year AGI was over $150,000), the IRS won't penalize you even if you end up owing more in April. This gives you a floor to work from.
+The safe harbor rule is your friend here. If you pay 100% of last year's total tax bill through estimated payments (110% if your prior-year AGI was over $150,000), the IRS won't penalize you even if you end up owing more in April. This gives you a floor to work from.
 
 [SCORE](https://www.score.org/) has free mentors who can help you build a quarterly payment schedule if you're new to this. I've referred a few first-year freelancers there, and it saved more than one of them from an ugly surprise.
 

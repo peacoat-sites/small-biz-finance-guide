@@ -42,7 +42,7 @@ Equipment financing sounds straightforward. You need a piece of equipment, you d
 
 There are two completely different things that people call "equipment financing," and the confusion between them costs small business owners real money.
 
-The first is an **[equipment loan](/business-acquisition-loan/)**. You borrow money, you buy the equipment, the equipment itself serves as collateral, and you own it from day one. You make fixed monthly payments over a set term, typically 24 to 84 months, and at the end you have an asset on your balance sheet. Interest rates right now generally run anywhere from around 6% to 20%+ depending on your credit profile, business age, and lender. The equipment depreciates, sure, but you own it.
+The first is an **equipment loan**. You borrow money, you buy the equipment, the equipment itself serves as collateral, and you own it from day one. You make fixed monthly payments over a set term, typically 24 to 84 months, and at the end you have an asset on your balance sheet. Interest rates right now generally run anywhere from around 6% to 20%+ depending on your credit profile, business age, and lender. The equipment depreciates, sure, but you own it.
 
 The second is an **equipment lease**. You're not buying anything. You're paying for the right to use the equipment for a set period. At the end, you might return it, renew the lease, or buy it at fair market value or a fixed price, depending on what your contract says. Leases come in two flavors: operating leases (like renting, kept off your balance sheet under older accounting standards, though new FASB rules have changed this) and finance leases, which are closer to ownership in structure.
 

@@ -26,7 +26,7 @@ faqs:
     a: "Not a formal one. RBF underwriting is revenue-forward: lenders care about your trailing revenue data, not a five-year projection deck. You'll typically need to explain what you're using the capital for and show how your revenue is generated, but nothing resembling an SBA loan application package. It's genuinely one of the faster, lighter documentation processes in small business lending."
 ---
 
-Forty-three percent of [small business owners](/the-new-2000-1099-threshold-what-small-businesses-must-do-now/) who were denied a bank loan in the past two years say they didn't even know revenue-based financing existed as an option. That number comes from a 2025 Biz2Credit Small Business Credit Survey. Revenue-based financing remains unfamiliar to many business owners, even those actively seeking alternative funding.
+Forty-three percent of small business owners who were denied a bank loan in the past two years say they didn't even know revenue-based financing existed as an option. That number comes from a 2025 Biz2Credit Small Business Credit Survey. Revenue-based financing remains unfamiliar to many business owners, even those actively seeking alternative funding.
 
 So let me do that now, clearly, without the pitch.
 

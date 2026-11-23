@@ -1,5 +1,5 @@
 ---
-title: "Stop Losing Money To Wage And Hour Violations"
+title: "FLSA Compliance for Small Business Owners Who Want to Stay Safe"
 date: 2026-06-24T22:54:27.591444+00:00
 draft: false
 description: "Learn how small businesses can stay FLSA compliant with tips on minimum wage, overtime rules, recordkeeping, and employee classification to avoid costly penalti"

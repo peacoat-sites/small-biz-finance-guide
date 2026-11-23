@@ -28,7 +28,7 @@ faqs:
 
 Most business owners I talk to have no idea what their [business credit score](/business-credit-building-tips/) actually is. Not a rough idea. Not a ballpark. Zero idea. And almost none of them are monitoring it. That's a problem, because unlike your personal credit, your business credit is essentially a public file, visible to anyone who pays to look, and it can be quietly wrecking your ability to get financing or vendor terms without you ever getting an alert.
 
-I'll be honest: I didn't fully appreciate how different [business credit](/business-credit-card-vs-personal-credit-card-for-llc/) monitoring is from personal credit monitoring until a client of mine, a restaurant owner in Austin, got turned down for a $40,000 equipment line in early 2025. Her personal credit was fine, 730-something. But her business credit with Dun & Bradstreet had a derogatory payment record she didn't know existed, posted by a supplier she'd had a dispute with two years earlier. She'd never checked. The bank had. That's the story nobody tells you.
+I'll be honest: I didn't fully appreciate how different business credit monitoring is from personal credit monitoring until a client of mine, a restaurant owner in Austin, got turned down for a $40,000 equipment line in early 2025. Her personal credit was fine, 730-something. But her business credit with Dun & Bradstreet had a derogatory payment record she didn't know existed, posted by a supplier she'd had a dispute with two years earlier. She'd never checked. The bank had. That's the story nobody tells you.
 
 The business credit system is less regulated, less transparent, and frankly less fair than the consumer credit system. You can get help from the [U.S. Small Business Administration (SBA)](https://www.sba.gov/) on building credit, but the monitoring side? You're largely on your own.
 
@@ -38,7 +38,7 @@ The business credit system is less regulated, less transparent, and frankly less
 
 Let me separate the signal from the noise here, because the marketing around this gets sloppy.
 
-Business credit monitoring alerts you to changes in your credit file at one or more of the major business credit bureaus: Dun & Bradstreet (D&B), [Experian Business](/experian-business-credit/), and Equifax Business. Changes can include new tradeline additions, derogatory payment notations, public record filings (tax liens, judgments, UCC filings), or score fluctuations. Some services also monitor for new credit inquiries on your file, which can flag fraud or an unauthorized credit pull.
+Business credit monitoring alerts you to changes in your credit file at one or more of the major business credit bureaus: Dun & Bradstreet (D&B), Experian Business, and Equifax Business. Changes can include new tradeline additions, derogatory payment notations, public record filings (tax liens, judgments, UCC filings), or score fluctuations. Some services also monitor for new credit inquiries on your file, which can flag fraud or an unauthorized credit pull.
 
 What it does NOT do, and this trips people up constantly, is monitor all three bureaus at once unless you pay for a service that specifically covers all three. Most monitoring tools only cover the bureau they're affiliated with. You could be watching your Experian Business score diligently while a garbage collection account sits on your D&B file uncontested for 18 months.
 

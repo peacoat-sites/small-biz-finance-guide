@@ -25,7 +25,7 @@ faqs:
    a: "Both, but a savvy investor cares more about your cash flow model than your revenue model. Revenue projections tell them your ambition. Cash flow projections tell them whether you understand your own business. If your cash flow shows you running out of money six months before you claim to hit breakeven, that's a red flag, regardless of how compelling the revenue story sounds."
 lastmod: 2026-11-16T16:00:00Z
 ---
-Most cash flow forecast templates online are built for businesses that actually exist. They assume you've got last quarter's numbers handy, some kind of revenue pattern that's stayed consistent, and maybe a bookkeeper who knows what "[accounts receivable aging](/accounts-receivable-management/)" even means. For a startup? You're looking at either something so stripped-down it's useless or a spreadsheet so complex it'll take three hours to fill and still won't tell you when you run out of money.
+Most cash flow forecast templates online are built for businesses that actually exist. They assume you've got last quarter's numbers handy, some kind of revenue pattern that's stayed consistent, and maybe a bookkeeper who knows what "accounts receivable aging" even means. For a startup? You're looking at either something so stripped-down it's useless or a spreadsheet so complex it'll take three hours to fill and still won't tell you when you run out of money.
 
 Here's what actually works.
 

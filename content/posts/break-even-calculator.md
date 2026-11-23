@@ -38,7 +38,7 @@ Here's the formula:
 > **Break-Even Units = Fixed Monthly Costs ÷ Contribution Margin per Unit**
 > **Contribution Margin = Price per Unit - Variable Cost per Unit**
 
-Say your monthly [fixed costs](/small-business-tax-deductions/) are $5,000. You're selling a product for $45, and it costs $15 to make. Your contribution margin is $30. You need to sell 167 units to break even. Hit 168 and you're profitable. Drop to 166 and you're bleeding money.
+Say your monthly fixed costs are $5,000. You're selling a product for $45, and it costs $15 to make. Your contribution margin is $30. You need to sell 167 units to break even. Hit 168 and you're profitable. Drop to 166 and you're bleeding money.
 
 The **contribution margin percentage** matters just as much. If your CM is 67%, that means 67 cents of every sales dollar goes toward covering fixed costs and profit. High fixed costs paired with a low CM percentage create a brutal math problem: you need massive sales volume just to stop losing money. That's the real trap many businesses fall into.
 

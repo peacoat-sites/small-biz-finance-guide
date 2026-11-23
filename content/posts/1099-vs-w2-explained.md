@@ -44,7 +44,7 @@ The difference between a 1099 contractor and a W-2 employee isn't just HR trivia
 
 ## What the Two Classifications Actually Mean
 
-**"You need to incorporate before you can legally work as a 1099 contractor"**: Most people think forming an LLC or corporation is a prerequisite to independent contracting. But the IRS has no incorporation requirement for 1099 work. According to the [Small Business Administration](/hiring-first-employee-guide/), over 27 million self-employed individuals operate as sole proprietors without any business entity, and they're completely compliant. You can file a 1099 as an unincorporated individual, report income on Schedule C, and pay self-employment taxes. Incorporation offers liability protection and potential tax advantages, but it's optional, not mandatory. The misconception costs aspiring entrepreneurs thousands in unnecessary legal fees.
+**"You need to incorporate before you can legally work as a 1099 contractor"**: Most people think forming an LLC or corporation is a prerequisite to independent contracting. But the IRS has no incorporation requirement for 1099 work. According to the Small Business Administration, over 27 million self-employed individuals operate as sole proprietors without any business entity, and they're completely compliant. You can file a 1099 as an unincorporated individual, report income on Schedule C, and pay self-employment taxes. Incorporation offers liability protection and potential tax advantages, but it's optional, not mandatory. The misconception costs aspiring entrepreneurs thousands in unnecessary legal fees.
 
 A W-2 employee works directly for your business. You withhold federal and state income taxes from their paycheck. You pay half their Social Security and Medicare taxes (FICA). You handle unemployment taxes. At year's end, you issue a W-2 showing what got withheld.
 
@@ -121,7 +121,7 @@ Keep the relationships clearly separated. Don't give contractors employee benefi
 
 Clean financial records matter too. If you're mixing business and personal finances, it complicates everything, including payroll taxes and contractor payments. The guide on [how to separate business and personal finances](/how-to-separate-business-personal-finances/) covers the basics if you're still blending accounts.
 
-Stay on top of expense categorization. Contractor payments go in a different category than payroll, and they're deductible as a business expense, but only if the relationship is legitimate. The [business expense categories guide](/small-business-tax-deductions/) helps you record things correctly.
+Stay on top of expense categorization. Contractor payments go in a different category than payroll, and they're deductible as a business expense, but only if the relationship is legitimate. The business expense categories guide helps you record things correctly.
 
 Unsure about a specific worker? The IRS offers Form SS-8, which lets you request an official classification determination. It takes time, but for an ongoing relationship where you genuinely can't decide, it protects you.
 

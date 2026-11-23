@@ -26,11 +26,11 @@ faqs:
     a: "Yes, and I'll be direct about it: a CPA can review your financials before a lender does, catch presentation problems, and sometimes identify loan structures that have better tax treatment. The cost of one advisory session is trivial compared to a rejected application or a loan at the wrong rate. Consult a CPA before you submit any significant financing application."
 ---
 
-Most small business owners assume they can't get a loan. The Federal Reserve's 2025 [Small Business Credit](/small-business-credit-card-guide/) Survey found that 33% of firms that needed financing didn't even apply, because they assumed they'd be turned down. Think about that. One in three businesses left money on the table before asking the question.
+Most small business owners assume they can't get a loan. The Federal Reserve's 2025 Small Business Credit Survey found that 33% of firms that needed financing didn't even apply, because they assumed they'd be turned down. Think about that. One in three businesses left money on the table before asking the question.
 
 That's not caution. That's a myth operating as fact, costing real companies real growth.
 
-Many entrepreneurs talk themselves out of financing before a single lender ever weighed in. The problem isn't the credit market. The problem is that the information most [business owners](/life-insurance-for-business-owners/) carry around about small business loans is either outdated, oversimplified, or flat wrong. Let me fix that.
+Many entrepreneurs talk themselves out of financing before a single lender ever weighed in. The problem isn't the credit market. The problem is that the information most business owners carry around about small business loans is either outdated, oversimplified, or flat wrong. Let me fix that.
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">33% of businesses that needed financing in 2025 didn't apply, assuming rejection</li><li style="margin:5px 0">SBA loans can close in 30-90 days, not the 6+ months most owners expect</li><li style="margin:5px 0">Lenders weigh cash flow and time-in-business heavily, not just credit score</li><li style="margin:5px 0">Online lenders approve 72% of applications vs. ~49% at large banks (Biz2Credit, 2025)</li><li style="margin:5px 0">Collateral requirements vary widely: many SBA 7(a) loans under $25,000 require none</li></ul></div>
 
@@ -38,7 +38,7 @@ Many entrepreneurs talk themselves out of financing before a single lender ever 
 
 Wrong. Or at least, incomplete.
 
-Yes, credit matters. But most business owners imagine a lender sitting at a mahogany desk, gatekeeping behind a 750 FICO minimum. That's the large-bank experience, and even then it's not the whole picture. According to Biz2Credit's 2025 Small [Business Lending](/current-business-lending-rates/) Report, alternative lenders and credit unions approve a much wider range of borrowers, and they're weighing factors like monthly revenue consistency and time in business far more than the credit score alone.
+Yes, credit matters. But most business owners imagine a lender sitting at a mahogany desk, gatekeeping behind a 750 FICO minimum. That's the large-bank experience, and even then it's not the whole picture. According to Biz2Credit's 2025 Small Business Lending Report, alternative lenders and credit unions approve a much wider range of borrowers, and they're weighing factors like monthly revenue consistency and time in business far more than the credit score alone.
 
 The SBA 7(a) program, which is the workhorse of small business lending, has no hard minimum credit score baked into the rules. Individual lenders set their own floors, often 640 or 650, but approvals in the low 600s are possible when the business has 3 years of clean books and stable revenue. The cash flow story can carry a borrower that a raw credit number would have dismissed.
 

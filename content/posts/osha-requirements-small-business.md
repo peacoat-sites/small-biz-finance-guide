@@ -26,7 +26,7 @@ faqs:
     a: "Self-employed individuals with no employees, certain family farms, and workplaces regulated by other federal agencies (like mines covered by MSHA) are generally outside OSHA's jurisdiction. State and local government employees aren't covered by federal OSHA, but most states have their own OSHA-approved plans that cover public sector workers. Always verify with a qualified employment attorney if you're unsure about your specific situation."
 ---
 
-Most [small business owners](/sba-loans-now-require-100-us-citizenship-what-small-business-owners-mu/) I talk to think OSHA is something that only matters once you hit a certain size, like there's some magic headcount threshold where the safety police start paying attention. That's wrong, and it's the kind of wrong that can cost you real money.
+Most small business owners I talk to think OSHA is something that only matters once you hit a certain size, like there's some magic headcount threshold where the safety police start paying attention. That's wrong, and it's the kind of wrong that can cost you real money.
 
 A common mistake in small manufacturing is assuming payroll taxes are the biggest compliance risk. In reality, many shops overlook basic requirements: posting the required OSHA workplace safety poster, creating a written hazard communication program, and organizing SDS sheets (safety data sheets) where employees can actually find them. Operating without these safeguards can result in significant citations if an employee files a complaint.
 
@@ -38,7 +38,7 @@ OSHA covers almost every private sector employer in the United States, regardles
 
 There's a common misread here. People hear "OSHA compliance" and picture hard hats and construction sites. But OSHA's General Duty Clause applies to every employer. It requires you to provide a workplace free from recognized hazards that are causing or likely to cause death or serious physical harm. That's a broad net, and it catches everything from a slippery floor mat in a restaurant to improperly stored cleaning chemicals in a nail salon.
 
-The specific standards that apply to your business depend on your industry. OSHA organizes requirements into four main sectors: General Industry (the catch-all), Construction, Maritime, and Agriculture. [Most small businesses](/the-section-45f-childcare-credit-small-businesses-are-missing/) fall under General Industry, Title 29 CFR Part 1910. Within that, the standards most likely to trip up small employers are:
+The specific standards that apply to your business depend on your industry. OSHA organizes requirements into four main sectors: General Industry (the catch-all), Construction, Maritime, and Agriculture. Most small businesses fall under General Industry, Title 29 CFR Part 1910. Within that, the standards most likely to trip up small employers are:
 
 - **Hazard Communication (HazCom / SDS):** If you use any chemical, you need safety data sheets on file, a written HazCom program, and documented employee training.
 - **Emergency Action Plans:** Required if you have 10 or more employees. Even if you have fewer, it's smart.
@@ -66,7 +66,7 @@ If you have 11 or more employees, you're maintaining the OSHA 300 (Log of Work-R
 
 ## The Free Help Nobody Uses
 
-I genuinely cannot figure out why more small [business owners](/business-owners-policy-bop/) don't use the OSHA On-Site Consultation Program. It's free. It's confidential. An OSHA consultant comes to your workplace, walks through your hazards, tells you what you'd get cited for if an inspector showed up, and you fix it. No citations issued, no penalties, no report shared with enforcement. The program is run separately from OSHA's enforcement arm.
+I genuinely cannot figure out why more small business owners don't use the OSHA On-Site Consultation Program. It's free. It's confidential. An OSHA consultant comes to your workplace, walks through your hazards, tells you what you'd get cited for if an inspector showed up, and you fix it. No citations issued, no penalties, no report shared with enforcement. The program is run separately from OSHA's enforcement arm.
 
 Request the consultation through your state's program, not OSHA directly. Find contact info at osha.gov/consultation. Wait times vary by state - smaller states may schedule visits within weeks, while larger states like California typically take six to eight weeks.
 

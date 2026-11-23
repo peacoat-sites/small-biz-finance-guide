@@ -40,7 +40,7 @@ What is worth understanding about how DIF works in practice is that it's not jus
 
 A few specific numbers that tend to raise flags according to the [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed) examination guidance:
 
-- [Meals and entertainment deductions](/small-business-tax-deductions/) exceeding 1-2% of gross revenue (for most industries)
+- Meals and entertainment deductions exceeding 1-2% of gross revenue (for most industries)
 - Vehicle use claimed at 100% business, especially on luxury vehicles
 - Home office deductions taken year after year with no variation
 - Losses reported for three or more consecutive years on a Schedule C

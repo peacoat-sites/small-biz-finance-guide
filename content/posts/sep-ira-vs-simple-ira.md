@@ -1,5 +1,5 @@
 ---
-title: "Which Retirement Plan Cuts Your Small Business Taxes More?"
+title: "SEP IRA vs SIMPLE IRA: Which Cuts Your Business Taxes More"
 date: 2026-06-10T23:17:07.931802+00:00
 draft: false
 description: "Compare SEP IRA vs SIMPLE IRA to find the best retirement plan for your business. Learn contribution limits, eligibility rules, and key differences to maximize "

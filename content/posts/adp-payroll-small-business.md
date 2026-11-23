@@ -59,7 +59,7 @@ ADP doesn't publish pricing publicly, which most small business owners find frus
 
 Yes, you can negotiate. ADP sales reps have flexibility on the base rate, especially if you mention you're also looking at Gusto or Paychex. It's possible to get 3-6 months free or a meaningful discount on the monthly base by asking directly, especially if you mention you're also looking at Gusto or Paychex. Don't skip this step.
 
-One thing that catches people off guard: year-end fees. W-2 processing, 1099 filing, and some state reconciliation filings can come with additional charges at year-end, and they're not always prominently disclosed during onboarding. Ask your rep to put the full fee schedule in writing [before you sign anything](/payroll-basics-small-business/). This is non-negotiable advice.
+One thing that catches people off guard: year-end fees. W-2 processing, 1099 filing, and some state reconciliation filings can come with additional charges at year-end, and they're not always prominently disclosed during onboarding. Ask your rep to put the full fee schedule in writing before you sign anything. This is non-negotiable advice.
 
 ---
 
@@ -69,7 +69,7 @@ The setup process is more involved than competitors like Gusto, but it's managea
 
 For example, a retail shop owner switching from manual Excel payroll might gather their EIN, state tax IDs, prior-year W-2s, employee I-9s, and bank account info before calling ADP, and could complete setup in about 3 hours across two sessions, with the first payroll running within 10 days of signing.
 
-The single biggest setup mistake businesses make is not having their state payroll tax account numbers ready. ADP needs these to file on your behalf. If you don't have them (because you're new or you've never set up payroll before), you'll need to apply with your state's department of labor first. That process can take 2-4 weeks, so don't assume you can start payroll next week if you're [starting from scratch](/payroll-basics-small-business/).
+The single biggest setup mistake businesses make is not having their state payroll tax account numbers ready. ADP needs these to file on your behalf. If you don't have them (because you're new or you've never set up payroll before), you'll need to apply with your state's department of labor first. That process can take 2-4 weeks, so don't assume you can start payroll next week if you're starting from scratch.
 
 A few things you'll need on hand:
 - Your federal EIN (Employer Identification Number)

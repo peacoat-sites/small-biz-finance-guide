@@ -1,5 +1,5 @@
 ---
-title: "Collect More Cash: The AR Strategy Small Businesses Need"
+title: "Accounts Receivable Goals Examples for Small Business"
 date: 2026-05-22T22:03:27.478750+00:00
 draft: false
 description: "Discover effective accounts receivable management strategies to improve cash flow, reduce outstanding debts, and streamline your billing process for business su"

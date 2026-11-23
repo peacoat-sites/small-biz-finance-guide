@@ -1,5 +1,5 @@
 ---
-title: "Funding Your Startup: Grants You Can Actually Win"
+title: "Best Small Business Grants for Startups You Can Win"
 date: 2026-07-03T22:41:56.754246+00:00
 draft: false
 description: "Discover the best small business grants for startups in 2026. Find free funding opportunities to launch and grow your business without repaying a dime."
@@ -72,7 +72,7 @@ This category has grown significantly, and as of July 2026 it represents a real 
 
 **For women-owned businesses:** The Amber Grant (awardsmonthly at $10,000, with a $25,000 year-end award) is legitimate and worth the low application friction. Cartier Women's Initiative is more prestigious and substantially larger. The Eileen Fisher grants are specifically for environmentally focused businesses.
 
-**For minority-owned businesses:** The [SBA's 8(a) program](/sba-loan-requirements-guide/) isn't a grant but it's worth knowing about for federal contracting. The National Minority Supplier Development Council (NMSDC) connects certified businesses to corporate partners who are actively looking to fulfill supplier diversity commitments. Some of those relationships come with grant components.
+**For minority-owned businesses:** The SBA's 8(a) program isn't a grant but it's worth knowing about for federal contracting. The National Minority Supplier Development Council (NMSDC) connects certified businesses to corporate partners who are actively looking to fulfill supplier diversity commitments. Some of those relationships come with grant components.
 
 **For veteran-owned businesses:** The StreetShares Foundation has historically offered veteran small business awards. The Hivers and Strivers fund targets military-affiliated startups specifically.
 

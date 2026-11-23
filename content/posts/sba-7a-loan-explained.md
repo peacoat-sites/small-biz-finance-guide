@@ -71,7 +71,7 @@ A business can be solid but still face rejection if personal finances are disorg
 | Typical Approval Timeline | 60-90 days |
 | Program Start Year | 1953 |
 
-SBA 7(a) loan rates aren't fixed by the SBA outright. They're tied to a base rate, typically the prime rate or the Secured Overnight Financing Rate (SOFR), plus a lender's spread. The SBA caps that spread, which is what keeps rates from getting predatory. In practical terms, current rates tend to run several points above prime, depending on loan size and term. You'll want to check [current rates directly with lenders](/current-business-lending-rates/), because they move with the market.
+SBA 7(a) loan rates aren't fixed by the SBA outright. They're tied to a base rate, typically the prime rate or the Secured Overnight Financing Rate (SOFR), plus a lender's spread. The SBA caps that spread, which is what keeps rates from getting predatory. In practical terms, current rates tend to run several points above prime, depending on loan size and term. You'll want to check current rates directly with lenders, because they move with the market.
 
 Terms vary by purpose:
 

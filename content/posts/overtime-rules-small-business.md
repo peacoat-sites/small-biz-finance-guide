@@ -1,5 +1,5 @@
 ---
-title: "How Overtime Rules Affect Your Bottom Line"
+title: "Overtime Rules for Small Business and How They Affect You"
 date: 2026-06-14T22:50:32.557231+00:00
 draft: false
 description: "Learn how overtime rules affect small businesses, including FLSA requirements, exempt vs nonexempt employees, and how to stay compliant and manage labor costs."

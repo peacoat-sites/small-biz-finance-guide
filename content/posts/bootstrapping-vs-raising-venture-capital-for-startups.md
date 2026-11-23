@@ -1,5 +1,5 @@
 ---
-title: "Bootstrap Your Startup or Seek VC: Which Path Wins"
+title: "Bootstrapping vs Raising Venture Capital for Startups"
 date: 2026-06-18T23:27:13.262418+00:00
 draft: false
 description: "Compare bootstrapping vs venture capital funding to find the best path for your startup. Learn the tradeoffs, risks, and rewards of each approach."

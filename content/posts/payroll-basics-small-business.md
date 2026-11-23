@@ -1,5 +1,5 @@
 ---
-title: "Payroll Setup: The 5 Steps Every New Business Needs"
+title: "Payroll Basics for Small Business: Setup Steps Every Owner Needs"
 date: 2026-05-20T15:26:51.103699+00:00
 draft: false
 description: "Manage payroll confidently with our guide to payroll basics for small business. Learn tax withholding, payroll software, and compliance requirements to grow."

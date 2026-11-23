@@ -31,7 +31,7 @@ You opened your business checking account, you're tracking expenses in a spreads
 
 Let me be direct: mixing personal and business expenses on one card is one of the most common and costly mistakes I see small business owners make. It's not just an accounting headache. It can genuinely put your personal assets at risk if you're ever audited, sued, or need to prove your business is a legitimate separate entity.
 
-The IRS takes commingling of funds seriously. If your business structure is an [LLC or S-Corp](/business-credit-card-vs-personal-credit-card-for-llc/) and you're running personal groceries and client dinners through the same card, you are quietly eroding the legal separation that protects you. Lawyers call this "piercing the corporate veil." You don't want to learn what that phrase means the hard way.
+The IRS takes commingling of funds seriously. If your business structure is an LLC or S-Corp and you're running personal groceries and client dinners through the same card, you are quietly eroding the legal separation that protects you. Lawyers call this "piercing the corporate veil." You don't want to learn what that phrase means the hard way.
 
 A dedicated business credit card solves several problems at once: it creates a clean paper trail for deductions, gives you a line of credit that floats short-term cash flow gaps without touching your personal finances, and if it's managed well, starts building a business credit profile separate from your own. That last part matters enormously when you eventually apply for a business loan or a commercial lease.
 

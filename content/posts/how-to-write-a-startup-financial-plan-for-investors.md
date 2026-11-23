@@ -50,11 +50,11 @@ The financial plan is a test of your thinking. Not your clairvoyance.
 
 A serious investor wants to see:
 
-- A clear [revenue model](/pricing-strategy-small-business/) they can pressure-test
+- A clear revenue model they can pressure-test
 - Realistic assumptions you can defend out loud
 - An honest picture of cash needs and burn rate
 - Evidence that you've thought about when (and whether) the business becomes self-sustaining
-- Proof that you understand your [unit economics](/profit-margin-calculation-guide/)
+- Proof that you understand your unit economics
 
 That last one is where a lot of founders stumble. Unit economics, the revenue and cost tied to a single customer, contract, or transaction, is the atomic level of your business. If your customer acquisition cost is $400 and that customer generates $200 in lifetime gross profit, you don't have a business. You have a math problem. Investors will find it. Better you do first.
 
@@ -70,7 +70,7 @@ You don't need a 40-tab model. A 40-tab spreadsheet for a pre-revenue company us
 
 **Operating expense forecast.** Salaries, rent, software, marketing spend, legal, accounting. Break it down by category. And be honest about payroll. Founders sometimes undercount their own compensation to make numbers look better. An investor will ask if you're paying yourself, and "no, I'm not paying myself anything for 18 months" is sometimes admirable and sometimes a red flag.
 
-**[Cash flow statement](/break-even-calculator/).** Revenue and profit can look positive on paper while you're actually running out of money because of timing mismatches. This is the one that tells the real story. For a startup, it's non-negotiable. If you're raising $750,000, show exactly how that capital deploys month by month and how long it lasts.
+**Cash flow statement.** Revenue and profit can look positive on paper while you're actually running out of money because of timing mismatches. This is the one that tells the real story. For a startup, it's non-negotiable. If you're raising $750,000, show exactly how that capital deploys month by month and how long it lasts.
 
 **Assumptions page.** This might be the most important page in the whole document, and almost nobody includes it clearly. Document every significant assumption: average contract value, churn rate, customer acquisition cost, gross margin percentage, headcount growth, sales cycle length. When an investor pushes back on your projections, you can say "here's the assumption driving that number" and discuss it on its merits. It turns a confrontation into a conversation.
 

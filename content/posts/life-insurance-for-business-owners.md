@@ -28,7 +28,7 @@ faqs:
 
 Most business owners haven't thought seriously about life insurance until something forces the conversation: a banker asking for it as loan collateral, a partner's sudden illness, or a spouse quietly asking what happens to the business if something happens to you. If that's where you are right now, you're not behind. You're just at the point where this stuff actually starts to matter.
 
-Life insurance for a [business owner](/best-retirement-plan-for-small-business-owner-solo-401k-vs-sep-ira/) is almost never just about replacing your personal income. It's about keeping the business alive, protecting your partners, and making sure your family doesn't inherit a mess. Those are three different problems, and they often need three different solutions.
+Life insurance for a business owner is almost never just about replacing your personal income. It's about keeping the business alive, protecting your partners, and making sure your family doesn't inherit a mess. Those are three different problems, and they often need three different solutions.
 
 It is common for owners to buy a $500,000 term policy thinking they've checked the box, only to discover five years later that their buy-[sell agreement](/buy-sell-agreement-business/) requires $2.3 million in coverage and they never funded it properly. The gap between "I have life insurance" and "I have the right life insurance" can genuinely cost a family the business.
 

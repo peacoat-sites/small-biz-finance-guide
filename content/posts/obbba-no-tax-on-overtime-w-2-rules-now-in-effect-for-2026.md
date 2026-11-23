@@ -14,7 +14,7 @@ slug: "obbba-no-tax-on-overtime-w-2-rules-now-in-effect-for-2026"
 affiliate_disclosure: true
 ---
 
-Most [small business owners](/sba-loans-now-require-100-us-citizenship-what-small-business-owners-mu/) I've talked to this summer think the OBBBA overtime tax break is a gift they simply pass along to employees and move on. That's not quite how this works. Starting with 2026 payroll, the IRS is done being patient. The grace period that covered 2025 W-2 reporting is gone, and what's sitting in front of you now is a real documentation obligation with real per-form penalties attached. If your payroll system isn't separately capturing qualified overtime premiums today, you're building a problem for January.
+Most small business owners I've talked to this summer think the OBBBA overtime tax break is a gift they simply pass along to employees and move on. That's not quite how this works. Starting with 2026 payroll, the IRS is done being patient. The grace period that covered 2025 W-2 reporting is gone, and what's sitting in front of you now is a real documentation obligation with real per-form penalties attached. If your payroll system isn't separately capturing qualified overtime premiums today, you're building a problem for January.
 
 Here's the quick background. The One [Big Beautiful Bill](/how-the-one-big-beautiful-bill-changes-your-2026-llc-tax-strategy/) Act, signed July 4, 2025 (Public Law 119-21), created a temporary federal income tax exemption on what the law calls "qualified overtime premiums." It runs retroactively from January 1, 2025 through December 31, 2028. The employee benefit is genuine: that extra half-time premium on hours over 40 in a workweek no longer counts as federal taxable income. But the employer's job is to prove it, on paper, on the W-2, with the right codes. The IRS gave everyone a pass on 2025 W-2s. That pass expired.
 
@@ -36,7 +36,7 @@ The practical implication is that your payroll software needs a line item that i
 
 Here's what surprised me when I went deep on this: as of mid-2026, the IRS has still not finalized the Box 12 codes that employers will use to report qualified overtime premiums and tips on 2026 W-2s. The guidance is coming. It hasn't arrived.
 
-This puts small [business owners](/business-owners-policy-bop/) in a genuinely awkward position. You need to be tracking this data now, with specificity, because you can't reconstruct it accurately in January from vague payroll totals. But the exact reporting format is still in flux. What that means practically: document everything in a format that can be mapped to whatever code the IRS lands on. Don't wait to start capturing the data just because the final box designation isn't confirmed.
+This puts small business owners in a genuinely awkward position. You need to be tracking this data now, with specificity, because you can't reconstruct it accurately in January from vague payroll totals. But the exact reporting format is still in flux. What that means practically: document everything in a format that can be mapped to whatever code the IRS lands on. Don't wait to start capturing the data just because the final box designation isn't confirmed.
 
 The 2026 W-4 Deductions Worksheet has been updated with dedicated lines for employees to account for these deductions upfront: Line 1a for qualified tips and Line 1b for overtime compensation. That's the employee-facing side. The employer-facing reporting side is still being finalized. Both pieces need to line up.
 

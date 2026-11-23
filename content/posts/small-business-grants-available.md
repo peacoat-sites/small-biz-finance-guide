@@ -1,5 +1,5 @@
 ---
-title: "Funding Your Small Business Without a Bank Loan"
+title: "Small Business Grants Available to Fund Your Business Now"
 date: 2026-05-24T04:15:41.602284+00:00
 draft: false
 description: "Discover small business grants available to help fund your venture. Explore free funding options, eligibility requirements, and how to apply for grants today."

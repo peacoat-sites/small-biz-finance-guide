@@ -37,7 +37,7 @@ Before going deeper, one thing worth saying plainly: Kickstarter rewards-based c
 
 ## How the Money Actually Works
 
-Kickstarter charges 5% of total funds raised if your campaign succeeds. [Payment processing](/ach-payment-processing/) (handled by Stripe) adds another 3% to 5% depending on card type and country. That means you'll typically net 90 to 92 cents of every dollar pledged, before any other costs.
+Kickstarter charges 5% of total funds raised if your campaign succeeds. Payment processing (handled by Stripe) adds another 3% to 5% depending on card type and country. That means you'll typically net 90 to 92 cents of every dollar pledged, before any other costs.
 
 Failed pledges are a real issue. Some backers' cards decline between pledge and collection. Kickstarter estimates roughly 1 to 3% of pledges fail at collection. Build that into your projections.
 

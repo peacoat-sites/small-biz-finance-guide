@@ -44,7 +44,7 @@ The businesses that belong on Schedule C: sole proprietors, freelancers, indepen
 
 ## The Expenses Section Is Where Most People Leave Money Behind
 
-Part II of Schedule C has 28 numbered lines covering specific [expense categories](/small-business-tax-deductions/). People tend to fill in the obvious ones (advertising, supplies) and ignore the ones that feel uncertain. That's a mistake.
+Part II of Schedule C has 28 numbered lines covering specific expense categories. People tend to fill in the obvious ones (advertising, supplies) and ignore the ones that feel uncertain. That's a mistake.
 
 Here are the categories that most self-employed people underuse:
 

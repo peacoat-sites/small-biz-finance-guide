@@ -1,5 +1,5 @@
 ---
-title: "Protect Your Small Business From Costly Professional Mistakes"
+title: "Errors and Omissions Insurance for Small Businesses Explained"
 date: 2026-06-30T22:56:36.183563+00:00
 draft: false
 description: "Errors and omissions insurance protects professionals from claims of negligence or mistakes. Learn who needs it, what it covers, and how to get a policy."
@@ -28,7 +28,7 @@ lastmod: 2026-11-16T16:00:00Z
 
 Most service businesses I've worked with buy E&O insurance after something bad happens. A client claims a mistake cost them money, a lawyer sends a letter, and suddenly everyone's very interested in a policy they could have had for a few hundred dollars a year. I've sat across from enough business owners in that exact position to tell you: buying it after the fact isn't buying it at all.
 
-Errors and omissions insurance, sometimes called professional liability insurance depending on who you're talking to, is the coverage that protects you when a client says your work, your advice, or your service caused them financial harm. Not physical harm (that's [general liability's job](/business-liability-insurance-guide/)). Financial harm. The stuff that comes with invoices and depositions attached.
+Errors and omissions insurance, sometimes called professional liability insurance depending on who you're talking to, is the coverage that protects you when a client says your work, your advice, or your service caused them financial harm. Not physical harm (that's general liability's job). Financial harm. The stuff that comes with invoices and depositions attached.
 
 If you're reading this, you might be wondering whether you actually need it, how much it costs, or whether your [general liability policy](/how-much-does-general-liability-insurance-cost-for-small-business/) already covers this. Those are exactly the right questions. Let me work through them.
 

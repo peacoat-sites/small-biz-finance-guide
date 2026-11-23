@@ -43,7 +43,7 @@ Many business owners treat umbrella policies as something to worry about later, 
 
 Think of your existing policies as buckets. Your general liability policy might have a $1 million per-occurrence limit. Your commercial auto policy might have $500,000. If a claim exceeds those limits, you're personally (or business-) responsible for the rest, unless you have something sitting above them.
 
-A commercial umbrella policy is that something. It typically adds $1 million to $5 million in additional coverage, layered over your general liability, [employer's liability](/workers-comp-insurance-small-business/), and commercial auto policies. Some carriers write umbrella policies that sit over hired and non-owned auto coverage too.
+A commercial umbrella policy is that something. It typically adds $1 million to $5 million in additional coverage, layered over your general liability, employer's liability, and commercial auto policies. Some carriers write umbrella policies that sit over hired and non-owned auto coverage too.
 
 What surprised me digging into this is how frequently businesses find themselves in excess-limit situations. A single serious bodily injury claim, a multi-vehicle accident involving a company truck, a slip-and-fall with long-term disability consequences, these aren't freak events in industries like construction, food service, or transportation. They're foreseeable. The U.S. Small Business Administration consistently flags inadequate insurance coverage as one of the top risk factors for small business failure, and the umbrella gap is a meaningful part of that story.
 

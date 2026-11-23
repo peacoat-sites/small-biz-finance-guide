@@ -26,7 +26,7 @@ faqs:
     a: "Self-employed individuals and sole proprietors report it on Schedule C, Line 25 (utilities) or as an 'other expense' on Line 48 with a description. S-corp and C-corp owners whose business pays the bill directly expense it on the business return. If you're unsure which form applies to your situation, this is exactly the kind of question worth 30 minutes with a CPA."
 ---
 
-Only about 27% of [small business owners](/the-new-2000-1099-threshold-what-small-businesses-must-do-now/) who are eligible to deduct their cell phone actually do it correctly, according to data compiled by the National Federation of Independent Business. People either skip the deduction entirely because they're not sure they can take it, or they write off 100% of a phone they're clearly using to scroll Instagram half the day, which is a fast way to invite scrutiny.
+Only about 27% of small business owners who are eligible to deduct their cell phone actually do it correctly, according to data compiled by the National Federation of Independent Business. People either skip the deduction entirely because they're not sure they can take it, or they write off 100% of a phone they're clearly using to scroll Instagram half the day, which is a fast way to invite scrutiny.
 
 So if you're sitting here wondering whether your cell phone counts as a [business expense](/small-business-tax-deductions/): yes, probably. But the how matters a lot.
 

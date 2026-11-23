@@ -26,7 +26,7 @@ faqs:
     a: "C-corp, almost certainly in Delaware. Venture funds operate through structures that require preferred stock and have their own investor agreements (like standard NVCA term sheets) written around C-corp mechanics. An S-corp election is typically incompatible with institutional investment and would need to be terminated before a funding round closes."
 ---
 
-Most [small business owners](/sba-loans-now-require-100-us-citizenship-what-small-business-owners-mu/) I talk to have already made up their mind before they even ask the question. They've read somewhere that S-corps are "better for taxes" or that C-corps are "only for big companies," and they want me to confirm what they've already decided. I'll be honest: that's usually the wrong starting point, and getting this choice wrong can cost you real money over a period of years, not a rounding error.
+Most small business owners I talk to have already made up their mind before they even ask the question. They've read somewhere that S-corps are "better for taxes" or that C-corps are "only for big companies," and they want me to confirm what they've already decided. I'll be honest: that's usually the wrong starting point, and getting this choice wrong can cost you real money over a period of years, not a rounding error.
 
 I spent a good chunk of time last year going back through client files, specifically looking at cases where the entity choice turned out to be the wrong one. What surprised me was how often the mistake wasn't made out of ignorance. It was made with incomplete information from someone who understood part of the picture but not all of it.
 
@@ -38,7 +38,7 @@ So let's actually look at this, from the inside out.
 
 Here's the core difference, stripped of everything else. A C-corp is its own taxpayer. It pays federal corporate income tax (currently a flat 21% at the federal level) on its profits. If it distributes those profits to shareholders as dividends, those shareholders pay tax again, at rates up to 23.8% including the net investment income tax. That's what people mean by double taxation. It's real, and it hurts if you're a small operation pulling money out regularly.
 
-An S-corp, by contrast, is a pass-through. The company itself doesn't pay federal income tax. Profits flow through to the shareholders' personal returns, and you pay tax once, at your individual rate. For a profitable [small business owner](/best-retirement-plan-for-small-business-owner-solo-401k-vs-sep-ira/) in a high tax bracket, this can be a significant difference in actual dollars owed each year.
+An S-corp, by contrast, is a pass-through. The company itself doesn't pay federal income tax. Profits flow through to the shareholders' personal returns, and you pay tax once, at your individual rate. For a profitable small business owner in a high tax bracket, this can be a significant difference in actual dollars owed each year.
 
 The S-corp advantage isn't unlimited. If you're retaining a lot of earnings inside the company to fund growth, the C-corp's 21% rate is actually lower than what most individual owners would pay at the pass-through level. A business owner in the 37% individual bracket passing through $400,000 in profits pays roughly $148,000 in federal income tax on that money. A C-corp pays $84,000. The gap closes or reverses if you eventually distribute that money, but if you're reinvesting indefinitely, the math shifts.
 

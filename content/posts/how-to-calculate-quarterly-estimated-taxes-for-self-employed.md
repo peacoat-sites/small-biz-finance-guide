@@ -57,7 +57,7 @@ Practically speaking: if your income is relatively stable, Method 1 is the low-s
 
 Let's do the real math. Say you're a freelance designer who expects to earn $85,000 in net self-employment income this year.
 
-**Step 1: Start with net self-employment income.** This is gross revenue minus legitimate business expenses. Not gross revenue. If you billed $110,000 and spent $25,000 on software, equipment, contractors, and a [home office](/home-office-deduction-rules/), your net is $85,000. That's your starting number.
+**Step 1: Start with net self-employment income.** This is gross revenue minus legitimate business expenses. Not gross revenue. If you billed $110,000 and spent $25,000 on software, equipment, contractors, and a home office, your net is $85,000. That's your starting number.
 
 **Step 2: Calculate self-employment tax.** The IRS lets you multiply net self-employment income by 92.35% first (this accounts for the employer-equivalent deduction). So: $85,000 × 0.9235 = $78,497.50. Then multiply by 15.3%: $78,497.50 × 0.153 = $12,010.12. That's your estimated self-employment tax.
 

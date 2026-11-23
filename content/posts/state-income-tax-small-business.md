@@ -25,7 +25,7 @@ faqs:
     a: "Only if you actually live and operate there. Registering in Wyoming or Nevada while running your business from California or New York doesn't eliminate your home-state tax obligation. You'll still owe taxes where you have economic presence, and you may end up with two state filing requirements instead of one."
 ---
 
-State income taxes on small business income are not uniform, not simple, and genuinely matter for your bottom line. Nine states have no individual income tax at all, which affects pass-through [business owners](/sba-loans-now-require-100-us-citizenship-what-small-business-owners-mu/) significantly. And even within states that do tax income, the rate your business income faces depends heavily on how your business is structured.
+State income taxes on small business income are not uniform, not simple, and genuinely matter for your bottom line. Nine states have no individual income tax at all, which affects pass-through business owners significantly. And even within states that do tax income, the rate your business income faces depends heavily on how your business is structured.
 
 This is an area where a lot of owners fly blind until they get a [tax bill](/how-to-use-100-bonus-depreciation-to-cut-your-2026-tax-bill/) they weren't expecting.
 

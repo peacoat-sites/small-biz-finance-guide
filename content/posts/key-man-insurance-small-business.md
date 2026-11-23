@@ -1,5 +1,5 @@
 ---
-title: "Protect Your Business When Your Best Person Leaves"
+title: "Key Man Insurance for Small Business: What You Need to Know"
 date: 2026-07-05T22:41:14.549644+00:00
 draft: false
 description: "Protect your small business from losing a vital team member. Learn how key man insurance works, what it covers, and why every small business needs it."
@@ -60,13 +60,13 @@ A few frameworks that actually hold up:
 
 **Business valuation protection.** If you'd need to sell the business or attract emergency equity if this person died, think about how much the business's value would drop. That delta is what you're protecting.
 
-**Debt and obligation coverage.** If you have an [SBA loan](/small-business-insurance-requirements/) or an investor line that has personal guarantees or key person clauses, the floor for your coverage is the balance of that obligation. Some lenders actually require this, check your loan documents before you assume otherwise.
+**Debt and obligation coverage.** If you have an SBA loan or an investor line that has personal guarantees or key person clauses, the floor for your coverage is the balance of that obligation. Some lenders actually require this, check your loan documents before you assume otherwise.
 
 A sample scenario: a manufacturing business with $4M in annual revenue and a founder-engineer who holds 12 proprietary patents and manages the three largest customer accounts → loss of that person would likely cost $800K in immediate client runoff, $300K in hiring and onboarding, and threaten a $500K equipment line of credit → recommended coverage: $1.5M to $1.8M life, with a separate disability rider.
 
 ## Life vs. Disability: Don't Buy Only One
 
-A common mistake is setting up life insurance on a key employee without also securing disability coverage. For example, a business might have a $1M life policy on a technical co-founder but no protection if that person becomes unable to work due to illness or injury. If the co-founder had a stroke and survived, the business would face a financial crisis without [key man disability coverage](/workers-comp-insurance-small-business/).
+A common mistake is setting up life insurance on a key employee without also securing disability coverage. For example, a business might have a $1M life policy on a technical co-founder but no protection if that person becomes unable to work due to illness or injury. If the co-founder had a stroke and survived, the business would face a financial crisis without key man disability coverage.
 
 The odds back this up. According to the Council for Disability Awareness, a 35-year-old has roughly a 50% chance of suffering a disabling event before age 65. Death is the more emotionally obvious risk. Disability is statistically more likely and, in many ways, financially harder, because the person is still alive, often still drawing a salary, and the business can't simply replace them the way it could if the role were vacant.
 

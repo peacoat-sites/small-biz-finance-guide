@@ -33,7 +33,7 @@ Here's what the distinction actually looks like in practice.
 
 ## What Each Loan Is Actually Built For
 
-The **SBA 7(a)** is the workhorse. It's the most broadly used SBA loan program, and the reason is flexibility. You can use it to buy equipment, cover [working capital](/how-to-get-a-small-business-loan/), acquire a business, refinance existing debt, buy real estate, or fund a dozen other things. The SBA caps the loan amount at $5 million. Terms go up to 10 years for most purposes, 25 years if real estate is involved.
+The **SBA 7(a)** is the workhorse. It's the most broadly used SBA loan program, and the reason is flexibility. You can use it to buy equipment, cover working capital, acquire a business, refinance existing debt, buy real estate, or fund a dozen other things. The SBA caps the loan amount at $5 million. Terms go up to 10 years for most purposes, 25 years if real estate is involved.
 
 The **SBA 504** has one job: fixed assets. Specifically, owner-occupied commercial real estate and large equipment. You're buying a building you'll operate out of, or a $400,000 CNC machine, or both. You cannot use a 504 for working capital. You cannot use it to buy a business. It's purpose-built, and that constraint is a feature, not a bug, because the tradeoff is a significantly lower rate on a very large, long-term asset.
 

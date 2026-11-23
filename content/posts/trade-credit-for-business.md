@@ -78,7 +78,7 @@ Most small business owners treat trade credit like an accident waiting to happen
 
 The [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed) has guidance on keeping business and personal finances separate. Here's why it matters for credit: suppliers and lenders look at your business as its own entity. If business and personal money are mixed together, you can't build a business credit profile that stands alone. Separate checking. Separate EIN. Everything in the business name.
 
-Then it's systematic: Open accounts with suppliers you already use and ask for terms. Pay every invoice before or on the due date. Add two or three more trade accounts over time. Make sure at least some suppliers report to commercial bureaus. Check your Dun & Bradstreet and [Experian Business](/experian-business-credit/) profiles every six months for errors.
+Then it's systematic: Open accounts with suppliers you already use and ask for terms. Pay every invoice before or on the due date. Add two or three more trade accounts over time. Make sure at least some suppliers report to commercial bureaus. Check your Dun & Bradstreet and Experian Business profiles every six months for errors.
 
 Mike Michalowicz's *Profit First* (available on [Amazon](https://amzn.to/3example), note: affiliate link) doesn't cover trade credit specifically but teaches solid cash management habits that make trade credit work better in practice.
 

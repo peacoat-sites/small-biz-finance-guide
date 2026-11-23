@@ -27,7 +27,7 @@ faqs:
 
 If you pay a freelancer, [independent contractor](/independent-contractor-vs-employee/), or unincorporated service provider $600 or more in a calendar year, you're required to report that payment to the IRS using Form 1099-NEC. Miss the deadline or skip the form entirely and you're looking at penalties that stack up fast. That's the short version.
 
-The longer version matters because the rules around who gets a 1099-NEC, what counts toward the $600 threshold, and how to actually file the form trip up a lot of [small business owners](/sba-loans-now-require-100-us-citizenship-what-small-business-owners-mu/) every year. Let's get into it.
+The longer version matters because the rules around who gets a 1099-NEC, what counts toward the $600 threshold, and how to actually file the form trip up a lot of small business owners every year. Let's get into it.
 
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">File Form 1099-NEC for any unincorporated contractor paid $600+ for services in a calendar year.</li><li style="margin:5px 0">The filing deadline is January 31 for both the contractor copy and the IRS copy.</li><li style="margin:5px 0">Payments to corporations (including S-corps and C-corps) generally don't require a 1099-NEC.</li><li style="margin:5px 0">Collect Form W-9 from every contractor before first payment to avoid missing information at year-end.</li><li style="margin:5px 0">Late filing penalties range from $60 to $310 per form (2026 figures; check IRS.gov for annual updates).</li></ul></div>
@@ -39,7 +39,7 @@ The 1099-NEC covers non-employee compensation paid in the course of your busines
 
 A few categories people get wrong:
 
-Attorneys always get a 1099-NEC if you paid them $600 or more for legal services, even if their firm is incorporated. That's one of the few corporate exceptions. Payments to an LLC depend on how the LLC is taxed: if it's a single-member LLC taxed as a [sole proprietor](/sole-proprietor-vs-llc-for-a-small-business/), it needs a 1099-NEC. If it's taxed as an S-corp or C-corp, it generally doesn't.
+Attorneys always get a 1099-NEC if you paid them $600 or more for legal services, even if their firm is incorporated. That's one of the few corporate exceptions. Payments to an LLC depend on how the LLC is taxed: if it's a single-member LLC taxed as a sole proprietor, it needs a 1099-NEC. If it's taxed as an S-corp or C-corp, it generally doesn't.
 
 You can verify these distinctions on [the IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed), where the instructions for Form 1099-NEC are available directly.
 

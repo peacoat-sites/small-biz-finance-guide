@@ -25,7 +25,7 @@ faqs:
     a: "Optionally. Names and faces can help some teams stay oriented to a human when making decisions. They can also make a persona feel more real than the evidence justifies, which is a subtle risk. Use them if they help your team; don't mistake the name for the insight."
 ---
 
-Most [small business owners](/the-new-2000-1099-threshold-what-small-businesses-must-do-now/) skip customer personas entirely, or they build one vague profile called something like "busy professional, 35-45" and assume that's enough. It isn't. A well-constructed persona is the difference between marketing that converts and marketing that burns budget.
+Most small business owners skip customer personas entirely, or they build one vague profile called something like "busy professional, 35-45" and assume that's enough. It isn't. A well-constructed persona is the difference between marketing that converts and marketing that burns budget.
 
 A customer persona is a research-based profile of your ideal customer: who they are, what they're trying to accomplish, what's standing in their way, and how they make buying decisions. Done right, it shapes your pricing, your messaging, your product priorities, and your sales approach. Done poorly, it's a fiction you wrote about yourself.
 

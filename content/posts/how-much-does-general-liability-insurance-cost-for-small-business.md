@@ -46,7 +46,7 @@ The "$500 to $1,500" figure isn't false. It's just doing too much work. That ran
 
 Here's how I'd actually break it down:
 
-A solo consultant or freelancer in a low-risk field (marketing, writing, bookkeeping) genuinely finds solid coverage for $400 to $700 a year. Sometimes less if you bundle it into a [business owner's policy](/small-business-insurance-requirements/).
+A solo consultant or freelancer in a low-risk field (marketing, writing, bookkeeping) genuinely finds solid coverage for $400 to $700 a year. Sometimes less if you bundle it into a business owner's policy.
 
 Retail shops with foot traffic typically run $800 to $2,000 a year. Square footage, inventory value, and location all move that needle.
 

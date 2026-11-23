@@ -28,7 +28,7 @@ faqs:
 
 Most people ask this question when they're about 48 hours into setting up their LLC and suddenly realize they don't know what an EIN actually is, let alone whether they need one. You've got the state filing done, or maybe you're still waiting on it, and now someone (a bank, an accountant, a YouTube video) has thrown this acronym at you. That's a completely normal place to be. Let me walk you through this the way I'd explain it sitting across from you.
 
-An EIN is an Employer Identification Number, issued free by the IRS. Think of it as a Social Security number for your business. Nine digits, formatted like 12-3456789. The IRS uses it to track your business's tax filings. Banks use it to [open business](/business-bank-account-requirements/) accounts. Some vendors require it before they'll pay you. It's not a state-level thing; it's federal, and it's permanent once you get it.
+An EIN is an Employer Identification Number, issued free by the IRS. Think of it as a Social Security number for your business. Nine digits, formatted like 12-3456789. The IRS uses it to track your business's tax filings. Banks use it to open business accounts. Some vendors require it before they'll pay you. It's not a state-level thing; it's federal, and it's permanent once you get it.
 
 Here's the short version before we go deeper: you probably need one, even if you think you don't.
 
@@ -46,7 +46,7 @@ On paper, that's fine. In practice, it creates problems.
 
 I used to tell clients this was optional for solo LLCs. I was wrong, and I figured that out the hard way after a client of mine had her business account application rejected three times because she'd been giving vendors her SSN, which flagged the account setup as a potential identity risk. Small moment. Expensive lesson.
 
-Here's what actually happens in the real world. Nearly every bank, credit union, and business payment platform will ask for an EIN when you try to open a business account. Chase, Bank of America, Mercury, Relay, even your local community bank. They want that number. Some will technically accept an SSN for a sole proprietor, but an LLC is not a [sole proprietorship](/llc-vs-sole-proprietorship-taxes/), even a single-member one. The bank's compliance department often treats them differently, and without an EIN, you can get stuck in a documentation loop that wastes weeks.
+Here's what actually happens in the real world. Nearly every bank, credit union, and business payment platform will ask for an EIN when you try to open a business account. Chase, Bank of America, Mercury, Relay, even your local community bank. They want that number. Some will technically accept an SSN for a sole proprietor, but an LLC is not a sole proprietorship, even a single-member one. The bank's compliance department often treats them differently, and without an EIN, you can get stuck in a documentation loop that wastes weeks.
 
 There's also the identity exposure angle. Every time you hand your SSN to a vendor, a contractor, or a client who needs to issue you a 1099, you're spreading around the most sensitive number you have. An EIN lets you compartmentalize. Give the EIN to business contacts, keep the SSN for tax filings where it belongs.
 

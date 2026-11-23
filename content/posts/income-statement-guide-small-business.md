@@ -1,5 +1,5 @@
 ---
-title: "How to Read Your Income Statement Like a Pro"
+title: "Income Statement Guide for Small Business Owners"
 date: 2026-05-29T05:53:21.727812+00:00
 draft: false
 description: "Learn how to read and create an income statement for your small business. Track revenue, expenses, and profit to make smarter financial decisions today."

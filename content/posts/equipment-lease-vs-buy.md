@@ -26,7 +26,7 @@ faqs:
     a: "This depends on cash position and equipment type. For a new business with limited cash reserves leasing technology or specialized equipment, leasing can make sense short-term. But don't let low monthly payments mask the total cost. If the equipment is core to your operations and will last 7+ years, financing a purchase is usually cheaper over time."
 ---
 
-Most [business owners](/business-owners-policy-bop/) treat the lease-vs-buy decision like a coin flip, or worse, they just do whatever their equipment vendor suggests. That's how you end up with a five-year operating lease on a $12,000 piece of machinery that you could've owned outright by month 19.
+Most business owners treat the lease-vs-buy decision like a coin flip, or worse, they just do whatever their equipment vendor suggests. That's how you end up with a five-year operating lease on a $12,000 piece of machinery that you could've owned outright by month 19.
 
 Here's the number that should reset your assumptions: according to the Equipment Leasing and Finance Association (ELFA), roughly 79% of U.S. companies use some form of [equipment financing](/equipment-financing-explained/), including leasing. That's not surprising by itself. What's surprising is how many of those businesses never ran the actual math before signing. They leased because "it keeps cash flowing," without ever checking whether the total lease cost was 30% or 60% higher than just buying the thing.
 
@@ -36,7 +36,7 @@ Let me fix that.
 
 ## The Two Types of Leases (and Why Most People Confuse Them)
 
-There's an operating lease and a finance lease (what used to be called a capital lease before ASC 842 changed the accounting rules). Most [small business owners](/sba-loans-now-require-100-us-citizenship-what-small-business-owners-mu/) don't know the difference. The distinction is easy to miss without a close read of the agreement.
+There's an operating lease and a finance lease (what used to be called a capital lease before ASC 842 changed the accounting rules). Most small business owners don't know the difference. The distinction is easy to miss without a close read of the agreement.
 
 An **operating lease** means you're essentially renting. You use the equipment, make payments, and at the end of the term, you return it or renew. The asset doesn't show up as something you own on your balance sheet. For a lot of small businesses, this is attractive because it keeps debt ratios cleaner if you're trying to qualify for other financing.
 

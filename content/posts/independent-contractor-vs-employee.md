@@ -1,5 +1,5 @@
 ---
-title: "Why Misclassifying Workers Costs Your Business"
+title: "Independent Contractor vs Employee: Why Misclassifying Costs You"
 date: 2026-05-18T18:24:36.645302+00:00
 draft: false
 description: "Independent contractors and employees have different legal classifications, tax obligations, and benefits. Learn the key differences to determine your employmen"
@@ -89,7 +89,7 @@ Use this as a quick gut check, not a legal determination. If half the "employee"
 
 ## What Happens When You Get It Wrong
 
-Misclassification penalties aren't slaps on the wrist. If the IRS determines you should have been withholding taxes and weren't, you can be held liable for the employee's share of income tax withholding, the employee and employer share of Social Security and Medicare taxes, plus interest and penalties. In egregious cases, particularly where the IRS believes [misclassification was willful](/misclassification-penalties-irs/), penalties can be significantly steeper.
+Misclassification penalties aren't slaps on the wrist. If the IRS determines you should have been withholding taxes and weren't, you can be held liable for the employee's share of income tax withholding, the employee and employer share of Social Security and Medicare taxes, plus interest and penalties. In egregious cases, particularly where the IRS believes misclassification was willful, penalties can be significantly steeper.
 
 The Department of Labor can also pursue unpaid overtime and minimum wage claims if workers who should have been employees were denied those protections. And at the state level, unemployment insurance agencies run their own audits. A single complaint from a disgruntled worker who files for unemployment and gets denied because they were labeled a contractor can trigger a full audit of your worker classifications.
 

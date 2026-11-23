@@ -26,7 +26,7 @@ faqs:
     a: "Not necessarily every month, but you do need activity. An account with zero purchases in six months often won't report anything useful, and some vendors will close inactive accounts. A small, genuine purchase every 30 to 60 days is enough to keep most accounts current and reporting. Don't manufacture fake purchases; just route real supply needs through these accounts."
 ---
 
-Sixty-two percent of [small businesses](/the-new-2000-1099-threshold-what-small-businesses-must-do-now/) that fail cite cash flow problems as a primary cause, according to a U.S. Bank study that's been cited so many times it's practically wallpaper in CFO circles. What almost nobody talks about is how many of those cash flow problems could have been partially addressed with something as unsexy as a vendor credit account.
+Sixty-two percent of small businesses that fail cite cash flow problems as a primary cause, according to a U.S. Bank study that's been cited so many times it's practically wallpaper in CFO circles. What almost nobody talks about is how many of those cash flow problems could have been partially addressed with something as unsexy as a vendor credit account.
 
 I've set up net 30 accounts for dozens of clients over the years, and the ones who use them strategically treat them like a silent line of credit that never shows up on a bank statement. The ones who ignore them are usually the same ones calling me in October wondering why their Q3 cash position looks like it got hit by a truck.
 

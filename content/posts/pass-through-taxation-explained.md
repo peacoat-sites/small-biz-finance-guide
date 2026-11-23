@@ -26,7 +26,7 @@ faqs:
     a: "Not legally required for a sole prop, but practically, yes, absolutely. Commingling funds makes bookkeeping a nightmare, and if you're ever audited, having clean records tied to a dedicated business account is the single easiest way to substantiate your deductions. I've never met an accountant who disagrees on this."
 ---
 
-Most [small business owners](/sba-loans-now-require-100-us-citizenship-what-small-business-owners-mu/) I've met think pass-through taxation is some kind of loophole. It's not. It's just how the default tax system works for the majority of American businesses, and misunderstanding it has cost people real money.
+Most small business owners I've met think pass-through taxation is some kind of loophole. It's not. It's just how the default tax system works for the majority of American businesses, and misunderstanding it has cost people real money.
 
 A common misconception is that business income requires a separate tax form or treatment. In fact, [business income](/qualified-business-income-deduction/) flows directly onto your personal return. This catches many owners off guard, and a quick explanation often leaves them confused about the actual tax bill coming. Understanding how this works matters.
 
@@ -40,7 +40,7 @@ Not all entities work the same way here, and the differences matter more than mo
 
 Sole proprietorships are the simplest case. You file a Schedule C with your Form 1040, your net profit shows up as income, and that's that. Partnerships file a Form 1065, then issue each partner a Schedule K-1 showing their share of profit, loss, credits, and deductions. LLCs are a chameleon: by default a single-member LLC is taxed like a sole prop, a multi-member LLC is taxed like a partnership, and either can elect S-corp status with the IRS. S-corporations file Form 1120-S and also issue K-1s.
 
-C-corporations are the exception. They pay corporate income tax at the entity level (currently a flat 21% federal rate), and then shareholders pay tax again on dividends. That's the famous "double taxation" you hear about. Most small [business owners](/the-new-2000-1099-threshold-what-small-businesses-must-do-now/) want nothing to do with it, and for good reason.
+C-corporations are the exception. They pay corporate income tax at the entity level (currently a flat 21% federal rate), and then shareholders pay tax again on dividends. That's the famous "double taxation" you hear about. Most small business owners want nothing to do with it, and for good reason.
 
 Here's a quick comparison of how pass-through structures differ in practice:
 

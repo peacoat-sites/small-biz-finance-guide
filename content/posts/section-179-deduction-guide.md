@@ -55,7 +55,7 @@ What this means practically: if your business is in a down year, or if you're a 
 
 You'll file IRS Form 4562 with your tax return. That's where all depreciation and amortization gets reported, and Section 179 goes in Part I.
 
-The practical process: First, confirm the property qualifies and was placed in service during the tax year. Second, calculate your business taxable income to make sure you don't hit the income limitation. Third, decide whether to take the full Section 179 deduction, take a partial amount, or mix it with [bonus depreciation](/small-business-tax-deductions/). Fourth, complete Form 4562 and attach it to your business return (Schedule C, Form 1065 for a partnership, or Form 1120-S for an S-corp).
+The practical process: First, confirm the property qualifies and was placed in service during the tax year. Second, calculate your business taxable income to make sure you don't hit the income limitation. Third, decide whether to take the full Section 179 deduction, take a partial amount, or mix it with bonus depreciation. Fourth, complete Form 4562 and attach it to your business return (Schedule C, Form 1065 for a partnership, or Form 1120-S for an S-corp).
 
 If you use QuickBooks or Xero, you'll still need to manually enter fixed assets and flag them for Section 179 treatment. The software doesn't know what you want unless you tell it. A lot of business owners skip this step and wonder why their numbers look wrong at year-end.
 

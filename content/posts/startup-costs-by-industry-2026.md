@@ -30,7 +30,7 @@ They look at a spreadsheet that says "Equipment: $5,000" or "Inventory: $20,000"
 
 Working capital isn't flashy. It's not equipment or a website. It's just... existing. Rent, utilities, food, loan payments, health insurance. The stuff that costs money regardless of whether you sold anything this month.
 
-This guide breaks down real startup costs by industry, using [SBA data](/best-small-business-grants-for-startups-2026/). But more importantly, it shows you the difference between "what it costs to launch" and "what it costs to survive until profitability."
+This guide breaks down real startup costs by industry, using SBA data. But more importantly, it shows you the difference between "what it costs to launch" and "what it costs to survive until profitability."
 
 {{< startup-costs >}}
 
@@ -50,7 +50,7 @@ You need cash to cover your personal expenses while the business ramps. Here's t
 - Month 1-2: Zero revenue (you're still pitching). Burn rate: $2,000/month personal expenses
 - Month 3: First client signed. Revenue starts in month 4
 - Month 4-6: Revenue ramps slowly, $3,000, $5,000, $7,000
-- What breaks most people: They hit month 3 out of cash because [working capital](/break-even-calculator/) wasn't in the budget
+- What breaks most people: They hit month 3 out of cash because working capital wasn't in the budget
 
 **Working capital you actually need:** 6-12 months of personal burn rate = $12,000-$24,000
 

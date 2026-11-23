@@ -1,5 +1,5 @@
 ---
-title: "Pricing Your Products Without Leaving Money On The Table"
+title: "Pricing Strategy for Small Business Without Leaving Money Behind"
 date: 2026-05-26T18:50:00.085298+00:00
 draft: false
 description: "Discover proven pricing strategies for small businesses to boost profits, attract customers, and stay competitive. Learn how to set the right prices for growth."

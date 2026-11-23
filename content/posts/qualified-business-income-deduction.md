@@ -1,5 +1,5 @@
 ---
-title: "Maximize Your QBI Deduction: A Small Business Guide"
+title: "Qualified Business Income Deduction: How to Maximize Your QBI"
 date: 2026-06-12T23:06:02.378135+00:00
 draft: false
 description: "Learn how the qualified business income deduction lets eligible self-employed and small business owners deduct up to 20% of QBI to reduce their federal tax bill"
@@ -64,7 +64,7 @@ A common source of confusion: a business can have an SSTB component and a non-SS
 
 ## How to Actually Calculate It
 
-Start with your qualified business income. That's your net profit from the business, minus things like [self-employment tax deductions](/payroll-tax-obligations-small-business/), self-employed health insurance, and SEP-IRA contributions. Those adjustments reduce QBI, which reduces the deduction. Counterintuitive but that's the rule.
+Start with your qualified business income. That's your net profit from the business, minus things like self-employment tax deductions, self-employed health insurance, and SEP-IRA contributions. Those adjustments reduce QBI, which reduces the deduction. Counterintuitive but that's the rule.
 
 Multiply QBI by 20%. That's your preliminary deduction.
 

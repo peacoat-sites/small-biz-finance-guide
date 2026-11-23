@@ -56,7 +56,7 @@ The calculator below lets you enter any factor rate and repayment term to see th
 
 ## How to Use These Results
 
-Once you have your monthly payment figure, run it against your current cash flow. A solid rule: your [total monthly debt payments](/break-even-calculator/) (all business loans combined) should not exceed **10-15% of gross monthly revenue** for a stable business. Fast-growing businesses with predictable revenue can handle higher ratios, but you're taking on more risk when revenue dips.
+Once you have your monthly payment figure, run it against your current cash flow. A solid rule: your total monthly debt payments (all business loans combined) should not exceed **10-15% of gross monthly revenue** for a stable business. Fast-growing businesses with predictable revenue can handle higher ratios, but you're taking on more risk when revenue dips.
 
 If the total interest figure looks high, consider making extra principal payments when cash flow allows. Even one extra payment per year on a 5-year loan can cut months off the term and save hundreds in interest.
 

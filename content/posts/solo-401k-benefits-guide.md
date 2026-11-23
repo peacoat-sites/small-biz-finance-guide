@@ -35,7 +35,7 @@ The Solo 401(k) goes by a few names: individual 401(k), self-employed 401(k), on
 
 Here's the concept: it's a 401(k) plan built specifically for business owners with no employees other than themselves (and optionally, a spouse). What makes it different from every other retirement account available to the self-employed is that you get to contribute as both the employee *and* the employer. Two separate contribution buckets. That's the whole reason the limits crush an IRA.
 
-For 2024, you can contribute up to $23,000 as the "employee" (your elective deferral, same as a W-2 worker would). Then, as the "employer," you add a [profit-sharing contribution](/sep-ira-vs-simple-ira/) of up to 25% of your net self-employment compensation. Combined max? $69,000 for 2024, or $76,500 if you're 50 or older (that $7,500 catch-up contribution). To qualify, you need self-employment income and no full-time employees. Hire someone working more than 1,000 hours a year, and you'd need to offer them a plan too, which changes the math entirely.
+For 2024, you can contribute up to $23,000 as the "employee" (your elective deferral, same as a W-2 worker would). Then, as the "employer," you add a profit-sharing contribution of up to 25% of your net self-employment compensation. Combined max? $69,000 for 2024, or $76,500 if you're 50 or older (that $7,500 catch-up contribution). To qualify, you need self-employment income and no full-time employees. Hire someone working more than 1,000 hours a year, and you'd need to offer them a plan too, which changes the math entirely.
 
 ## The Real Tax Math (Because the Numbers Are Worth Seeing)
 
@@ -48,7 +48,7 @@ Let's say you're a self-employed graphic designer making $120,000 in net income.
 
 What that saves in actual taxes depends on your bracket. Always run these numbers with a CPA first. But at a 24% federal rate, the difference between a $7,000 IRA deduction and a $40,000 Solo 401(k) deduction is roughly $7,920 in federal taxes saved in a single year. Every year.
 
-There's also a [Roth option at many providers](/hsa-for-self-employed/). You contribute after-tax dollars to the employee deferral portion, growth is tax-free, and qualified withdrawals in retirement are tax-free. If you expect to be in a higher bracket later, or you're younger with decades of compounding ahead, the Roth Solo 401(k) deserves serious consideration.
+There's also a Roth option at many providers. You contribute after-tax dollars to the employee deferral portion, growth is tax-free, and qualified withdrawals in retirement are tax-free. If you expect to be in a higher bracket later, or you're younger with decades of compounding ahead, the Roth Solo 401(k) deserves serious consideration.
 
 ## How to Actually Set One Up
 
