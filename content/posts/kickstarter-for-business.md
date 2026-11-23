@@ -84,7 +84,7 @@ Your campaign page should answer these questions without making people scroll fo
 
 Kickstarter funds are taxable income. This is not a gray area. The IRS treats rewards-based crowdfunding as income in the year received, and you're expected to report it. If you raise more than $600 from Kickstarter, you'll receive a 1099-K (the threshold rules have been in flux; check IRS.gov for the current year's reporting threshold). Even if you don't receive a form, you owe tax on the income.
 
-The good news: costs you incur to fulfill the campaign are deductible [business expenses](/what-business-expenses-are-tax-deductible/). Manufacturing, shipping, materials, platform fees all count. Keep records of everything.
+The good news: costs you incur to fulfill the campaign are deductible [business expenses](/small-business-tax-deductions/). Manufacturing, shipping, materials, platform fees all count. Keep records of everything.
 
 Whether your Kickstarter activity is a hobby or a business in the IRS's eyes depends on factors like profit motive, regularity, and whether you depend on it for income. If this is a genuine product launch, you should be operating as a business entity from the start. A properly structured LLC gives you liability protection and cleaner accounting. If you haven't thought through your business structure yet, [this side-by-side comparison of LLC, S-corp, and sole proprietor](/business-structure-comparison/) can help you figure out what fits.
 

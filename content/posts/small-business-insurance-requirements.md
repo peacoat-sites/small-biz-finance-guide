@@ -104,7 +104,7 @@ A basic General Liability policy for a low-risk business (solo consultant, small
 
 These are rough ranges, not guarantees. Get actual quotes for your situation.
 
-One more thing on cost: insurance premiums are a deductible business expense. Make sure you're categorizing them correctly. A good [business expense categories guide](/business-expense-categories-guide/) can help you track these properly so you're not leaving deductions on the table.
+One more thing on cost: insurance premiums are a deductible business expense. Make sure you're categorizing them correctly. A good [business expense categories guide](/small-business-tax-deductions/) can help you track these properly so you're not leaving deductions on the table.
 
 ---
 

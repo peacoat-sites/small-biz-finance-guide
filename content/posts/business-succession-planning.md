@@ -42,7 +42,7 @@ That's not an outlier. That's what happens when there's no plan.
 
 ## What Succession Planning Actually Is (And What It Isn't)
 
-Most people hear "[succession planning](/small-business-exit-strategy-planning/)" and picture a family drama. The oldest kid taking over the hardware store while Dad hovers and second-guesses everything from the sidelines. That's one version. But succession covers any scenario where ownership or leadership changes hands: retirement, death, disability, divorce, a partner buyout, a sale to a competitor, or a strategic exit to a third party. All require a plan. Most require that plan to exist years before the event actually happens.
+Most people hear "[succession planning](/selling-a-small-business-guide/)" and picture a family drama. The oldest kid taking over the hardware store while Dad hovers and second-guesses everything from the sidelines. That's one version. But succession covers any scenario where ownership or leadership changes hands: retirement, death, disability, divorce, a partner buyout, a sale to a competitor, or a strategic exit to a third party. All require a plan. Most require that plan to exist years before the event actually happens.
 
 Here's what catches most owners off guard: succession planning is mostly just valuation work and legal documentation dressed up with a timeline. Know what your business is worth. Decide who gets it or buys it and under what terms. Get the legal structures in place to make that transfer clean and tax-efficient. Then build enough management capacity so the whole thing doesn't collapse the moment you step back.
 

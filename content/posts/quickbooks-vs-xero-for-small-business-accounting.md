@@ -44,7 +44,7 @@ QuickBooks and Xero are the two names you'll hear constantly, and honestly, the 
 
 QuickBooks Online dominates the U.S. market. It's built for businesses working inside an American accounting ecosystem. Xero came out of New Zealand, went global, and built something that actually feels modern, with a slightly different philosophy about how accounting software should work.
 
-Both are cloud-based. Both sync to your bank. Both will spit out a [profit and loss statement](/how-to-read-a-profit-and-loss-statement-for-small-business/), a balance sheet, and a cash flow report. Both have mobile apps that work, more or less. On the surface, they're solving the same problem.
+Both are cloud-based. Both sync to your bank. Both will spit out a [profit and loss statement](/income-statement-guide-small-business/), a balance sheet, and a cash flow report. Both have mobile apps that work, more or less. On the surface, they're solving the same problem.
 
 But surface level is where most comparisons stop, and that's unfair to you.
 

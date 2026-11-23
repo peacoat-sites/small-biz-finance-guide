@@ -38,7 +38,7 @@ OSHA covers almost every private sector employer in the United States, regardles
 
 There's a common misread here. People hear "OSHA compliance" and picture hard hats and construction sites. But OSHA's General Duty Clause applies to every employer. It requires you to provide a workplace free from recognized hazards that are causing or likely to cause death or serious physical harm. That's a broad net, and it catches everything from a slippery floor mat in a restaurant to improperly stored cleaning chemicals in a nail salon.
 
-The specific standards that apply to your business depend on your industry. OSHA organizes requirements into four main sectors: General Industry (the catch-all), Construction, Maritime, and Agriculture. [Most small businesses](/the-obbba-childcare-credit-most-small-businesses-are-ignoring/) fall under General Industry, Title 29 CFR Part 1910. Within that, the standards most likely to trip up small employers are:
+The specific standards that apply to your business depend on your industry. OSHA organizes requirements into four main sectors: General Industry (the catch-all), Construction, Maritime, and Agriculture. [Most small businesses](/the-section-45f-childcare-credit-small-businesses-are-missing/) fall under General Industry, Title 29 CFR Part 1910. Within that, the standards most likely to trip up small employers are:
 
 - **Hazard Communication (HazCom / SDS):** If you use any chemical, you need safety data sheets on file, a written HazCom program, and documented employee training.
 - **Emergency Action Plans:** Required if you have 10 or more employees. Even if you have fewer, it's smart.

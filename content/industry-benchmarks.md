@@ -3,7 +3,7 @@ title: "Small Business Financial Benchmarks by Industry"
 date: 2026-06-10
 slug: "small-business-benchmarks"
 description: "Industry-by-industry profit margins, revenue per employee, and startup costs for 30+ small business types, sourced from SCORE, BizMiner, and RMA data."
-categories: ["Business Finance"]
+categories: ["Financing"]
 author: "David Kim"
 author_slug: "david-kim"
 faqs:

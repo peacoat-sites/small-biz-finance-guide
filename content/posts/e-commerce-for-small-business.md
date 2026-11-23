@@ -25,7 +25,7 @@ faqs:
     a: "Competing on price or speed directly against Amazon is a losing game for most small businesses. The durable advantages are brand story, product quality and differentiation, customer service that feels personal, and community (email list, social following). Customers who care about those things will buy from you specifically."
 ---
 
-Selling online is no longer a growth strategy for [small businesses](/the-obbba-childcare-credit-most-small-businesses-are-ignoring/). For many, it's the difference between staying open and closing. The good news is that getting an e-commerce operation off the ground has never been more accessible or more affordable. The hard part is making smart choices up front, because a bad platform decision or a sloppy checkout setup will cost you far more than whatever you saved by rushing.
+Selling online is no longer a growth strategy for [small businesses](/the-section-45f-childcare-credit-small-businesses-are-missing/). For many, it's the difference between staying open and closing. The good news is that getting an e-commerce operation off the ground has never been more accessible or more affordable. The hard part is making smart choices up front, because a bad platform decision or a sloppy checkout setup will cost you far more than whatever you saved by rushing.
 
 The market today has real options at every price point. Shopify, WooCommerce, BigCommerce, Wix eCommerce, Squarespace Commerce, and Square Online each serve different types of businesses. None is universally best. The right one depends on your product type, your technical comfort level, your expected order volume, and whether you're selling physical goods, digital products, services, or some mix of all three.
 

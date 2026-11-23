@@ -79,7 +79,7 @@ The IRS lays out the self-employed contribution limits clearly in [Publication 5
 
 ## Where the SEP-IRA Still Makes Sense
 
-Don't dismiss it. For some [business owners](/the-new-1099-thresholds-small-business-owners-must-know-in-2026/), the SEP is exactly right.
+Don't dismiss it. For some [business owners](/the-new-2000-1099-threshold-what-small-businesses-must-do-now/), the SEP is exactly right.
 
 If you're making $300,000 or more in net SE income, both plans effectively top out at the same $70,000 ceiling, and the SEP gets you there without the plan document, the Form 5500-EZ once you cross $250K in assets, or the December 31 setup deadline pressure. You also have until your tax filing extension date (typically October 15 for sole proprietors) to open AND fund a SEP-IRA for the prior year. A Solo 401(k) has to be established by December 31 of the year you want to contribute for, even if you fund it later.
 

@@ -93,7 +93,7 @@ If you're pre-revenue and still in the planning stage, SBDCs are arguably most v
 
 **Example:** Assume you're planning a food truck. You project $400,000 in annual revenue, with $280,000 in direct costs (food, supplies, labor) and $80,000 in fixed overhead (permits, insurance, truck payment, commissary kitchen), leaving a projected $40,000 operating profit. An SBDC advisor reviews those numbers with you and flags that your commissary kitchen cost is likely 20-30% higher in your city than what you've modeled, and that your food cost percentage is below industry average for your menu type. That conversation, free, just saved you from launching with a plan that would have put you in the red by month six.
 
-If you're already operating and struggling, bring your last 12 months of financials and be honest about what's going wrong. SBDC advisors deal with turnaround situations regularly. A CPA is still essential for tax decisions (always consult one), but an SBDC advisor can help you think through the operational and [cash flow](/cash-flow-management-guide/) side of a difficult stretch.
+If you're already operating and struggling, bring your last 12 months of financials and be honest about what's going wrong. SBDC advisors deal with turnaround situations regularly. A CPA is still essential for tax decisions (always consult one), but an SBDC advisor can help you think through the operational and [cash flow](/how-to-improve-cash-flow-in-a-small-business/) side of a difficult stretch.
 
 ## Sources
 

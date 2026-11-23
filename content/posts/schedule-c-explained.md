@@ -44,7 +44,7 @@ The businesses that belong on Schedule C: sole proprietors, freelancers, indepen
 
 ## The Expenses Section Is Where Most People Leave Money Behind
 
-Part II of Schedule C has 28 numbered lines covering specific [expense categories](/business-expense-categories-guide/). People tend to fill in the obvious ones (advertising, supplies) and ignore the ones that feel uncertain. That's a mistake.
+Part II of Schedule C has 28 numbered lines covering specific [expense categories](/small-business-tax-deductions/). People tend to fill in the obvious ones (advertising, supplies) and ignore the ones that feel uncertain. That's a mistake.
 
 Here are the categories that most self-employed people underuse:
 
@@ -70,7 +70,7 @@ This table covers the ones that actually move the needle for most self-employed 
 | Software subscriptions | Line 18 | Mixing personal/business | Only the business-use portion is deductible |
 | Retirement contributions (SEP-IRA) | Not on Sch. C | Putting it on Schedule C | Goes on Form 1040 as an above-the-line deduction |
 
-Health insurance and SEP-IRA contributions catch people every time. They feel like [business expenses](/what-business-expenses-are-tax-deductible/). They are not Schedule C deductions. They reduce your adjusted gross income on the 1040, which is still great, just in a different place.
+Health insurance and SEP-IRA contributions catch people every time. They feel like [business expenses](/small-business-tax-deductions/). They are not Schedule C deductions. They reduce your adjusted gross income on the 1040, which is still great, just in a different place.
 
 ## How the Math Actually Works: Three Scenarios
 

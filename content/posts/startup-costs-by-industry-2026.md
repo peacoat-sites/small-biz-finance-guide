@@ -50,7 +50,7 @@ You need cash to cover your personal expenses while the business ramps. Here's t
 - Month 1-2: Zero revenue (you're still pitching). Burn rate: $2,000/month personal expenses
 - Month 3: First client signed. Revenue starts in month 4
 - Month 4-6: Revenue ramps slowly, $3,000, $5,000, $7,000
-- What breaks most people: They hit month 3 out of cash because [working capital](/break-even-analysis-explained/) wasn't in the budget
+- What breaks most people: They hit month 3 out of cash because [working capital](/break-even-calculator/) wasn't in the budget
 
 **Working capital you actually need:** 6-12 months of personal burn rate = $12,000-$24,000
 

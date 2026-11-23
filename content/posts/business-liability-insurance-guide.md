@@ -132,7 +132,7 @@ The range is genuinely wide. A freelance consultant might pay a few hundred doll
 
 For most small service businesses, general liability is often more affordable than owners expect. The conversation is worth having. Even a meritless lawsuit costs tens of thousands in legal defense before anything gets decided. That rarely compares to the cost of a policy.
 
-If cash flow is tight, [managing your cash flow more effectively](/cash-flow-management-guide/) may help you find room for coverage that protects everything you've built. A policy you can afford and maintain beats a higher-limit policy you cancel when things slow down.
+If cash flow is tight, [managing your cash flow more effectively](/how-to-improve-cash-flow-in-a-small-business/) may help you find room for coverage that protects everything you've built. A policy you can afford and maintain beats a higher-limit policy you cancel when things slow down.
 
 For further reading, [Business Insurance for Dummies](https://www.amazon.com/s?k=business+insurance+for+small+business) on Amazon is a practical starting point (the site may earn a commission on qualifying purchases). Always consult a licensed insurance broker and a CPA when making coverage decisions and discussing the tax treatment of your premiums.
 

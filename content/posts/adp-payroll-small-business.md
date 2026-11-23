@@ -69,7 +69,7 @@ The setup process is more involved than competitors like Gusto, but it's managea
 
 For example, a retail shop owner switching from manual Excel payroll might gather their EIN, state tax IDs, prior-year W-2s, employee I-9s, and bank account info before calling ADP, and could complete setup in about 3 hours across two sessions, with the first payroll running within 10 days of signing.
 
-The single biggest setup mistake businesses make is not having their state payroll tax account numbers ready. ADP needs these to file on your behalf. If you don't have them (because you're new or you've never set up payroll before), you'll need to apply with your state's department of labor first. That process can take 2-4 weeks, so don't assume you can start payroll next week if you're [starting from scratch](/how-to-set-up-payroll-for-small-business-first-employee/).
+The single biggest setup mistake businesses make is not having their state payroll tax account numbers ready. ADP needs these to file on your behalf. If you don't have them (because you're new or you've never set up payroll before), you'll need to apply with your state's department of labor first. That process can take 2-4 weeks, so don't assume you can start payroll next week if you're [starting from scratch](/payroll-basics-small-business/).
 
 A few things you'll need on hand:
 - Your federal EIN (Employer Identification Number)

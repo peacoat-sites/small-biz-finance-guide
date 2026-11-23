@@ -28,7 +28,7 @@ faqs:
 
 Most people ask this question when they're about 48 hours into setting up their LLC and suddenly realize they don't know what an EIN actually is, let alone whether they need one. You've got the state filing done, or maybe you're still waiting on it, and now someone (a bank, an accountant, a YouTube video) has thrown this acronym at you. That's a completely normal place to be. Let me walk you through this the way I'd explain it sitting across from you.
 
-An EIN is an Employer Identification Number, issued free by the IRS. Think of it as a Social Security number for your business. Nine digits, formatted like 12-3456789. The IRS uses it to track your business's tax filings. Banks use it to [open business](/how-to-open-a-business-bank-account-online-for-startup/) accounts. Some vendors require it before they'll pay you. It's not a state-level thing; it's federal, and it's permanent once you get it.
+An EIN is an Employer Identification Number, issued free by the IRS. Think of it as a Social Security number for your business. Nine digits, formatted like 12-3456789. The IRS uses it to track your business's tax filings. Banks use it to [open business](/business-bank-account-requirements/) accounts. Some vendors require it before they'll pay you. It's not a state-level thing; it's federal, and it's permanent once you get it.
 
 Here's the short version before we go deeper: you probably need one, even if you think you don't.
 

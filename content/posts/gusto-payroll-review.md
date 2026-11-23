@@ -26,7 +26,7 @@ faqs:
     a: "You can void and rerun a payroll for the same pay period if you catch it quickly (before it processes). If direct deposit has already hit, you'll need to submit a correction run, which may involve additional fees and a brief support conversation. Gusto's error correction process is genuinely better than most platforms I've worked with, but it's still worth double-checking before you hit submit."
 ---
 
-Most payroll software promises to make your life easier and then quietly makes it harder. Gusto is genuinely different, and I say that having spent years helping [small business owners](/the-new-1099-thresholds-small-business-owners-must-know-in-2026/) untangle payroll nightmares caused by platforms that oversold and underdelivered.
+Most payroll software promises to make your life easier and then quietly makes it harder. Gusto is genuinely different, and I say that having spent years helping [small business owners](/the-new-2000-1099-threshold-what-small-businesses-must-do-now/) untangle payroll nightmares caused by platforms that oversold and underdelivered.
 
 If you're reading this, you're probably a [small business owner](/best-retirement-plan-for-small-business-owner-solo-401k-vs-sep-ira/) who just hired your first W-2 employee, or you're tired of your current payroll system eating up hours every pay period, or someone told you to "just use Gusto" and you want to know if that's actually good advice. You're in the right place. Let me give you the real picture.
 

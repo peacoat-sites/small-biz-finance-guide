@@ -56,7 +56,7 @@ A lot of owners hire reactively. They're overwhelmed, revenue is up, so they bri
 
 Before hiring, it is wise to have at least three to six months of that employee's total cost in accessible cash or a confirmed line of credit. Total cost means more than just wages. Payroll taxes, [workers' compensation insurance](/flsa-compliance-small-business/), benefits if you offer them, and the time you'll spend training add real weight to that number. The fully loaded cost of an employee is typically 1.25 to 1.4 times their base wage, and that's a conservative estimate.
 
-Take a hard look at your [cash flow management](/cash-flow-management-guide/) before you commit. If your numbers are inconsistent or you're not sure what's actually coming in versus going out, that's the first thing to fix.
+Take a hard look at your [cash flow management](/how-to-improve-cash-flow-in-a-small-business/) before you commit. If your numbers are inconsistent or you're not sure what's actually coming in versus going out, that's the first thing to fix.
 
 Also ask yourself: is this person going to generate revenue, save you time that you'll convert to revenue, or just cost money? All three can be valid. But you should know the answer before you sign an offer letter.
 
@@ -119,7 +119,7 @@ Payroll taxes are deposited on a schedule set by the IRS, either monthly or semi
 
 Use payroll software from day one. Tools like Gusto, QuickBooks Payroll, or ADP handle withholding calculations, tax deposits, and year-end W-2 forms automatically. The cost is modest compared to the time and error risk of doing it manually. For the mechanics in plain English, our [payroll basics for small business](/payroll-basics-small-business/) guide breaks it down.
 
-One more thing: as a business owner, your own estimated tax situation may shift once you're an employer. If you're not already filing quarterly, now's the time to get that sorted out. [Quarterly estimated taxes for small businesses](/quarterly-estimated-taxes-small-business/) covers what you need to know.
+One more thing: as a business owner, your own estimated tax situation may shift once you're an employer. If you're not already filing quarterly, now's the time to get that sorted out. [Quarterly estimated taxes for small businesses](/how-to-calculate-quarterly-estimated-taxes-for-self-employed/) covers what you need to know.
 
 ---
 
@@ -129,9 +129,9 @@ Hiring someone without clean financial systems underneath you is like building a
 
 If you haven't already separated your business and personal finances completely, do that before anything else. Commingling personal and business money makes payroll reconciliation a nightmare, clouds your actual labor costs, and can cause real problems if you're ever audited. Our guide on [how to separate your business and personal finances](/how-to-separate-business-personal-finances/) walks you through exactly how to set that up.
 
-You'll also want crystal-clear expense tracking. Once you're paying wages, payroll taxes, and benefits, those costs need to be properly categorized. A well-organized [business expense categories guide](/business-expense-categories-guide/) will help you capture everything correctly and make tax season significantly less painful.
+You'll also want crystal-clear expense tracking. Once you're paying wages, payroll taxes, and benefits, those costs need to be properly categorized. A well-organized [business expense categories guide](/small-business-tax-deductions/) will help you capture everything correctly and make tax season significantly less painful.
 
-Consider what hiring does to your business credit profile. If you plan to hire more people over time or eventually need a line of credit to cover payroll during slow periods, your business credit history matters. Building it now, before you need it, is a smart move. Take a look at the [how to build your business credit score](/business-credit-score-how-to-build/) resource to understand where to start.
+Consider what hiring does to your business credit profile. If you plan to hire more people over time or eventually need a line of credit to cover payroll during slow periods, your business credit history matters. Building it now, before you need it, is a smart move. Take a look at the [how to build your business credit score](/business-credit-building-tips/) resource to understand where to start.
 
 SCORE's mentorship resources at [score.org](https://www.score.org/) offer free guidance from experienced business advisors who've helped thousands of owners through exactly this stage.
 

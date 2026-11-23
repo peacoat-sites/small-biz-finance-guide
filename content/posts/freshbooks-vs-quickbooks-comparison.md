@@ -26,7 +26,7 @@ faqs:
     a: "FreshBooks Lite at $21/month is hard to beat for a solo operator with straightforward invoicing needs. QuickBooks Solopreneur (their self-employed tier) is a reasonable alternative if you want tighter integration with TurboTax at tax time, but it's more limited on invoicing features than even FreshBooks' entry plan."
 ---
 
-Most [small business owners](/the-new-1099-thresholds-small-business-owners-must-know-in-2026/) spend more time choosing a logo font than choosing their accounting software. Then they pick wrong, migrate six months of data, and lose a weekend they'll never get back.
+Most [small business owners](/the-new-2000-1099-threshold-what-small-businesses-must-do-now/) spend more time choosing a logo font than choosing their accounting software. Then they pick wrong, migrate six months of data, and lose a weekend they'll never get back.
 
 So let me give you the comparison the glossy review sites don't: the one that starts with what the software actually does to your workflow, not which company paid for better placement.
 

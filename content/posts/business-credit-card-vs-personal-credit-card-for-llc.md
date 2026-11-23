@@ -55,7 +55,7 @@ The practical differences between a business credit card and a personal one are 
 
 **What's genuinely different:**
 
-Business cards report your payment history to business credit bureaus (Dun & Bradstreet, Experian Business, Equifax Business) rather than, or in addition to, personal bureaus. Using one consistently helps you build a [business credit profile](/business-credit-score-how-to-build/), which matters later when you want a business loan, a commercial lease, or vendor terms that don't require a personal guarantee. That's a real, long-term benefit that personal cards can't give you.
+Business cards report your payment history to business credit bureaus (Dun & Bradstreet, Experian Business, Equifax Business) rather than, or in addition to, personal bureaus. Using one consistently helps you build a [business credit profile](/business-credit-building-tips/), which matters later when you want a business loan, a commercial lease, or vendor terms that don't require a personal guarantee. That's a real, long-term benefit that personal cards can't give you.
 
 Spending limits on business cards also tend to run higher, and expense management features are usually better. The Amex Business Gold, the Chase Ink series, and Capital One Spark cards all have category bonus structures designed around actual business spending: software, advertising, office supplies, travel. Your personal travel rewards card is probably optimized for dining and hotel stays, not for the $2,000 a month you're spending on Google Ads.
 

@@ -109,7 +109,7 @@ People often ask whether they should factor invoices or just get a line of credi
 
 If you're a newer business, have limited credit history, or your clients are larger companies with long payment terms, factoring might be your only viable option right now. The tradeoff is cost. A line of credit wins on price when you can qualify.
 
-If building your business credit is a longer-term priority, understanding [how to build your business credit score](/business-credit-score-how-to-build/) will eventually open doors to cheaper financing options, including credit lines with better terms. Factoring can serve as a bridge while you build that foundation.
+If building your business credit is a longer-term priority, understanding [how to build your business credit score](/business-credit-building-tips/) will eventually open doors to cheaper financing options, including credit lines with better terms. Factoring can serve as a bridge while you build that foundation.
 
 For businesses considering other funding routes, the guide on [how to get a small business loan](/how-to-get-a-small-business-loan/) covers options that may complement or eventually replace factoring as your financial profile strengthens.
 
@@ -131,7 +131,7 @@ Factoring is a practical solution in specific situations. It's not a fix for fun
 
 Run the math before you commit. If your net margin on a project is 8% and factoring costs you 3%, you've just cut your effective profit by more than a third. That's a real cost. For some businesses it's worth it. For others it's a slow bleed.
 
-Keeping a tight handle on your broader cash flow picture matters here. The [cash flow management guide](/cash-flow-management-guide/) is a solid resource for understanding whether factoring is addressing a structural problem or just masking one.
+Keeping a tight handle on your broader cash flow picture matters here. The [cash flow management guide](/how-to-improve-cash-flow-in-a-small-business/) is a solid resource for understanding whether factoring is addressing a structural problem or just masking one.
 
 ---
 

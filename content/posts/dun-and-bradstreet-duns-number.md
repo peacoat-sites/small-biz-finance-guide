@@ -32,7 +32,7 @@ Let me cut through this whole thing for you.
 
 ## What a DUNS Number Actually Is (and What It's Not)
 
-A DUNS number is a nine-digit identifier assigned by Dun & Bradstreet (D&B) to individual business entities. It stands for Data Universal Numbering System. That's it. It's basically a Social Security number for your business, but for credit and identification purposes in the commercial world, not the tax world. Your EIN handles the IRS side. Your DUNS handles the [business credit](/business-credit-score-how-to-build/) and vendor/government side.
+A DUNS number is a nine-digit identifier assigned by Dun & Bradstreet (D&B) to individual business entities. It stands for Data Universal Numbering System. That's it. It's basically a Social Security number for your business, but for credit and identification purposes in the commercial world, not the tax world. Your EIN handles the IRS side. Your DUNS handles the [business credit](/business-credit-building-tips/) and vendor/government side.
 
 What it is NOT: a government-issued number. A lot of people assume because it's required for federal contracting that it must come from the government. D&B is a private company, and it has been the de facto standard for business identification for decades. The U.S. federal government relied on DUNS numbers as its contractor identification system through 2022, when it transitioned to a new government-managed identifier called the Unique Entity ID (UEI), administered through SAM.gov.
 

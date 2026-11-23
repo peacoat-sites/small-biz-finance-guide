@@ -122,7 +122,7 @@ This isn't meant to scare you away from independent contractors. They're a compl
 
 The key is that the relationship is genuinely arms-length. The contractor runs their own business. They set their rates. They work for others. They control how the work gets done. That's what an independent professional looks like, and working with them is entirely appropriate and often smart.
 
-If you're working with contractors and want to tighten up how you manage the financial side, keep a clean process for tracking payments, issuing 1099s, and organizing contractor records. Your [business expense categories guide](/business-expense-categories-guide/) can help you make sure contractor payments are being tracked and categorized correctly in your books.
+If you're working with contractors and want to tighten up how you manage the financial side, keep a clean process for tracking payments, issuing 1099s, and organizing contractor records. Your [business expense categories guide](/small-business-tax-deductions/) can help you make sure contractor payments are being tracked and categorized correctly in your books.
 
 It's also worth understanding your business entity as you scale. If you're currently a sole proprietor and thinking about growth, the tax and liability implications of how you classify workers intersect directly with your entity structure. The [LLC vs. sole proprietorship tax breakdown](/llc-vs-sole-proprietorship-taxes/) is a useful companion read.
 

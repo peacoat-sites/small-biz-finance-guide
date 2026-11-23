@@ -40,7 +40,7 @@ The IRS breaks self-employment tax into two pieces. Social Security takes 12.4% 
 
 The Social Security wage base is the number most people overlook. If you have a W-2 job on the side *and* freelance income, your W-2 wages count toward that $176,100 cap first. So if your employer already withheld Social Security on $100,000 of W-2 income, you only owe Social Security tax on your first $76,100 of self-employment earnings, not the full amount. Many people with both income types nearly overpay by thousands of dollars without realizing how this cap works.
 
-You calculate SE tax on *net* earnings, not gross revenue. That means your income after [business expenses](/what-business-expenses-are-tax-deductible/). The IRS uses 92.35% of your net profit for the SE tax calculation, which sounds like a weird quirk but it's actually built into the form. It adjusts for the fact that employees don't pay payroll tax on their employer's share.
+You calculate SE tax on *net* earnings, not gross revenue. That means your income after [business expenses](/small-business-tax-deductions/). The IRS uses 92.35% of your net profit for the SE tax calculation, which sounds like a weird quirk but it's actually built into the form. It adjusts for the fact that employees don't pay payroll tax on their employer's share.
 
 ## What You Actually Owe: A Quick Comparison
 

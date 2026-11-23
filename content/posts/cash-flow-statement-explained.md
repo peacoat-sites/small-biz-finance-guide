@@ -27,7 +27,7 @@ lastmod: 2026-11-16T16:00:00Z
 ---
 You can run a profitable business and still bounce a payroll check. A business can look profitable on paper while the bank account runs dry. The P&L looks fine, but then the bank account says otherwise. The culprit, almost every time, is that the owner was watching the wrong number. They were watching profit. They should have been watching cash flow.
 
-The cash flow statement is the financial report that tells you the truth your [income statement](/how-to-read-a-profit-and-loss-statement-for-small-business/) politely avoids.
+The cash flow statement is the financial report that tells you the truth your [income statement](/income-statement-guide-small-business/) politely avoids.
 
 ## What a Cash Flow Statement Actually Is (and Why It's Not the P&L)
 

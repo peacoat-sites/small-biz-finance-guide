@@ -51,7 +51,7 @@ A chart of accounts is simply a list of all the financial "buckets" where transa
 4. **Revenue** - Money coming in from sales or services
 5. **Expenses** - Money going out to operate the business
 
-Most small businesses don't need a complex chart of accounts. A service-based business with 30 to 50 accounts is usually plenty. The mistake I see constantly is over-complicating it. Someone creates 12 different expense categories for marketing, five categories for travel, and then can't figure out why pulling a simple [profit and loss report](/how-to-read-a-profit-and-loss-statement-for-small-business/) takes an hour. Keep it simple enough that you can actually use it.
+Most small businesses don't need a complex chart of accounts. A service-based business with 30 to 50 accounts is usually plenty. The mistake I see constantly is over-complicating it. Someone creates 12 different expense categories for marketing, five categories for travel, and then can't figure out why pulling a simple [profit and loss report](/income-statement-guide-small-business/) takes an hour. Keep it simple enough that you can actually use it.
 
 If you're using [QuickBooks, Xero, or Wave](/quickbooks-vs-xero-for-small-business-accounting/), these platforms give you a default chart of accounts when you set up. You can customize it, but don't gut the structure entirely. The defaults exist for good reason.
 

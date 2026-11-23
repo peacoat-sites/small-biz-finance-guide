@@ -86,7 +86,7 @@ If you haven't set up your EIN yet, the IRS small business tax center at [irs.go
 | Online business checking (Relay, Mercury, Novo) | Startups, remote businesses, SaaS | Often free | No cash deposits, limited physical presence |
 | Business savings account | Any business building a cash reserve | Low or no fees | Not meant for operating funds |
 
-Not all [business checking account](/business-checking-account-comparison/)s are created equal. The "free" account often isn't the best deal once you understand the fee structures.
+Not all [business checking account](/best-business-checking-account-for-llc-no-monthly-fee/)s are created equal. The "free" account often isn't the best deal once you understand the fee structures.
 
 Here's a basic comparison to give you a starting framework:
 

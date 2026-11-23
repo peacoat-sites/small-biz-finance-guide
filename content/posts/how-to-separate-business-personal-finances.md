@@ -87,7 +87,7 @@ Opening the right accounts is step one. Keeping them clean is the ongoing work.
 
 3. **Set a payroll or draw schedule.** Pay yourself on the 1st and 15th, or monthly. Whatever fits your cash flow. The point is consistency. A regular transfer looks intentional. Random withdrawals look like disorganization (or worse, in an audit).
 
-4. **Create a simple expense policy.** Write down what counts as a [business expense versus personal](/business-expense-categories-guide/). If you work from home, what percentage of your internet bill is business? If you take a client to lunch, what do you need to document? These don't need to be elaborate. A one-page document you actually follow is worth more than a 20-page policy you ignore.
+4. **Create a simple expense policy.** Write down what counts as a [business expense versus personal](/small-business-tax-deductions/). If you work from home, what percentage of your internet bill is business? If you take a client to lunch, what do you need to document? These don't need to be elaborate. A one-page document you actually follow is worth more than a 20-page policy you ignore.
 
 5. **Use a dedicated email for business receipts.** Forward or filter every business purchase confirmation into one folder. Takes 30 seconds and saves hours at tax time.
 

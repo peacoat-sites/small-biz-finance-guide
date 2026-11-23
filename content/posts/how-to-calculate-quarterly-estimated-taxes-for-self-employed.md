@@ -63,7 +63,7 @@ Let's do the real math. Say you're a freelance designer who expects to earn $85,
 
 **Step 3: Deduct half of self-employment tax from gross income.** The IRS allows you to deduct half of SE tax as an above-the-line deduction. So: $85,000 minus $6,005.06 (half of $12,010.12) = $78,994.94. This is your adjusted gross income for the purpose of this estimate.
 
-**Step 4: Apply your [standard deduction](/small-business-tax-deductions-checklist-2026/) or itemized deductions.** For 2024, the standard deduction for a single filer is $14,600. So: $78,994.94 minus $14,600 = $64,394.94 in estimated taxable income.
+**Step 4: Apply your [standard deduction](/small-business-tax-deductions/) or itemized deductions.** For 2024, the standard deduction for a single filer is $14,600. So: $78,994.94 minus $14,600 = $64,394.94 in estimated taxable income.
 
 **Step 5: Calculate income tax on that amount.** Using 2024 federal tax brackets for a single filer, the first $11,600 is taxed at 10% ($1,160), income from $11,600 to $47,150 is taxed at 12% ($4,266), and income from $47,150 to $64,394.94 is taxed at 22% ($3,794.89). Total estimated federal income tax: roughly $9,221.
 

@@ -48,7 +48,7 @@ What surprises many business owners is how *similar* the tax treatment actually 
 
 Here's where I want to be precise, because this gets oversimplified constantly.
 
-An LLC creates a legal wall between the business and your personal assets. If someone sues your LLC, they generally can't come after your house or personal savings. That "generally" is doing a lot of work in that sentence. Courts will "pierce the corporate veil" -- go right through your LLC to your personal assets, if you commingle funds, fail to maintain a separate [business bank account](/how-to-open-a-business-bank-account-online-for-startup/), or don't operate the LLC as a distinct entity.
+An LLC creates a legal wall between the business and your personal assets. If someone sues your LLC, they generally can't come after your house or personal savings. That "generally" is doing a lot of work in that sentence. Courts will "pierce the corporate veil" -- go right through your LLC to your personal assets, if you commingle funds, fail to maintain a separate [business bank account](/business-bank-account-requirements/), or don't operate the LLC as a distinct entity.
 
 For example, consider a freelance web developer earning $65K/year in revenue operating as a sole proprietor. A client claimed his work caused a security breach and sued for $210,000. No LLC, no separation, no protection. His personal checking account was fair game. He settled for $47,000 out of pocket. That same scenario with a properly maintained LLC, separate account, annual report filed on time, and his personal assets are off the table.
 

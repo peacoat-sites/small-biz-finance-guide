@@ -38,7 +38,7 @@ Here's the formula:
 > **Break-Even Units = Fixed Monthly Costs ÷ Contribution Margin per Unit**
 > **Contribution Margin = Price per Unit - Variable Cost per Unit**
 
-Say your monthly [fixed costs](/business-expense-categories-guide/) are $5,000. You're selling a product for $45, and it costs $15 to make. Your contribution margin is $30. You need to sell 167 units to break even. Hit 168 and you're profitable. Drop to 166 and you're bleeding money.
+Say your monthly [fixed costs](/small-business-tax-deductions/) are $5,000. You're selling a product for $45, and it costs $15 to make. Your contribution margin is $30. You need to sell 167 units to break even. Hit 168 and you're profitable. Drop to 166 and you're bleeding money.
 
 The **contribution margin percentage** matters just as much. If your CM is 67%, that means 67 cents of every sales dollar goes toward covering fixed costs and profit. High fixed costs paired with a low CM percentage create a brutal math problem: you need massive sales volume just to stop losing money. That's the real trap many businesses fall into.
 
@@ -66,7 +66,7 @@ If you're looking at $1,000 or more in federal taxes for the year, the IRS wants
 
 Start with the SE tax number from the calculator. Add your estimated federal income tax based on your bracket. That's your quarterly payment target. One trick that actually works: open a [separate savings account](/how-to-separate-business-personal-finances/) and move 25-30% of every payment you receive into it immediately. When the quarterly deadline hits, you're not scrambling or short.
 
-More detail on this topic? Check out our guides on [small business tax deductions](/posts/small-business-tax-deductions-guide/) and [bookkeeping basics for entrepreneurs](/posts/bookkeeping-basics-for-small-business/).
+More detail on this topic? Check out our guides on small business tax deductions and bookkeeping basics for entrepreneurs.
 
 ## Disclaimer
 

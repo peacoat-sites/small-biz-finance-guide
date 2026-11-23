@@ -44,7 +44,7 @@ Scenario: Consultant bills $22,000 in December, collects in January. Cash basis 
 
 That volatility matters if you're trying to get a bank loan, bring on a partner, or just understand whether you actually had a good quarter.
 
-The flip side: cash basis tells you something accrual doesn't, which is exactly how much money you have right now. A lot of business owners using accrual have been surprised to find they're "profitable" on paper and broke in their [checking account](/business-checking-account-comparison/). That's a real phenomenon, it has a name (the cash flow paradox), and it bites product businesses especially hard.
+The flip side: cash basis tells you something accrual doesn't, which is exactly how much money you have right now. A lot of business owners using accrual have been surprised to find they're "profitable" on paper and broke in their [checking account](/best-business-checking-account-for-llc-no-monthly-fee/). That's a real phenomenon, it has a name (the cash flow paradox), and it bites product businesses especially hard.
 
 ## The IRS Has Opinions, and They're Non-Negotiable
 

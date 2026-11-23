@@ -5,7 +5,7 @@ lastmod: 2026-11-16T16:00:00Z
 draft: false
 description: "Learn how much of your cell phone expense is tax deductible. Understand the business use percentage rules and documentation requirements for claiming deductions"
 image: "/img/heroes/3782208.jpg"
-categories: ["Tax Deductions"]
+categories: ["Taxes"]
 tags: ["write", "cell", "phone", "business"]
 author: "Rachel Green"
 author_slug: "rachel-green"
@@ -26,9 +26,9 @@ faqs:
     a: "Self-employed individuals and sole proprietors report it on Schedule C, Line 25 (utilities) or as an 'other expense' on Line 48 with a description. S-corp and C-corp owners whose business pays the bill directly expense it on the business return. If you're unsure which form applies to your situation, this is exactly the kind of question worth 30 minutes with a CPA."
 ---
 
-Only about 27% of [small business owners](/the-new-1099-thresholds-small-business-owners-must-know-in-2026/) who are eligible to deduct their cell phone actually do it correctly, according to data compiled by the National Federation of Independent Business. People either skip the deduction entirely because they're not sure they can take it, or they write off 100% of a phone they're clearly using to scroll Instagram half the day, which is a fast way to invite scrutiny.
+Only about 27% of [small business owners](/the-new-2000-1099-threshold-what-small-businesses-must-do-now/) who are eligible to deduct their cell phone actually do it correctly, according to data compiled by the National Federation of Independent Business. People either skip the deduction entirely because they're not sure they can take it, or they write off 100% of a phone they're clearly using to scroll Instagram half the day, which is a fast way to invite scrutiny.
 
-So if you're sitting here wondering whether your cell phone counts as a [business expense](/business-expense-categories-guide/): yes, probably. But the how matters a lot.
+So if you're sitting here wondering whether your cell phone counts as a [business expense](/small-business-tax-deductions/): yes, probably. But the how matters a lot.
 
 Here's the framework I walk every client through, and it starts with one uncomfortable question you actually have to answer honestly.
 
@@ -54,7 +54,7 @@ Worked example: Monthly bill of $89, business use at 65% → $57.85/month deduct
 
 **The device:** If you bought your phone outright, you can either deduct it all in the year of purchase using Section 179 expensing (applied to the business-use percentage), or depreciate it over several years. Most people I advise take Section 179 because they want the deduction now and the math is simpler.
 
-Worked example: iPhone 15 Pro purchased for $1,199, business use at 70% → $839.30 deductible in year of purchase under [Section 179](/how-to-stack-section-179-and-bonus-depreciation-in-2026/). If you financed it through the carrier, things get a bit more complicated and I'd honestly bring that to a CPA (the payments are spread across time, and so is your basis).
+Worked example: iPhone 15 Pro purchased for $1,199, business use at 70% → $839.30 deductible in year of purchase under [Section 179](/how-to-stack-bonus-depreciation-and-section-179-under-the-obbba/). If you financed it through the carrier, things get a bit more complicated and I'd honestly bring that to a CPA (the payments are spread across time, and so is your basis).
 
 **If your business pays the bill directly,** meaning the account is in the business's name and the business pays from its business bank account, you can deduct 100% of that line. This is the cleanest structure. Running a separate business line, even a basic $35/month option, makes the tax treatment completely clean and eliminates estimation.
 

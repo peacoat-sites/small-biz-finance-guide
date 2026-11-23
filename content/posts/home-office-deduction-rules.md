@@ -51,7 +51,7 @@ To actually qualify, the IRS wants you to pass two tests:
 
 **Principal place of business.** Either your home office is where you run the entire operation, or it's where you regularly meet with clients, customers, or patients. The first scenario is straightforward. The second one gets messy fast. If you have a separate commercial office and you also work from home sometimes, you'd need to prove that you use the home office strictly for managing the administrative side and have nowhere else to do it.
 
-I've watched clients [lose this deduction in audits](/irs-audit-triggers-small-business/) simply because they had a second desk at a co-working space they were paying for. Document your situation carefully.
+I've watched clients [lose this deduction in audits](/small-business-audit-risk-factors/) simply because they had a second desk at a co-working space they were paying for. Document your situation carefully.
 
 ---
 
@@ -138,7 +138,7 @@ Here's what goes wrong most often:
 
 **Double-dipping on expenses.** Your internet bill is already fully deducted as a business expense on Schedule C. You can't also include it in the home office calculation. That's one way to get flagged.
 
-If you're paying [quarterly estimated taxes](/quarterly-estimated-taxes-small-business/), the home office deduction affects your net profit and therefore what you owe. If you're not already on top of this, now's the time.
+If you're paying [quarterly estimated taxes](/how-to-calculate-quarterly-estimated-taxes-for-self-employed/), the home office deduction affects your net profit and therefore what you owe. If you're not already on top of this, now's the time.
 
 And because this deduction ties directly to your business structure, it's worth understanding how your entity type affects your taxes. Check out our guide on [LLC vs. sole proprietorship tax differences](/llc-vs-sole-proprietorship-taxes/).
 

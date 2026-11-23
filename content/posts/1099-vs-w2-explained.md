@@ -48,7 +48,7 @@ The difference between a 1099 contractor and a W-2 employee isn't just HR trivia
 
 A W-2 employee works directly for your business. You withhold federal and state income taxes from their paycheck. You pay half their Social Security and Medicare taxes (FICA). You handle unemployment taxes. At year's end, you issue a W-2 showing what got withheld.
 
-A 1099 contractor, formally an independent contractor, owns their own tax situation. You pay them the full amount with no withholding. If you pay them $600 or more in a calendar year, you file a 1099-NEC form with the IRS. They're responsible for both the employee and employer portions of Social Security and Medicare (15.3% on net self-employment income). They also manage their own [quarterly estimated tax payments](/quarterly-estimated-taxes-small-business/) or face underpayment penalties.
+A 1099 contractor, formally an independent contractor, owns their own tax situation. You pay them the full amount with no withholding. If you pay them $600 or more in a calendar year, you file a 1099-NEC form with the IRS. They're responsible for both the employee and employer portions of Social Security and Medicare (15.3% on net self-employment income). They also manage their own [quarterly estimated tax payments](/how-to-calculate-quarterly-estimated-taxes-for-self-employed/) or face underpayment penalties.
 
 Sounds simple. In reality, this confuses people constantly.
 
@@ -121,7 +121,7 @@ Keep the relationships clearly separated. Don't give contractors employee benefi
 
 Clean financial records matter too. If you're mixing business and personal finances, it complicates everything, including payroll taxes and contractor payments. The guide on [how to separate business and personal finances](/how-to-separate-business-personal-finances/) covers the basics if you're still blending accounts.
 
-Stay on top of expense categorization. Contractor payments go in a different category than payroll, and they're deductible as a business expense, but only if the relationship is legitimate. The [business expense categories guide](/business-expense-categories-guide/) helps you record things correctly.
+Stay on top of expense categorization. Contractor payments go in a different category than payroll, and they're deductible as a business expense, but only if the relationship is legitimate. The [business expense categories guide](/small-business-tax-deductions/) helps you record things correctly.
 
 Unsure about a specific worker? The IRS offers Form SS-8, which lets you request an official classification determination. It takes time, but for an ongoing relationship where you genuinely can't decide, it protects you.
 

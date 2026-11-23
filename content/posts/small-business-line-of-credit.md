@@ -51,7 +51,7 @@ Lenders look at a specific set of factors when evaluating your application. Unde
 
 **Annual revenue.** Requirements vary widely. Bank of America and Wells Fargo typically want to see $250,000 or more in annual revenue. Online lenders like Bluevine or OnDeck may work with businesses at $100,000 or lower.
 
-**Credit scores.** Both your personal and business credit scores matter, especially early on when your business doesn't have much credit history of its own. A personal score above 680 puts you in solid position for most products. If you're still building your business credit profile, take a look at [how to build your business credit score](/business-credit-score-how-to-build/) before you apply. A few months of deliberate credit-building can make a real difference in what you're offered.
+**Credit scores.** Both your personal and business credit scores matter, especially early on when your business doesn't have much credit history of its own. A personal score above 680 puts you in solid position for most products. If you're still building your business credit profile, take a look at [how to build your business credit score](/business-credit-building-tips/) before you apply. A few months of deliberate credit-building can make a real difference in what you're offered.
 
 **Cash flow.** Lenders want to see that money actually moves through your accounts consistently. Clean bank statements over the past three to six months matter more than most people realize. This is also why keeping business and personal finances completely separate is non-negotiable. If you haven't done that yet, start with [these steps for separating your business and personal finances](/how-to-separate-business-personal-finances/) first.
 
@@ -106,7 +106,7 @@ It's not meant for long-term capital purchases. Buying a delivery van or a piece
 
 Letting the balance creep up and only paying minimums is another trap. Unlike a term loan that forces you to pay it down, a line of credit gives you flexibility. Some owners abuse that flexibility. If your balance hasn't moved meaningfully in six months, that's a warning sign.
 
-Applying when you're already in trouble is the third big mistake. Lenders smell desperation in your financials. A cash flow crisis, a run of overdrafts, three months of declining revenue, these show up in your bank statements and kill applications. The right time to apply is when your business looks healthy. If you want to understand how to build toward that stronger financial position, the [cash flow management guide](/cash-flow-management-guide/) is one of the better places to start.
+Applying when you're already in trouble is the third big mistake. Lenders smell desperation in your financials. A cash flow crisis, a run of overdrafts, three months of declining revenue, these show up in your bank statements and kill applications. The right time to apply is when your business looks healthy. If you want to understand how to build toward that stronger financial position, the [cash flow management guide](/how-to-improve-cash-flow-in-a-small-business/) is one of the better places to start.
 
 ## Sources & References
 
