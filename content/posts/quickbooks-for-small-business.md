@@ -45,7 +45,7 @@ As of July 2026, QuickBooks offers four main tiers for small businesses. The pri
 
 Intuit almost always runs a promotion (currently 50% off for the first three months), so don't pay sticker price. The "annual billing" discount is another 10% or so.
 
-My honest take: most service-based businesses with under $1 million in revenue belong on Simple Start or Essentials. I tell clients this every week and half of them still convince themselves they need Plus. They don't. The features collecting dust in Plus are inventory tracking and project profitability, neither of which matters if you're a landscaper who doesn't resell products.
+Most service-based businesses with under $1 million in revenue belong on Simple Start or Essentials. The features collecting dust in Plus are inventory tracking and project profitability, neither of which matters if you're a landscaper who doesn't resell products. A service business without product resale doesn't need these tools.
 
 If you sell physical goods with any real volume, skip Essentials entirely and go straight to Plus. Tracking inventory in Essentials is like trying to navigate without a map: technically possible, practically painful.
 

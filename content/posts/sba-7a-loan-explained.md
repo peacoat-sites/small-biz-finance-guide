@@ -122,7 +122,7 @@ The 7(a) is a strong loan for the right situation. It isn't always the right too
 
 If your business is less than two years old, your credit is below 640, or you need money in the next 30 days, the 7(a) isn't where you start. If you have a profitable, documented business and can wait out the timeline, it's one of the most borrower-friendly products available for small businesses.
 
-I tell clients: the SBA 7(a) is the loan you want if you can qualify for it. The question is whether you can, and whether the timing works.
+The SBA 7(a) is the loan to pursue if you can qualify for it. The question is whether you can, and whether the timing works.
 
 For deeper background on business financing structures, Mike Michalowicz's *[Profit First](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X?tag=contentportfo-20)* (Amazon, affiliate link) won't explain SBA lending, but it will help you build the kind of financial foundation that makes lenders say yes.
 
