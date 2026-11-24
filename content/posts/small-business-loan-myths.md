@@ -42,7 +42,7 @@ Yes, credit matters. But most business owners imagine a lender sitting at a maho
 
 The SBA 7(a) program, which is the workhorse of small business lending, has no hard minimum credit score baked into the rules. Individual lenders set their own floors, often 640 or 650, but approvals in the low 600s are possible when the business has 3 years of clean books and stable revenue. The cash flow story can carry a borrower that a raw credit number would have dismissed.
 
-One client I worked with, a landscaping company owner outside Raleigh, got rejected by two regional banks before we repositioned the application around his receivables and 4-year operating history rather than his 618 personal credit score. His SBA-backed loan closed at $175,000. Different angle, same borrower.
+Say a landscaping company owner with a 618 personal credit score is turned down by two regional banks. Repositioning the application around the business's receivables and four-year operating history, rather than the personal score, can change the answer, especially with SBA-backed lenders. Different angle, same borrower.
 
 What actually kills applications isn't a mediocre credit score. It's unpredictable revenue, a recent bankruptcy (different story entirely), or incomplete financials. Fix your books first. Credit is one variable in a multi-variable equation.
 

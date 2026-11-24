@@ -92,7 +92,7 @@ And for anything involving your LLC's tax classification, the S-corp election de
 ## Sources
 
 - [IRS EIN Online Application](https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online): Official IRS tool for applying for an EIN; also source for legal requirements by entity type
-- [IRS Publication 1635](https://www.irs.gov/pub/irs-pdf/p1635.pdf): "Understanding Your EIN" -- covers all entity types and requirement rules
+- [IRS Publication 1635](https://www.irs.gov/pub/irs-pdf/p1635.pdf): "Understanding Your EIN", covers all entity types and requirement rules
 - [SCORE.org](https://www.score.org/): Free small business mentorship and state-by-state registration guidance
 - [Consumer Financial Protection Bureau Small Business Resources](https://www.consumerfinance.gov/): Guidance on business financial accounts and what lenders and banks typically require
 - [IRS Form SS-4 Instructions](https://www.irs.gov/instructions/iss4): Required for foreign-owned LLCs or applicants without a U.S. tax ID

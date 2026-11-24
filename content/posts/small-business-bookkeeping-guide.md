@@ -140,7 +140,7 @@ The software landscape has improved dramatically in the past decade. You no long
 
 One honest note: software won't fix bad habits. The best accounting platform in the world doesn't help if you log in twice a year.
 
-Clean books don't make your business successful on their own, but they give you the clarity to make decisions that do. You can't fix what you can't measure, and you can't measure what you haven't recorded. The businesses that come to me with the worst financial stress almost always have the same thing in common: they ignored the numbers until ignoring them became impossible. You don't have to wait for that moment. Fifteen minutes a week and a monthly close routine are enough to stay ahead of it.
+Clean books don't make your business successful on their own, but they give you the clarity to make decisions that do. You can't fix what you can't measure, and you can't measure what you haven't recorded. Businesses with the worst financial stress almost always share a common problem: they ignored the numbers until ignoring them became impossible. You don't have to wait for that moment. Fifteen minutes a week and a monthly close routine are enough to stay ahead of it.
 
 ## Sources & References
 

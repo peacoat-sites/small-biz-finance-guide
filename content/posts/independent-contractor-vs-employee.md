@@ -35,7 +35,7 @@ This isn't a technicality. The legal and financial gap between these two categor
 
 When someone is your employee, you're responsible for withholding federal and state income taxes, paying your share of Social Security and Medicare taxes (7.65% of wages), paying federal and state unemployment taxes, and potentially providing benefits. You also take on workers' compensation liability in most states. The administrative load alone, from running payroll to filing quarterly 941 forms, is substantial. If you need a solid foundation for all of this, the [payroll basics for small business](/payroll-basics-small-business/) guide covers the mechanics in detail.
 
-An independent contractor handles their own taxes. You pay the full agreed amount, issue a 1099-NEC if you pay them $600 or more in a year, and you're done. No payroll taxes withheld. No unemployment insurance. No workers' comp in most cases. That's why the temptation to classify everyone as a contractor is real. The cost difference per worker can easily run 20 to 30 percent when you factor in all employer-side obligations.
+An independent contractor handles their own taxes. You pay the full agreed amount, issue a 1099-NEC if you pay them $2,000 or more in a year, and you're done. No payroll taxes withheld. No unemployment insurance. No workers' comp in most cases. That's why the temptation to classify everyone as a contractor is real. The cost difference per worker can easily run 20 to 30 percent when you factor in all employer-side obligations.
 
 But here's the catch: the IRS, the Department of Labor, and most state agencies have rules about who qualifies as a contractor. You don't get to decide based on what's cheaper for you.
 

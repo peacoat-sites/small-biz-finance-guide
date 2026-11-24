@@ -86,7 +86,7 @@ Mike Michalowicz's *Profit First* (available on [Amazon](https://amzn.to/3exampl
 
 Stretching terms becomes a crisis faster than you think. Paying on day 29 of net-30 is fine. Hitting day 35 because cash is tight means you're burning a business relationship and your commercial credit profile simultaneously.
 
-I worked with a client who had a $2,200 invoice sitting with a materials supplier she'd used for four years. She let it slip during a slow quarter. The supplier dropped her. She found a new vendor but had to pay cash upfront for six months to rebuild trust and lost all her negotiated pricing. That late payment cost her far more than $2,200.
+A late payment on a $2,200 invoice can have serious consequences. If you let a bill slip during a slow quarter, a supplier may drop you entirely. Finding a new vendor often means paying cash upfront for six months to rebuild trust and losing any negotiated pricing you'd earned. That single late payment can cost far more than the original amount owed.
 
 If you know you're going to be late, call before the invoice is due. Most vendors will work with you if you communicate. Silence is what they won't forgive.
 

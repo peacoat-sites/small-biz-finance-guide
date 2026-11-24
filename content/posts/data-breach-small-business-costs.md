@@ -73,7 +73,7 @@ For non-healthcare businesses, state-level fines are more variable and often mor
 
 You're probably thinking about cyber insurance at this point. Good. Get it. But go in with clear eyes.
 
-Standard business owner policies (BOPs) almost universally exclude data breach costs. I made this mistake myself early in my consulting work: I assumed a BOP with a technology rider covered breach response. It did not. The exclusions are buried, they're specific, and they'll leave you holding the bag at exactly the wrong moment.
+Standard business owner policies (BOPs) almost universally exclude data breach costs. Many business owners assume a BOP with a technology rider covers breach response, but it typically does not. The exclusions are buried, they're specific, and they'll leave you holding the bag at exactly the wrong moment.
 
 [Standalone cyber insurance policies](/cyber-liability-insurance-small-business/) currently (as of July 2026) run roughly $1,500 to $5,000 per year for most small businesses under $5 million in revenue, depending on your industry and how much sensitive data you handle. That range moves significantly if you're in healthcare or financial services. What you want the policy to actually cover: forensic investigation costs, breach notification costs, legal fees, regulatory defense, business interruption, and third-party liability if your clients sue you because their data was in your system. Read the sublimits. Many policies cap forensics at $25,000 when real forensics routinely cost more.
 

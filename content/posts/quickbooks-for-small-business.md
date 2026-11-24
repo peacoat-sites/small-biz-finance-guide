@@ -57,7 +57,7 @@ Your chart of accounts is the skeleton of your books. Every transaction lands so
 
 QuickBooks auto-populates a default chart of accounts when you set up your company. Delete what you don't need. Add what fits your business. The question to ask for every account: "Will I make a business decision based on this number?" If not, cut it.
 
-A concrete example that I see constantly: a retail client came to me in mid-2025 with 23 expense categories, including separate accounts for "pens," "paper," and "printer ink." Her P&L was a mess. We collapsed everything down to seven expense categories, and suddenly she could read her own financials in under five minutes.
+A concrete example: retail businesses often start with 23+ expense categories, including separate accounts for items like "pens," "paper," and "printer ink." This level of detail makes the P&L hard to read. Collapsing everything down to seven expense categories lets a business owner review their own financials in under five minutes.
 
 The [U.S. Small Business Administration (SBA)](https://www.sba.gov/) has basic guidance on financial recordkeeping that's worth reading if you're setting up books for the first time. It won't configure QuickBooks for you, but it'll help you understand what categories the IRS actually cares about.
 

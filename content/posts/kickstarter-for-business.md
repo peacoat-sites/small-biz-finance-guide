@@ -82,7 +82,7 @@ Your campaign page should answer these questions without making people scroll fo
 
 ## Taxes: The Part Nobody Wants to Read
 
-Kickstarter funds are taxable income. This is not a gray area. The IRS treats rewards-based crowdfunding as income in the year received, and you're expected to report it. If you raise more than $600 from Kickstarter, you'll receive a 1099-K (the threshold rules have been in flux; check IRS.gov for the current year's reporting threshold). Even if you don't receive a form, you owe tax on the income.
+Kickstarter funds are taxable income. This is not a gray area. The IRS treats rewards-based crowdfunding as income in the year received, and you're expected to report it. If you raise more than $20,000 from Kickstarter across more than 200 transactions, you'll receive a 1099-K (the threshold rules have been in flux; check IRS.gov for the current year's reporting threshold). Even if you don't receive a form, you owe tax on the income.
 
 The good news: costs you incur to fulfill the campaign are deductible [business expenses](/small-business-tax-deductions/). Manufacturing, shipping, materials, platform fees all count. Keep records of everything.
 

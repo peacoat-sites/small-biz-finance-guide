@@ -54,7 +54,7 @@ Here are the categories that most self-employed people underuse:
 
 **Line 30, Home office deduction:** The home office deduction is allowed, and it's not an automatic audit trigger. You need a space used regularly and exclusively for business. The simplified method: $5 per square foot, maximum 300 square feet, so a maximum deduction of $1,500. The regular method calculates actual costs based on the percentage of your home used for business. If your home office is 12% of your square footage, you can deduct 12% of rent, utilities, and renter's insurance. The regular method usually yields a bigger deduction.
 
-**Depreciation (Line 13 and Form 4562):** If you bought equipment, a computer, or machinery for your business, you don't always deduct it all in year one. You might depreciate it over several years. OR you can use Section 179 to deduct the full cost in year one, up to $1,220,000 for 2026. For most small businesses buying a laptop or a camera, you'd just Section 179 it and be done.
+**Depreciation (Line 13 and Form 4562):** If you bought equipment, a computer, or machinery for your business, you don't always deduct it all in year one. You might depreciate it over several years. OR you can use Section 179 to deduct the full cost in year one, up to $2,560,000 for 2026. For most small businesses buying a laptop or a camera, you'd just Section 179 it and be done.
 
 ## A Comparison: Common Schedule C Deductions
 
@@ -105,7 +105,7 @@ The line is genuinely gray sometimes, and this is one of those cases where I'd r
 - [IRS Schedule C Instructions (2025)](https://www.irs.gov/forms-pubs/about-schedule-c-form-1040): Official line-by-line instructions from the IRS, updated annually.
 - [IRS Publication 334, Tax Guide for Small Business](https://www.irs.gov/pub/irs-pdf/p334.pdf): Comprehensive tax guide for sole proprietors; covers Schedule C in full context.
 - [IRS Publication 587, Business Use of Your Home](https://www.irs.gov/pub/irs-pdf/p587.pdf): Definitive guidance on the home office deduction, including regular vs. simplified method.
-- [U.S. Small Business Administration (SBA) -- Manage Your Finances](https://www.sba.gov/business-guide/manage-your-business/manage-your-finances): Plain-language resources on small business taxes and hobby loss rules.
+- [U.S. Small Business Administration (SBA), Manage Your Finances](https://www.sba.gov/business-guide/manage-your-business/manage-your-finances): Plain-language resources on small business taxes and hobby loss rules.
 - [IRS Revenue Procedure 2026-xx, Standard Mileage Rates](https://www.irs.gov/tax-professionals/standard-mileage-rates): IRS source for the current 2026 business mileage rate of $0.70/mile.
 
 ---

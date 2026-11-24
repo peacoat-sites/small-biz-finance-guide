@@ -28,7 +28,7 @@ faqs:
 
 15.3%. That's the self-[employment tax](/schedule-se-self-employment-tax/) rate, and if nobody warned you about it before you started freelancing or launched your business, finding out at tax time can feel like a gut punch.
 
-Most people who come to me already know they owe *something* extra. What they don't know is why, how it's calculated, or what they can do to soften the hit. If you're sitting here wondering whether you're about to owe money you don't have, that's exactly who this article is for.
+Most people already know they owe *something* extra. What they don't know is why, how it's calculated, or what they can do to soften the hit. If you're wondering whether you're about to owe money you don't have, this article covers what you need to know.
 
 Here's the short version: when you work for an employer, they split Social Security and Medicare taxes with you. You pay 7.65%, they pay 7.65%. When you work for yourself, you pay both halves. All 15.3% of it. That's the whole story, really. Everything else is just mechanics.
 

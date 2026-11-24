@@ -50,7 +50,7 @@ Smaller revolvers (generally under $100,000) from fintech lenders are often unse
 
 Bank-issued revolvers above $100,000 almost always require collateral. The two most common structures are asset-based lending (ABL), where you're borrowing against receivables and inventory, and blanket lien facilities, where the lender takes a security interest in substantially all business assets. ABL revolvers calculate your borrowing base monthly, which means your available credit actually fluctuates with your receivables balance. A $500,000 ABL facility might only let you draw $310,000 this month because your eligible receivables don't support more.
 
-I made the mistake early in my consulting career of treating a client's ABL availability as fixed. It's not. The borrowing base certificate is recalculated regularly, and if your receivables age out past 90 days or your customer concentration gets too high, the bank will reduce what you can actually touch. The first time you see a borrowing base certificate, it looks like an accounting exam. Budget an hour with your lender to walk through it.
+ABL availability is not fixed. The borrowing base certificate is recalculated regularly, and if your receivables age out past 90 days or your customer concentration gets too high, the bank will reduce what you can actually touch. The first time you see a borrowing base certificate, it looks like an accounting exam. Budget an hour with your lender to walk through it.
 
 ## Comparing Your Options
 

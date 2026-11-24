@@ -55,7 +55,7 @@ The key advantage: flexibility. If you want to deduct $180,000 of a $400,000 equ
 
 Here's where it gets interesting. If you're having a banner year, or you've recently made a large capital investment that's going to compress your income for a while, bonus depreciation's ability to generate an NOL is actually valuable, not just a side effect.
 
-Say you buy $3 million in qualified property. After Section 179 hits its limit or your income ceiling, bonus depreciation can take the rest to zero, and beyond. That loss carries forward. In a year where you're expecting significant revenue growth, having that carryforward ready to absorb up to 80% of future income is real money.
+Say you buy $3 million in qualified property. After Section 179 hits its limit or your income ceiling, bonus depreciation can take the rest to zero, and beyond. That loss carries forward. In a year where you're expecting significant revenue growth, having that carryforward ready to absorb up to 100% of future income is real money.
 
 Bloomberg Tax noted in March 2026 that this NOL-creation feature is being used intentionally by businesses anticipating strong post-investment revenue, essentially pre-loading deductions against future taxable years. It's not aggressive tax planning. It's what the law is designed to enable.
 

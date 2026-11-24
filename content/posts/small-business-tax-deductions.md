@@ -62,7 +62,7 @@ Here's where most of the real money is.
 
 **Vehicle expenses.** Track actual vehicle expenses and deduct the business-use percentage, or use the IRS standard mileage rate (which changes annually, so check IRS.gov before filing). Keep a mileage log. The IRS challenges vehicle deductions constantly, and "I drove a lot" doesn't survive an audit.
 
-**Equipment and Section 179.** Under Section 179, you can deduct the full cost of qualifying equipment and software in the year you buy it, rather than spreading it over several years. Annual limits apply (the IRS adjusts them over time), but for most small businesses, Section 179 covers what you'd actually spend on a computer, machinery, or office furniture in a single year. Bonus depreciation can stack on top, though those rules have been phasing down. Confirm the current status with your CPA.
+**Equipment and Section 179.** Under Section 179, you can deduct the full cost of qualifying equipment and software in the year you buy it, rather than spreading it over several years. Annual limits apply (the IRS adjusts them over time), but for most small businesses, Section 179 covers what you'd actually spend on a computer, machinery, or office furniture in a single year. Bonus depreciation can stack on top, and 100% bonus depreciation is now permanent for qualified property acquired after January 19, 2025. Confirm the current status with your CPA.
 
 **Health insurance premiums.** If you're self-employed and not eligible for coverage through a spouse's employer, you can deduct 100% of health insurance premiums for yourself, your spouse, and dependents. This is an above-the-line deduction, so you get it even if you don't itemize. It doesn't reduce self-employment tax, but it lowers your income tax bill.
 

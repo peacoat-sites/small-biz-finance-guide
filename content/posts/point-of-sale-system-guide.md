@@ -54,7 +54,7 @@ I'll be direct: this is where people get it wrong most often. They compare the m
 
 If you're processing $30,000 a month in card sales (not unusual for a busy retail shop or salon), the difference between a 2.6% flat rate and a 2.9% + $0.10 rate sounds trivial until you do the math. That gap is roughly $180 a month, or $2,160 a year. More than most monthly software fees.
 
-Here's a real example from my consulting work:
+Here's an illustrative example:
 
 A specialty pet supply store in the suburbs of Columbus was running Square at 2.6% + $0.10 per transaction. Their average ticket was $22. They were processing about 1,400 transactions a month. The $0.10 per-transaction fee alone was costing them $140/month extra compared to a flat-rate processor. We switched them to Lightspeed with a flat 2.6% rate, and they saved just under $1,500 in the first year without changing anything else. The Lightspeed subscription cost $69/month more than Square. Still came out ahead by about $650 annually.
 

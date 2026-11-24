@@ -25,8 +25,7 @@ faqs:
   - q: "Will my homeowner's insurance cover professional liability claims if I work from home?"
     a: "No. Homeowner's policies explicitly exclude business-related claims. Working from home doesn't extend any personal coverage to professional services you provide. These are completely separate products, and mixing them up is one of the most common coverage errors I see in solo operators just getting started."
 ---
-
-Most business owners I work with don't think about professional liability insurance until something goes wrong. A client threatens to sue. A contract gets flagged. An attorney sends a letter. Then suddenly everyone's scrambling, asking me why we didn't set this up sooner. I'll be honest: I was one of those people once, early in my consulting career, before I understood what "claims-made" actually meant and how badly that gap can hurt you.
+Most business owners don't think about professional liability insurance until something goes wrong. A client threatens to sue. A contract gets flagged. An attorney sends a letter. Then suddenly there's scrambling and regret about not setting it up sooner. Understanding what "claims-made" actually means, and how badly that gap can hurt you, is worth doing before that moment arrives.
 
 Let's fix that before it becomes your problem.
 

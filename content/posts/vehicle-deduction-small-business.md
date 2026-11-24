@@ -48,7 +48,7 @@ The key constraint: the IRS requires that if you want to use standard mileage fo
 | Standard Mileage Rate | Fuel-efficient vehicles with low operating costs | Simpler tracking; no detailed expense receipts needed | Must elect in first year vehicle is in service |
 | Actual Expense Method | Heavy-duty trucks, SUVs, high-cost vehicles | Often produces larger deduction for expensive vehicles | Must track all costs; can switch methods only between vehicles |
 | Section 179 Deduction | Vehicles purchased outright or financed | Full cost deductible in year of purchase (subject to limits and business-use %) | Vehicle must be actively used for business; passenger vehicle caps apply |
-| Bonus Depreciation | New or used business vehicles | Immediate deduction of large percentage of cost in year one | Percentage steps down annually; confirm current rate with tax pro |
+| Bonus Depreciation | New or used business vehicles | Immediate deduction of large percentage of cost in year one | 100% bonus depreciation is permanent for qualified property acquired after January 19, 2025; no annual step-down applies |
 
 This is where things get interesting for owners who purchased a vehicle outright or financed one.
 

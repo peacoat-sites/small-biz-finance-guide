@@ -40,7 +40,7 @@ The self-employment tax rate is 15.3% on the first $176,100 of net earnings (as 
 
 An S-corp owner earning $120,000 in net profit might pay themselves a $65,000 salary (which gets payroll-taxed) and take $55,000 as a distribution (which doesn't). The SE tax savings on that $55,000 distribution: roughly $8,415 in a single year. Run that over five years and you're looking at $42,000 in cumulative savings, before compounding.
 
-That's not theoretical. I've run this calculation for dozens of clients. A reader, Jamie, a freelance software developer in Denver, came to me paying full SE tax on $140,000 in profit. After electing S-corp status and setting up a payroll system, her first-year savings came to $11,240 net of the new administrative costs. The second year was cleaner. The math kept getting better.
+That's not theoretical. The calculation works across different income levels. For example, a freelance software developer with $140,000 in profit paying full SE tax could see first-year savings of $11,240 after electing S-corp status and setting up payroll, net of new administrative costs. The second year typically runs smoother, and the math improves further as the system matures.
 
 The IRS is aware that owners could abuse this by taking a $1 salary and $500,000 in distributions. That's why "reasonable compensation" isn't optional. It's required, and the IRS does audit this. What surprised me when I dug into actual audit patterns is that the IRS doesn't demand you match a CEO salary; it wants something defensible for your industry and role. Resources like the U.S. Small Business Administration's guidance on business structures can help you frame this conversation with your CPA.
 

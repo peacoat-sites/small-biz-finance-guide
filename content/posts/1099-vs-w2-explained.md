@@ -14,7 +14,7 @@ faqs:
  - q: "What happens if I've been misclassifying workers?"
    a: "If you catch it yourself, you can potentially use the IRS Voluntary Classification Settlement Program (VCSP), which lets you reclassify workers and pay a reduced amount of back taxes. If the IRS finds it first, you're facing full back taxes, interest, and penalties. Either way, talk to a tax professional immediately. Don't try to quietly fix it without understanding the implications."
  - q: "Do I need to issue a 1099 to every contractor I pay?"
-   a: "The $600 threshold applies to 1099-NEC. If you paid a contractor less than $600 in the tax year, you're generally not required to issue a 1099, though the contractor still owes taxes on that income. Also note that payments to corporations (C corps and S corps) are typically exempt from 1099 requirements, with some exceptions for attorneys and medical providers."
+   a: "The $2,000 threshold applies to 1099-NEC for payments made after December 31, 2025. If you paid a contractor less than $2,000 in the tax year, you're generally not required to issue a 1099, though the contractor still owes taxes on that income. Also note that payments to corporations (C corps and S corps) are typically exempt from 1099 requirements, with some exceptions for attorneys and medical providers."
  - q: "How does this affect my ability to get a small business loan?"
    a: "Lenders look at your payroll records and total labor costs when assessing your business. Having legitimate contractor relationships properly documented is fine. Messy records, unresolved misclassification issues, or a pattern of 1099s that should have been W-2s can create complications during underwriting. If you're preparing to apply for financing, cleaning up your classification practices in advance is worth the effort. The guide on how to get a small business loan covers what lenders actually look at."
  - q: "Are there any situations where a worker can be both a contractor and an employee?"
@@ -48,7 +48,7 @@ The difference between a 1099 contractor and a W-2 employee isn't just HR trivia
 
 A W-2 employee works directly for your business. You withhold federal and state income taxes from their paycheck. You pay half their Social Security and Medicare taxes (FICA). You handle unemployment taxes. At year's end, you issue a W-2 showing what got withheld.
 
-A 1099 contractor, formally an independent contractor, owns their own tax situation. You pay them the full amount with no withholding. If you pay them $600 or more in a calendar year, you file a 1099-NEC form with the IRS. They're responsible for both the employee and employer portions of Social Security and Medicare (15.3% on net self-employment income). They also manage their own [quarterly estimated tax payments](/how-to-calculate-quarterly-estimated-taxes-for-self-employed/) or face underpayment penalties.
+A 1099 contractor, formally an independent contractor, owns their own tax situation. You pay them the full amount with no withholding. If you pay them $2,000 or more in a calendar year, you file a 1099-NEC form with the IRS. They're responsible for both the employee and employer portions of Social Security and Medicare (15.3% on net self-employment income). They also manage their own [quarterly estimated tax payments](/how-to-calculate-quarterly-estimated-taxes-for-self-employed/) or face underpayment penalties.
 
 Sounds simple. In reality, this confuses people constantly.
 
@@ -107,7 +107,7 @@ The [payroll basics guide for small businesses](/payroll-basics-small-business/)
 
 **For 1099 contractors:**
 
-Collect a completed W-9 from the contractor before their first payment. This gives you their name, address, and taxpayer identification number. Pay them per your agreement, no withholding required in most cases. If you paid them $600 or more during the calendar year, file Form 1099-NEC with the IRS and send a copy to the contractor by January 31. If you used PayPal or Stripe to pay contractors, check whether the platform is filing a 1099-K on those payments. Rules around 1099-K reporting have been changing, so confirm with your accountant what you still need to report.
+Collect a completed W-9 from the contractor before their first payment. This gives you their name, address, and taxpayer identification number. Pay them per your agreement, no withholding required in most cases. If you paid them $2,000 or more during the calendar year, file Form 1099-NEC with the IRS and send a copy to the contractor by January 31. If you used PayPal or Stripe to pay contractors, check whether the platform is filing a 1099-K on those payments. Rules around 1099-K reporting have been changing, so confirm with your accountant what you still need to report.
 
 Keep those W-9s on file. If a contractor refuses to provide one, the IRS requires you to withhold 24% backup withholding from their payments.
 

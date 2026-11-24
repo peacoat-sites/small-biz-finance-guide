@@ -47,7 +47,7 @@ E&O policies typically cover:
 
 What they don't cover tends to trip people up. Intentional misconduct is out. Bodily injury is out. Claims arising from services you haven't disclosed to your insurer are usually out. Most E&O policies are written on a "claims-made" basis, meaning the policy in force at the time the claim is *filed* is what pays, not the policy you had when you did the work. If you let coverage lapse between policies, you can have a gap that leaves you completely exposed for past work.
 
-I made a version of this mistake myself early in my consulting career, switching insurers mid-year without verifying that my new policy included a retroactive date that covered my prior work. It did, barely, but only because I caught it before the paperwork was final. Don't rely on luck there.
+A common pitfall is switching insurers mid-year without verifying that your new policy includes a retroactive date covering your prior work. The retroactive date determines how far back the policy protects you, so a gap here can leave earlier work uninsured. Check this detail before the paperwork is final.
 
 ---
 
