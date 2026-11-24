@@ -48,7 +48,7 @@ Commercial real estate lending is fundamentally a business credit decision. "Len
 
 That quote matters. If you're buying a property your business will fully occupy, lenders will scrutinize your business financials closely, not just your personal tax returns.
 
-**Check out our guide on [how to read a business financial statement](#) before your first lender meeting so you're not caught flat-footed.**
+**Check out our guide on how to read a business financial statement before your first lender meeting so you're not caught flat-footed.**
 
 ## The Main Loan Types You'll Actually Use
 
