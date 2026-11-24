@@ -23,7 +23,7 @@ author: "Amanda Pierce"
 author_slug: "amanda-pierce"
 author_title: "Cash Flow"
 author_bio: "Amanda Pierce is the byline used at Small Biz Finance Guide for articles on cash flow, invoicing and day-to-day business finance. It is a pen name; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 Most tax advice about the qualified business income deduction starts in the middle. It assumes you already know what it is, skips right past the part where 20% of your income might just disappear from your taxable base, and then spends three paragraphs hedging about whether you qualify. Let me back up.
 

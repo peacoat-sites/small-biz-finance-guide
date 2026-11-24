@@ -1,7 +1,7 @@
 ---
 title: "60% of Companies Choose Leasing: Equipment Lease vs Buy"
 date: 2026-08-03T22:39:27.578582+00:00
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Compare equipment leasing vs buying with real cost data. Learn when leasing saves money and when ownership makes sense for your business."
 image: "/img/heroes/29502226.jpg"

@@ -23,7 +23,7 @@ author: "David Kim"
 author_slug: "david-kim"
 author_title: "Business Taxes"
 author_bio: "David Kim is the byline used at Small Biz Finance Guide for articles on small business tax planning and deductions. It is a pen name, not a tax professional; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 You hire a talented web designer to rebuild your site. She works from home, sets her own hours, uses her own software, and you pay her a flat project fee. Six months later, the IRS sends a letter saying you misclassified her as an independent contractor when she should have been an employee. Now you owe back payroll taxes, penalties, and interest. This happens thousands of times every year, and most business owners caught in it had no idea they were breaking the rules.
 

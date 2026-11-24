@@ -23,7 +23,7 @@ author: "Sarah Johnson"
 author_slug: "sarah-johnson"
 author_title: "Accounting and Tax"
 author_bio: "Sarah Johnson is the byline used at Small Biz Finance Guide for articles on small business accounting and tax basics. It is a pen name, not a CPA; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 You hired a web developer last spring. She worked 30 hours a week for four months, used your equipment, followed your schedule, and you paid her a flat rate every two weeks. Come January, you sent her a 1099. Now she's saying you should have been withholding taxes the whole time, and your accountant is giving you a look you don't like.
 

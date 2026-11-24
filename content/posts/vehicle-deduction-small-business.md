@@ -23,7 +23,7 @@ author: "Sarah Johnson"
 author_slug: "sarah-johnson"
 author_title: "Accounting and Tax"
 author_bio: "Sarah Johnson is the byline used at Small Biz Finance Guide for articles on small business accounting and tax basics. It is a pen name, not a CPA; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 You bought a truck for your business last year, drove it 14,000 miles for client visits and supply runs, and then left the entire deduction on the table because you weren't sure how to claim it. That scenario plays out thousands of times every tax season. Vehicle deductions are one of the most valuable and most misunderstood write-offs available to small business owners, and getting them wrong costs real money in both directions: either you underclaim and overpay, or you overclaim and invite an audit.
 

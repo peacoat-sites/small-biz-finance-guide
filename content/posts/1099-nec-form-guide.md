@@ -1,6 +1,7 @@
 ---
 title: "1099-NEC Form Guide: Reporting Requirements and Filing Rules"
 date: 2026-11-16T15:59:57.253438+00:00
+lastmod: 2026-11-24T12:00:00Z
 draft: false
 description: "Complete guide to 1099-NEC forms: understand reporting requirements, filing deadlines, penalties, and how they differ from 1099-MISC for contractors and freelan"
 image: "/img/heroes/7821688.jpg"

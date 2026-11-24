@@ -23,7 +23,7 @@ author: "Sarah Johnson"
 author_slug: "sarah-johnson"
 author_title: "Accounting and Tax"
 author_bio: "Sarah Johnson is the byline used at Small Biz Finance Guide for articles on small business accounting and tax basics. It is a pen name, not a CPA; how articles are researched and checked is explained in our editorial standards."
-lastmod: 2026-07-08
+lastmod: 2026-11-24T12:00:00Z
 ---
 You paid $4,800 last year for a business phone plan, office supplies, accounting software, and a work-related online course. If you didn't deduct those expenses, you handed that money to the IRS without a fight. That's not a tax strategy. That's a donation.
 

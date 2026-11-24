@@ -12,7 +12,7 @@ author_title: "Accounting and Tax"
 author_bio: "Sarah Johnson is the byline used at Small Biz Finance Guide for articles on small business accounting and tax basics. It is a pen name, not a CPA; how articles are researched and checked is explained in our editorial standards."
 slug: "section-179-deduction-guide"
 affiliate_disclosure: true
-lastmod: 2026-11-16T16:00:00Z
+lastmod: 2026-11-24T12:00:00Z
 ---
 Most small business owners hear "Section 179" for the first time from their accountant in December, usually right before they make a panicked equipment purchase they half-regret by February. The scramble is usually unnecessary. Understanding how this deduction works lets you plan for it in January instead of racing to a dealer lot on December 28th.
 
