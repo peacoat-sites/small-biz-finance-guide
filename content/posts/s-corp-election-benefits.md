@@ -105,10 +105,6 @@ The savings aren't magical in the first year. The structure pays off when you st
 
 ---
 
----
-
-If you want to go deeper on the structural side, Mike Piper's [*Taxes Made Simple*](https://www.amazon.com/Taxes-Made-Simple-Income-Basics/dp/0997946556?tag=contentportfo-20) is one of the most honest plain-English explanations of pass-through taxation I've seen (the site may earn a commission on that link). And please: before you file anything, run the actual numbers with a CPA who does small business returns regularly. The election can be genuinely valuable. But the details matter more than the headline savings figure.
-
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
 
 ---
@@ -123,4 +119,3 @@ If you want to go deeper on the structural side, Mike Piper's [*Taxes Made Simpl
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-

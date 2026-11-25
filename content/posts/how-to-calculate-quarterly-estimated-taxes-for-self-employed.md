@@ -31,7 +31,6 @@ If you're self-employed, the federal government expects you to pay your income t
 
 The IRS generally expects quarterly payments if you'll owe $1,000 or more in federal taxes for the year after subtracting any withholding. That $1,000 threshold is the trigger. Most self-employed people hit it quickly.
 
-
 <div class="value-module">
  <div class="vm-head">Safe Harbor Method Decision Matrix</div>
  <div class="vm-body">
@@ -114,12 +113,9 @@ The honest truth is that calculated quarterly payments feel complicated until yo
 
 ---
 
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-

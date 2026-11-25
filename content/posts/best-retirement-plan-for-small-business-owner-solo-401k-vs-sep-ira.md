@@ -118,10 +118,6 @@ One thing nobody tells you: when you call to open a Solo 401(k) at a large custo
 
 ---
 
----
-
-If you want to go deeper on the mechanics before talking to a CPA, Mike Piper's *[Taxes Made Simple](https://www.amazon.com/Taxes-Made-Simple-Income-Straight/dp/0997061855?tag=)* (Amazon, affiliate link) covers self-employment tax and retirement deductions in plain language better than anything else I've found at that price point. It's $12 and worth every dollar.
-
 But please: don't make this decision based on an article alone, including this one. The numbers above are current as of July 2026, but your specific situation, your income, your business structure, your other accounts, deserves a real conversation with a CPA who knows your file. The plan type matters less than actually opening something and funding it consistently. That 13% figure doesn't have to include you.
 
 *Photo: [SHVETS production](https://www.pexels.com/@shvets-production) via Pexels*
@@ -138,4 +134,3 @@ But please: don't make this decision based on an article alone, including this o
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-

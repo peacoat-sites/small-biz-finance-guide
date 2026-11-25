@@ -88,8 +88,6 @@ Doing this review annually is a sound practice. An hour of your time once a year
 
 ---
 
----
-
 Getting this stuff right isn't glamorous. It doesn't feel like building a business. An afternoon spent reviewing your classifications and time records is a sound investment in your legal protection. Don't wait for a complaint to find out where you stand.
 
 ---
@@ -102,14 +100,6 @@ Getting this stuff right isn't glamorous. It doesn't feel like building a busine
 
 - [U.S. Small Business Administration](https://www.sba.gov/)
 - [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed)
-- [Avery Business Card Binder for Networking](https://www.amazon.com/dp/B0BFPD8FG3?tag=contentportfo-20)
-- [QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20)
-- [AmazonBasics 12-Sheet Cross-Cut Paper Shredder](https://www.amazon.com/dp/B07XNV8KXN?tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 
 ---
 
@@ -119,4 +109,3 @@ Getting this stuff right isn't glamorous. It doesn't feel like building a busine
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-

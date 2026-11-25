@@ -29,9 +29,7 @@ Free expert help for your small business exists, and most owners never use it. T
 
 There are roughly 1,000 SBDC locations across all 50 states, Puerto Rico, the U.S. Virgin Islands, and Guam. Each center is hosted by a college, university, or state economic development agency, and each one has advisors who specialize in finance, marketing, operations, government contracting, and more. The quality varies by location, but the price-to-value ratio doesn't: even a mediocre SBDC advisor will save you money compared to paying an attorney or consultant $300 an hour to answer the same questions.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">SBDC consulting is free for any small business owner or aspiring entrepreneur</li><li style="margin:5px 0">~1,000 SBDC locations nationwide, hosted by colleges and state agencies</li><li style="margin:5px 0">Advisors cover finance, marketing, licensing, government contracting, and loan packaging</li><li style="margin:5px 0">SBDCs helped clients secure billions in financing annually in recent years (SBA data)</li><li style="margin:5px 0">Find your local center at sbdc.net or the SBA's locator at sba.gov</li></ul></div>
-
 
 ## What SBDCs Actually Do
 
@@ -105,7 +103,6 @@ If you're already operating and struggling, bring your last 12 months of financi
 
 ---
 
-
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
@@ -120,4 +117,3 @@ If you're already operating and struggling, bring your last 12 months of financi
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-

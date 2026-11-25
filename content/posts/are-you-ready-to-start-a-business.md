@@ -19,17 +19,6 @@ This quick quiz walks through your habits, your savings buffer, who's got your b
 
 Readiness isn't something you're born with. It's something you build. Founders who start in the "not ready yet" bucket can close the gaps piece by piece over the next few months. Your score here isn't a verdict. It's a starting point. When you're ready to move forward, our beginner guides are right there.
 
-## Sources
-
-- [Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)
-- [Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)
-
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-
 ---
 
 ## Recommended Resources
@@ -38,4 +27,3 @@ Readiness isn't something you're born with. It's something you build. Founders w
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-

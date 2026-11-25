@@ -31,7 +31,6 @@ The longer version matters because the rules around who gets a 1099-NEC, what co
 
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">File Form 1099-NEC for any unincorporated contractor paid $2,000+ for services in a calendar year.</li><li style="margin:5px 0">The filing deadline is January 31 for both the contractor copy and the IRS copy.</li><li style="margin:5px 0">Payments to corporations (including S-corps and C-corps) generally don't require a 1099-NEC.</li><li style="margin:5px 0">Collect Form W-9 from every contractor before first payment to avoid missing information at year-end.</li><li style="margin:5px 0">Late filing penalties range from $60 to $310 per form (2026 figures; check IRS.gov for annual updates).</li></ul></div>
 
-
 ## Who Actually Gets One
 
 The 1099-NEC covers non-employee compensation paid in the course of your business. That means freelancers, consultants, independent contractors, and sole proprietors you paid for services. It does not cover product purchases, rent paid to a property management company, or most payments made through a third-party payment processor like PayPal or Stripe (those get reported on a 1099-K, which is a separate form with its own thresholds).
@@ -101,11 +100,6 @@ The [U.S. Small Business Administration (SBA)](https://www.sba.gov/) has general
 
 ---
 
-
----
-
-For a solid reference on managing small business bookkeeping and year-end compliance, *Profit First* by Mike Michalowicz and *Accounting Made Simple* by Mike Piper are both practical reads available on [Amazon](https://www.amazon.com) (the site may earn a commission on purchases). For anything involving specific tax decisions, consult a licensed CPA who knows your situation.
-
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
@@ -120,4 +114,3 @@ For a solid reference on managing small business bookkeeping and year-end compli
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-

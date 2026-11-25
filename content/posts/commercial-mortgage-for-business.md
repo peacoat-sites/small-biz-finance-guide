@@ -123,28 +123,11 @@ Get a pre-qualification letter before making an offer, and if possible get it fr
 
 ---
 
----
-
 If you're walking into this process cold, the single most valuable thing you can do before approaching any lender is build your financial package, understand your DSCR, and get honest about your down payment capacity. The borrowers who close cleanly aren't smarter than anyone else. They just showed up prepared.
 
 ---
 
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
-
----
-
-## Sources
-
-- [Pendaflex Expandable File Organizer for Business Records](https://www.amazon.com/dp/B08MBTZJ7H?tag=contentportfo-20)
-- [this copy of "The Complete Guide to Real Estate Finance for Investment Properties" by Steve Berges](https://www.amazon.com/dp/0471647128)
-- [NOLO's "Every Landlord's Legal Guide"](https://www.amazon.com/dp/1413331181)
-- [QuickBooks Online: The Complete Guide](https://www.amazon.com/dp/1260455890?tag=contentportfo-20)
-- [The 4-Hour Work Week by Tim Ferriss](https://www.amazon.com/dp/0307465357?tag=contentportfo-20)
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 
 ---
 

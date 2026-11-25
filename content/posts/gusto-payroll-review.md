@@ -105,11 +105,7 @@ Scenario: A restaurant owner with 23 employees and tip reporting requirements tr
 
 ---
 
----
-
 For most small businesses with under 50 employees, Gusto is as good as payroll software gets at this price point. It won't solve every problem, it won't replace a good bookkeeper, and you should absolutely run any major decisions by your CPA. But if you want payroll taxes handled correctly, a self-service portal your employees will actually use, and benefits administration that doesn't require a HR department to manage, Gusto is a very reasonable place to land. 
-
-If you want a deeper foundation for understanding your business finances beyond just payroll, Mike Michalowicz's *Profit First* (affiliate link: [available on Amazon](https://www.amazon.com/Profit-First-Transform-Cash-Eating-Money-Making/dp/073521414X)) is the book I hand to almost every new client. Not because it teaches you payroll, but because it teaches you to think about cash the right way before the payroll bill arrives.
 
 *Photo: [Vlad Bagacian](https://www.pexels.com/@vladbagacian) via Pexels*
 
@@ -125,4 +121,3 @@ If you want a deeper foundation for understanding your business finances beyond 
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-

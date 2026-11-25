@@ -20,9 +20,7 @@ Here's the quick background. The One [Big Beautiful Bill](/how-the-one-big-beaut
 
 According to guidance from Venable LLP published in January 2026, non-compliance with separate overtime and tip reporting on 2026 W-2s could trigger penalties ranging from roughly $60 to $680 per incomplete form. For a restaurant with 30 hourly workers, do that math fast. It's not theoretical exposure. It's the kind of thing that turns a payroll shortcut into a five-figure IRS problem.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">OBBBA overtime exemption covers only FLSA hours-over-40 premiums; voluntary OT and state-law premiums do not qualify.</li><li style="margin:5px 0">2025 W-2 non-compliance was forgiven; 2026 W-2 errors face penalties of $60–$680 per incomplete form.</li><li style="margin:5px 0">Final IRS Box 12 codes for W-2 reporting are still pending as of mid-2026.</li><li style="margin:5px 0">Tipped employees need a Treasury-approved occupation code or their deduction can be disallowed.</li><li style="margin:5px 0">Updated 2026 W-4 Deductions Worksheet includes dedicated lines for overtime (1b) and tips (1a).</li></ul></div>
-
 
 ## What Actually Qualifies as a "Qualified Overtime Premium"
 
@@ -61,9 +59,7 @@ Here's a side-by-side look at the penalty exposure compared against that complia
 
 The penalty ceiling for a modestly sized hourly workforce can actually exceed a full year's per-employee compliance budget. That's the number worth putting in front of your payroll vendor right now.
 
-
 <style>.stat-chart{margin:28px 0;padding:18px 20px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)}.stat-chart .sc-title{font-weight:700;margin-bottom:12px;color:var(--heading,#1e293b)}.stat-chart .sc-row{display:flex;align-items:center;gap:10px;margin:7px 0}.stat-chart .sc-label{flex:0 0 34%;font-size:.85rem;color:var(--muted,#475569);text-align:right;overflow-wrap:anywhere}.stat-chart .sc-track{flex:1;background:var(--border,#e7e5e4);border-radius:6px;height:14px;overflow:hidden}.stat-chart .sc-bar{display:block;height:100%;background:var(--accent,#4338ca);border-radius:6px}.stat-chart .sc-val{flex:0 0 auto;font-size:.82rem;font-weight:600;color:var(--heading,#1e293b);min-width:56px}.stat-chart .sc-src{margin-top:10px;font-size:.75rem;color:var(--muted,#64748b)}@media(max-width:560px){.stat-chart .sc-label{flex-basis:42%}}</style><div class="stat-chart"><div class="sc-title">W-2 Penalty Range vs. Annual Compliance Cost Per Employee</div><div class="sc-row"><span class="sc-label">Min W-2 penalty</span><span class="sc-track"><span class="sc-bar" style="width:4%"></span></span><span class="sc-val">$60</span></div><div class="sc-row"><span class="sc-label">Max W-2 penalty</span><span class="sc-track"><span class="sc-bar" style="width:5%"></span></span><span class="sc-val">$680</span></div><div class="sc-row"><span class="sc-label">Avg compliance cost/employee</span><span class="sc-track"><span class="sc-bar" style="width:100%"></span></span><span class="sc-val">$14,700</span></div><div class="sc-src">Source: Payroll Partners 2026; IRS penalty schedule</div></div>
-
 
 ## What You Should Be Doing Right Now
 
@@ -96,4 +92,3 @@ I want to be straight about one thing: the final reporting rules here are still 
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-

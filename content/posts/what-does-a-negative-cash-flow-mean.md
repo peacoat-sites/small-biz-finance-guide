@@ -29,9 +29,7 @@ Negative cash flow means more money left your business than came in during a giv
 
 A lot of owners panic the first time they see a negative number at the bottom of their [cash flow statement](/cash-flow-statement-explained/). Some of them are right to. Others are running a perfectly healthy business that just hired two people and bought equipment in the same quarter. Context is everything here, and the number alone tells you almost nothing.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Negative cash flow means cash outflows exceeded inflows in a period; it does not automatically mean your business is failing.</li><li style="margin:5px 0">A single quarter of negative cash flow during a growth phase or seasonal slow period is normal for many businesses.</li><li style="margin:5px 0">Persistent negative cash flow with no clear cause is a serious warning sign that needs attention now, not next quarter.</li><li style="margin:5px 0">Your cash flow statement has three sections: operations, investing, and financing. The *source* of the negative matters as much as the number.</li><li style="margin:5px 0">Businesses have failed with healthy profit-and-loss statements because they ran out of cash. These two things are not the same.</li></ul></div>
-
 
 ## The Three Places Negative Cash Flow Can Come From
 
@@ -123,7 +121,6 @@ Neither situation is intuitive, and both require you to look at the cash flow st
 
 ---
 
-
 *Photo: [RDNE Stock project](https://www.pexels.com/@rdne) via Pexels*
 
 ---
@@ -139,4 +136,3 @@ Neither situation is intuitive, and both require you to look at the cash flow st
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 - **[QuickBooks Small Business Bookkeeping Guide](https://www.amazon.com/dp/0692957790/?tag=contentportfo-20)** (~$17), Compact, practical QuickBooks pocket guide, ideal for new business owners setting up accounting for the first time.
-

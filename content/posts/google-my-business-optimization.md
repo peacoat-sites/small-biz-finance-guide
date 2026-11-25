@@ -29,9 +29,7 @@ Your Google Business Profile (the platform Google still commonly calls "Google M
 
 The core optimization moves aren't complicated: complete every field, choose the right primary category, post consistently, and respond to every review. That's the skeleton. The rest of this article fills in the muscle.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Choose your primary business category with precision, it's the strongest ranking signal in local search.</li><li style="margin:5px 0">Businesses with complete profiles get roughly 7x more clicks than incomplete ones, per Google's own data.</li><li style="margin:5px 0">Responding to reviews (all of them, including negative) directly affects your local ranking.</li><li style="margin:5px 0">Google Posts expire after 7 days for most post types, schedule them or they disappear silently.</li><li style="margin:5px 0">Photos added by the business owner outperform user-uploaded photos for driving profile engagement.</li></ul></div>
-
 
 ## Your Primary Category Is Doing More Work Than You Think
 
@@ -104,7 +102,6 @@ Google's Business Profile Insights dashboard is free and updated roughly every f
 
 ---
 
-
 *Photo: [Julio Lopez](https://www.pexels.com/@juliolopez) via Pexels*
 
 ---
@@ -119,4 +116,3 @@ Google's Business Profile Insights dashboard is free and updated roughly every f
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-

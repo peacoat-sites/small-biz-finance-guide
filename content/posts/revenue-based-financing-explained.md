@@ -109,8 +109,6 @@ RBF is not a trap. The "your payments flex with your revenue" pitch is accurate 
 
 ---
 
----
-
 One last thing worth saying: RBF is a legitimate, useful financing tool that the small business world has underused for years, partly because the marketing around it has been either confusing or oversold. It's not cheap capital. It's fast, flexible capital with a real cost. If that cost makes sense for your growth plan, it can be a great fit. If it doesn't, there are better options. A good CPA (and I'd always recommend consulting one before taking on any significant financing) can help you model the real cost against your specific margins and growth trajectory before you commit.
 
 *Photo: [Bia Limova](https://www.pexels.com/@bia-limova-1908542654) via Pexels*
@@ -127,4 +125,3 @@ One last thing worth saying: RBF is a legitimate, useful financing tool that the
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-

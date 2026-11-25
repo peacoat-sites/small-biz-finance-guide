@@ -104,16 +104,11 @@ My honest take: if you're more than 15 years from retirement and you don't have 
 - [IRS Publication 560 (2026)](https://www.irs.gov/pub/irs-pdf/p560.pdf): Official IRS guidance on retirement plans for small businesses and self-employed, including 2026 contribution limits.
 - [IRS Small Business Tax Center](https://www.irs.gov/businesses/small-businesses-self-employed): Plan comparison tools and eligibility requirements directly from the IRS.
 - [Consumer Financial Protection Bureau Small Business Resources](https://www.consumerfinance.gov/): General investor education and retirement planning guidance.
-- *The Self-Employed Tax Solution* by June Walker: Practical tax and retirement guidance written for people who work for themselves [(Amazon, affiliate link)](https://www.amazon.com/s?k=self+employed+tax+solution+june+walker).
 - Vanguard Investor Education Center: Fee and fund data for target-date and index fund options referenced in the article.
 
 ---
 
----
-
 *This article is for general informational purposes only and does not constitute financial, tax, or legal advice. Business finance and tax rules vary by entity type, state, and individual circumstances. Consult a qualified CPA, enrolled agent, or business attorney for advice specific to your situation.*
-
----
 
 ---
 
@@ -123,4 +118,3 @@ My honest take: if you're more than 15 years from retirement and you don't have 
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-

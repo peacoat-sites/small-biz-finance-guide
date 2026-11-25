@@ -20,9 +20,7 @@ Published on August 20, 2026 in the Federal Register (91 Fed. Reg. 53741), the p
 
 The timing is real. If your business is near a size threshold today, the rule change could open or close doors to capital and contracts within the next 12 to 18 months.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">The SBA's August 2026 proposed rule would cut size standard categories from 995 down to 338.</li><li style="margin:5px 0">About 114,541 businesses would newly qualify as "small"; fewer than 200 would lose that status.</li><li style="margin:5px 0">Many standards shift from revenue-based to headcount-based to reduce inflation-driven reclassifications.</li><li style="margin:5px 0">Computer systems design (NAICS 5415) revenue threshold would jump from $34M to $531M.</li><li style="margin:5px 0">A final rule isn't expected until 2027, but owners should check eligibility now.</li></ul></div>
-
 
 ## Why the Current System Is Broken
 
@@ -93,4 +91,3 @@ The SBA is not in the business of making itself smaller. This proposal expands a
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-

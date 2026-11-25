@@ -29,9 +29,7 @@ State income taxes on small business income are not uniform, not simple, and gen
 
 This is an area where a lot of owners fly blind until they get a [tax bill](/how-to-use-100-bonus-depreciation-to-cut-your-2026-tax-bill/) they weren't expecting.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Nine states currently have no individual income tax, which benefits pass-through entity owners directly.</li><li style="margin:5px 0">Business structure (LLC, S-corp, C-corp, sole proprietor) determines whether your business income is taxed at personal or corporate rates.</li><li style="margin:5px 0">Many states impose a minimum franchise or excise tax on registered entities, even if the business had zero profit.</li><li style="margin:5px 0">Estimated quarterly state tax payments are required in most states once you expect to owe above a threshold (often $500-$1,000).</li><li style="margin:5px 0">Multi-state businesses face apportionment rules, not simple double taxation, but the compliance burden is real.</li></ul></div>
-
 
 ## How Your Structure Changes Everything
 
@@ -88,7 +86,6 @@ For a practical reference on managing small business accounting and tax deductio
 
 ---
 
-
 *Photo: [Mikhail Nilov](https://www.pexels.com/@mikhail-nilov) via Pexels*
 
 ---
@@ -103,4 +100,3 @@ For a practical reference on managing small business accounting and tax deductio
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-

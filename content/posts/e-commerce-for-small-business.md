@@ -29,9 +29,7 @@ Selling online is no longer a growth strategy for small businesses. For many, it
 
 The market today has real options at every price point. Shopify, WooCommerce, BigCommerce, Wix eCommerce, Squarespace Commerce, and Square Online each serve different types of businesses. None is universally best. The right one depends on your product type, your technical comfort level, your expected order volume, and whether you're selling physical goods, digital products, services, or some mix of all three.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Pick your platform based on product type and volume, not just monthly fee.</li><li style="margin:5px 0">Transaction fees compound fast: a 2% fee on $200K/year is $4,000 gone annually.</li><li style="margin:5px 0">Abandoned cart recovery alone can recover 5–15% of lost sales with minimal setup.</li><li style="margin:5px 0">Payment processor fees typically run 2.5–3% per transaction; shop this carefully.</li><li style="margin:5px 0">The IRS small business tax center has specific guidance on sales tax obligations for online sellers.</li></ul></div>
-
 
 ## Choosing a Platform (And What They Don't Tell You)
 
@@ -96,7 +94,6 @@ For anyone building a longer-term content strategy, *They Ask, You Answer* by Ma
 
 ---
 
-
 *Photo: [Kampus Production](https://www.pexels.com/@kampus) via Pexels*
 
 ---
@@ -111,4 +108,3 @@ For anyone building a longer-term content strategy, *They Ask, You Answer* by Ma
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-

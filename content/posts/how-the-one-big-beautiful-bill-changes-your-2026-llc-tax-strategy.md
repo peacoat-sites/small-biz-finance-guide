@@ -18,7 +18,6 @@ Most coverage of the One Big Beautiful Bill Act treated it like a Washington sto
 
 The bill was signed on July 4, 2025. Several of its most consequential provisions either activated on January 1, 2026 or carry a hard deadline of July 4, 2026. That makes right now the live window. Not next tax season. Now.
 
-
 <div class="value-module">
  <div class="vm-head">QBI vs Bonus Depreciation: Decision Matrix</div>
  <div class="vm-body">
@@ -97,8 +96,6 @@ The businesses ending 2026 with the best financials and lowest tax bills will be
 
 ---
 
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
@@ -106,4 +103,3 @@ The businesses ending 2026 with the best financials and lowest tax bills will be
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
 - **[QuickBooks Small Business Bookkeeping Guide](https://www.amazon.com/dp/0692957790/?tag=contentportfo-20)** (~$17), Compact, practical QuickBooks pocket guide, ideal for new business owners setting up accounting for the first time.
-

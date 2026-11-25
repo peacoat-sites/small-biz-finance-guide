@@ -96,7 +96,6 @@ The Consumer Financial Protection Bureau has published small business credit acc
 - [IRS Small Business Tax Center](https://www.irs.gov/businesses/small-businesses-self-employed): Required financial documentation guidance relevant to lender underwriting
 - [Federal Reserve Bank, Small Business Credit Survey](https://www.fedsmallbusiness.org/): Annual survey of small business financing conditions and credit access trends
 - [SBA CAPLine Program Overview](https://www.sba.gov/funding-programs/loans): Official terms for the SBA's revolving credit variant for small businesses
-- Aswath Damodaran, *Corporate Finance: Theory and Practice*: Foundational framework for understanding credit facility structures and cost of capital decisions (available [on Amazon](https://www.amazon.com/s?k=damodaran+corporate+finance), where this site may earn a commission)
 
 ---
 
@@ -114,4 +113,3 @@ The Consumer Financial Protection Bureau has published small business credit acc
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-

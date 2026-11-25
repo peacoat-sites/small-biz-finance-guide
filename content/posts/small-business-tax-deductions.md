@@ -29,7 +29,6 @@ You paid $4,800 last year for a business phone plan, office supplies, accounting
 
 Small business owners leave thousands of dollars on the table every year, not because the deductions don't exist, but because nobody explains what qualifies, how to document it, or where to draw the line. This guide does exactly that. No fluff, no vague advice to "consult a professional" as a way to avoid giving you real information. You'll get both: the real information and the reminder that a qualified CPA needs to review your specific situation, because tax law has nuance that a general article can't fully capture.
 
-
 <div class="value-module">
  <div class="vm-head">Common Deductions: Documentation Cheat Sheet</div>
  <div class="vm-body">
@@ -42,7 +41,6 @@ Small business owners leave thousands of dollars on the table every year, not be
 ## What Makes an Expense Deductible in the First Place
 
 **You must incorporate to start claiming business tax deductions**: Most people think you need an LLC or S-Corp to begin deducting business expenses. But the IRS doesn't care about your legal structure, it cares about whether you're operating a legitimate business. According to IRS data, sole proprietors (who file a simple Schedule C) claim an average of $12,400 in deductions annually, nearly identical to incorporated small businesses. The Tax Foundation reports that 26.9 million Americans operate as self-employed sole proprietors, claiming millions in legitimate deductions without incorporation. Your deduction eligibility depends on business legitimacy and expense documentation, not paperwork status.
-
 
 Before you make a list of everything you've bought for your business, understand the rule. The IRS requires that a deductible business expense be both **ordinary** and **necessary**. Ordinary means it's common and accepted in your industry. Necessary means it's appropriate and helpful for running your business. You don't have to prove the expense was indispensable, just that it was genuinely connected to your operations.
 
@@ -145,12 +143,9 @@ Most small business owners aren't trying to cheat the system. They're trying to 
 
 ---
 
----
-
 ## Recommended Resources
 
 > **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-

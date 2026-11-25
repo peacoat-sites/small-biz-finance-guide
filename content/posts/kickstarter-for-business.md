@@ -32,9 +32,7 @@ The model is straightforward: you set a funding goal, build a campaign page with
 
 Before going deeper, one thing worth saying plainly: Kickstarter rewards-based crowdfunding is a financing tool, not a marketing shortcut. Campaigns that treat it as free money usually fail. Campaigns that treat it as the first chapter of a real customer relationship tend to do much better.
 
-
 <div class="kt" style="margin:26px 0;padding:18px 22px;border:1px solid var(--border,#e7e5e4);border-left:4px solid var(--accent,#4338ca);border-radius:12px;background:var(--surface2,#f8fafc)"><div style="font-size:.72rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;color:var(--accent,#4338ca);margin-bottom:8px">Key takeaways</div><ul style="margin:0;padding-left:1.15em"><li style="margin:5px 0">Kickstarter takes 5% of funds raised; payment processors take roughly 3–5% more.</li><li style="margin:5px 0">All-or-nothing funding means you collect nothing if you miss your goal.</li><li style="margin:5px 0">Most successful campaigns run 30 days or less; longer campaigns lose momentum.</li><li style="margin:5px 0">Rewards are taxable income, you'll owe tax on funds received, minus allowable costs.</li><li style="margin:5px 0">Hardware, games, design, and food products historically perform best on the platform.</li></ul></div>
-
 
 ## How the Money Actually Works
 
@@ -109,7 +107,6 @@ Kickstarter also isn't a substitute for a real business plan. The [U.S. Small Bu
 
 ---
 
-
 *Photo: [Jakub Zerdzicki](https://www.pexels.com/@jakubzerdzicki) via Pexels*
 
 ---
@@ -124,4 +121,3 @@ Kickstarter also isn't a substitute for a real business plan. The [U.S. Small Bu
 
 - **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
 - **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-
