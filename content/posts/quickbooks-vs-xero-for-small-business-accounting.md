@@ -1,6 +1,7 @@
 ---
 title: "QuickBooks vs Xero: Which Fits Your Business Best"
 date: 2026-06-05T22:47:35.385009+00:00
+googlebot_noindex: true
 draft: false
 description: "Compare QuickBooks vs Xero for small business accounting. Discover features, pricing, and pros and cons to help you choose the best accounting software for your"
 image: "/img/heroes/6862458.jpg"
@@ -115,12 +116,3 @@ Pick the one your accountant knows, unless you have a compelling reason not to. 
 ## Sources
 
 - [free mentorship resources](https://www.score.org/)
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.

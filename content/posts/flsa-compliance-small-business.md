@@ -1,6 +1,7 @@
 ---
 title: "FLSA Compliance for Small Business Owners Who Want to Stay Safe"
 date: 2026-06-24T22:54:27.591444+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how small businesses can stay FLSA compliant with tips on minimum wage, overtime rules, recordkeeping, and employee classification to avoid costly penalti"
 image: "/img/heroes/8117590.jpg"
@@ -100,12 +101,3 @@ Getting this stuff right isn't glamorous. It doesn't feel like building a busine
 
 - [U.S. Small Business Administration](https://www.sba.gov/)
 - [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed)
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.

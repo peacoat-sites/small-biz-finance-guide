@@ -1,6 +1,7 @@
 ---
 title: "Overtime Rules for Small Business and How They Affect You"
 date: 2026-06-14T22:50:32.557231+00:00
+googlebot_noindex: true
 draft: false
 description: "Learn how overtime rules affect small businesses, including FLSA requirements, exempt vs nonexempt employees, and how to stay compliant and manage labor costs."
 image: "/img/heroes/1537268.jpg"
@@ -81,12 +82,3 @@ The overtime rules aren't especially complicated once you sit with them, but the
 
 - [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed)
 - [SCORE](https://www.score.org/)
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.

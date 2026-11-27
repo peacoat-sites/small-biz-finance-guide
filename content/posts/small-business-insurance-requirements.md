@@ -1,6 +1,7 @@
 ---
 title: "Insurance Policies Your Small Business Actually Needs"
 date: 2026-05-21T18:17:25.331309+00:00
+googlebot_noindex: true
 draft: false
 description: "Small business insurance requirements vary by industry and location. Learn about liability, workers comp, property insurance and legal obligations for your busi"
 image: "/img/heroes/7735625.jpg"
@@ -120,12 +121,3 @@ Getting business insurance right isn't about buying every policy available or sp
 
 - [SBA, Business Insurance Overview](https://www.sba.gov/business-guide/launch-your-business/get-business-insurance), Covers required vs. optional insurance types for small businesses
 - [III, Small Business Insurance](https://www.iii.org/article/small-business-insurance-basics), Details commercial auto, general liability, and policy types
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.

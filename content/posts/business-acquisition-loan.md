@@ -1,6 +1,7 @@
 ---
 title: "How To Qualify For A Business Acquisition Loan"
 date: 2026-06-08T23:04:08.386104+00:00
+googlebot_noindex: true
 draft: false
 description: "Secure funding to buy an existing business with a business acquisition loan. Explore loan types, eligibility requirements, and tips to get approved fast."
 image: "/img/heroes/33175672.jpg"
@@ -100,12 +101,3 @@ Plan for that. Showing up to underwriting with exactly the minimum equity and no
 
 - [SBA 7(a) program](https://www.sba.gov/)
 - [IRS small business tax center](https://www.irs.gov/businesses/small-businesses-self-employed)
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.

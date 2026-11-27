@@ -1,6 +1,7 @@
 ---
 title: "Payroll Basics for Small Business: Setup Steps Every Owner Needs"
 date: 2026-05-20T15:26:51.103699+00:00
+googlebot_noindex: true
 draft: false
 description: "Manage payroll confidently with our guide to payroll basics for small business. Learn tax withholding, payroll software, and compliance requirements to grow."
 image: "/img/heroes/8475148.jpg"
@@ -128,13 +129,3 @@ Getting payroll right is fundamentally about discipline and setup. The mechanics
 - [IRS, Employment Taxes for Small Businesses](https://www.irs.gov/businesses/small-businesses-self-employed/employment-taxes), covers withholding, deposits, and employer tax obligations
 - [IRS, Independent Contractor vs Employee](https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee), explains worker classification rules to avoid misclassification
 - [SBA, Hire and Manage Employees](https://www.sba.gov/business-guide/manage-your-business/hire-manage-employees), overview of payroll setup and compliance for small businesses
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-

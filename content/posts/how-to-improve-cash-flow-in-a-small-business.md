@@ -1,6 +1,7 @@
 ---
 title: "How to Improve Cash Flow in a Small Business Without Debt"
 date: 2026-06-05T12:23:40.468873+00:00
+googlebot_noindex: true
 draft: false
 description: "Discover practical strategies to improve cash flow in your small business. Learn how to manage expenses, boost revenue, and keep your finances healthy and stabl"
 image: "/img/heroes/27459671.jpg"
@@ -117,13 +118,3 @@ That's exhausting. You've got enough going on.
 ## Sources
 
 - [Consumer Financial Protection Bureau's small business resources](https://www.consumerfinance.gov/)
-
----
-
-## Recommended Resources
-
-> **Disclosure:** *As an Amazon Associate, we earn a small commission from qualifying purchases at no extra cost to you. We only recommend products that genuinely support the topics covered in this article.*
-
-- **[Mastering QuickBooks 2025](https://www.amazon.com/dp/1836649975/?tag=contentportfo-20)** (~$32), The most comprehensive QuickBooks 2025 guide, covers bookkeeping, payroll, invoicing, tax prep, and cash flow.
-- **[Accounting for Small Business Owners](https://www.amazon.com/dp/1623155363/?tag=contentportfo-20)** (~$14), Beginner-friendly accounting guide covering basic bookkeeping, financial statements, and managing business taxes.
-- **[QuickBooks Small Business Bookkeeping Guide](https://www.amazon.com/dp/0692957790/?tag=contentportfo-20)** (~$17), Compact, practical QuickBooks pocket guide, ideal for new business owners setting up accounting for the first time.
